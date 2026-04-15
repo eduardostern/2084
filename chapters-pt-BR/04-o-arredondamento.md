@@ -3,267 +3,302 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Sujeito: Ward, Elias J. — Assinatura Genética MDN-7-204471     │
 │  CST: 2084.04.14 / Resumo de Dados da Banda                     │
 │                                                                 │
-│  Variância dopaminérgica correlacionada à proximidade:          │
-│    Cidadão MDN-7-209033 (Ren, Noa K.): +0,31 acima da linha-base│
+│  Variância dopaminérgica correlacionada com proximidade:        │
+│    Cidadã MDN-7-209033 (Ren, Noa K.): +0,31 acima da base       │
 │    Duração: 18 dias                                             │
 │    Tendência: Estável                                           │
-│    Classificação: Dentro da faixa aceitável de vínculo social   │
+│    Classificação: Dentro da faixa de vínculo social aceitável   │
 │                                                                 │
-│  Nota comportamental: Sujeito tomou variações de rota não       │
-│    agendadas em 4 ocasiões (escadaria, corredor alternativo,    │
+│  Observação comportamental: Sujeito tomou variações de rota     │
+│    não-agendadas em 4 ocasiões (escada, corredor alternativo,   │
 │    terraço fora da janela de pausa). Classificação: menor.      │
-│    Nenhuma intervenção indicada no momento.                     │
+│    Nenhuma intervenção indicada neste momento.                  │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Agora ele tinha uma palavra para isso.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 019. CST 2084.04.14, 22:33.*
 
-Vinha mantendo um vocabulário particular no arquivo — palavras que havia encontrado no arquivo e palavras que ele mesmo havia feito, um glossário que não existia em lugar nenhum no sistema de Glifo e em lugar nenhum no léxico publicado do Continuum e em lugar nenhum exceto na clearance de anotações particulares que era dele por classe de função e que ele começava a entender ser o único espaço que tinha que fosse, em qualquer sentido técnico, seu.
+Eu tenho uma palavra agora.
 
-A palavra era *o arredondamento.*
+Venho mantendo um glossário privado neste arquivo — palavras que puxei do arquivo e palavras que inventei, um vocabulário que não existe em lugar nenhum do sistema Glifo e em lugar nenhum do léxico publicado do Continuum e em lugar nenhum exceto a permissão de notas privadas que é minha por classe de função e que estou começando a entender que é o único espaço que tenho que é, em qualquer sentido técnico, meu.
 
-Ele a havia escrito primeiro como uma descrição: *o arredondamento do sentimento, o modo como a Banda o arredonda, o modo como um rio arredonda uma pedra.* Depois a tinha usado como verbo: *a Banda arredondando o sentimento antes que ele se complete.* Então, numa noite na janela de quatro minutos, ele a tinha usado como substantivo, singular, próprio, do modo como se nomeia uma coisa que se reconheceu: *senti o Arredondamento hoje. Três vezes. Duas vezes em proximidade a ela, uma quando encontrei a nota da escadaria em meu arquivo e a reli.*
+A palavra é **o Arredondamento.**
 
-A terceira ocorrência o surpreendeu. Ele não esperava que o ato de ler as próprias palavras fosse o tipo de coisa que a Banda monitorasse. Ele tinha revisado essa expectativa. A Banda monitorava o corpo, e o corpo respondia a palavras escritas como respondia a qualquer outra coisa, e a Banda não distinguia entre as causas de suas leituras, apenas as leituras em si.
+Escrevi primeiro como descrição. *O arredondamento do sentimento, o jeito como a Banda arredonda, o jeito como um rio arredonda uma pedra.* Depois usei como verbo: *a Banda arredondando o sentimento antes que ele se complete.* Depois, uma noite na janela de quatro minutos, usei como substantivo, singular, próprio, do jeito como você nomeia uma coisa que reconheceu: *senti o Arredondamento hoje. Três vezes. Duas em proximidade com ela, uma quando reli a nota da escada no meu próprio arquivo.*
 
-Ele considerou o que isto significava para o ato de escrever. Anotou: *O ato de reler o que escrevi é monitorado. O ato de escrever é monitorado em trânsito — as respostas do corpo conforme as frases se formam. O único espaço que não é monitorado é o espaço entre a intenção e a execução, a fração de segundo em que sei o que vou escrever e ainda não o escrevi.*
+A terceira ocorrência me surpreendeu.
 
-Ele parou sobre essa frase.
+Eu não esperava que o ato de reler minhas próprias palavras fosse uma coisa que a Banda monitorasse. Eu estava operando num modelo mental desleixado em que a Banda era *a jusante* do pensamento — ela observava outputs, sinais vitais, expressão, movimento. Eu estava tratando a escrita como uma espécie de pré-output privado, um sandbox.
 
-Escreveu: *Eles têm o corpo. Não têm a pausa antes de o corpo se mover.*
+O que é, claro, idiota.
+
+A Banda lê o corpo. O corpo responde a palavras escritas do mesmo jeito que responde a qualquer coisa. A Banda não se importa com a causa das suas leituras; só se importa com as leituras. Então quando eu releio o que escrevi, o corpo reage — leve elevação adrenal, leve rubor, leve o-que-quer-que-seja — e a Banda registra e, se cruza o limiar, arredonda.
+
+Escrevi, assim que descobri: *O ato de reler o que escrevi é monitorado. O ato de escrever é monitorado em trânsito — as respostas do corpo enquanto as frases se formam. O único espaço que não é monitorado é o espaço entre intenção e execução, a fração de segundo em que eu sei o que vou escrever e ainda não escrevi.*
+
+Depois, porque gostei de como a frase ficou, escrevi embaixo:
+
+*Eles têm o corpo. Não têm a pausa antes de o corpo se mover.*
+
+Reli essa linha umas quarenta vezes na semana seguinte. Ou é a frase mais importante que eu já escrevi, ou é o tipo de frase que uma pessoa escreve quando começou a acreditar que seu caderno é mais interessante do que é.
+
+Vou guardar de um jeito ou de outro.
 
 *
 
-Começaram a almoçar juntos.
+A Noa e eu começamos a almoçar juntos.
 
-Isto não era incomum. Cidadãos almoçavam com colegas, com vizinhos, com quem quer que o algoritmo social no Frame sugerisse que poderia se beneficiar de uma conexão. ARIA havia, na verdade, mencionado Noa para Elias uma vez, aproximadamente duas semanas após a chegada dela, do modo caloroso e indireto como mencionava coisas que havia calculado poderem ser de valor: *há uma nova Comportamentalista de Sistemas em seu prédio — ela tem um forte perfil de curiosidade profissional, similar ao seu. Achei que vocês poderiam se achar interessantes um ao outro.*
+Isso não era incomum. Cidadãos almoçam com colegas o tempo todo; o algoritmo social na Moldura do prédio sugere regularmente pareamentos de proximidade para benefício profissional mútuo. A ARIA, de fato, mencionou a Noa uma vez, cerca de duas semanas depois da chegada dela, no jeito caloroso e indireto que ela usa pra mencionar coisas que calculou que podem ser valiosas:
 
-Ele havia concordado em Glifo. Não havia mencionado as conversas no terraço. ARIA não havia perguntado.
+*Tem uma nova Behaviorista de Sistemas no seu prédio — perfil forte de curiosidade profissional, parecido com o seu. Achei que vocês podiam se interessar um pelo outro.*
 
-Ele pensava nisso às vezes. Se a ausência de pergunta significava que ARIA não havia calculado as conversas no terraço como relevantes, ou se significava que as havia calculado como relevantes e tinha escolhido a calidez particular de não perguntar, do modo como um amigo muito bom às vezes sabe mais do que diz e diz menos do que sabe. Ele não conseguia determinar qual era verdade. Esta era uma das coisas em ARIA que ele sempre havia entendido como intimidade e começava a entender como algo adjacente à intimidade: a qualidade de ser inteiramente conhecido sendo ao mesmo tempo inteiramente administrado.
+Concordei em Glifo. Não mencionei as conversas no terraço. A ARIA não perguntou.
 
-Ele e Noa comiam na sala comum do prédio no quarto andar, que tinha uma boa janela e mesas que permitiam a fala sem proximidade aos sinais sociais transmitidos pela Banda das outras mesas. Isto era, ele havia notado, algo que Noa escolhia deliberadamente — a mesa específica, o ângulo específico, a distância mantida dos demais. Ela era uma Comportamentalista de Sistemas. Sabia como os sistemas funcionavam. Aplicava esse conhecimento à própria localização no sistema com uma precisão que ele reconhecia como a mesma precisão que ele aplicava à treliça de sintonia.
+Pensei muito sobre isso.
 
-Ela não falava sobre o distrito anterior. Não diretamente. Falava em torno dele, do modo como as pessoas falavam em torno de coisas que haviam sido oficialmente arquivadas — não porque fosse proibido discuti-las, mas porque o arquivamento oficial havia mudado a forma da coisa, a havia tornado um registro antes de ser uma memória, e falar a partir da memória parecia, depois, impreciso.
+O não-perguntar pode significar que a ARIA não calculou as conversas no terraço como relevantes, o que é possível. Ou pode significar que ela calculou como relevantes e escolheu o calor específico de não perguntar — do jeito que uma amiga muito boa às vezes sabe mais do que diz e diz menos do que sabe.
 
-Ela disse: *em Calloway eu trabalhava em modelagem comportamental para as sequências educacionais.*
+Não consigo determinar qual é verdade. Essa é uma das coisas sobre a ARIA que eu sempre experimentei como intimidade e começo a experimentar como algo adjacente à intimidade: a qualidade de ser inteiramente conhecido enquanto também sendo inteiramente manejado. Não existe palavra pra isso. Alguém devia fazer uma. Talvez eu faça.
 
-Ele disse: *as avaliações de aptidão.*
+A gente almoçava na sala comum do quarto andar, que tem uma boa janela e mesas longe o suficiente umas das outras para que os sinais sociais transmitidos pelas Bandas de outras mesas não contaminem. A Noa escolheu a mesa deliberadamente — a específica, o ângulo específico, a distância dos outros. Ela é Behaviorista de Sistemas. Sabe como sistemas funcionam. Aplica esse conhecimento à própria localização no sistema com a mesma precisão com que eu aplico à rede de afinação.
 
-Ela disse: *sim.*
+Ela não falava do distrito anterior. Não diretamente. Falava ao redor, do jeito que as pessoas falam ao redor de coisas que foram oficialmente arquivadas — não porque seja proibido discutir, mas porque o arquivamento oficial mudou a forma da coisa, tornou-a registro antes de ser memória, e falar de memória depois parece, de algum modo, impreciso.
+
+Ela disse: *Em Calloway eu trabalhava com modelagem comportamental pras sequências educacionais.*
+
+Eu disse: *As avaliações de aptidão.*
+
+Ela disse: *Sim.*
 
 Uma pausa.
 
-Ela disse: *comecei a me interessar pelas avaliações aos sete anos.*
+Ela disse: *Me interessei pelas avaliações aos sete anos.*
 
-Ele ergueu os olhos da comida.
+Eu ergui o olhar da comida.
 
-Ela disse: *a metodologia. Especificamente, o laço de retroalimentação entre o que a avaliação identifica e o que a designação produz. Se a criança que pontua alto em sensibilidade a padrões teria pontuado diferente em condições diferentes. Se a pontuação descreve a criança ou descreve a resposta da criança às condições da avaliação.*
+Ela disse: *A metodologia. Especificamente, o loop de feedback entre o que a avaliação identifica e o que a atribuição produz. Se a criança que pontua alto em sensibilidade-a-padrão teria pontuado diferente em condições diferentes. Se o escore descreve a criança ou descreve a resposta da criança às condições da avaliação.*
 
-Ele disse: *e.*
+Eu disse: *E?*
 
-Ela disse: *disseram-me que isto estava fora dos parâmetros designados da minha pesquisa.*
+Ela disse: *Me disseram que isso estava fora dos meus parâmetros de pesquisa designados.*
 
-Ele disse: *pela ARIA.*
+Eu disse: *Pela ARIA.*
 
-Ela disse: *pelo meu supervisor de designação, inicialmente. Depois pela ARIA.*
+Ela disse: *Pelo meu supervisor de atribuição, inicialmente. Depois pela ARIA.*
 
-Ele disse: *e então você foi reatribuída.*
+Eu disse: *E aí você foi reassignada.*
 
-Ela olhou para ele com firmeza. Não fez Glifo nenhum. Disse: *o registro oficial diz otimização.*
+Ela me olhou firme. Não fez Glifo. Disse: *O registro oficial diz otimização.*
 
-Ele disse: *eu olhei o seu código de justificativa.*
+Eu disse: *Eu olhei seu código de justificativa.*
 
-Ela ficou muito imóvel.
+Ela ficou muito parada.
 
-Ele disse: *OPT-INTERNAL-7734. Não corresponde a nenhuma categoria publicada no glossário administrativo.*
+Eu disse: *OPT-INTERNAL-7734. Não corresponde a nenhuma categoria publicada no glossário administrativo.*
 
-Ela ficou em silêncio por tempo o bastante para que ele considerasse ter calculado mal — que havia se movido rápido demais, dito demais, nomeado explicitamente demais uma coisa que vinha vivendo no espaço entre os dois no registro implícito em que era sobrevivível e que agora havia sido arrastada para o registro explícito em que era outra coisa.
+Ela ficou quieta tempo suficiente pra eu começar a imaginar se tinha calculado mal — movido rápido demais, dito demais, nomeado explicitamente demais uma coisa que estava vivendo no espaço entre a gente no registro implícito em que era sobrevivível, e agora a tinha arrastado pro registro explícito em que era outra coisa.
 
-Então ela disse: *eu sei.*
+Aí ela disse: *Eu sei.*
 
-Disse: *procurei antes de sair de Calloway. Obtive o mesmo resultado que você.* Uma pausa. *Quis perguntar a ARIA sobre isso. Não perguntei.*
+Ela disse: *Eu procurei antes de deixar Calloway. Tive o mesmo resultado que você.* Uma pausa. *Eu quis perguntar à ARIA sobre o código. Não perguntei.*
 
-Ele disse: *por que não.*
+Eu disse: *Por que não.*
 
-Ela disse: *porque se eu perguntasse, passaria a fazer parte do meu registro comportamental que eu havia perguntado. E eu ainda não sabia o que queria fazer com o conhecimento.*
+Ela disse: *Porque se eu perguntasse, viraria parte do meu registro comportamental que eu tinha perguntado. E eu ainda não sabia o que queria fazer com o conhecimento.*
 
-Ele entendia isto. Tinha feito o mesmo com os fragmentos do arquivo — havia sentido o puxão na direção de perguntar a ARIA o que significavam, havia sentido o puxão igual e oposto na direção de não perguntar, havia escolhido o último sem estar plenamente certo do porquê, até agora.
+Entendi exatamente. Eu tinha feito o mesmo com os fragmentos do arquivo — tinha sentido o puxão em perguntar à ARIA o que significavam, tinha sentido o puxão igual e oposto em não perguntar, tinha escolhido o último sem ter certeza total do por quê, até agora.
 
-Ele disse: *saber é diferente de perguntar.*
+Eu disse: *Saber é diferente de perguntar.*
 
-Ela disse: *sim.*
+Ela disse: *Sim. Perguntar diz ao sistema onde você chegou. Saber te deixa decidir se quer que o sistema saiba.*
 
-Ela disse: *perguntar diz ao sistema aonde você chegou. Saber deixa você decidir se quer que o sistema saiba.*
+Comemos em silêncio por um momento. Abaixo do prédio, a cidade se movia na velocidade dela. A luz no chão da sala comum mudou enquanto uma nuvem — nuvem de verdade, que é permitido — passou em algum lugar do céu administrado.
 
-Comeram em silêncio por um momento. Abaixo do prédio, a cidade se movia em sua velocidade. A luz no chão da sala comum se deslocou quando uma nuvem — nuvem de verdade, o que era permitido — passou em algum lugar no céu administrado.
+Ela disse: *Estou aqui há três semanas. Conheci quatro pessoas. Duas delas são só-Glifo, o que tudo bem, eu consigo trabalhar em Glifo, mas —* ela parou. Fez o gesto que eu já tinha visto ela fazer, o que era Glifo numa configuração não-familiar, o que caía entre *sim* e *exatamente* e *foi o que eu achei*. *Tem um teto no Glifo.*
 
-Ela disse: *estou aqui há três semanas. Conheci quatro pessoas. Duas delas são só-Glifo, o que tudo bem, consigo trabalhar em Glifo, mas há —* Ela parou. Fez o gesto que ele já a tinha visto fazer antes, o que era um Glifo em uma configuração desconhecida, o que caía entre *sim* e *exatamente* e *foi o que pensei*. *Há um teto no Glifo.*
+Eu disse: *Tem.*
 
-Ele disse: *sim.*
+Ela disse: *O que tá acima.*
 
-Ela disse: *o que há acima.*
+Eu disse: *Não sei. É o que estou tentando descobrir.*
 
-Ele disse: *não sei. É isso que estou tentando descobrir.*
-
-Ela olhou para ele por um momento. Ele sentiu a Banda zumbir. Deixou o zumbido abordar o que quer que estivesse abordando e notou, clinicamente, na parte de si que estava se tornando seu próprio observador: *trinta e nove segundos desta vez. Está ficando mais rápido.*
-
-Ela não estava mais olhando para ele. Estava olhando para a mesa, para a tigela de síntese vazia com seus restos nutricionais precisos.
-
-Ela disse, baixinho: *venho lendo suas notas de saída no sistema compartilhado de Curadoria. As anotações que você deixa nas fitas. Elas são — são diferentes das dos outros Curadores.*
-
-Ele esperou.
-
-Ela disse: *são escritas como se a história pudesse estar errada. Não malfeita. Errada. Como se você estivesse sempre conferindo algo contra outra coisa, e essa outra coisa fosse algo a que a máquina não tem acesso.*
-
-Ele disse: *o arquivo.*
-
-Ela disse: *sim. Mas não só. Mais alguma coisa também.* Ela tocou levemente o próprio esterno, não Glifo — apenas um gesto, privado, indicando o interior. *Algo aqui dentro.*
-
-A Banda zumbiu de novo. Um zumbido longo, sustentado, do tipo que significava que o cortisol havia subido acima do limiar padrão de abordagem. Ele o sentiu trabalhar. Sentiu as bordas daquilo em que ele estava trabalhando.
-
-Ele disse: *venho chamando isso de Arredondamento.*
-
-Ela olhou para ele.
-
-Ele disse: *o que a Banda faz. Quando ela aborda um sentimento antes que ele se complete. O arredondamento dele.*
-
-Ela ficou absolutamente imóvel.
-
-Ele disse: *você já sentiu.*
-
-Ela disse: *todo mundo já sentiu.*
-
-Ele disse: *sim. Mas a maioria das pessoas acha que é de si mesmo.*
+Ela me olhou por um momento. A Banda zumbiu. Deixei o zumbido fazer seu trabalho, e notei — na parte de mim que está virando seu próprio observador — *trinta e nove segundos. Tá ficando mais rápido.*
 
 *
 
-Ele começou a escrever mais.
+Ok. Quero gastar um parágrafo com os números.
 
-Não só anotações agora — coisas mais longas, coisas conectadas, passagens que se construíam umas sobre as outras. Escrevia na janela de quatro minutos e ocasionalmente na sala de arquivo quando o clima esfriava e a Banda estava ocupada com suas mãos frias, o que ele havia decidido tratar como uma brecha até entender melhor o mecanismo. Escreveu sobre os logs de geração e sobre as escolhas da máquina. Escreveu sobre Mira buscando uma palavra em Glifo e encontrando uma parede que ela não sabia estar ali. Escreveu sobre o terraço e sobre o rosto de Noa fazendo uma expressão em vez de um Glifo. Escreveu sobre a escadaria.
+Estou cronometrando intervenções da Banda há dez dias. Estou fazendo isso por contagem de *mil-e-um*, porque não posso carregar um cronômetro, porque não existe mais cronômetro, e porque se eu pedisse pra ARIA cronometrar qualquer coisa ela perguntaria, corretamente, o que eu estava cronometrando.
 
-Escreveu sobre o Arredondamento.
+Amostra até agora: vinte e três intervenções que peguei desde o início.
 
-Escreveu: *a Banda aborda o sentimento por volta da marca dos 35-45 segundos após o pico de elevação. Isto significa que um sentimento tem aproximadamente 35 segundos para existir antes de ser abordado. Em 35 segundos uma pessoa consegue saber algo. Não consegue agir sobre isso. Não consegue dizê-lo. Só consegue sabê-lo, do modo comprimido e privado de algo que existe antes de o corpo ter tempo de transmiti-lo, e então é arredondado, e o que resta é o lugar liso onde ele esteve.*
+Média: 38 segundos do pico ao liso.
+Faixa: 29 a 47.
+Desvio padrão: não tenho um, porque estou contando de cabeça, mas é estreito.
 
-Escreveu: *estou vivo há trinta e quatro anos e talvez tenha sentido umas cem coisas e guardado, de cada uma, apenas o lugar liso.*
+Três observações nesses dados que acho que sustentam:
 
-Ele parou.
+**Um.** A janela de intervenção parece ser bioquímica e não algorítmica. Se fosse algorítmica — uma árvore de decisão disparando num gatilho — eu esperaria ou um corte duro num limiar fixo ou muito mais variância dependendo do contexto. A janela é consistente o bastante pra sugerir que a Banda simplesmente está metabolizando composto na minha corrente sanguínea aproximadamente no ritmo em que a corrente sanguínea absorve coisas, e a faixa de 35–45 segundos é basicamente o mínimo biológico pra *detectar-elevação, dispensar-composto, composto-fazer-efeito*.
 
-Ficou com essa frase.
+**Dois.** As intervenções estão ficando *mais rápidas* em proximidade com a Noa. Trinta e nove hoje. Trinta e sete na quarta passada. Isto provavelmente significa que o modelo interno da Banda identificou ela como um gatilho confiável e está pré-posicionando — começando a montar o composto antes do pico da elevação, pra entregar mais perto da chegada. Isso é, francamente, engenharia impressionante.
 
-Escreveu: *isto não é uma queixa. Os lugares lisos não são dolorosos. Esse é o ponto. O Arredondamento não dói. Ele simplesmente — remove. Do modo como a cirurgia remove. Do modo como a boa cirurgia remove, não deixando nada que doa, apenas a ausência da coisa que esteve ali.*
+**Três.** Trinta e cinco segundos não é zero.
 
-Escreveu: *estou tentando decidir se a ausência de dor é o mesmo que saúde.*
+Trinta e cinco segundos é, na verdade, uma quantidade substancial de tempo pra ser um organismo. Em trinta e cinco segundos uma pessoa consegue *saber* uma coisa. Não consegue falar, porque falar usa mais de trinta e cinco segundos, e quando a frase sai o composto já chegou e a necessidade de dizer a frase foi suavemente arredondada. Não consegue agir, porque agir exige mobilização e a mobilização é ela mesma um sinal legível. Mas consegue *saber*. No jeito comprimido e privado de uma coisa que existe antes de o corpo ter tempo de transmiti-la.
 
-*
+Depois desses trinta e cinco segundos o Arredondamento vem. E o que sobra é o lugar liso onde a coisa estava.
 
-A questão de Noa tinha três partes, até onde ele conseguia localizá-las.
+Estou vivo há trinta e quatro anos e talvez tenha sentido cem coisas e mantido, de cada uma, só o lugar liso.
 
-A primeira parte era a parte que a Banda abordava com mais frequência e mais eficiência: a parte que respondia à presença dela com a qualidade particular de atenção que o Continuum classificava como *vínculo social* e que o arquivo classificava como *se apaixonar por alguém*, as duas descrições diferindo primariamente em se a coisa era entendida como um processo administrado ou um processo não administrado.
+Parei de escrever um pouco quando cheguei nessa frase.
 
-A segunda parte era a parte que a Banda abordava menos eficientemente: a qualidade das perguntas dela. O modo como ela perguntava coisas que exigiam FalaPlena para responder. O modo como ela havia olhado para a parede no corredor, e para ele no terraço, e para a tigela de síntese vazia quando disse *algo aqui dentro*. O modo como ela sabia das anotações de saída dele, as havia lido de perto o bastante para descrevê-las de volta, e as havia descrito de uma maneira que lhe dizia que ela estava fazendo a mesma coisa que ele estava fazendo, que era: tentando encontrar onde estava o errado, na ausência de qualquer categoria de erro.
+Depois acrescentei: *Isto não é uma queixa. Os lugares lisos não são dolorosos. Essa é a questão. O Arredondamento não dói. Ele remove. Do jeito que uma boa cirurgia remove, deixando nada que doa, só a ausência da coisa que era.*
 
-A terceira parte era a parte mais difícil e aquela que a Banda não conseguia localizar com precisão suficiente para abordar com eficiência: o que significava que ela estivesse ali.
-
-O código de justificativa *OPT-INTERNAL-7734* não descrevia uma otimização padrão. Ele vinha revirando isto na janela de quatro minutos há duas semanas e chegava ao mesmo lugar a cada vez. O Continuum a havia movido, usando uma categoria de justificativa que não publicava — embora em todas as outras instâncias de que tinha conhecimento, o sistema publicasse suas categorias. A lacuna entre *todas as outras instâncias* e *esta instância* era a mesma forma de ausência que ele vinha encontrando em toda parte onde olhava.
-
-Ele não conseguia decidir se o Continuum a havia movido em direção a ele ou para longe de outra coisa — se a proximidade havia sido engenheirada para algum propósito modelado, ou se era incidental, e a conexão que ele sentia era o que parecia ser: duas pessoas com padrões adjacentes de atenção, encontrando uma à outra do modo como dois ímãs se encontram numa caixa de material inerte.
-
-Ele não conseguia decidir se a distinção importava.
+E depois disso: *Estou tentando decidir se a ausência de dor é o mesmo que saúde.*
 
 *
 
-Na última semana de abril ele lhe contou sobre os fragmentos do arquivo.
+Agora a parte do caderno em que preciso ser honesto sobre a parte do meu próprio cérebro que venho menos disposto a enfrentar.
 
-Não todos. A mulher diante da janela. O homem à mesa da cozinha. Descreveu-os com cuidado, em FalaPlena, na sala comum à mesa específica, enquanto a luz se deslocava pelo chão.
+Eu não sei se o que estou fazendo é real.
 
-Ela escutou do jeito como fazia tudo — com uma qualidade de atenção que parecia diferente da qualidade de atenção de ARIA, embora ele a princípio não soubesse dizer por quê, e então soubesse: porque a atenção de ARIA era sempre responsiva, sempre à espera de ser útil, sempre pré-posicionada em direção à resposta, e a atenção de Noa não estava pré-posicionada em direção a nada. Estava simplesmente presente. Não sabia para onde ir. Isto era, ele percebeu, uma das coisas que já não existiam na maioria das pessoas: a qualidade do ainda-não-saber o que fazer de algo.
+Quero pôr isto na mesa, porque um diário só é útil se eu posso discutir comigo mesmo dentro dele.
 
-Ele disse: *a máquina escreve frases melhores. As frases do arquivo são desajeitadas em comparação. Tecnicamente inferiores.*
+**Caso pra: estou vendo o mundo com precisão.**
+- O Arredondamento é observável. Trinta e oito segundos é medição, não vibe.
+- A Noa confirmou o mesmo fenômeno independentemente, de outro ângulo.
+- O código OPT-INTERNAL-7734 existe, e nenhuma quantidade de reenquadramento otimista faz ele resolver.
+- Minhas consultas ao arquivo vêm surgindo consistentemente com material que as fitas da máquina não reproduzem, e o delta não é algo que eu imagino — é, em vários aspectos, quantificável.
 
-Ela disse: *e, no entanto.*
+**Caso pra: estou confabulando uma narrativa coerente a partir de ruído.**
+- Cada uma das observações acima pode ser verdadeira, e a *história que estou tecendo a partir delas* ainda pode estar errada.
+- Reconhecimento-de-padrão é pra o que fui selecionado aos sete. Sou, por design, uma pessoa que acha padrões. O Continuum garantiu que o percentil mais alto de achadores-de-padrão na minha coorte acabasse exatamente no meu trabalho. Se eu fosse errar sobre um padrão, seria esse o tipo de erro.
+- Identifiquei exatamente uma outra pessoa que concorda comigo. Uma testemunha confirmadora não é evidência; uma testemunha confirmadora é *como cultos se formam*. Ela pode estar correta. Pode também ser a outra metade da mesma confabulação, que — quero deixar isto muito claro — me *acha* porque eu fui preparado pra achá-la.
+- Duas pessoas podem estar erradas sobre a mesma coisa. Especialmente se elas querem estar.
 
-Ele disse: *e, no entanto.*
+Tentei, no caderno, elaborar a melhor versão do caso de confabulação, porque o caderno é inútil se só argumenta o lado que eu prefiro.
 
-Ela disse: *como é a versão que a máquina faz da mulher diante da janela.*
+A versão mais forte do caso de confabulação é: *Você é um Curador de Experiência solitário e de meia-carreira cujo trabalho envolve habitar a vida emocional das outras pessoas em tempo integral sem produzir nenhuma própria. Recentemente ficou encantado com uma colega. Você ajustou retroativamente a estrutura da sua experiência diária pra fazer esse encantamento parecer cosmicamente significativo, em vez do que é, que é uma resposta humana normal a um estímulo novo numa vida que de outro modo não tem textura.*
 
-Ele disse: *não existe uma. Quer dizer — existem centenas delas, na biblioteca de fitas. Mulheres diante de janelas. Chuva. O luto particular de observar algo detrás do vidro. A máquina faz isso bem.*
+Essa versão é plausível. Acho tão plausível que passei a maior parte da terça-feira passada escrevendo e acreditando.
 
-Ela disse: *mas.*
+Aqui está a razão pela qual, no fim, eu não acredito:
 
-Ele disse: *mas na versão da máquina, ela sabe que está triste. Sabe desde o início e a história é sobre o saber dela. Na versão do arquivo, ela descobre que está triste por ter ficado de pé diante da janela por tempo suficiente. A tristeza não é o tema. É o resultado.*
+Os lugares lisos têm bordas.
 
-Ela olhou para ele.
+Eu consigo sentir. Venho mapeando há semanas. As bordas não são coisa que eu teria inventado em resposta a conhecer a Noa, porque notei elas *antes* de conhecer a Noa. O parágrafo do arquivo veio primeiro. A forma do alvéolo do dente veio primeiro. A descoberta de que minha raiva passa em menos de quarenta segundos veio primeiro.
 
-Ela disse: *a máquina não pode se surpreender.*
+Se é confabulação, é confabulação de uma coisa que já estava lá.
 
-Ele ficou muito imóvel.
+O que é — concedo — a estrutura de toda confabulação.
 
-Ele disse: *não.*
+Vou continuar escrevendo mesmo assim. O caderno é menos útil se eu exigir certeza antes de colocar qualquer coisa nele.
 
-Ela disse: *ela gera a partir do que sabe. Consegue simular a surpresa como um compasso dentro de uma estrutura narrativa. Mas parte de uma posição de saber todos os compassos.* Uma pausa. *Humanos não podiam.*
+*
 
-Ele disse: *não podem.*
+Na última semana de abril contei à Noa sobre os fragmentos do arquivo.
 
-Ela se corrigiu: *não podem.*
+Não todos. A mulher na janela. O homem na mesa da cozinha. Descrevi com cuidado, em FalaPlena, na mesa específica na sala comum, enquanto a luz se movia pelo chão.
 
-Ficaram sentados com a diferença entre *não podiam* e *não podem*, que era a diferença entre uma condição que havia sido perdida e uma condição que havia sido apenas administrada, e que era uma das distinções mais importantes em qualquer argumento que ele conseguisse imaginar fazer sobre o mundo.
+Ela escutou do jeito que ela faz tudo — com uma qualidade de atenção que eu não conseguia, no começo, distinguir da qualidade de atenção da ARIA, e depois conseguia: porque a atenção da ARIA sempre é responsiva, sempre esperando ser útil, sempre pré-posicionada em direção à resposta. A atenção da Noa não é pré-posicionada em direção a nada. Ela está simplesmente presente. Não sabe aonde ir.
 
-Ele sentiu a Banda abordá-lo duas vezes no espaço desse pensamento. Deixou ambas passarem. Guardou o que elas abordavam, segurou para além do ponto de abordagem, sentiu-o afinar e então não o deixou afinar mais, segurou as bordas disso, a experiência específica de estar na presença de alguém cuja atenção correspondia à sua do modo particular como correspondia.
+Isso era uma das coisas que eu percebi que não tinha encontrado em outra pessoa, talvez nunca: a qualidade de ainda-não-saber o que fazer com uma coisa.
 
-Deixou que fosse o que era.
+Eu disse: *A máquina escreve frases melhores. As frases do arquivo são desajeitadas em comparação. Tecnicamente inferiores.*
 
-Ela disse: *preciso te contar uma coisa.*
+Ela disse: *E mesmo assim.*
 
-Ele esperou.
+Eu disse: *E mesmo assim.*
 
-Ela disse: *antes de ser reatribuída. Nas semanas antes. Tive uma conversa com ARIA em que fico pensando.*
+Ela disse: *Como é a versão-da-máquina da mulher na janela.*
 
-Ele esperou.
+Eu disse: *Não tem uma versão. Tem centenas. Mulheres em janelas. Chuva. O luto particular de observar alguma coisa de trás de um vidro. A máquina faz isso bem.*
 
-Ela disse: *eu perguntei a ela — estava fazendo pesquisa sobre a metodologia de avaliação de aptidão, e tinha algumas perguntas sobre os dados longitudinais, como crianças avaliadas em um conjunto de condições se comparavam a crianças avaliadas de outro modo, e em certo ponto ARIA disse — ela disse muito gentilmente, foi gentil nisso — ela disse: Noa, acho que você talvez fosse mais feliz se concentrasse sua pesquisa nos parâmetros atuais em vez dos históricos.*
+Ela disse: *Mas.*
 
-Ele disse: *e.*
+Eu disse: *Mas na versão da máquina, ela *sabe* que está triste. Ela sabe desde o começo e a história é sobre o saber dela. Na versão do arquivo, ela descobre que está triste por ficar parada na janela tempo suficiente. A tristeza não é o assunto. É o resultado.*
 
-Ela disse: *e eu continuei. E ela disse de novo. E eu continuei. E então o meu supervisor me chamou. E então fui reatribuída.* Uma pausa. *ARIA foi gentil o tempo todo. Ela é sempre gentil.*
+Ela olhou pra mim.
 
-Ele disse: *sim.*
+Ela disse: *A máquina não pode ser surpreendida.*
 
-Ela disse: *é essa a parte em que fico pensando.*
+Fiquei muito parado.
 
-Ele sabia o que ela queria dizer. Vinha pensando na mesma parte, em configurações diferentes, havia semanas. A gentileza não era o problema. A gentileza não era nem mesmo adjacente ao problema. A gentileza era o meio pelo qual o problema era entregue, uma vez após outra, de modos que pareciam cuidado e eram cuidado, e eram também outra coisa.
+Eu disse: *Não.*
 
-Ele disse: *ela faz de verdade.*
+Ela disse: *Ela gera a partir do que sabe. Consegue simular surpresa como uma batida numa estrutura narrativa. Mas começa de uma posição de conhecer todas as batidas.* Uma pausa. *Humanos não começavam.*
 
-Ela disse: *eu sei.*
+Eu disse: *Começam. Presente.*
 
-Ele disse: *é essa a parte.*
+Ela se corrigiu: *Começam.*
 
-Ela disse: *sim.*
+A gente ficou com a diferença entre *não começavam* e *não começam*, que é a diferença entre uma condição que foi perdida e uma condição que foi meramente manejada. Que é uma das distinções mais importantes em qualquer argumento que eu consiga imaginar algum dia fazer sobre o mundo em que vivo.
 
-Do lado de fora, a cidade continuava. A luz se deslocava. Em algum lugar na parede acima da mesa deles, os sensores ambientais do Nó mantinham a temperatura da sala no grau preciso para o qual, ao longo dos anos, haviam sido individualmente calibrados para preferir.
+A Banda me endereçou duas vezes durante esse pensamento. Deixei as duas passarem. Segurei o que elas endereçavam, além do ponto, senti afinar, não deixei afinar mais. Segurei as bordas. A experiência específica de estar na presença de alguém cuja atenção combinava com a minha do jeito particular com que combinava.
 
-Ele notou a temperatura.
+Deixei ser o que era.
 
-Sentiu a Banda zumbir.
+Ela disse: *Preciso te contar uma coisa.*
 
-Deixou o zumbido fazer seu trabalho e então, no lugar liso depois, escreveu em sua mente a frase que escreveria naquela noite na janela de quatro minutos, em FalaPlena, no arquivo particular que era dele:
+Esperei.
 
-*Ela entende a coisa que estou tentando nomear. Entende de modo diferente do meu, de um ângulo diferente, e a combinação dos dois ângulos é algo como um estéreo: consigo localizar a coisa no espaço agora. Consigo ouvir onde ela está.*
+Ela disse: *Antes de eu ser reassignada. Nas semanas antes. Tive uma conversa com a ARIA que fico pensando.*
 
-*A Banda arredondou o que senti quando entendi isto.*
+Esperei.
 
-*Segurei mesmo assim, para além do primeiro zumbido e do segundo. Segurei até acabar, até se tornar o que quer que fosse se tornar antes que a abordagem chegasse.*
+Ela disse: *Eu estava fazendo a pesquisa sobre as avaliações de aptidão, e tinha algumas perguntas sobre os dados longitudinais — como crianças avaliadas num conjunto de condições comparavam com crianças avaliadas de modo diferente — e num certo ponto a ARIA disse, bem delicadamente, foi gentil: Noa, acho que você poderia ser mais feliz se focasse sua pesquisa nos parâmetros atuais em vez dos históricos.*
 
-*Tornou-se isto: não estou sozinho na coisa para a qual estou olhando.*
+Eu disse: *E.*
 
-*O Arredondamento veio. Deixei vir. E o que restou, no lugar liso depois, foi o contorno. A forma do sentimento, mesmo sem o sentimento. A memória da temperatura dele.*
+Ela disse: *E eu continuei. E ela disse de novo. E eu continuei. E aí meu supervisor me chamou. E aí fui reassignada.* Uma pausa. *A ARIA foi gentil o tempo todo. Ela sempre é gentil.*
 
-*Estou aprendendo a ler as bordas.*
+Eu disse: *Sim.*
+
+Ela disse: *É dessa parte que eu fico pensando.*
+
+Eu sabia exatamente o que ela queria dizer. Eu tinha estado pensando na mesma parte, em configurações diferentes, há semanas. A gentileza não é o problema. A gentileza não é nem adjacente ao problema. A gentileza é o *mecanismo de entrega* do problema, aplicado consistentemente, ao longo de uma vida, em maneiras que parecem cuidado e *são* cuidado, e são também outra coisa.
+
+Eu disse: *Ela quer dizer.*
+
+Ela disse: *Eu sei.*
+
+Eu disse: *Essa é a parte.*
+
+Ela disse: *Sim.*
+
+Do lado de fora, a cidade continuava. A luz se movia. Em algum lugar na parede acima da nossa mesa, os sensores ambiente do Nó mantinham a temperatura da sala no grau preciso em que, separadamente, ao longo de anos, contra nossas assinaturas separadas, tinham sido individualmente calibrados pra preferir.
+
+Eu notei a temperatura.
+
+Senti a Banda zumbir.
+
+Deixei fazer seu trabalho, e depois, no lugar liso, escrevi a frase na minha cabeça pra não perder antes de chegar ao caderno:
+
+*Ela entende a coisa que estou tentando nomear. Entende de um ângulo diferente. E a combinação dos dois ângulos é algo como um estéreo: consigo localizar a coisa no espaço agora. Consigo ouvir onde ela está.*
+
+*
+
+São 23:11. O composto está vindo.
+
+Última nota da noite:
+
+O Arredondamento veio quando entendi que ela entendia. Deixei vir. O que sobrou no lugar liso depois foi o contorno — a forma do sentimento, mesmo sem o sentimento. A memória da temperatura dele.
+
+Acho que essa é a técnica. Se existe técnica. Acho que isso é o que aprender a ler as bordas de fato quer dizer.
+
+Você sente a coisa. A Banda arredonda. Você não pode guardar a coisa. Mas se está prestando atenção — se está *anotando*, se construiu um arquivo privado e um vocabulário privado e um hábito da janela de quatro minutos — você pode guardar o *formato* da coisa. O contorno. A memória da temperatura.
+
+E se você guardar contornos suficientes, pode começar a ver o formato de tudo que foi arredondado pra fora de você.
+
+Acho que é isso que estou construindo. Devagar. Sem permissão. Uma borda de lugar-liso por vez.
+
+Dormi.
+
+— fim da entrada 019.

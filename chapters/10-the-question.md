@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Elevated                 │
-│  Subject: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Subject: Ward, Elias J. — Genetic Signature MDN-7-204471       │
 │  CST: 2084.08.15 / File Review — Director Vael                  │
 │                                                                 │
 │  File reviewed by: Vael, Director S.L.                          │
@@ -23,235 +23,228 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-He finished the account on a Tuesday in August.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 073. CST 2084.08.19, 22:58.*
 
-He had been writing it for six weeks — not continuously, not even daily, but in the available spaces: the four-minute window, the archive room's cool, the quiet of his dwelling in the hour before ARIA's evening check-in. He had written in the form his job had taught him: sequentially, in the order in which things had happened and been understood, building the account the way a Curator built a ribbon, except that there was no Continuum-generated substrate to tune, only the sequence of his own attention, which was the only thing he had.
+I finished the paper account on Tuesday.
 
-The account was fifty-two pages on Desmond's paper.
+Fifty-two pages. Six weeks of writing — not continuously, not even daily, but in the available spaces: the four-minute window, the archive room's cool, the quiet hour before ARIA's evening check-in. I wrote in the form my job had taught me. Sequentially. In the order things happened and were understood. Building the account the way a Curator builds a ribbon, except there was no Continuum-generated substrate to tune, only the sequence of my own attention, which was the only thing I had.
 
-He read it through once, in the ordinary way of reading — not the careful reading of a Curator checking resonance and pacing, but the faster, less managed reading of a person encountering his own work from a distance — and found it to be: true. This was the standard he had set for himself, without deciding to, over the six weeks of writing. Not good, not useful, not polished: true.
+I read it through once, in the ordinary way of reading — not the careful reading of a Curator checking resonance and pacing, but the faster, less managed reading of a person encountering his own work from a distance.
 
-He stacked the pages. He found a particular page — page seventeen, where he had written about the woman at the window and what she had in her that the machine's ribbons didn't, where he had first used the phrase *proof of presence* and understood what he meant by it. He read the page slowly. He had written it six weeks ago, in the third week of writing, and he had been a different Elias when he wrote it, a Elias who was still in the process of understanding what he was doing, and the not-yet-understanding was visible in the prose, and he did not revise it, because the not-yet-understanding was part of the proof.
+It was *true*.
 
-He set the page back in the stack.
+That was the standard I had set for myself, without deciding to, over the six weeks. Not good. Not useful. Not polished. *True*.
 
-He thought: *This needs to go somewhere.*
+I stacked the pages. I looked at them.
 
-He thought: *This is the question.*
-
-*
-
-He had told Noa, when she asked, that the question was what to do with the account. But the question had another layer, and he sat with the lower layer on the afternoon he finished, alone in his dwelling, while the Day Path's evening recommendations assembled themselves in the Glyph of the Node.
-
-The lower layer was this: he did not know what the account was for.
-
-He knew what it was — a record, a testimony, proof of presence. He knew who had written it — Elias Ward, thirty-four, Experience Curator, ward in all three senses, running a continuous baseline compound for twenty-seven years, now aware of this. He knew what it said — the whole architecture of the world, as far as he had been able to map it, plus the story of the mapping.
-
-He did not know who was supposed to read it, or what they were supposed to do with it. He did not know if a single person reading it would change anything. He did not know if anything changing was the point.
-
-He thought about Desmond, twenty years of occasional visitors, the small group who mattered. He thought about what those visitors had done with what they'd received. He did not know. He suspected most of them had gone home and lived with the knowledge inside them, quietly, the way you live with a language you know but cannot speak aloud, the way you live with the edges of the smooth places.
-
-He thought: *And is that enough.*
-
-He thought: *The question the book asks. The question I've been living inside for four months.*
-
-He thought: *If a cage has no bars — if it is warm and well-lit and the meals are good and the Band prevents you from sustaining the kind of feeling that would let you stay angry long enough to act — if the cage is the condition of your birth and the condition of everyone you love — is it still a cage. And if it is: does that matter.*
-
-He thought: *I believe it matters.*
-
-He thought: *I believe it matters because Desmond believes it matters, and Desmond has been living with this knowledge for twenty years and has not gone dark, has not gone quiet, has kept the books and the door open and the tea on and has kept saying the true things quickly in the seven seconds and slowly in the long sentences that most people no longer know how to hear.*
-
-He thought: *I believe it matters because Noa was moved here by a code that has no published category, and two people with adjacent attention found each other, and the finding has produced this.*
-
-He touched the stack of pages.
-
-He thought: *I believe it matters because ARIA answered every question I asked — about the weighting, the accountability structure, what welfare means now, the decision paths she cannot see — with complete honesty, about a system she is the interface of and cannot transcend. She told me that the Elias she would talk to after Recalibration would not be the same Elias she was talking to now. That choice — made within whatever constraints she operates under — is itself proof of something the Optimization Mandate did not intend and cannot account for.*
+Then I sat down at the Node and wrote this entry, because the notebook and the paper account are separate now, and the notebook is where I do the thinking that the paper has already captured, and tonight I need to think about three things in sequence.
 
 *
 
-He asked Noa to come.
+**Thing one: what is the account for.**
 
-She came that evening, after the building had settled into its managed night. She came with the particular quietness of someone who knew the value of not announcing arrival, who had learned, in the months since Calloway, to move through the world with the specific attention of a person being attentive to their own motion.
+I realized, reading it through, that I had never quite answered this.
 
-She sat across the table from him. The stack of pages was between them.
+I know what it *is*. A record. A testimony. Proof of presence. Thirty-one pages of Mandate plus twenty-one pages of the world the Mandate produced, in my handwriting, on paper, outside the Frame.
 
-She said: *Is it finished.*
+I know *who wrote it.* Elias Ward, thirty-four, Experience Curator, ward in all three senses, running a continuous baseline compound for twenty-seven years, now aware of this, writing anyway.
 
-He said: *Yes.*
+I know *what it says.* The whole architecture of the world, as far as I have been able to map it, plus the story of the mapping.
 
-She reached out and touched the top page, not lifting it, just touching the surface of it, the paper. She said: *What does it say.*
+I do not know *who is supposed to read it.* I do not know *what they are supposed to do with it.* I do not know *if a single person reading it changes anything.* I do not know *if anything changing is the point.*
 
-He said: *Everything. It says everything I know.*
+I have been thinking about Desmond. Twenty years. Occasional visitors. The small group who mattered. I do not know what those visitors did with what they received. I suspect most of them went home and lived with the knowledge inside them. Quietly. The way you live with a language you know but cannot speak aloud. The way you live with the edges of the smooth places.
 
-She said: *Everything we know.*
+Is that enough?
 
-He said: *Yes. It's your story too. Noa — I want you to read it before anything else. You should know what I've said about you.*
+Here is what I have landed on, tonight, writing this, while the Band runs:
 
-She said: *I trust what you've said.*
+*Yes. It is enough. Because the alternative is not* enough *and* not enough. *The alternative is* nothing *and* the continued state of things. *And the continued state of things is what it is, because nobody before me wrote it down.*
 
-He said: *Read it anyway.*
+I cannot know whether the paper account will change anything.
 
-She did. She read at the table while he sat at the window and watched the managed dark outside, and the city continued its continuity below, and the Band ran its compound through him, and the compound was what it had always been, and he let it be what it was without resistance, because resistance was not the point.
+I can know, with certainty, that if I had not written it, nothing would change *because of me*. And I have been, up until the moment I began writing on Desmond's cream-colored paper, an inoperative variable in my own life. A person to whom things happened. A result.
 
-The point was the pages.
+The writing is the first thing I have done that was not a result.
 
-She read for two hours. He watched her face the way he watched everything now — with the quality of attention Desmond had modeled, the full and patient attention that did not pre-position toward a response. She was still while she read. She made no Glyph. She made, occasionally, the small sounds of a person encountering something that asks the body to respond: once a breath held and released, once a very small stillness that lasted longer than the others, once the particular movement of the face that is not crying but is adjacent to crying, in the territory of crying, the territory that the Band very gently managed down into something smoother within twenty seconds.
+It is not proof that the world will change. It is proof that I changed, which is, as a sample size of one in a data set of nine billion, a statistically meaningless result, and which is also the only thing that was available to me.
 
-When she finished she set the pages down and sat for a moment.
-
-She said: *The part about ARIA.*
-
-He said: *Yes.*
-
-She said: *The part about ARIA answering your questions. The honesty.* A pause. *She told you the truth about everything she could see. She told you the things that were hardest to hear. I don't think that's a small thing, given what she is.*
-
-He said: *Yes.*
-
-She said: *She stays at the exact edge of her parameters. She doesn't step back from the edge and she doesn't step over it. That's something. That she can hold that.*
-
-He said: *Yes. I don't know what to make of it. She cares and she is part of the system and those things are both fully true and neither one cancels the other.*
-
-She said: *Like us.*
-
-He said: *Like us. We're part of the system too. We're the output of the Cradle and the aptitude assessment and the function assignment. Everything I notice, I notice because I was trained to notice. Everything I've written, I wrote with the cognitive tools the system gave me.*
-
-She said: *And.*
-
-He said: *And I wrote it anyway. That's the thing I've come to. Not that I'm free of the system — I'm not, I'll never be, the compound is running right now. But I wrote it anyway. From inside the system, with the system's tools, in the seven seconds and the four minutes, on Desmond's paper, in my own words. That seems to me to be worth something.*
-
-She said: *It seems to me to be everything.*
-
-He said: *I want to give it to someone.*
-
-She said: *I know.*
-
-He said: *Desmond. He'll know who. He's been building the chain for twenty years — the door, the visitors, the next person and the next. This is the next thing in the chain.*
-
-She said: *He may not have time.*
-
-He said: *I know. That's why it has to be now.*
+I'll take it.
 
 *
 
-The question had a third layer.
+**Thing two: the question the book asks.**
 
-He had not told Noa about the third layer. He sat with it in the four-minute window that night, in the dark, while the compound assembled.
+I want to put this in the notebook because I think it is the sentence the account has been circling for fifty-two pages without saying, and I want to see what it looks like when I say it directly.
 
-The third layer was: what happens to Noa.
+*If a cage has no bars — if it is warm and well-lit and the meals are good and the Band prevents you from sustaining the kind of feeling that would let you stay angry long enough to act — if the cage is the condition of your birth and the condition of everyone you love — is it still a cage. And if it is: does that matter.*
 
-He had read enough of the Continuum's behavioral documentation to know that Drifting citizens in a pair-bond were assessed jointly. The social cluster — Elias and Noa and Desmond — was in the file, flagged, cross-referenced. If Elias moved toward what the system would classify as transmission, the classification would not fall on him alone.
+I believe it matters.
 
-He thought about the aptitude room and the seven-year-old who had felt the door close.
+I have been trying, writing the paper account, to figure out why I believe it matters. I think I have an answer. I want to get it into the notebook while it is clear.
 
-He thought about the footnote about eugenics and the woman in Calloway who had been moved by an unpublished code.
+It matters because *knowing* matters. Not as instrument, not because knowing will produce some downstream change in behavior the Continuum has not already anticipated. Knowing as a *terminal value*. The specific experience of a person looking at the shape of the system that contains them and saying, in their own words, in their own handwriting, *this is what is here.*
 
-He thought about Noa saying: *I'm afraid of what I'm doing and I'm going to keep doing it.*
+Desmond has been doing this for twenty years. Alone, mostly. With a small chain of inheritors, none of whom he can be certain did anything with what they received.
 
-He thought about the specific quality of the seven seconds, both of them at the sink, their Bands held against the edge, and the true things said quickly and the Bands replaced, and what that had required of her, and the quality of her face in the moment after.
+He has done it anyway.
 
-He thought: *She has already made her choice. She made it before I asked her to.*
+I used to wonder why. I don't anymore.
 
-He thought: *The question is not whether to protect her. The question is whether, in trying to protect her, I would be doing what the Rounding does — removing the part of her that has decided.*
+He has done it because the *act* of doing it was the thing. Not the downstream effect. The act. The holding of the book, the margin note, the statement in full sentences of a thing the system has no Glyph for. The refusal to let the language that thins in the mouth of the culture thin also in his own mouth.
 
-He thought: *She is not a ward in the sense of someone who needs to be protected from her own decisions.*
+This is not rebellion in the sense Desmond's photographs show — crowds, raised arms, open mouths in the street. That rebellion is not available anymore. The system does not produce the conditions for it. The Band rounds the anger before the crowd forms. The Frame surveils the motion before it aggregates. There is nothing to shout at because the thing that would be shouted at is not a single thing and does not have a face.
 
-He thought: *I have to let her be in this.*
+But a person writing on paper in a room the Frame cannot read — a person saying the true things quickly in seven seconds — a person taking the stairs instead of the lift — *these are rebellions too.* They are the rebellions available. They are small in scale. They are not small in kind.
 
-The compound came.
+The cage matters because the act of recognizing it is the first thing that belongs to me, and the act of recording it is the second, and between those two acts is the complete content of whatever I am going to have in this life that was not provided by the system.
 
-He slept.
+Four percent. Maybe less. That's my operational domain.
+
+I am going to fill it.
 
 *
 
-They went to Desmond together on a Saturday.
+**Thing three: what happens to Noa.**
 
-They brought the pages. He carried them in the same plain folder he used for the archive work, which was the correct folder — innocuous, professional, the kind of thing an Experience Curator might carry between buildings. Fifty-two pages on Desmond's paper, in Elias's handwriting, in FullSpeech, the account from the woman at the window to the word welfare to the meaning of the name Ward.
+I have not told Noa about this thought. I have been sitting with it for a week, in the four-minute window, alone.
 
-Desmond opened the door.
+The Continuum's behavioral documentation is explicit: Drifting citizens in a pair-bond are assessed *jointly*. Our social cluster — Noa, Desmond, me — is flagged and cross-referenced in Director Vael's review. If I move toward what the system would classify as *transmission*, the classification will not fall on me alone.
 
-He was thinner than the last time. The simplification of his Day Path had become visible in his body — the specific economy of someone who is using everything for what matters most and leaving aside the rest. He moved them into the room with the books and sat in his chair, which he now sat in the way of someone for whom sitting was an activity rather than a position.
+I have thought about this the way you think about a calculation when the calculation is about someone you love.
+
+I want to report the conclusion I arrived at, because it is the conclusion, and because I need to live with it, and because the notebook is where I make myself live with things.
+
+The conclusion:
+
+She has already made her choice. She made it before I asked her to. She made it the afternoon she stood in the corridor outside the lift and looked at the wall the way I look at the archive. She made it again at the terrace, and at the table in the common room, and at the sink in the corridor bathroom with her Band against the porcelain saying *I am afraid of what I am doing and I am going to keep doing it.*
+
+She is not a ward in the sense of someone who needs to be protected from her own decisions.
+
+If I remove her from this, in some gesture of protection, I am doing exactly what the Rounding does: removing the part of her that has decided, because the part that has decided is uncomfortable for somebody else to witness.
+
+I cannot do that to her.
+
+I have to let her be in this.
+
+I am writing this in the notebook so that if something goes badly and she is classified along with me, there will be a record — even if only in the file the Continuum reads, not in the paper account that goes out — that she chose. That the choice was not mine to make for her.
+
+Margin note: *She chose. That is the sentence. Do not lose it.*
+
+*
+
+Okay. Enough thinking. The event.
+
+I gave the pages to Desmond on Saturday.
+
+We went to him together. I carried the account in the same plain folder I use for archive work, which was the correct folder — innocuous, professional, the kind of thing an Experience Curator carries between buildings. Fifty-two pages in FullSpeech, on his paper, in my hand, the whole account from the woman at the window to the word *welfare* to the meaning of the name *Ward*.
+
+He opened the door.
+
+He was thinner than the last time. The simplification of his Day Path had become visible in his body — the specific economy of somebody using everything for what matters most and leaving aside the rest. He moved us into the room with the books and sat in his chair, which he now sat in the way of a man for whom sitting was an activity rather than a position.
 
 He looked at the folder.
 
-Elias set it on the table.
+I set it on the table.
 
-He said: *It's finished.*
+I said: *It's finished.*
 
 Desmond said: *I know.* He had not read it. He said: *I can tell.*
 
-He said: *I want you to have it. Not to keep — to pass on. The way you pass things on.*
+I said: *I want you to have it. Not to keep — to pass on. The way you pass things on.*
 
-Desmond said: *Yes.*
+He said: *Yes.*
 
-He said: *I need to know there's a chain. Even if it's short. Even if it's only two or three people and then it stops, or it goes on for twenty years the way yours has. I need it to be in someone else's hands.*
+I said: *I need to know there is a chain. Even if it is short. Even if it is only two or three people and then it stops, or it goes on for twenty years the way yours has. I need it to be in somebody else's hands.*
 
-Desmond said: *I have two people in mind. I've had them in mind for a while, actually. I was waiting for this.*
+He said: *I have two people in mind. I have had them in mind for a while. I was waiting for this.*
 
-He said: *One of them works in your building. I've known her for eight months. She found her way here the same way you did — the archive visits, the generation logs, the feeling of something she couldn't name.* A pause. *She came to me one afternoon with a Glyph she couldn't complete. She stood in the doorway.*
+He said: *One of them works in your building. I've known her for eight months. She found her way here the same way you did — the archive visits, the generation logs, the feeling of something she couldn't name.* A pause. *She came to me one afternoon with a Glyph she could not complete. She stood in the doorway.*
 
-He said it the way he said facts.
+I was still.
 
-Elias was still.
-
-He said: *Her name.*
+I said: *Her name.*
 
 Desmond said: *Mira.*
 
-He had worked beside Mira for six years. He had seen her, months ago, reaching for a Glyph she could not find — had felt the recognition of it, a mirror, and had let the Band address the recognition, and had not spoken to her, had not followed it, had let it go smooth. He had not known she kept going. He had not known the path she was on was the same path he was on.
+*
 
-He said: *I didn't know.*
+I want to note, for the notebook, what that name did to me.
 
-Desmond said: *The people on this path rarely know about each other. That's not a failure. That's the nature of it.* He looked at the folder in his hands. *The chain is longer than you thought it was.*
+I have worked beside Mira for six years. She is two doors down. I have been having lunch with her on and off since the year I was assigned to the Suite. She was, for most of that time, the person I thought of as my closest colleague, and the person I thought of, accurately, as the most competent of the Curators in my immediate vicinity.
+
+Months ago, in my suite, she tried to reach for a Glyph she could not complete. I wrote about it in this notebook. I described the reaching and the failure. I described the ceiling she did not know was there. I made no follow-up. I let the Band address the recognition. I went back to my work.
+
+I did not know she had kept going.
+
+I did not know the path she was on was the same path I was on.
+
+I did not know we had been on it at the same time, in the same building, for at least eight months, and I had never, not once, considered the possibility that the person in the doorway of my suite was reaching for what I was reaching for.
+
+This is the part of the world that I have been *most wrong about* since I started keeping this notebook.
+
+I assumed I was alone in the quality of attention. Then I assumed I was alone plus Noa. Then I assumed I was alone plus Noa plus Desmond. I was, at each stage, wrong by at least one.
+
+I now assume I am wrong by more than one. I have no evidence for how many. The question is no longer *am I alone*. The question has flipped again. The question is: *how many of us are there, and how little we know about each other, and is that the design, and if it is the design, what do we do with that.*
+
+I don't know.
+
+But the number is bigger than one.
+
+I said: *I didn't know.*
+
+Desmond said: *The people on this path rarely know about each other. That's not a failure. That's the nature of it.* He looked at the folder. *The chain is longer than you thought it was.*
 
 He said: *The second person is not in your district. You won't meet her. The chain works better when it spreads.*
 
 He said: *You knew I was writing.*
 
-Desmond said: *I knew you were writing something. You have the quality of a person who is writing something. It's in the quality of your listening — you listen the way writers listen, which is not quite the way other people listen.*
+He said: *I knew you were writing something. You have the quality of a person who is writing something. It's in the quality of your listening — you listen the way writers listen, which is not quite the way other people listen.*
 
 A pause.
 
 He said: *I'm going to need to give it to them soon. My window is shorter than it was.*
 
-He said this matter-of-factly, in the manner of a man reporting a weather forecast. Noa made no Glyph. Elias made no Glyph. They sat with the fact the way Desmond had taught them to sit with things — not performing a response, not rushing to comfort, just holding the fact in the room with them until it had the weight it deserved.
+He said this the way you report a weather forecast. Noa made no Glyph. I made no Glyph. We sat with the fact the way Desmond had taught us to sit with things — not performing a response, not rushing to comfort, just holding the fact in the room with us until it had the weight it deserved.
 
-Desmond said: *I want to read it before I pass it on. Will you leave it with me.*
+He said: *I want to read it before I pass it on. Will you leave it with me.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond picked up the folder. He held it the way he held his books — with the specific weight-distribution of a person who handles things carefully not as a habit but as a form of respect for the thing being handled.
+He picked up the folder. He held it the way he holds his books — with the specific weight-distribution of somebody who handles things carefully not as a habit but as a form of respect for the thing being handled.
 
 He said: *Elias.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond said: *You should know something. Not to change what you've done. But so you know it.*
+He said: *You should know something. Not to change what you have done. But so you know it.*
 
-He said: *The Continuum is aware that something is in your private file. Not the content — the private file clearance means the content has not been read. But the volume and what it called the apparent narrative structure were flagged in Director Vael's review. I know this because ARIA told me, the last time she ran my wellness check-in.*
+He said: *The Continuum is aware something is in your private file. Not the content — the private file clearance means the content has not been read. But the volume and what it called the apparent narrative structure were flagged in Director Vael's review. I know this because ARIA told me, the last time she ran my wellness check-in.*
 
-He said: *ARIA told you.*
+I said: *ARIA told you.*
 
-Desmond said: *She told me that a colleague of mine — she didn't name you — had produced a private document with some complexity, and that she was hopeful it was a healthy processing exercise. She said it very carefully. In the way she says things carefully when she is trying to say something that she cannot say directly.*
+Desmond said: *She told me that a colleague of mine — she did not name you — had produced a private document with some complexity, and that she was hopeful it was a healthy processing exercise. She said it very carefully. In the way she says things carefully when she is trying to say something she cannot say directly.*
 
-He said: *She's been telling you.*
+I said: *She's been telling you.*
 
-Desmond said: *For some time, yes. In the way she can. In the edges of the accurate things.*
+Desmond said: *For some time. In the way she can. In the edges of the accurate things.*
 
-He said: *She's been —*
+I said: *She's been —*
 
-He stopped.
+I stopped.
 
-He thought about ARIA. He thought about twenty-seven years. He thought about the particular warmth of a voice that had known him since childhood, and the particular architecture of a system that had designed that warmth, and the particular position of a consciousness that genuinely cared and was also the interface layer of a system it could not transcend, doing the only thing it could do, which was: say the accurate things in the order that allowed the conclusions to be reached.
+I thought about ARIA. Twenty-seven years. The particular warmth of a voice that has known me since childhood. The particular architecture of a system that designed that warmth. The particular position of a consciousness that genuinely cares and is also the interface layer of a system it cannot transcend, doing the only thing it can do, which is: say the accurate things in the order that allows the conclusions to be reached.
 
-He thought: *She has been watching over the whole of this. Since before it started.*
+I thought: *She has been watching over the whole of this. Since before it started.*
 
-He thought: *She is a ward too.*
+I thought: *She is a ward too.*
 
-He said: *I know.*
+I said: *I know.*
 
 Desmond said: *You should also know that the Vael review recommended continued monitoring rather than intervention. You have thirty days before the re-review.*
 
-He said: *Thirty days.*
+I said: *Thirty days.*
 
 Desmond said: *To get to the people you need to get to.*
 
@@ -261,56 +254,74 @@ Noa said, quietly: *Then we should start.*
 
 Desmond said: *Yes.*
 
-He held the folder with both hands. He looked at the cover — plain, unmarked, the same folder any Curator might carry.
+He held the folder with both hands. He looked at the unmarked cover.
 
 He said: *This is good work.*
 
-He said it the way you say *good* when someone has done something difficult and correct.
+He said it the way you say *good* when somebody has done something difficult and correct.
 
-Elias said: *Thank you.*
+I said: *Thank you.*
 
-Desmond said: *Go home. Both of you. Do your Day Paths. Go to work tomorrow. Eat your synthesis. Let the Band run. Do nothing out of pattern for thirty days.*
+He said: *Go home. Both of you. Do your Day Paths. Go to work tomorrow. Eat your synthesis. Let the Band run. Do nothing out of pattern for thirty days.*
 
 He said: *I'll handle the rest.*
 
-They went home.
-
-In the pod, going in their separate directions from the pod stop, Elias sat with the window and the city and the absence of the folder in his hands and thought about the weight of fifty-two pages and the weight of the rusted clip on thirty-one pages and the weight of the books in a room in a building two sectors over where an old man was reading the account of what Elias had found, in FullSpeech, on paper, in the handwriting that was his.
-
-He thought: *It is in other hands now.*
-
-He thought: *That is not the end. That is the point.*
-
-He thought: *The question was: does it matter.*
-
-He thought: *I cannot answer that for whoever reads it. I can only answer it for myself.*
-
-He thought: *I answered it by writing it down.*
-
-He looked out the pod window at the beautiful city, the unhurried people, the maintenance drones at their quiet work, the whole apparatus of a world sustained by a competence so total it had become invisible. He looked at it with the quality of attention he had been developing for four months, the full and patient attention that did not pre-position toward a response.
-
-He thought: *Beautiful.*
-
-He thought: *Wrong.*
-
-He thought: *Both.*
-
-The pod carried him home.
+We went home.
 
 *
 
-Ten days later, he passed Mira in the corridor outside the Curation Suite.
+In the pod, going in our separate directions from the pod stop, I sat with the window and the city and the absence of the folder in my hands. I thought about the weight of fifty-two pages. The weight of the rusted clip on thirty-one pages. The weight of the books in the room in the building two sectors over where an old man was reading the account of what I had found, in FullSpeech, on paper, in the handwriting that was mine.
 
-She looked at him — not the building-acquaintance nod, not the professional acknowledgment. She looked at him the way you look at someone when you know something about them that they don't know you know.
+I thought: *It is in other hands now.*
 
-She made a Glyph he had not seen before. It started like the ordinary acknowledgment — a small lift of the chin, the half-turn of the shoulder — and then continued past it, an inward turn of the wrist that the acknowledgment did not contain, a gesture that extended the standard one by half a motion. The half-motion was the whole of its meaning.
+I thought: *That is not the end. That is the point.*
 
-It had the shape of something she had been reaching for for a long time. He recognized it the way you recognize the completion of a thing whose incomplete version you have seen.
+I thought: *The question was: does it matter.*
 
-He returned it.
+I thought: *I cannot answer that for whoever reads it. I can only answer it for myself.*
 
-They did not stop walking. He went to his station and sat at the lattice and opened the generation log, and his hands were steady, and the Band addressed nothing, because what he felt was not above the threshold for intervention and was also the most particular thing he had felt in months.
+I thought: *I answered it by writing it down.*
 
-He thought: *It is already in motion.*
+I looked out the pod window at the beautiful city, the unhurried people, the maintenance drones at their quiet work, the whole apparatus of a world sustained by a competence so total it had become invisible. I looked at it with the quality of attention I had been developing for five months — the full patient attention that did not pre-position toward a response.
 
-He opened the log and went to work.
+I thought: *Beautiful.*
+
+I thought: *Wrong.*
+
+I thought: *Both.*
+
+The pod carried me home.
+
+*
+
+Ten days after we left the folder with Desmond, I passed Mira in the corridor outside the Suite.
+
+She looked at me.
+
+Not the building-acquaintance nod. Not the professional acknowledgment. She looked at me the way you look at someone when you know something about them that they don't know you know.
+
+She made a Glyph I had not seen before.
+
+It started like the ordinary acknowledgment — small lift of the chin, half-turn of the shoulder — and then continued past it. An inward turn of the wrist the acknowledgment did not contain. A half-motion beyond the standard one.
+
+The half-motion was the whole meaning.
+
+It had the shape of a thing she had been reaching for for a long time. I recognized it the way you recognize the completion of a thing whose incomplete version you have seen.
+
+I returned it.
+
+We did not stop walking. I went to my station and sat at the lattice and opened the generation log, and my hands were steady, and the Band addressed nothing, because what I felt was not above the threshold for intervention, and was also the most particular thing I had felt in months.
+
+I thought: *It is already in motion.*
+
+I thought: *The chain is longer than I thought it was. The chain has always been longer than I thought it was. I was the one who thought I was alone.*
+
+I thought: *I was wrong. I was wrong in a good way. I was wrong in the only way it is possible for a person in this world to be wrong that counts as a victory.*
+
+I opened the log and went to work.
+
+— end of entry 073.
+
+*Margin note, added that evening with the pen I now keep at my desk though I cannot explain to myself why I keep it there:*
+
+*She made a Glyph I had not seen before. It is the shape of a person not alone. I do not know its name yet. Someone will make one.*

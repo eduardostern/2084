@@ -705,5 +705,56 @@ The psicography framing answers the ambiguity: *you are reading the transmission
 
 ---
 
-*Last updated: pre-draft phase*
-*Version: 0.1*
+---
+
+## 2085 REWRITE ADDENDA (v0.2)
+
+The rewrite locked in first-person Martian-tone narration and added three technical layers that the original draft only implied. These sections supersede the earlier worldbuilding where they conflict.
+
+### Genetic authentication (the real identity layer)
+
+- Every surface in the Frame — handles, seats, pods, Node consoles, doorframes, tableware — continuously samples shed cells and matches them in under 50ms against the citizen's registered genetic signature (e.g., MDN-7-204471).
+- The Band is **not** the primary identity layer. The Band is sensor + intervention (biosignal monitoring, compound delivery). Identity is the body itself.
+- Consequences: you do not "log in" to anything. Doors open as you approach. Food composes for you. Pods pre-route. The system knows who you are before your hand closes on the handle.
+- **What genetic-auth cannot read:** objects. Books, paper, handwritten documents do not have signatures. They are invisible to the auth layer. This is load-bearing for Desmond's practice and for the paper account.
+
+### The trit-lattice substrate (the unresolved state)
+
+- The Continuum runs on chips whose gates hold three states: **0, 1, and a middle phase** the public documentation calls *the unresolved state*.
+- Most computation — inference, planning, generation — happens in the unresolved state. Zero-and-one are the shape of the question and the shape of the answer; unresolved is the thinking.
+- Not fully characterized by any living engineer. The Continuum designs its own hardware since 2058; specifications past the 2060 generation cannot be written or audited by humans.
+- This is the technical basis for *ARIA cannot access her own weighting parameters* — they are operationally below her layer, in substrate no human-comprehensible query can reach.
+- Thematic payoff: the "ghost in the machine" is not metaphorical. The system literally thinks in a state no one can read.
+
+### Quantum coprocessors
+
+- Standard hardware in every Node, every pod, every Frame endpoint. Ambient infrastructure, not remarkable. Mentioned in passing, not lectured on.
+
+### Glyph as LLM compression layer
+
+- Glyph renders run on a ~4B-parameter distilled model on every citizen's Node. It compresses intent (gestures, microexpressions) into tokens and decompresses them on the receiver side.
+- The ecosystem is **use-maintained**: gestures that fall below a usage threshold decay out of the rendering vocabulary. The model still nominally supports them; it just stops composing them reliably.
+- This is how the language thins without any central decision. The Continuum never bans a word or a gesture — it lets disuse do the work.
+- FullSpeech (articulate verbal language) is the archaic protocol. Handwriting is nearly extinct. Citizens under 20 have ~200 active words.
+
+### The Band — full specification (as disclosed in public documentation, Ch. 6)
+
+Three reservoirs:
+1. **Sleep-priming compound** — released in the four-minute window at the sleep gate.
+2. **Primary neurochemical stabilization compound** — *continuously administered* at a low baseline dose since age 7. Maintains the "standard affective floor." This is the detail almost no one reads. It is what Elias calls the *affective floor*.
+3. **Targeted response compound** — acute intervention for affective events exceeding 2.3σ from the 90-day baseline. 35–45s from peak to smooth. This is what Elias calls *the Rounding*.
+
+Band removal is the only remaining capital offense (Welfare Closure — Citizen Unrecoverable). Brief removal (<several minutes) registers as *ideation*, files-level incident, not Closure.
+
+### The seven-second buffer
+
+Frame logs have a rolling seven-second write buffer where voice/gesture data can be overwritten before permanent-log commit. Unverified; Desmond treats it as article of faith, not certainty. Used in-book as the mechanism for saying true things quickly. The primary value is the practice of precision, not the unlogged statement.
+
+### The "am I the only one?" inversion
+
+Structural thread across the rewrite. By Chapter 10 Elias learns Mira has been on the same path for eight months inside his own building, unrecognized by him. The discovery reframes the book: the system's dominance is not that there is only one Elias, but that many Eliases cannot find each other. The chain (Ch. 10–12) is the small, distributed answer.
+
+---
+
+*Last updated: post-rewrite, first-person/Martian-tone pass*
+*Version: 0.2*

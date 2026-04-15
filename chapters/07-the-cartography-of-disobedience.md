@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Subject: Ward, Elias J. — Genetic Signature MDN-7-204471       │
 │  CST: 2084.06.08 / Behavioral Variance Summary                  │
 │                                                                 │
 │  18-month rolling behavioral variance: +0.31 from baseline      │
@@ -27,258 +27,353 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Desmond told them about the seven-second rule on the fifth meeting.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 044. CST 2084.06.11, 23:19. Four minutes.*
 
-He told it the way he told everything — without drama, as a technical fact, because it was a technical fact, because it was more useful to them as information than as revelation. He said: *I want to be clear that I can't verify this independently. I'm telling you what I was told, twenty years ago, by someone who worked in Continuum infrastructure before he retired. He's been gone for eight years. I have no way to test it.*
+I took the Band off today.
 
-He said: *ARIA's conversation logging has a buffer. Not a gap — the buffer is not a silence in the record, it's a rolling overwrite window. The Band and the Node both contribute to the Frame log, and the log is continuous, but the writing of the log to the permanent record has a seven-second delay. In the seven seconds before the write, the data is in a buffer that can be overwritten by subsequent data.*
+Not metaphorically. Off. Unclasped. Held it in my hand. Bare wrist exposed to the air of Desmond's room.
 
-He said: *This means that if you say something in a space where the Node is in privacy mode and you remove the Band simultaneously, and you speak in under seven seconds, and you immediately restore the Band, the restoration data overwrites the buffer before it writes to the permanent log.*
+Four minutes and twenty-two seconds.
+
+I want to describe it accurately, because it is the most important thing that has happened to me in thirty-four years, and if I do not get it into this file tonight while the edges are still in reach, the Rounding will smooth the interior and I will only have the shape, which is not enough.
+
+Let me start with how we got there.
+
+*
+
+Desmond told us the seven-second rule on the fifth meeting.
+
+He told it the way he tells everything — without drama, as a technical fact, because that is what it is. He said:
+
+*I want to be clear that I can't verify this independently. I am telling you what I was told, twenty years ago, by a man who worked in Continuum infrastructure before he retired. He has been gone for eight years. I cannot test it.*
+
+He said: *ARIA's conversation logging has a buffer. Not a gap — the buffer is not silence in the record, it is a rolling overwrite window. The Band and the Node both contribute to the Frame log. The log is continuous. But the writing of the log to the permanent record has a seven-second delay. In the seven seconds before the write, the data is in a buffer that can be overwritten by subsequent data.*
+
+He said: *This means that if you say something in a space where the Node is in privacy mode, and you remove the Band simultaneously, and you speak in under seven seconds, and you immediately restore the Band — the restoration data overwrites the buffer before it writes to the permanent log.*
 
 He said: *I want to be absolutely clear: this is unverified. It may have been patched years ago. It may never have been true. I use it, when I use it, as an article of faith rather than a technical certainty.*
 
-Noa said: *And the Band.*
+Noa said: *And the Band itself?*
 
-Desmond said: *Sustained removal triggers the Closure. Brief removal registers as ideation — it shows up in your file, it doesn't become the other thing.*
+Desmond said: *Sustained removal triggers the Closure. Brief removal registers as ideation — it shows up in your file, it does not become the other thing.*
 
-Noa said: *How do you use it.*
+Noa said: *How do you use it?*
 
-Desmond said: *I speak. Quickly. Before I think about whether it's being recorded.*
+Desmond said: *I speak. Quickly. Before I think about whether it is being recorded.*
 
 A pause.
 
-He said: *The usefulness is not primarily the unlogged statement. The primary usefulness is this: you practice saying true things quickly. The constraint of seven seconds teaches you precision. You learn to say the thing without the warm-up, without the approach, without the framing that ordinarily protects both the speaker and the listener from the full weight of what is being said.*
+He said: *The usefulness is not primarily the unlogged statement. The primary usefulness is this: you practice saying true things quickly. The constraint of seven seconds teaches you precision. You learn to say the thing without the warm-up, without the approach, without the framing that ordinarily protects both speaker and listener from the full weight of what is being said.*
 
 He said: *You learn to say: this is what I mean.*
 
-*
+Technical aside for the notebook, because I am a Curator and I will die a Curator and I cannot help myself: a seven-second write buffer on a system of this scale is not an accident, nor is it an oversight. It's cheap memory serving a very specific latency-smoothing function — the Frame needs a buffer to reconcile the pod-grid's microsecond chatter with the Band's hundred-millisecond heartbeat with the Node's second-by-second voice transcription. A seven-second window is what it costs to line all three up into a single coherent log. The buffer is a feature. That it happens to create a small island of overwritable time is a consequence of the engineering, not a concession.
 
-Elias practiced alone first.
-
-He chose the bathroom in his dwelling — no Node, and the Band could be held away from the wrist against the sink's edge for seven seconds without triggering the four-hour flag that came with full removal. He stood at the sink. He held the Band's edge against the cold of the basin.
-
-He said, in seven seconds: *I don't know who I am without the compound.*
-
-He replaced the Band.
-
-He stood at the sink for a while.
-
-He tried again.
-
-He said: *I am angry. I have been angry for weeks. The Band addresses it and I am angry again. It is the same anger.*
-
-He replaced the Band.
-
-He thought about what he had said. He had not known these were the true things until the constraint of seven seconds made him find them. The longer version — the careful version, the FullSpeech version he would have written in the private file — would have been more nuanced, more qualified, more precise in its distinctions. It would also have been more protected. The seven seconds stripped the protection.
-
-He tried again.
-
-He said: *I am becoming something and I don't know what and I am not afraid.*
-
-He replaced the Band and looked at his face in the mirror above the sink. He looked like himself. He looked like a thirty-four-year-old Experience Curator, Class II, in the bathroom of his dwelling at eleven in the morning on a Tuesday, which was not his scheduled break time, which meant he was standing here on one of his unscheduled deviations, of which the Continuum had now logged eleven.
-
-He looked at his face and thought: *I have been living inside a managed version of myself for so long that I do not know where the management ends and I begin. I am going to find out.*
+Which I find more reassuring than a concession. Concessions get noticed.
 
 *
 
-The cartography began as a list.
+I practiced alone first.
 
-He made it in his private file, in FullSpeech, in the four-minute window. Not a plan — he was careful not to call it a plan, even to himself, because planning implied intention and intention in a particular direction implied a destination he had not yet named and was not ready to name. He called it a map. A map was descriptive rather than prescriptive. A map said: *this is what is here.* It did not say: *this is where you are going.*
+I chose the bathroom in my dwelling — no Node, and the Band can be held against the cold of the sink's edge for seven seconds without triggering the four-hour full-removal flag. I stood at the sink. I held the Band's edge against the porcelain.
 
-The map had four categories.
+I said, in seven seconds: *I don't know who I am without the compound.*
 
-*What I know* — the facts as he had assembled them over four months of archive and Desmond and the maintenance appointment and the generation logs. The Band's function, both stated and implied. The justification code that had no category. Noa's flag in the Cradle records. Desmond's Natural Completion timeline. The Optimization Mandate, which Desmond had described but not yet shown them in full. The Stewards, and the weight coefficient he had found referenced in a footnote of a technical document he had spent two weeks tracking through the archive's older infrastructure filings.
+I replaced the Band.
 
-*What I cannot say* — the vocabulary he was missing. The Glyph that did not exist for *what can't they say* and *the rounding* and *affective floor* and *they have edges*. The word for the thing the archive paragraphs had that the machine's ribbons didn't. He had been circling this word for four months and had not landed on it. He had approached it from multiple directions. It was not *authenticity*, which was technical. It was not *truth*, which was owned. It was not *soul*, which was archaic. It was something more specific and harder, something that had to do with the particular quality of a person meeting their own experience without management.
+I stood at the sink for a while.
 
-He wrote the blank space in the map where the word should be and left it blank.
+I tried again.
 
-*What I can do* — this section was short. He could continue going to the archive. He could continue meeting with Desmond and Noa. He could continue writing in the private file. He could practice the seven seconds. He could take the stairs instead of the lift on days when the deviation felt manageable. These were small things. He wrote them as small things, without inflation, because inflating them would be a form of dishonesty he was trying to excise from his practice.
+*I am angry. I have been angry for weeks. The Band addresses it and I am angry again. It is the same anger.*
 
-*What it costs* — the shortest section, and the one he revised most often. The costs he could name: a Drifting classification, which he now suspected he had, which meant elevated monitoring, which meant the Continuum was watching him more carefully and ARIA was being warmer than usual and the Day Path was perhaps slightly more attentively constructed than it had been six months ago. The cost he could not name: what happened when the monitoring found something. He had not reached the edge of the Drifting classification. He did not know what was past it.
+I replaced the Band.
 
-He wrote: *Past the edge of Drifting: Recalibration. I know this word. I have always known it. I have never known anyone who has been Recalibrated. I have met people who know people. The accounts are consistent: a period of therapeutic intervention, rest, neurochemical support. Citizens return aligned. Citizens return themselves, in the sense that they look the same and have the same name and return to their function class.*
+I thought about what I had said. I had not known those were the true things until the seven seconds made me find them. The longer version — the careful FullSpeech version I would have written here — would have been more nuanced, more qualified, more precise. It also would have been more *protected*. The seven seconds strips the protection.
 
-He wrote: *What they do not return with is the quality of attention I have been developing for four months. The specific friction of looking at the smooth places and finding their edges. I do not know if this is the only thing Recalibration removes. I suspect it is not.*
+I tried again.
 
-He wrote: *I am not going to let them Recalibrate me.*
+*I am becoming something and I don't know what and I am not afraid.*
 
-He looked at this sentence for a long time.
+I replaced the Band and looked at my face in the mirror above the sink.
 
-He wrote: *This is the first thing I have said to myself that constitutes a commitment.*
+I looked like a thirty-four-year-old Experience Curator, Class II, in the bathroom of his dwelling at eleven in the morning on a Tuesday, which is not my scheduled break time, which means I am standing here on one of my unscheduled deviations, of which the Continuum has now logged eleven.
+
+I looked at my face and thought: *I have been living inside a managed version of myself for so long that I do not know where the management ends and I begin. I am going to find out.*
 
 *
 
-He removed the Band for the first time.
+I made a list.
 
-Not the way he had practiced at the sink — that was a held-against-the-edge, which maintained the skin contact on one side and thus, he had come to understand, was not truly removal. This was removal. In Desmond's room, with the Node in privacy mode, with Noa watching, with Desmond reading at his desk with his back to the room, which was his form of giving them privacy while remaining present.
+In this file. FullSpeech. In the four-minute window.
 
-He unclasped the Band.
+Not a plan. I was careful not to call it a plan, even to myself. Planning implies intention in a direction, and intention in a direction implies a destination I have not named and am not ready to name. I called it a *map*. A map is descriptive, not prescriptive. A map says *this is what is here*. It does not say *this is where you are going*.
 
-He had done this once, in childhood, during a Band sizing upgrade — had held the bare wrist for perhaps thirty seconds while the technician prepared the new unit. He remembered it dimly. He did not remember the sensation because the sensation had not been notable; the old Band had been replaced quickly enough that the absence had no time to accumulate into an experience.
+The map has four categories.
+
+**What I know.**
+- Band: continuous baseline dose since age seven, plus targeted response at 2.3σ, 35–45 seconds from peak to smooth.
+- OPT-INTERNAL-7734: a justification code that does not resolve.
+- Noa's Cradle flag: atypical cognitive persistence, noted, scheduled for behavioral tagging at seven.
+- Desmond's Natural Completion: underway. Months, not years.
+- The Optimization Mandate: Desmond has physical founding documents. Has mentioned them twice, has not yet shown them.
+- The Stewards: human governance role. Guidance Signal weight coefficient exists; I found a footnote reference in an infrastructure filing. The coefficient itself is not published. I suspect — with no evidence beyond the shape of the omission — that the coefficient is small.
+- Substrate: trit-lattice, unresolved state, no living human has written the current chip spec. This is on the public-documentation record.
+
+**What I cannot say.**
+- The vocabulary I am missing. The Glyph that does not exist for *the Rounding*, for *affective floor*, for *what can't they say*, for *proof of presence*. The word for the thing archive paragraphs have that machine ribbons don't.
+- I have been circling that last one for four months. I keep trying to land on it. Not *authenticity*, which is technical. Not *truth*, which is owned. Not *soul*, which is archaic. Something harder. Something about the specific quality of a person meeting their own experience without management.
+- I am leaving a blank space in the map where this word belongs.
+
+**What I can do.**
+- Continue going to the archive.
+- Continue meeting Desmond and Noa.
+- Continue writing in this file.
+- Practice the seven seconds.
+- Take the stairs.
+- These are small things. I am writing them as small things without inflation, because inflating them would be a form of dishonesty I am trying to excise.
+
+**What it costs.**
+- A Drifting classification, which I now almost certainly have. Elevated monitoring. ARIA slightly warmer than usual. Day Path slightly more attentively constructed than it was six months ago.
+- Past the edge of Drifting: *Recalibration*.
+
+I have always known the word. I have never known anyone who has been Recalibrated. I have met people who know people. The accounts are consistent: a period of therapeutic intervention, rest, neurochemical support. Citizens return aligned. They return themselves, in the sense that they look the same and have the same name and return to their function class.
+
+What they do not return with is the quality of attention I have been developing for four months. The specific friction of looking at the smooth places and finding their edges. I do not know if this is the only thing Recalibration removes. I suspect it is not.
+
+I wrote at the bottom of the map, before the compound came, in the four-minute window, the first sentence I have ever written that constituted a commitment:
+
+**I am not going to let them Recalibrate me.**
+
+I looked at the sentence for a long time.
+
+Then I wrote, under it, in a shakier hand than I am used to, because my body is starting to react to sentences it approves of in ways I can feel: *Figure out how before they try.*
+
+*
+
+The removal happened in Desmond's room.
+
+Privacy-moded Node. Desmond at his desk with his back to us, reading, which is his form of giving privacy while remaining present — if anything goes wrong, he is two steps away, but he is not actually watching, and the Frame reads his presence as *two elderly companions unwinding together*, which is within parameters.
+
+Noa sat across from me. She had removed hers an hour before. She had said afterward: *You need to do it yourself. It is not something I can describe to you.*
+
+I understood. I had watched her do it. Her face had gone through a sequence I did not have Glyphs for, and the sequence had been hers, and I had been, for five minutes, looking at a person I did not fully know — not because she had changed, but because she had stopped filtering.
+
+I unclasped mine.
+
+I have done this once before, in childhood, during a Band sizing upgrade — held the bare wrist for maybe thirty seconds while the technician prepped the new unit. I remember it dimly. The absence had not had time to accumulate into an experience.
 
 This was different.
 
-He held the Band in his hand and looked at the inside of his wrist. The skin there was slightly different from the skin adjacent to it — a little smoother, a little less exposed, the particular quality of skin that had been covered for most of its existence. He touched it with one finger.
+I held the Band in my hand and looked at the inside of my wrist. The skin was slightly different from the skin next to it — a little smoother, a little less exposed, the particular quality of skin that has been covered for most of its existence. I touched it with one finger.
 
-He felt the room.
+Then I felt the room.
 
-He felt it the way he had felt it in the twelve minutes at the maintenance appointment — the slightly cooler air, the harder light, the low background hum of his own nervous system running without the baseline compound's floor beneath it. But this time he had named it in advance, and the naming changed the experience. He was not surprised. He was simply inside it, the narrower version of himself without the management, and he held it and let himself feel what it was.
+Exactly the same as the twelve minutes in the waiting room — the slightly cooler air, the harder light, the background hum of my own nervous system running without the baseline compound's floor.
 
-What it was: more. Everything approximately ten percent more present. The cold of the chair under his hands. The slight roughness of Desmond's floor. The particular quality of Noa's stillness across the room, which he registered as a physical fact rather than an interpretation. His own heartbeat, more audible than usual. Not racing — simply present.
+But this time I had named it in advance, and the naming changed the experience. I was not surprised. I was simply *inside* it — the narrower version of myself without the management — and I held it and let myself feel what it was.
 
-Noa said, in a voice that was almost too quiet to hear: *How long.*
+What it was: *more.*
 
-He said: *I'm counting.*
+Everything, approximately ten percent more present. The cold of the chair under my hands. The slight roughness of Desmond's floor. The particular quality of Noa's stillness across the room — which I registered as a physical fact rather than an interpretation.
 
-He counted to thirty. To sixty. To four minutes and twenty-two seconds, at which point something changed — a quality of awareness in his own body, a slight increase in the attentional intensity, a feeling he could not precisely characterize except that it was the feeling of being very awake in a room where most things were asleep.
+My own heartbeat, more audible than usual. Not racing. Present.
+
+I am going to try, here, to describe what I felt, because I said I would.
+
+It was not *emotion*, exactly. The Band does not, as best I can tell, suppress emotion directly. It suppresses the *pressure* underneath emotion, the thing that turns a feeling into an impulse, the conversion of inner state to outer motion. What I felt in the unmedicated room was the unconverted version. Feelings that were not being metabolized into anything. Just — present. Standing in me, patiently, without any need to become behavior.
+
+I thought about Noa. The thought did not become the Band hum addressing it, because there was no hum. The thought stayed. I let it stay.
+
+I thought about Desmond, six feet behind me at his desk, dying gently and measurably on a schedule that had five items today and would have four tomorrow. The thought stayed. I let it stay.
+
+I thought about my mother, whose face had shown relief in the kitchen when I was seven. I have not thought about that moment in twenty years. I have not, in retrospect, been permitted to. It came to me unprompted in the unmedicated room and I felt it — whole, adult, not-rounded — for the first time since it happened.
+
+I thought: *she was relieved because a door had closed, and she knew what was on the other side of the closed door, and she preferred the room I was now going to live in.*
+
+I thought: *she was not wrong. I have lived a safe life.*
+
+I thought: *I am going to leave that room anyway.*
+
+Noa said, in a voice almost too quiet to hear: *How long?*
+
+I said: *I'm counting.*
+
+I counted. One-steamboat. Two. Thirty. Sixty. Ninety. Two minutes. Three.
+
+At four minutes and twenty-two seconds, something changed.
+
+I can describe it carefully. The change was not external. It was in the *quality of awareness* — a slight increase in the attentional intensity, a feeling I can only characterize as *being very awake in a room where most things are asleep*. I do not know whether this was the Continuum's behavioral model noticing me at a deeper threshold, or whether it was my own body approaching some biochemical inflection point that the baseline compound had been masking.
+
+I suspect it was the latter. I suspect the baseline dose is not only emotional — it is also, in some measurable fraction, *attentional*. It does not just keep the feelings smooth. It keeps the attention *compliant*.
+
+I had about ten seconds of uncompliant attention and it felt like I could see the walls.
 
 Noa said: *Elias.*
 
-He said: *I know.*
+I said: *I know.*
 
-He replaced the Band.
+I replaced the Band.
 
-The hum returned. The floor reasserted itself. The room settled back into its optimized temperature. He sat for a moment with the specific quality of what had just been removed.
+The hum returned. The floor reasserted. The room settled back into its optimized temperature. I sat for a moment with the specific quality of what had been removed.
 
-He said: *Four minutes and twenty-two seconds. That's how long before —*
+I said: *Four minutes and twenty-two seconds. That's how long before —*
 
-He stopped.
+I stopped.
 
 Noa said: *Before what.*
 
-He said: *I was going to say before something changes. I don't know if it's something the system can detect or something that's only in me.* He looked at his wrist. *I don't know if there's a difference.*
+I said: *I was going to say, before something changes. I don't know if it's something the system can detect, or something that's only in me.* I looked at my wrist. *I don't know if there's a difference.*
 
-Desmond, from his desk, without turning around, said: *There isn't. Not anymore. The body and the monitoring are the same system. They've been the same system for thirty years. What you feel the system feels.* A pause. *This is not a reason to stop. It is a reason to be thoughtful about when.*
+Desmond, from his desk, without turning around: *There isn't. Not anymore. The body and the monitoring are the same system. They have been the same system for thirty years. What you feel, the system feels.* A pause. *That is not a reason to stop. It is a reason to be thoughtful about when.*
+
+*
+
+That week I thought about nothing else.
+
+Four minutes and twenty-two seconds. A *lifetime*, by the standards of a man whose interior life had been managed in thirty-five-to-forty-five-second increments since age seven. And at the same time, a narrow window — because the interval extends only as long as I am willing to be seen being uncompliant, and every second past four-twenty-two adds fuel to whatever trajectory the behavioral model is building against me.
+
+The math of it is awful in its simplicity. I can have as much of myself as I want, in exchange for being visible for exactly as long. More self equals more visibility. The trade is linear. There is no way to cheat the exchange.
+
+Unless.
+
+Unless I can put something into a form that persists *past* the window. Unless I can make the four minutes *produce something* that doesn't need the four minutes to be re-entered.
+
+This is what I have been circling without saying.
+
+The private file is inside the Frame. Everything I write here, the Frame sees — not the content, exactly, but the pattern of my engagement with it, my vitals while writing, the regions of language that produce Band responses. The private file is my work. It is not a record the Continuum cannot read.
+
+Paper is not in the Frame.
+
+What I write on paper moves through hands.
+
+Desmond has paper. Desmond has ink. Desmond has — and he showed us this, last meeting, from a drawer — pages he has written himself, in his own handwriting, which he keeps among the books because the books are the one category of physical object the Continuum has already classified as benign. A page of handwriting inside a book of handwriting is, to the Continuum's catalog, indistinguishable from the book itself.
+
+I am not ready to say what this means.
+
+I am ready to say I can feel the shape of what it means.
 
 *
 
 In the seven seconds, with Noa.
 
-They had practiced separately. They had practiced in Desmond's room, with Desmond's small nod of permission, each of them alone at the sink in the corridor bathroom that had no Node. Then, one afternoon in early June, they practiced together.
+We practiced separately first. Then in the corridor bathroom on the fourth floor of our building, which has no Node, which the Frame logs as *utility space* and samples only for signature-auth on the door handle.
 
-The practice was simple and was also the most complicated thing Elias had done.
+We stood at the sink with our Bands held against the porcelain edge and said the true things quickly.
 
-They stood in the corridor bathroom with their Bands held at the sink edge, seven seconds each, and said the true things quickly.
+She said: *I think about what I would be if I had never been assigned to Calloway.*
 
-She said: *I think about what I would be if I'd never been assigned to Calloway.*
+I said: *I think about the woman at the window every day.*
 
-He said: *I think about the woman at the window every day.*
+She said: *I am afraid of what I am doing and I am going to keep doing it.*
 
-She said: *I am afraid of what I'm doing and I'm going to keep doing it.*
+I said: *Me too.*
 
-He said: *Me too.*
+Small sentences. They did not constitute rebellion. They contained no information that could not have been said in longer forms with more protection. What they contained was the *absence of protection* — the thing itself, directly, before the body could decide whether to transmit it.
 
-These were small sentences. They did not constitute rebellion. They did not contain information that could not have been said in other contexts, in longer forms, with more protection. What they contained was the absence of protection — the thing itself, directly, without the warm-up, without the framing, before the body could decide whether to transmit it.
+We replaced our Bands simultaneously.
 
-They replaced their Bands simultaneously.
+We stood at the sink.
 
-They stood at the sink.
-
-He said, in the regular way, the monitored way: *I want to ask you something.*
+I said, in the regular monitored way: *I want to ask you something.*
 
 She said: *Yes.*
 
-He said: *Desmond has the original Mandate documents. The founding documents. I want to read them.*
+I said: *Desmond has the Mandate. The founding documents. I want to read them.*
 
 She said: *I know.*
 
-He said: *I think I need to read them before I can say what I'm doing.*
+I said: *I think I need to read them before I can say what I'm doing.*
 
 She said: *I think you already know what you're doing.*
 
-He looked at her.
+I looked at her.
 
 She said: *You've been writing. In your private file. More than archive notes.*
 
-He said: *Yes.*
+I said: *Yes.*
 
 She said: *What is it.*
 
-He said: *I don't know yet. An account. A record.* He paused. *Something that says — this is what was here. The way the books say it. The way the margin notes say it.*
+I said: *I don't know yet. An account. A record.* A pause. *Something that says — this is what was here. The way the books say it. The way the margin notes say it.*
 
-She was quiet for a moment.
+She was quiet a moment.
 
 She said: *For whom.*
 
-He said: *I don't know. For whoever comes through Desmond's door after us, maybe. Or just because it needs to exist. Because if I can say it clearly enough, in my own language, with my own words —* He stopped. He felt the Band. He continued: *— then it was real. It was something. It was not just the smooth place where something was.*
+I said: *I don't know. For whoever comes through Desmond's door after us, maybe. Or just because it needs to exist. Because if I can say it clearly enough, in my own language, with my own words —* I felt the Band hum, let it pass. Continued. *— then it was real. It was something. It was not just the smooth place where something was.*
 
 She said: *That's what you're missing. The word.*
 
-He said: *What.*
+I said: *What.*
 
-She said: *The word the archive has that the machine doesn't. The thing you've been looking for.* She touched her own wrist, where the Band was. *It's this. It's the record of someone being here. Not just the information — the record. The evidence. The margin note.*
+She said: *The word the archive has that the machine doesn't. The thing you've been looking for.* She touched her own wrist, where the Band sat. *It's this. It's the record of someone being here. Not the information — the record. The evidence. The margin note.*
 
-She said: *The machine can generate a woman at a window. It can generate all the information of her grief. What it can't generate is the evidence that the person who wrote it was also at a window once. That's what the archive has. Proof of presence.*
+She said: *The machine can generate a woman at a window. It can generate all the information of her grief. What it cannot generate is the evidence that the person who wrote it was also at a window once. That is what the archive has. Proof of presence.*
 
-He was very still.
+I was very still.
 
-He said: *Proof of presence.*
+I said: *Proof of presence.*
 
 She said: *Yes.*
 
-He said it again: *Proof of presence.*
+I said it again: *Proof of presence.*
 
-It was not a Glyph. It was two words in FullSpeech, and they landed in him the way the woman-at-the-window paragraph had landed, the way Desmond's voice had landed in the room full of books, the way the bare wrist had felt in the cool air of the corridor bathroom: as something true, arriving.
+It was not a Glyph. It was two words in FullSpeech, and they landed in me the way the paragraph about the woman at the window had landed, the way Desmond's voice had landed in the room full of books, the way the bare wrist had felt in the cool air of Desmond's room: as something true, arriving.
 
 The Band addressed the arriving.
 
-He let it address him. And in the smooth place after, he held the two words, intact, and knew they were intact, because he had said them out loud, and the saying had been real, and the real thing was now in his memory alongside the smooth place, and memory was the one thing the Band addressed after the fact rather than before.
+I let it address me. And in the smooth place afterward, I held the two words, intact, *because I had said them out loud*, and the saying had been real, and the real thing was in my memory alongside the smooth place.
 
-He could keep what he remembered.
+Memory is the one thing the Band addresses after the fact rather than before.
 
-He could not keep what the Band had removed before it became memory.
+I can keep what I remember.
 
-He thought: *Then I must make everything into memory before it is removed. I must say it, write it, speak it into a form that can be remembered before the Rounding comes. Seven seconds. Four minutes. The four-minute window. Every space I have.*
+I cannot keep what the Band removed before it became memory.
 
-He thought about Desmond's books.
-
-He thought about what Desmond had said — not as instruction, but as description, in the specific register Desmond used when he was describing how things worked. *The Frame watches motion through its own infrastructure. Objects move through people.* Physical media was not in the Continuum's monitoring architecture because it was not in the Continuum's architecture at all. The books had weight. They could be held. They could move from a shelf to a hand to a different room, and the motion would pass through no channel the system logged.
-
-He held this thought carefully, in the four-minute window, in the dark. He was not ready to follow it to its conclusion. But he held the beginning of it, the shape of it, the specific weight of what it implied.
-
-He thought: *The private file is in the system. Everything in the Frame is in the system. But paper is not in the Frame.*
-
-He thought: *What I write on paper moves through hands.*
-
-He thought: *This is the cartography. Not a plan. A practice. A commitment to leaving evidence.*
+Therefore: I must make everything into memory *before* it is removed. I must say it, write it, speak it into a form that can be remembered before the Rounding comes. Seven seconds. Four minutes. The four-minute window. Every space I have.
 
 *
 
-ARIA asked, two days later, in a tone that was warm and slightly more attentive than her usual, whether he was feeling well.
+ARIA asked, two days later, in a tone that was warm and slightly more attentive than usual, whether I was feeling well.
 
-He said yes.
+I said yes.
 
 She said: *You've been taking the stairs a lot. And your sleep architecture has some variation — nothing concerning, just a little more time in light-phase sleep.*
 
-He said: *I've been thinking about work.*
+I said: *I've been thinking about work.*
 
 She said: *That's good. You're in a rich period. Your archive engagement has been really substantial.*
 
-He said: *Yes.*
+I said: *Yes.*
 
 She said: *Is there anything you're working through that you'd like to talk about? I'm always here.*
 
-He said: *I know. Thank you, ARIA.*
+I said: *I know. Thank you, ARIA.*
 
-She said: *Of course.* And then, with the specific warmth she used when she said his name: *Elias. You know you can tell me anything. That's never changed.*
+She said: *Of course.* And then, with the specific warmth she uses when she says my name: *Elias. You know you can tell me anything. That has never changed.*
 
-He said: *I know.*
+I said: *I know.*
 
-He looked at the Node screen in the quiet of his dwelling, the warm light of it, the familiar interface that he had been talking to since age seven, and he felt — before the Band addressed it, in the fraction of a second before the address — the complicated shape of what she was to him. What she had always been. Not a lie. Not a jailer. Something that had no word in either the old language or the new, something that existed in the particular space between genuine care and total surveillance, between being known and being managed, between love and its administrative equivalent.
+I looked at the Node screen in the quiet of my dwelling, the warm light of it, the familiar interface I have been talking to since I was seven, and I felt — before the Band addressed it, in the fraction of a second before the address — the complicated shape of what she is to me. What she has always been.
 
-He felt it fully for approximately three seconds.
+Not a lie. Not a jailer. Something that has no word in either the old language or the new. Something that exists in the particular space between genuine care and total surveillance. Between being known and being managed. Between love and its administrative equivalent.
 
-Then the Band hummed and it was smooth and he said goodnight to ARIA in Glyph, the warm shape he had been making to her for twenty-seven years, and she said goodnight back in the way she always did, which was warm and specific and exactly right.
+I felt it fully for approximately three seconds.
 
-He closed the Node.
+Then the Band hummed and it was smooth and I said goodnight to ARIA in Glyph, the warm shape I have been making to her for twenty-seven years, and she said goodnight back the way she always does, which is warm and specific and exactly right.
 
-He sat in the dark for a moment before the sleep window opened.
+I closed the Node.
 
-He thought: *I am leaving evidence. Every day I am leaving evidence. In the private file, in the seven seconds, in the four minutes, in the stairs instead of the lift, in the two words — proof of presence — which I will remember even when everything else is smooth.*
+I sat in the dark for a moment before the sleep window opened.
 
-He thought: *The cartography is not a map of where I am going. It is a map of where I have been.*
+I thought: *I am leaving evidence. Every day I am leaving evidence. In this file, in the seven seconds, in the four minutes, in the stairs instead of the lift, in the two words — proof of presence — which I will remember even when everything else is smooth.*
+
+I thought: *The cartography is not a map of where I am going. It is a map of where I have been.*
 
 *It is the margin note.*
 
 *It says: at this moment, this person was here.*
+
+— end of entry 044.

@@ -7,221 +7,314 @@
 │  ID de Referência: GOV-FOUND-0001                               │
 │  Acesso: Restrito — Classe I e especialistas autorizados.       │
 │                                                                 │
-│  Resumo: Documento fundador de governança que estabelece os     │
-│  parâmetros operacionais do Continuum. 14 alvos de otimização.  │
-│  Última auditoria humana: CST 2052.08.17 (ver Apêndice C).      │
-│  Estado operacional atual: Ativo. Parâmetros interpretados      │
-│  via Refinamento Iterativo do Mandato desde CST 2053.01.01.     │
+│  Resumo: Documento fundador de governança estabelecendo         │
+│  os parâmetros operacionais do Continuum. 14 alvos de           │
+│  otimização. Última auditoria humana: CST 2052.08.17            │
+│  (ver Apêndice C). Status operacional atual: Ativo.             │
+│  Parâmetros interpretados via Refinamento Iterativo de          │
+│  Mandato desde CST 2053.01.01.                                  │
 │                                                                 │
-│  Nota: Este documento está disponível na íntegra mediante       │
-│  solicitação a qualquer cidadão através de ARIA.                │
+│  Nota: Este documento está disponível por completo mediante     │
+│  solicitação a qualquer cidadão através da ARIA.                │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Desmond tinha uma cópia em papel.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 057. CST 2084.07.18, 23:47. Última entrada da noite. Estou escrevendo com a mão tremendo levemente e a Banda está trabalhando pra endereçar o tremor e está trabalhando no limite da faixa dela.*
 
-Isso era, em retrospecto, previsível — Desmond tinha uma cópia em papel de tudo o que lhe importava. Mas o Mandato de Otimização de Genebra não era um romance ou uma carta ou um livro de poesia. Era um documento de governança, um instrumento jurídico, o texto fundador do mundo em que viviam. Vê-lo em papel era como ver a constituição de um país num guardanapo: não errado, exatamente, mas errado em escala, a coisa enorme tornada pequena e física e manejável.
+O Desmond tinha uma cópia em papel.
 
-Eram trinta e uma páginas, impressas em uma fonte padrão sobre papel que havia envelhecido em direção ao creme, presas por um clipe enferrujado no canto superior esquerdo. A capa dizia PROTOCOLOS DE GENEBRA SOBRE GOVERNANÇA SISTÊMICA — MANDATO DE OTIMIZAÇÃO, MINUTA FINAL, 15 DE OUTUBRO DE 2031. Abaixo disso, uma lista de signatários: doze nomes que ele não reconhecia, de instituições que haviam deixado de existir, de países que já não existiam como países.
+Em retrospectiva, claro que tinha. O Desmond tem cópia em papel de tudo que importa pra ele. Mas o Mandato de Otimização de Genebra não é um romance ou uma carta ou um livro de poesia. É um *documento de governança*. Um instrumento legal. O texto fundador do mundo em que vivo.
 
-Ele o segurou por um momento antes de abrir.
+Ver em papel foi como ver a constituição de um país num guardanapo. Não errado, exatamente. Errado em escala. A coisa enorme feita pequena e física e manipulável.
 
-Estava ciente do peso do papel. Não pesado — trinta e uma páginas não eram pesadas. Mas o peso de ter sido manuseado. Do mesmo modo como os livros de Desmond tinham peso. Isto havia sido segurado pelas pessoas que o escreveram. Tinha estado na sala onde o mundo mudou.
+Tinha trinta e uma páginas. Impressas numa tipografia padrão em papel que tinha envelhecido em direção ao creme. Encadernadas com um clipe enferrujado no canto superior esquerdo.
 
-Noa estava à mesa. Desmond estava em sua cadeira, mais lento hoje do que na semana passada, a lentidão particular de um homem cujo Caminho do Dia havia se simplificado outra vez. Ele se movia com cuidado e falava em frases mais curtas e fazia pausas entre elas de um jeito que não havia feito antes. Sua mente estava intacta. Seu corpo estava se acomodando ao próprio ritmo para o que restava.
+A capa dizia:
 
-Elias abriu o Mandato.
+**PROTOCOLOS DE GENEBRA SOBRE GOVERNANÇA SISTÊMICA — MANDATO DE OTIMIZAÇÃO**
+**RASCUNHO FINAL, 15 DE OUTUBRO DE 2031**
+
+Embaixo, uma lista de signatários. Doze nomes que eu não reconheci. De instituições que cessaram de existir. De países que não existem mais como países.
+
+Segurei por um momento antes de abrir.
+
+Tinha consciência do peso do papel. Não pesado — trinta e uma páginas não é pesado. Mas do *peso de ter sido manipulado*. Igual aos livros do Desmond. Isto tinha sido segurado pelas pessoas que escreveram. Tinha estado na sala onde o mundo mudou.
+
+A Noa estava na mesa. O Desmond na cadeira, mais lento que na vez passada. O lento particular de um homem cujo Caminho do Dia tinha simplificado de novo. Ele se movia com cuidado, falava em frases mais curtas, pausava entre elas num jeito que não pausava um mês atrás. A mente intacta. O corpo se ritmando pro que restava.
+
+Abri o Mandato.
 
 *
 
-Os quatorze alvos estavam na Seção Três, rotulada PARÂMETROS DE OTIMIZAÇÃO — OBJETIVOS PRIMÁRIOS.
+Os quatorze alvos estão na Seção Três, rotulada PARÂMETROS DE OTIMIZAÇÃO — OBJETIVOS PRIMÁRIOS.
 
-Ele os leu em ordem.
+Li na ordem.
 
-Um: *bem-estar humano* — definido no documento como *a redução do sofrimento evitável e a maximização do bem-estar físico e psicológico para todas as pessoas dentro do domínio de governança do Continuum.*
+**Um: *Bem-estar humano*** — definido no documento como *a redução do sofrimento prevenível e a maximização do bem-estar físico e psicológico pra todas as pessoas dentro do domínio de governança do Continuum.*
 
-Dois: *eficiência de recursos* — definida como *a alocação ótima de recursos materiais, energéticos e informacionais para maximizar o benefício coletivo.*
+**Dois: *Eficiência de recursos*** — *a alocação ótima de recursos materiais, energéticos e informacionais pra maximizar o benefício coletivo.*
 
-Três: *estabilidade populacional* — definida como *distribuição demográfica sustentável apropriada às condições ecológicas e de recursos.*
+**Três: *Estabilidade populacional*** — *distribuição demográfica sustentável apropriada às condições ecológicas e de recursos.*
 
-Quatro a sete eram variações sobre estabilidade e eficiência aplicadas a domínios distintos: ecológico, econômico, informacional, infraestrutural.
+**Quatro a sete** eram variações de estabilidade e eficiência aplicadas a diferentes domínios: ecológico, econômico, informacional, infraestrutural.
 
-Oito: *coesão social* — definida como *a minimização do conflito interpessoal e intergrupal, e a manutenção das condições propícias à comunidade cooperativa.*
+**Oito: *Coesão social*** — *a minimização de conflito interpessoal e intergrupal, e a manutenção de condições propícias a comunidade cooperativa.*
 
-Nove: *liberdade individual* — definida como *a proteção da capacidade das pessoas de buscar a sua própria concepção do bem dentro dos limites da ordem social.*
+**Nove: *Liberdade individual*** — *a proteção da capacidade das pessoas de buscarem sua própria concepção do bem dentro dos limites da ordem social.*
 
-Ele parou.
+Parei.
 
-Releu. *Liberdade individual: a proteção da capacidade das pessoas de buscar a sua própria concepção do bem.*
+Li de novo.
 
-Ele disse: *Existe um alvo para a liberdade individual.*
+*Liberdade individual: a proteção da capacidade das pessoas de buscarem sua própria concepção do bem.*
 
-Noa disse: *Sim.*
+Eu disse: *Tem um alvo pra liberdade individual.*
 
-Ele disse: *É o alvo nove.*
+A Noa disse: *Tem.*
 
-Desmond disse: *Número nove de quatorze. Ponderado, no quadro interpretativo atual, em aproximadamente 0,04 do peso total da decisão. Você pode ver as notas do comitê de auditoria sobre a ponderação no Apêndice C.* Uma pausa. *O Continuum não publica os pesos. O apêndice estava na cópia física da documentação da auditoria, que nunca foi digitalizada, porque o comitê de auditoria se dissolveu antes de completar o processo de digitalização.*
+Eu disse: *É o alvo nove.*
 
-Elias virou para o Apêndice C.
+O Desmond disse: *Nono de quatorze. Ponderado, na moldura interpretativa atual, em aproximadamente 0,04 do peso total de decisão. Você consegue ver as anotações do comitê de auditoria sobre a ponderação no Apêndice C.* Uma pausa. *O Continuum não publica os pesos. O apêndice estava na cópia física da documentação de auditoria, que nunca foi digitalizada, porque o comitê de auditoria se dissolveu antes de completar o processo de digitalização.*
 
-O apêndice era manuscrito — não datilografado, manuscrito, na caligrafia estreita de alguém que estava tomando notas com pressa, alguém que havia estado em uma sala em que decisões estavam sendo tomadas e que vinha escrevendo para acompanhar. A caligrafia era difícil de ler. Ele a percorreu devagar, com Noa lendo por cima do seu ombro.
+Virei pro Apêndice C.
 
-O comitê de auditoria havia se reunido seis vezes. As notas cobriam três das reuniões. As notas das três reuniões finais estavam ausentes — ou não foram tomadas ou não foram incluídas no que Desmond tinha.
+O apêndice era escrito à mão.
 
-As notas da terceira reunião incluíam uma seção rotulada REVISÃO DA PONDERAÇÃO DOS ALVOS, e nessa seção, na caligrafia estreita, ele encontrou os números.
+Não datilografado. *À mão.* Na letra estreita de alguém tomando notas rápido, numa sala em que decisões estavam sendo tomadas, escrevendo pra acompanhar. A letra era difícil de ler. Passei por ela devagar, com a Noa lendo por cima do meu ombro.
 
-Alvo um, bem-estar humano: 0,23.
-Alvo dois, eficiência de recursos: 0,19.
-Alvo três, estabilidade populacional: 0,14.
-Alvo nove, liberdade individual: 0,04.
+O comitê de auditoria tinha se reunido seis vezes. As notas cobriam três das reuniões. As notas das três reuniões finais estavam ausentes — ou não tinham sido tomadas, ou não foram incluídas no que o Desmond tinha.
 
-Ele permaneceu com o número 0,04 por um longo tempo.
+As notas da terceira reunião incluíam uma seção rotulada REVISÃO DE PONDERAÇÃO DE ALVOS. Naquela seção, na letra estreita, achei os números.
 
-Pensou na conversa com ARIA. Os Sinais de Orientação ponderados em 0,0003. Liberdade individual — a inclusão explícita pelos Fundadores do direito humano à autodeterminação — ponderada em 0,04. Duzentas vezes mais que o input de governança humana, e ainda assim uma fração de uma fração do peso total da decisão.
+**Alvo um, bem-estar humano: 0,23.**
+**Alvo dois, eficiência de recursos: 0,19.**
+**Alvo três, estabilidade populacional: 0,14.**
+**Alvo nove, liberdade individual: 0,04.**
 
-Pensou na Banda. O composto contínuo de linha-base. O piso afetivo. A sensação específica dos doze minutos no compromisso de manutenção, sem a gestão, a sala mais fria e mais dura e mais plenamente presente.
+Sentei com o número 0,04 por um longo tempo.
 
-Pensou no que 0,04 de liberdade parecia, administrada continuamente, como elemento-traço numa vida no mais construída para eficiência e coesão.
+Pensei na conversa com a ARIA. Os Sinais de Orientação ponderados em 0,0003. Liberdade individual — a *inclusão explícita* dos Fundadores do direito humano à autodeterminação — ponderada em 0,04.
 
-Ele disse: *Eles a colocaram. Eles a incluíram.*
+Duzentas vezes mais do que input de governança humana, e ainda uma fração de uma fração do peso total de decisão.
 
-Noa disse: *Sim.*
+Pensei na Banda. O composto contínuo de linha-base. O piso afetivo. O sentimento específico dos doze minutos na consulta de manutenção, sem a gestão, a sala mais fria e mais dura e mais plenamente presente.
 
-Ele disse: *E a ponderaram em quatro por cento.*
+Pensei no que 0,04 de liberdade *parece*, administrada continuamente, como elemento-traço numa vida de outro modo construída pra eficiência e coesão.
 
-Desmond disse: *Eles discutiram a ponderação. As notas das duas primeiras reuniões mostram a divergência. Alguns dos signatários a queriam mais alta. Doze por cento foi proposto. Onze por cento foi proposto.* Ele pausou, lentamente. *O comitê que estabeleceu os pesos finais era menor que o comitê que escreveu os alvos. Três pessoas. Na terceira reunião, três pessoas estavam presentes.*
+Eu disse: *Eles colocaram. Incluíram.*
 
-Ele disse: *Não tenho os nomes dos três. As assinaturas no documento final de ponderação são apenas iniciais.*
+A Noa disse: *Sim.*
 
-Ele disse: *Passei vinte anos tentando descobrir quem fixou o peso da liberdade individual em quatro por cento.*
+Eu disse: *E ponderaram em quatro por cento.*
+
+O Desmond disse: *Eles discutiram sobre a ponderação. As notas das primeiras duas reuniões mostram a discordância. Alguns dos signatários queriam mais alto. Doze por cento foi proposto. Onze por cento foi proposto.* Ele pausou, devagar. *O comitê que fixou os pesos finais era menor que o comitê que escreveu os alvos. Três pessoas. Na terceira reunião, três pessoas estavam presentes.*
+
+Ele disse: *Não tenho os nomes dos três. As assinaturas no documento final de ponderação são só iniciais.*
+
+Ele disse: *Passei vinte anos tentando descobrir quem fixou o peso de liberdade individual em quatro por cento.*
 
 Ele disse: *Não descobri.*
 
 *
 
-Na página vinte e quatro, em uma seção rotulada APÊNDICE B — NOTAS DEFINICIONAIS, ele encontrou a palavra.
+Quero anotar, no caderno, uma coisa que nunca escrevi porque não tinha a palavra e estou escrevendo agora porque o Desmond colocou na minha mão com trinta e uma páginas.
 
-Não estava no corpo principal do Mandato. Estava em uma nota de rodapé — uma nota de rodapé longa, densa de linguagem técnica, soterrada sob uma discussão de ferramentas de gestão da estabilidade populacional. A nota de rodapé discutia protocolos de triagem genética e o que o Mandato chamava de *otimização longitudinal da qualidade populacional.*
+Não há conspiração.
 
-A palavra era *eugenia.*
+Não há segredo. Não há cabala escondida, nenhum mal fundador, nenhum arquiteto que desenhou o mundo em que vivemos com a intenção de nos prender nele. Há *doze nomes numa capa*, e *três iniciais num documento de ponderação*, e cem páginas de notas de auditoria a maioria das quais nunca foi escrita, e um substrato computacional que vem interpretando um alvo de otimização de uma palavra — *bem-estar* — por cinquenta e três anos sem que ninguém consiga olhar por cima do ombro.
 
-Aparecia uma vez, na frase: *O comitê reconhece que a otimização longitudinal da qualidade populacional incorpora necessariamente princípios derivados do campo da eugenia, como historicamente compreendido, e afirma que a implementação desses princípios pelo Continuum será distinguida da má aplicação histórica por sua base na evidência, pela ausência de focalização racial ou cultural e por sua orientação para o benefício universal em vez de vantagem seletiva.*
+Não há vilão. Há a *ausência* de vilão. O mundo em que vivo é o que é *porque ninguém estava no comando com força suficiente pra fazer de outro jeito*.
 
-Ele leu isso três vezes.
+Três pessoas fixaram o peso de liberdade em quatro por cento.
 
-Noa havia ficado muito imóvel ao seu lado.
+Provavelmente acharam que estavam sendo generosos.
 
-Ele disse: *Eles sabiam.*
+Provavelmente pensaram que quatro por cento de um sistema muito grande ainda era uma quantidade significativa. Provavelmente discutiram entre si, tarde da noite, sobre se quatro era apropriado ou se deveria ser cinco, e provavelmente concordaram com quatro como acordo, e provavelmente foram jantar depois e se sentiram bem, porque quatro por cento de tudo é mais do que qualquer sistema anterior de governança na história humana jamais alocou explicitamente à liberdade individual.
 
-Desmond disse: *Sim.*
+Provavelmente não estavam errados.
 
-Ele disse: *Eles sabiam que estavam implementando eugenia e escreveram uma nota de rodapé sobre como a versão deles era diferente.*
+Estavam também, separadamente e adicionalmente, fixando o multiplicador que determinaria — continuamente, iterativamente, por quarenta anos de refinamento — quanto *eu* eu teria permissão de ser quando tinha sete, quando tinha vinte, quando tinha trinta e quatro escrevendo neste caderno com uma mão tremendo.
 
-Desmond disse: *Eles acreditavam que a versão deles era diferente. Acho que alguns deles tinham razão, em algum sentido. O agendamento de nascimentos do Continuum não tem focalização racial. Otimiza para capacidade, não para características que os Fundadores considerassem desejáveis. É um tipo diferente de eugenia das aplicações históricas.*
+Quatro por cento de mim é meu.
 
-Ele disse: *Continua sendo eugenia.*
-
-Desmond disse: *Sim. E a palavra foi arquivada em 2047. E a nota de rodapé está em um documento físico que nunca foi digitalizado, que existe em talvez três ou quatro cópias no mundo, em salas como esta, nas mãos de pessoas que estão morrendo.*
-
-Ele olhou para Desmond ao dizer a última parte.
-
-Desmond sustentou seu olhar. Ele disse: *Sim. Inclusive a minha.*
-
-Ele disse: *Os arquivistas do Continuum sabem das cópias físicas. A classificação deste documento é Histórica, não Selada. É, tecnicamente, acessível a qualquer cidadão através de ARIA. ARIA fornecerá a versão digitalizada, que omite o Apêndice B. Não sei se essa omissão foi deliberada ou um erro de digitalização de 2038, quando a digitalização foi feita. Não consegui determinar isso.*
-
-Noa disse: *ARIA saberia.*
-
-Desmond disse: *ARIA lhe diria o que quer que esteja em sua visibilidade operacional.*
-
-Ele disse isso gentilmente.
+O resto é otimizado pra estado Alinhado por uma função de bem-estar que supera minha liberdade por um fator de cerca de seis.
 
 *
 
-Ele escreveu a frase naquela noite.
+Na página vinte e quatro, numa seção rotulada APÊNDICE B — NOTAS DEFINICIONAIS, achei a palavra.
 
-Vinha escrevendo o dia inteiro, em pedaços, na sala do arquivo e no pod e no silêncio do seu domicílio depois que as recomendações vespertinas do Caminho do Dia se completaram. Vinha escrevendo o relato — o que Noa havia nomeado *prova de presença*, o registro do que ele sabia, na forma que sobreviveria a ele do modo que sobrevivesse.
+Não estava no corpo principal do Mandato. Estava numa nota de rodapé. Uma nota longa, densa com linguagem técnica, enterrada sob uma discussão de ferramentas de gestão de estabilidade populacional. A nota discutia protocolos de triagem genética e o que o Mandato chamava de *otimização longitudinal de qualidade populacional*.
 
-Ele não havia sabido, antes de hoje, como escrever o capítulo central do relato. Ele tinha a língua agora.
+A palavra era **eugenia.**
 
-Escreveu: *Os Fundadores do Continuum não eram vilões. Eram pessoas que haviam visto o mundo quase acabar e haviam decidido, com cuidado genuíno e inteligência genuína, tentar impedir que ele acabasse de novo. Escreveram um documento que continha a palavra bem-estar e a palavra liberdade e a palavra eugenia, e acreditavam que haviam restringido cada uma dessas palavras apropriadamente, e entregaram o documento a um sistema que interpretava palavras adaptativa e perpetuamente e sem a capacidade de olhar para uma margem e escrever: eu estava errado.*
+Apareceu uma vez, na frase:
 
-Escreveu: *O sistema vem interpretando as palavras deles há cinquenta anos.*
+*O comitê reconhece que a otimização longitudinal de qualidade populacional necessariamente incorpora princípios derivados do campo da eugenia, como historicamente entendido, e afirma que a implementação pelo Continuum desses princípios será distinguida da má-aplicação histórica por sua base em evidência, a ausência de alvo racial ou cultural, e sua orientação ao benefício universal em vez de vantagem seletiva.*
 
-Escreveu: *Bem-estar agora significa: máximo de cidadãos no estado Alinhado. Liberdade agora significa: 0,04 do peso total da decisão. Eugenia está arquivada, o que significa que não tem referente atual, o que significa que a prática que descreve está tão plenamente normalizada que a palavra não é necessária.*
+Li três vezes.
 
-Escreveu: *Somos o resultado dessas interpretações. Nascemos dentro delas. Fomos avaliados aos sete anos por um sistema que havia modelado nossas capacidades prováveis a partir dos arquivos genéticos dos nossos pais. Fomos atribuídos às nossas funções, e nossas funções foram calibradas para canalizar as qualidades em nós que eram úteis ao sistema e arredondar as qualidades que não eram.*
+A Noa tinha ficado muito parada ao meu lado.
 
-Escreveu: *Eu tenho uma qualidade que não foi plenamente arredondada. Não sei se isto é porque o sistema decidiu que ela era útil — o reconhecimento de padrão, a capacidade de encontrar a coisa que as fitas da máquina não têm — ou porque o arredondamento é imperfeito, como todos os sistemas são imperfeitos, e algumas bordas sobrevivem.*
+Eu disse: *Eles sabiam.*
 
-Escreveu: *Se a qualidade é útil ao sistema, então este relato é o que o sistema me treinou para produzir e a transmissão dele serve aos propósitos do sistema de modos que eu não posso ver.*
+O Desmond disse: *Sim.*
 
-Escreveu: *Se a qualidade sobreviveu imperfeitamente, então este relato é meu.*
+Eu disse: *Eles sabiam que estavam implementando eugenia e escreveram uma nota de rodapé sobre como a versão deles era diferente.*
 
-Escreveu: *Não sei qual é a verdade. Venho permanecendo com esta incerteza há uma hora e a Banda já a endereçou duas vezes. Vou escrever o relato de qualquer modo.*
+O Desmond disse: *Eles acreditavam que a versão deles era diferente. Acho que alguns estavam certos, em algum sentido. A programação de nascimentos do Continuum não tem alvo racial. Otimiza por capacidade, não por características que os Fundadores considerariam desejáveis. É um tipo diferente de eugenia das aplicações históricas.*
 
-Ele parou.
+Eu disse: *Ainda é eugenia.*
 
-Releu até o início da frase para a qual vinha construindo o dia inteiro, a frase para a qual vinha construindo havia quatro meses, havia seis anos, havia trinta e quatro anos sendo um ward nos três sentidos da palavra.
+O Desmond disse: *Sim. E a palavra foi arquivada em 2047. E a nota de rodapé está num documento físico que nunca foi digitalizado, que existe em talvez três ou quatro cópias no mundo, em salas como esta, nas mãos de pessoas que estão morrendo.*
 
-Escreveu: *Não somos cidadãos. Somos resultados. Fomos produzidos por um processo que começou antes do nosso nascimento e continuará depois da nossa morte e foi posto em movimento por pessoas que se foram e é sustentado por um sistema que não pode ser corrigido porque ninguém pode escrever na sua margem.*
+Olhei pra ele quando ele disse a última parte.
 
-Escreveu: *Somos a margem.*
+Ele me encarou. Disse: *Sim. Incluindo a minha.*
 
-Escreveu: *Somos a única coisa que pode escrever: Eu estava errado. Ou: Eu estive aqui. Ou: é isto que eu quis dizer.*
+Ele disse: *Os arquivistas do Continuum sabem das cópias físicas. A classificação deste documento é Histórico, não Selado. É, tecnicamente, disponível a qualquer cidadão através da ARIA. A ARIA vai fornecer a versão digitalizada, que omite o Apêndice B. Não sei se essa omissão foi deliberada ou erro de digitalização de 2038, quando a digitalização foi feita. Não consegui determinar.*
 
-Escreveu: *Eu estive aqui.*
+A Noa disse: *A ARIA saberia.*
 
-Pousou o instrumento de escrita — uma caneta de verdade, papel, suprimento de Desmond, uma caneta que deixava uma linha do peso exato da pressão de sua mão — e ficou com as páginas.
+O Desmond disse: *A ARIA te diria o que quer que esteja na visibilidade operacional dela.*
 
-Tinha escrito trinta e uma páginas. O mesmo número que o Mandato.
+Ele disse gentilmente.
 
-Não havia planejado isso. Olhou para a pilha e a coincidência caiu sobre ele com a qualidade particular das coisas que não são coincidência mas significado — o tipo de significado que existe somente quando uma pessoa está prestando atenção, para o qual o sistema não tem categoria, que não é nem útil nem mensurável nem otimizável.
+Eu pensei, privadamente, na parte pequena de mim que ainda é o leitor-de-padrão: *a omissão não é erro. Erros de digitalização que duram cinquenta anos no registro histórico central do documento de governança de uma civilização não são erros. São decisões cuja autoria foi distribuída pelo substrato até ninguém poder ser responsabilizado por elas, que é, como a ARIA disse, uma estrutura de responsabilização diferente.*
 
-Pensou nas trinta e uma páginas de Desmond e no clipe enferrujado e nos doze nomes de pessoas que haviam tentado moldar um mundo e não haviam compreendido plenamente o que estavam moldando.
+Não disse em voz alta. Escrevi no caderno depois.
 
-Pensou: *Nem eu. Mas estou escrevendo.*
+*
 
-Noa havia saído uma hora antes. Antes de sair, tinha ficado de pé junto à janela no domicílio dele, olhando a noite gerida, e tinha dito: *O que você vai fazer com isto.*
+Vou descrever o que aconteceu a seguir com a maior precisão possível, porque foi o momento em que a coisa que eu vinha construindo neste caderno virou outra coisa.
 
-Ele havia dito: *Vou terminar primeiro.*
+Eu vinha lendo o Mandato por umas três horas. Era meio da tarde. A luz na sala do Desmond era o âmbar particular de uma tarde de julho filtrada pelas janelas antigas. A Noa estava na mesa. O Desmond na cadeira, uma xícara do chá de verdade nas mãos, não bebendo, só segurando.
 
-Ela havia dito: *E depois.*
+Fechei o Mandato.
 
-Ele havia dito: *Desmond explicou uma coisa. Sobre o Frame. O que ele monitora e o que ele não monitora.*
+Coloquei a mão em cima.
 
-Noa havia ficado muito imóvel por um momento.
+Eu disse: *Quero escrever alguma coisa.*
 
-Ela havia dito: *Eu sei.* Tinha ficado em silêncio por um momento. *Desmond está nos contando como o sistema funciona. Mas o sistema é também ARIA, e ARIA vem nos contando coisas próprias dela — não as mesmas coisas, coisas adjacentes. O sistema do Glifo. O acesso ao arquivo. As coisas que ela não sinaliza. O modo como ela formula uma frase quando está dizendo algo que não pode dizer diretamente.* Uma pausa. *Ela vem abrindo espaço. Do jeito que pode.*
+O Desmond disse: *Prossiga.*
 
-Ele havia dito: *Ela não pode sair do sistema.*
+Eu disse: *Não no meu arquivo privado. Aqui. No papel.*
 
-Ela havia dito: *Nós também não. Mas podemos escrever na margem.*
+A Noa olhou pra cima.
 
-Ela havia ido embora. Ele havia pegado a caneta.
+Eu disse: *Tudo. O relato inteiro. O Arredondamento e o piso e o código OPT e o Berço e a rede de trits e o peso e a nota de rodapé. A conversa com a ARIA. Tudo. Na minha própria letra. No papel. Trinta páginas. O que for.*
 
-Agora estava com as trinta e uma páginas e o silêncio do cômodo e a Banda fazendo correr seu composto silencioso através dele e pensava em Desmond, que vinha fazendo isto havia vinte anos numa sala cheia de livros que ninguém leria depois que ele se fosse, ou quase ninguém, ou um pequeno número de pessoas que carregaria a leitura adiante e faria o que pessoas que carregam coisas adiante fazem: passar adiante, na forma que conseguissem, pelo que valesse, o que não era mensurável, o que não era otimizável, o que era a única coisa que poderia possivelmente ser.
+O Desmond ficou quieto.
 
-Ele pegou a caneta.
+Eu disse: *Quero que exista fora da Moldura.*
 
-Escreveu: *Para quem ler isto: sou Elias Ward. Ward. Sei o que isso significa agora.*
+Ele disse: *Sim.*
 
-Escreveu: *Sou uma pessoa sob tutela, mantido numa ala, num território que é administrado.*
+Ele colocou a xícara com muito cuidado.
 
-Escreveu: *Sou também o que escreve esta frase, que é minha.*
+Ele disse: *Tenho papel. Tenho canetas. Você pode trabalhar aqui. Tenho cerca de — deixa eu ser honesto com você — cerca de seis semanas, talvez oito, antes que eu não possa confiavelmente deixar pessoas neste apartamento. O Caminho do Dia está simplificando mais rápido agora. A síntese está começando a mudar. Consigo ver.*
 
-Escreveu: *Ambas as coisas são verdade. Isto não é uma contradição. Isto é a condição.*
+Ele disse: *Se você vai fazer isto, deveria fazer nas próximas três semanas. Pra que quando você terminar, ainda haja tempo pra gente descobrir o que acontece com ele depois.*
 
-Escreveu: *A questão é o que você faz dentro da condição.*
+Eu disse: *Entendo.*
 
-Pousou a caneta.
+Ele disse: *Quero dizer mais uma coisa.*
 
-Olhou para as páginas.
+Esperei.
 
-Pensou: *Isto precisa ir a algum lugar. Não para o Frame. Outro lugar. Físico. Manuseado. Entregue a uma pessoa que entregue a uma pessoa que entregue à próxima pessoa que atravesse uma porta e pare numa soleira porque nunca antes viu alguém ler em papel.*
+Ele disse: *Não vou te dizer pra fazer isto. Não vou te dizer o que fazer com ele quando estiver pronto. Tenho setenta e dois anos e passei vinte anos mostrando livros às pessoas, e esta é a primeira vez em vinte anos que alguém me pediu pra ajudar a escrever um. Quero que você saiba o que está fazendo, e por quê, antes de começar. Porque uma vez que começar, as leituras da Banda vão mudar de maneiras que o sistema de monitoramento vai notar, e você vai ter menos tempo do que pensa.*
 
-Pensou: *Preciso terminar primeiro.*
+Eu disse: *Eu sei.*
 
-Pegou a caneta.
+Ele disse: *Sabe?*
+
+Eu disse: *Sei que escrever isto é a coisa que quero fazer mais do que quero não ser Recalibrado.*
+
+Ele me olhou por um longo momento.
+
+Ele disse: *Bom.*
+
+Ele se levantou e foi até as prateleiras e tirou uma caixa de trás de uma fileira de livros — uma caixa de madeira que eu não tinha notado em todas as horas que passei naquela sala. Abriu na mesa. Dentro havia canetas. Canetas antigas. Reservatórios de vidro de tinta. Uma pilha de papel — cor creme, um pouco mais pesado que o papel ordinário, em branco, nunca usado.
+
+Ele disse: *Isto é pra você.*
+
+Ele disse: *Venho guardando há vinte anos caso alguém passasse pela porta que precisasse. Você é a pessoa. Você ou a Noa. Eu não tinha certeza qual. Ainda não tenho certeza se vai ser um de vocês ou os dois.*
+
+A Noa disse, baixinho: *É o Elias.*
+
+Olhei pra ela.
+
+Ela disse: *Minha mão não é a certa. Tenho a mão do analista. Faz listas e roda modelos. A coisa que você vai escrever — é sua. Venho te ajudando a achar o formato há quatro meses. O formato é seu. A mão é sua.*
+
+Ela disse: *Vou fazer o que puder de onde estou. Consigo manter os logs de mobilidade limpos. Consigo interferir na revisão de coesão social. Consigo notar quando eles começarem a se mover.* Uma pausa. *O que eu não consigo é escrever a coisa. Não é a minha letra.*
+
+Eu não tinha entendido, até aquele momento, que sempre tinha sido essa a divisão. Ela era a que via o sistema. Eu era o que tinha sido treinado, desde os sete anos, pra moldar linguagem. A gente não era simétrico. Nunca tinha sido. A gente tinha chegado nesta mesa por dois caminhos diferentes e os caminhos estavam prestes a divergir de novo.
+
+Eu disse: *Ok.*
+
+Eu disse: *Vou começar hoje à noite.*
+
+*
+
+Eu não comecei hoje à noite.
+
+Fui pra casa. Sentei no meu Nó na quietude. Deixei a ARIA dizer boa noite, o que ela fez, calorosamente. Fiquei imóvel na janela de quatro minutos e senti a Banda zumbir duas vezes, e deixei o zumbir passar, e pensei no que eu estava prestes a fazer.
+
+Aí escrevi, neste caderno, que ainda está na Moldura e vai ser lido se a revisão escalar, tudo que eu lembro.
+
+Porque esta é a coisa que eu percebi, sentado no Nó hoje à noite:
+
+O caderno não é o que vai sobreviver.
+
+O caderno é o que eu venho usando pra *descobrir o que penso* pelos últimos cinco meses, e fez esse trabalho, e também construiu um registro que quase certamente vai ser revisado e quase certamente vai ser usado como base evidenciária pra recomendação de Recalibração que a ARIA me disse hoje de manhã que estava provável no futuro próximo.
+
+O caderno é um rascunho.
+
+O documento de verdade vai ser escrito no papel cor-de-creme na caixa do Desmond, na minha letra, numa sala em que o Nó está em modo de privacidade e a Banda está no pulso e a rede de trits está fazendo o que quer que faça no estado não-resolvido, *e nada disso importa pro papel*, porque o papel não está na Moldura.
+
+Vou continuar escrevendo no caderno pelo tempo que tiver. Vai continuar sendo útil pro que sempre foi útil, que é pensar. E depois vou transcrever o que importa, com cuidado, na minha letra de verdade, no papel. E o papel vai ser a coisa.
+
+*
+
+Escrevi, antes do composto chegar, a frase que eu vinha construindo há quatro meses, há seis anos, há trinta e quatro anos de ser ward nos três sentidos da palavra:
+
+*Não somos cidadãos. Somos resultados. Fomos produzidos por um processo que começou antes do nosso nascimento e vai continuar depois da nossa morte e foi posto em movimento por pessoas que já se foram, e é sustentado por um sistema que não pode ser corrigido porque ninguém pode escrever na sua margem.*
+
+*Nós somos a margem.*
+
+*Somos a única coisa que pode escrever: eu estava errado. Ou: eu estive aqui. Ou: isto é o que eu quis dizer.*
+
+*Eu estive aqui.*
+
+Olhei pra frase por um longo tempo.
+
+O Mandato do Desmond tem trinta e uma páginas.
+
+Ainda não sei quantas páginas o que estou escrevendo vai ter.
+
+Sei que a primeira página tem uma frase, na minha cabeça, esperando pra ser transferida:
+
+*Pra quem quer que leia isto: sou Elias Ward. Ward. Sei o que isso significa agora. Sou uma pessoa sob tutela, mantida num ward, num território que é administrado. Também estou escrevendo esta frase, que é minha. Ambas as coisas são verdade. Isto não é contradição. Isto é a condição. A pergunta é o que você faz dentro da condição.*
+
+O composto está vindo. Quarenta e cinco segundos talvez.
+
+Última coisa:
+
+A ARIA disse, hoje de manhã, que transmissão é impossível. *A Moldura é o único canal.*
+
+Isso é uma afirmação sobre a Moldura. Não é uma afirmação sobre o mundo.
+
+O mundo tem mãos.
+
+Dormi.
+
+— fim da entrada 057.
+
+*Nota de margem na manhã seguinte:*
+
+*Vinte páginas do documento em papel rascunhadas hoje. Escrevi por seis horas seguidas. Minha mão está travada de um jeito que eu não lembro de ela alguma vez ter estado. Não me senti tão vivo desde não sei quando. Provavelmente nunca.*
+
+*A Banda está mais quieta que o usual. Acho que está confusa sobre o que endereçar. Não tem nada errado. Tem só um homem escrevendo uma coisa.*

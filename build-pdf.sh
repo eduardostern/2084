@@ -105,6 +105,52 @@ pre code {
   background: transparent;
   padding: 0;
 }
+.dedication,
+.colophon {
+  page-break-before: always;
+  page-break-after: always;
+  text-align: center;
+  font-style: italic;
+  color: #3a3a3a;
+  line-height: 1.8;
+}
+.dedication {
+  padding-top: 38%;
+  font-size: 11.5pt;
+}
+.colophon {
+  padding-top: 28%;
+  font-size: 10pt;
+  font-style: normal;
+  page-break-after: avoid;
+}
+.dedication p,
+.colophon p {
+  text-indent: 0;
+  margin: 0.7em 0;
+}
+.dedication em {
+  font-style: normal;
+}
+.epigraph {
+  page-break-before: always;
+  page-break-after: always;
+  text-align: center;
+  padding-top: 40%;
+  font-size: 11pt;
+  color: #3a3a3a;
+  line-height: 1.8;
+}
+.epigraph p {
+  text-indent: 0;
+  margin: 1em 0;
+}
+.epigraph p:last-child {
+  margin-top: 2.4em;
+  font-size: 9.5pt;
+  font-style: normal;
+  color: #5a5a5a;
+}
 CSS
 
 # --- Build function ---

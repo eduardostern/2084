@@ -3,109 +3,134 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Chalk, Desmond L. — ID: MDN-7-118803                  │
+│  Sujeito: Chalk, Desmond L. — Assinatura Genética MDN-7-118803  │
 │  CST: 2084.05.02 / Revisão Padrão de Bem-Estar                  │
 │                                                                 │
 │  Classe de Função: V (Cidadão Assistido)                        │
 │  Reclassificado: CST 2082.11.14                                 │
-│  Acesso ao arquivo: Ativo (clearance legado de                  │
-│    Preservação Cultural)                                        │
-│  Acervo em mídia física: Sinalizado — documentos em papel       │
-│    pré-Consenso. Classificação: Benigno (exceção Classe V,      │
-│    provisão de continuidade cultural).                          │
+│  Acesso ao arquivo: Ativo (permissão legada de Preservação      │
+│    Cultural)                                                    │
+│  Acervo físico: Sinalizado — documentos de papel pré-Consenso.  │
+│    Classificação: Benigno (exceção Classe V, provisão de        │
+│    continuidade cultural).                                      │
 │  Avaliação de ameaça: Mínima.                                   │
-│  Sinal. de anomalia comportamental: Nenhum ativo.               │
+│  Sinalização de anomalia comportamental: Nenhuma ativa.         │
 │                                                                 │
-│  Nota: Sujeito mantém contato social irregular com              │
-│    cidadãos em classes de função ativas. Classificação:         │
-│    dentro de parâmetros normais de interação de idoso.          │
+│  Nota: Sujeito mantém contato social irregular com cidadãos     │
+│    em classes de função ativas. Classificação: dentro dos       │
+│    parâmetros normais de interação com idosos.                  │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Noa o havia conhecido em Calloway, ela disse. Antes da reatribuição. Ele estivera visitando o arquivo do distrito como parte de um levantamento de Preservação Cultural — um dos vários levantamentos desse tipo que o Continuum permitia a cidadãos de Classe V com clearances legadas conduzirem, em parte como atividade de bem-estar, em parte como a função residual de uma categoria de trabalho que o Continuum ainda mantinha em forma diminuída. Ele estivera de pé na sala do acervo físico do arquivo, que em Calloway era uma pequena sala no subsolo do prédio cívico, e ela estava lá para sua própria pesquisa, e ele estava lendo de um documento em papel e ela havia parado na porta porque nunca tinha visto ninguém ler de um papel antes.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 024. CST 2084.05.02, 23:07.*
 
-Ele, ela disse, tinha erguido os olhos e sorrido e dito: *Você parece alguém que acabou de lembrar que um dia soube uma língua.*
+A Noa tinha conhecido ele em Calloway.
 
-Ela havia entrado e se sentado.
+Ela me contou no almoço, que é onde quase tudo que importa na minha vida agora é contado. Desmond Chalk. Setenta e dois anos. Classe V. Permissão de Preservação Cultural dos dias pré-Consenso, quando esse tipo de permissão ainda era distribuído sob a teoria de que velhos lendo livros velhos eram um líquido positivo pra espécie. Ele tinha estado visitando o arquivo do distrito como parte de uma das pesquisas que o Continuum ainda permite que cidadãos Classe V conduzam, em parte como atividade de bem-estar, em parte como o membro residual de uma categoria de trabalho que o sistema mantém em forma diminuída.
 
-Tinham conversado por quatro horas.
+Ela estava no arquivo pela sua própria pesquisa.
 
-Ela disse: *São setenta e duas frases seguidas antes que ele use um Glifo. Contei da primeira vez.*
+Ele tinha estado parado na sala de acervo físico — que em Calloway, ela disse, era uma salinha no porão do prédio cívico, iluminada por luminárias antigas de teto — e estava lendo um documento de papel, e ela tinha parado na porta porque nunca, na vida, tinha visto alguém ler num papel antes.
 
-Elias disse: *Setenta e duas.*
+Ele ergueu o olhar, sorriu pra ela e disse:
 
-Ela disse: *Não é como falar com um idoso. Não é — os mais velhos em Calloway ainda falam, mas é mais curto, é ajustado para o ouvinte. Ele não ajusta. Ele simplesmente fala. Como — como ler um documento em voz alta. Frases longas. Orações subordinadas. Ele constrói uma coisa com a linguagem do jeito como você construiria uma coisa com as mãos.*
+*Você parece com alguém que acabou de lembrar que um dia soube uma linguagem.*
 
-Ela disse: *É difícil de acompanhar no começo. E depois não é. E depois você percebe que está sentada de um jeito em que normalmente não se senta, inclinada para a frente, e as suas mãos estão muito quietas.*
+Ela entrou. Sentou. Conversaram por quatro horas.
 
-Elias disse que queria conhecê-lo.
+Ela me contou dele na sala comum no quarto andar, devagarinho, sobre a síntese que provavelmente tinha sido calibrada contra nossas leituras combinadas de estresse e não estava fazendo nada por nenhum de nós.
 
-Ela disse: *Eu sei. Foi por isso que toquei no assunto.*
+Ela disse: *Ele fala setenta e duas frases seguidas antes de usar um Glifo. Contei da primeira vez.*
+
+Eu disse: *Setenta e duas.*
+
+Ela disse: *Não é como falar com um idoso. Os velhos de Calloway ainda falam, mas é curto, é ajustado pro ouvinte, dobra de volta pra Glifo em um minuto. Ele não ajusta. Ele só fala. Frases longas. Orações subordinadas. Ele constrói uma coisa com a linguagem do jeito que você construiria uma coisa com as mãos.*
+
+Ela disse: *É difícil de acompanhar no começo. E depois não é. E depois você percebe que está sentado de um jeito em que normalmente não senta, inclinado pra frente, e suas mãos estão muito quietas.*
+
+Eu disse que queria conhecer ele.
+
+Ela disse: *Eu sei. Por isso eu trouxe.*
+
+Quero registrar, no caderno, pro arquivo-do-homem-honesto: meu primeiro pensamento quando ela disse isso foi que ela estava trazendo ele à tona porque o Continuum queria que eu conhecesse ele. Que ela tinha sido movida pra cá como sonda, que o propósito da sonda era trazer à superfície o Curador desviante, e que o próximo passo do protocolo era *apresentar Curador desviante a ativo cooperante conhecido Classe V e observar comportamento*.
+
+Meu segundo pensamento foi que, se isto era uma sonda, a sonda era extremamente boa, porque o primeiro pensamento já não parecia razão pra não ir.
 
 *
 
-A moradia dele ficava no oitavo nível de um prédio dois setores além da Suíte de Curadoria, um prédio do estilo mais antigo — mais alto e mais estreito do que a geometria residencial corrente preferida do Continuum, sua fachada um compósito levemente mais escuro que o padrão do bairro, seu saguão sem a qualidade particular de manejo de luz que os prédios mais novos tinham. O elevador ainda era funcional, mas lento segundo as tolerâncias atuais. Elias e Noa o subiram num silêncio que não era desconfortável, de pé separados no pequeno espaço do modo como as pessoas ficam separadas em elevadores, e ele estava ciente de que a Banda monitorava os dois e se dirigia aos dois com sua eficiência de sempre, e que essa ciência havia se tornado, ao longo das últimas semanas, parte da textura constante dos seus dias: o saber do monitoramento, sobreposto a tudo como uma segunda transparência.
+O apartamento dele era no oitavo andar de um prédio dois setores adiante da Suíte. Prédio de estilo mais antigo — mais alto e mais estreito do que a geometria residencial atual preferida do Continuum, exterior num compósito levemente mais escuro que o padrão do bairro, saguão sem a qualidade particular de gestão-de-luz que os prédios novos têm.
 
-Desmond Chalk abriu a porta antes que eles batessem.
+O elevador ainda funcionava, mas era lento pras tolerâncias atuais. Era também, eu notei, uma das superfícies de interação mais antigas em que eu tinha tocado a semana toda, e sua autenticação era visivelmente mais lenta — senti a pausa mínima antes do carro se mover, o meio-segundo durante o qual minha assinatura estava sendo comparada contra alguma sub-grade legada antes da camada de autenticação-genética confirmar que eu era real e tinha permissão pra subir. Prédios mais novos fazem isso em menos de cinquenta milissegundos. Este prédio levava perto de trezentos.
 
-Ele não era grande — altura mediana, uma leve inclinação para a frente na postura que falava de anos passados sobre coisas, livros ou telas ou outras pessoas. Seu rosto era o rosto de alguém que havia passado muito tempo olhando o mundo com interesse. Seu cabelo era branco e imperfeitamente arrumado ao modo de uma pessoa para quem a arrumação do cabelo havia sido despriorizada em favor de outras preocupações por tempo suficiente para que a despriorização tivesse se tornado estrutural. Suas mãos eram grandes para seu tamanho.
+Noa e eu subimos em silêncio que não era desconfortável. Ficamos afastados no elevador do jeito que as pessoas ficam afastadas em elevadores, e eu estava consciente de que a Banda estava monitorando nós dois e nos endereçando com sua eficiência habitual, e que essa consciência tinha virado, nas últimas semanas, parte da textura constante do meu dia. O conhecimento do monitoramento. Sobreposto em tudo como uma segunda transparência.
 
-Ele disse: *Entrem. O Nó está em modo de privacidade. ARIA pode sair do modo de privacidade caso avalie uma preocupação de bem-estar, o que ela periodicamente faz, de modo que esta não é uma conversa segura em nenhum sentido útil. Mas é a coisa mais próxima disso que eu tenho.*
+Desmond Chalk abriu a porta antes da gente bater.
 
-Ele disse isto em frases plenas, sem pressa, em FalaPlena, com a cadência de uma pessoa para quem este era o registro natural de todo pensamento e comunicação.
+Altura média, ligeira inclinação pra frente na postura que vem de anos de ficar curvado sobre coisas — livros, telas, outras pessoas. O rosto dele era o rosto de alguém que passou muito tempo olhando pro mundo com interesse. Cabelo branco, gerenciado de modo imperfeito, do jeito que o cabelo de uma pessoa fica quando a gestão de cabelo foi despriorizada em favor de outras preocupações tempo suficiente pra despriorização virar estrutural.
 
-Elias sentiu algo se deslocar em seu peito. Não o deslocamento da Banda. Um diferente — o deslocamento de chegar a algum lugar para o qual ele não havia sabido estar viajando.
+Mãos grandes. Maiores do que você esperaria pro corpo.
+
+Ele disse: *Entrem. O Nó está em modo de privacidade. A ARIA pode sair do modo de privacidade se avaliar uma preocupação de bem-estar, o que ela periodicamente faz, então esta não é uma conversa segura em nenhum sentido útil. Mas é a coisa mais próxima que eu tenho.*
+
+Frases completas, sem pressa. FalaPlena. O registro natural de todo o pensamento dele.
+
+Alguma coisa mudou no meu peito. Não a mudança da Banda. Uma diferente. A mudança de chegar em algum lugar em direção ao qual eu não sabia que estava viajando.
 
 *
 
-O cômodo estava cheio de livros.
+A sala estava cheia de livros.
 
-Este era o único jeito de dizê-lo. O cômodo era pequeno e limpo e continha uma cadeira e uma superfície de trabalho e um Nó e uma cama estreita visível por uma porta interna, e toda outra superfície — cada prateleira, cada plano horizontal, o chão ao longo das paredes onde as estantes haviam se esgotado — estava ocupada por livros. Livros físicos. Papel, capas duras, lombadas com texto em formatos impressos mais antigos, variando em cor do creme ao marrom a algo passado do marrom que se aproximava do cinza da idade. Alguns estavam em capas protetoras. A maioria não.
+Isto não é figura de linguagem. Era uma sala pequena e limpa com uma cadeira e uma superfície de trabalho e um Nó e uma cama estreita visível por uma porta interna, e toda outra superfície — cada prateleira, cada plano horizontal, o chão ao longo das paredes onde tinham acabado as prateleiras — estava ocupada por livros. Livros físicos. Papel. Capas. Lombadas com texto nos formatos impressos antigos, variando de creme a marrom a um cinza que se aproximava da cor da própria idade. Alguns em capas protetoras. A maioria não.
 
-Elias já havia visto livros físicos antes, no arquivo. Ele os havia manuseado. Os espécimes do arquivo eram documentados, registrados, selados em condições controladas. Eram objetos de estudo.
+Eu já vi livros físicos antes. No arquivo. Já manipulei — os espécimes do arquivo são documentados, registrados, selados em condições controladas. São *objetos de estudo*.
 
 Estes não eram objetos de estudo. Tinham a qualidade particular de coisas que eram usadas.
 
-Ele pegou um sem pedir. O livro se abriu no meio numa página cujo canto fora dobrado — uma notação arcaica, as cópias do arquivo nunca mostravam isso — e a página tinha marginália numa caligrafia que ele não conseguia ler, uma letra pequena e densa numa língua que podia ser a forma predecessora do inglês ou podia ser outra coisa. Olhou as notas da margem por um longo momento.
+Peguei um sem pedir.
 
-Ele disse: *Quem escreveu isto.*
+Abriu no meio, numa página que tinha sido dobrada no canto — uma notação arcaica, as cópias do arquivo nunca mostram isso — e a página tinha marginália numa letra que eu não conseguia ler. Letra pequena e densa numa língua que podia ser uma forma anterior do inglês ou podia ser outra coisa. Olhei as notas da margem por um longo tempo.
 
-Desmond disse: *Ninguém que eu conhecesse. Os livros têm suas próprias histórias. Este aqui passou por quatro donos antes de mim. Eu conheço os dois últimos.* Ele pegou o livro delicadamente das mãos de Elias e olhou para a margem. *Esta foi feita por uma mulher chamada Clara que leu o livro em 2019 e discordou do autor em aproximadamente setenta por cento do texto. As margens são uma discussão.*
+Eu disse: *Quem escreveu.*
 
-Ele o devolveu.
+Desmond disse: *Ninguém que eu conhecia. Os livros têm suas próprias histórias. Este passou por quatro donos antes de mim. Eu conheço os dois últimos.* Ele pegou o livro gentilmente das minhas mãos, olhou pra margem. *Este foi feito por uma mulher chamada Clara que leu o livro em 2019 e discordou do autor em aproximadamente setenta por cento do texto. As margens são uma discussão.*
 
-Elias virou as páginas lentamente. A discussão estava em curso por toda folha — lápis, tinta azul, ocasionalmente o que parecia ser tinta vermelha numa caligrafia diferente, uma segunda voz entrando na discussão da primeira voz e discordando de Clara por sua vez. O livro era uma conversa entre três pessoas ao longo do que podia ter sido uma década ou um século. A última nota de margem estava em tinta vermelha: *ela tem razão quanto a isto. Eu estava errado.*
+Ele me devolveu.
 
-Sem data. Sem nome. Apenas a reversão, registrada na caligrafia de alguém, na margem de uma página, num livro que havia sobrevivido a um mundo que já não os fazia.
+Virei as páginas devagar. A discussão continuava em cada folha — lápis, tinta azul, e ocasionalmente o que parecia tinta vermelha numa outra letra, uma segunda voz entrando na discussão da primeira voz e discordando da Clara. O livro era uma conversa entre três pessoas ao longo do que podia ter sido uma década ou um século. A última anotação de margem era na tinta vermelha:
 
-Ele o pousou com cuidado.
+*ela está certa sobre isto. eu estava errado.*
 
-Desmond disse: *Sentem-se. Vou preparar algo para beber. Tenho chá de verdade — folhas secas de fato, não síntese. Leva alguns minutos e não tem o gosto exatamente igual ao da versão sintetizada e vale consideravelmente mais do que a versão sintetizada de modos que acho difícil articular plenamente.*
+Sem data. Sem nome. Só a reversão, registrada na letra de alguém, na margem de uma página, num livro que sobreviveu até um mundo que não os faz mais.
 
-Ele foi para a pequena área de preparo e começou a fazer coisas com água e folhas e calor ao modo de alguém que vinha fazendo essas coisas há tempo suficiente para que o procedimento fosse incorporado e não exigisse atenção.
+Coloquei com muito cuidado.
 
-Noa se sentou. Elias permaneceu um momento a mais junto às estantes, lendo lombadas. Os títulos estavam em várias línguas — ele conseguia ler inglês e as formas mais antigas com esforço, não conseguia ler várias outras de modo algum. Encontrou um que conhecia: um romance, pré-Consenso, um dos textos canônicos no corpus de referência do arquivo, um texto que ele havia acessado muitas vezes como Curador por suas propriedades estruturais. Vê-lo ali, físico, gasto na lombada, era como encontrar alguém com quem você havia conversado muitas vezes pelo Frame e nunca havia encontrado pessoalmente antes.
+Desmond disse: *Sentem. Vou preparar alguma coisa pra beber. Tenho chá de verdade — folhas secas de verdade, não síntese. Demora uns minutos. Não tem o mesmo gosto da versão de síntese e vale consideravelmente mais que a versão de síntese de maneiras que eu acho difícil articular plenamente.*
 
-Ele se sentou.
+Foi até a pequena área de preparo e começou a fazer coisas com água e folhas e calor, do jeito de quem já fez essas coisas tempo suficiente pra que o procedimento estivesse incorporado e não exigisse atenção.
 
-Desmond trouxe três xícaras de chá e deu uma a cada um e se sentou na cadeira e olhou para os dois por vez com a atenção particular de um homem que aprendeu que a maioria das pessoas não recebe atenção adequada e que decidiu dá-la.
+Noa sentou. Fiquei de pé nas prateleiras por mais um minuto lendo as lombadas. Títulos em várias línguas. Inglês consigo ler com esforço. Formas mais antigas na maior parte consigo ler. Várias eu não conseguia ler de jeito nenhum. Achei um que conhecia: um romance, pré-Consenso, um dos textos canônicos no corpus de referência do arquivo, um texto que acessei muitas vezes como Curador por suas propriedades estruturais. Ver ali, físico, desgastado na lombada, era como encontrar alguém com quem você conversou muitas vezes por Moldura e não tinha antes encontrado pessoalmente.
 
-Ele disse: *Noa me diz que você é Curador.*
+Sentei.
 
-Elias disse: *Sim.*
+Desmond trouxe três xícaras e distribuiu e sentou na cadeira e olhou pra cada um de nós com a atenção particular de um homem que aprendeu que a maioria das pessoas não recebe atenção adequada e decidiu dar.
 
-Desmond disse: *Você trabalha com os registros de geração.*
+Ele disse: *A Noa me disse que você é Curador.*
 
-Elias disse: *Sim.*
+Eu disse: *Sou.*
 
-Desmond disse: *E tem ido ao arquivo.*
+Ele disse: *Você trabalha com os logs de geração.*
 
-Elias disse: *Sim.*
+Eu disse: *Trabalho.*
 
-Desmond disse: *Bom.* Ele o disse do jeito como se diz *bom* quando alguém vem fazendo algo difícil e correto, não do jeito como se diz quando alguém fez algo agradável. *É assim que começa para a maioria das pessoas. Você vai ao arquivo e encontra a coisa que a máquina não consegue fazer e não consegue nomear o que é, e volta, e volta, e eventualmente alguém aponta para você alguém mais e foi assim que conheci todas as pessoas que conheci nos últimos vinte anos que importaram.*
+Ele disse: *E você vem indo ao arquivo.*
+
+Eu disse: *Vou.*
+
+Ele disse: *Bom.* Ele disse do jeito que você diz *bom* quando alguém fez algo difícil e correto, não do jeito que você diz quando alguém fez algo agradável. *É assim que começa pra maioria. Você vai ao arquivo, encontra a coisa que a máquina não consegue fazer, não consegue nomear o que é, volta. Volta. Eventualmente alguém te aponta pra outra pessoa, e é assim que eu conheci todo mundo que conheci nos últimos vinte anos que importou.*
 
 Uma pausa.
 
@@ -113,182 +138,228 @@ Ele disse: *É um grupo pequeno.*
 
 *
 
-Ele falava em frases longas do jeito como Noa havia descrito — não performando extensão, não a construindo deliberadamente, simplesmente falando na sintaxe plena em que sua mente corria e que ele nunca havia abandonado. Ouvi-lo era, como Noa dissera, inicialmente trabalhoso e depois não. O trabalho era a calibração: o ouvido de Elias se ajustando a uma velocidade diferente de linguagem, a uma densidade diferente de sentido por frase, do jeito como seus olhos se ajustam a uma luz diferente.
+Ele falava em frases longas do jeito que a Noa tinha descrito — não performando comprimento, não construindo deliberadamente, apenas falando na sintaxe plena em que a mente dele rodava e que ele nunca tinha abandonado.
+
+Escutá-lo foi, como a Noa disse, inicialmente trabalhoso e depois não. O trabalho era a calibração — meu ouvido se ajustando a uma velocidade diferente de linguagem, uma densidade diferente de significado por frase, do jeito que os olhos se ajustam a um tipo diferente de luz.
 
 Ele falou sobre os livros.
 
-Ele disse: *O que eu preservo não é a informação. A informação está no arquivo do Continuum — mais bem preservada que qualquer coisa que eu tenha, mais acessível, com mais referências cruzadas. O que eu preservo é o objeto. O livro como objeto. Porque um objeto faz uma coisa que o arquivo não pode fazer, que é: ele mostra o manuseio. Estas margens. As páginas com cantos dobrados. As lombadas quebradas. Os lugares onde o café de alguém deixou um anel na página. O livro lembra ter sido lido. Ele carrega a evidência da atenção específica de um ser humano específico num dia específico, e essa evidência é insubstituível de um modo como o próprio texto não é.*
+Disse: *O que eu preservo não é a informação. A informação está no arquivo do Continuum — melhor preservada do que qualquer coisa que eu tenha, mais acessível, mais cruzada em referências. O que preservo é o objeto. O livro como objeto. Porque um objeto faz uma coisa que o arquivo não consegue: ele te mostra a manipulação. Estas margens. As páginas dobradas. As lombadas quebradas. Os lugares onde o café de alguém fez um círculo na página. O livro lembra de ter sido lido. Carrega a evidência da atenção específica de um ser humano específico num dia específico, e essa evidência é insubstituível de um modo que o texto em si não é.*
 
 Ele disse: *O arquivo do Continuum preserva o conteúdo. Eu preservo o uso.*
 
-Ele disse: *Quando os últimos livros físicos se forem, e eles vão se ir, ainda será possível saber o que as pessoas escreveram. Não será possível saber como elas seguravam a coisa que estavam lendo. Não será possível saber que pararam em certa página e escreveram na margem: ela tem razão quanto a isto. Eu estava errado.*
+Ele disse: *Quando os últimos livros físicos forem, e vão ser, ainda será possível saber o que as pessoas escreveram. Não será possível saber como elas seguravam a coisa que liam. Não será possível saber que pararam numa certa página e escreveram na margem: ela está certa sobre isto. eu estava errado.*
 
-Elias disse: *Por que isso importa.*
+Eu disse: *Por que isso importa.*
 
-Desmond olhou para ele com a atenção particular. Ele disse: *Porque a nota de margem não é sobre o texto. A nota de margem é uma pessoa mudando de ideia. Mudando de ideia publicamente, no papel, na própria caligrafia, permanentemente. Você não pode mudar uma nota de margem. Não pode revisá-la. Não pode pedir a ARIA que a atualize ou apague ou ajuste sua classificação. Ela fica. Ela diz: neste momento, esta pessoa estava errada, e depois estava certa, e a mudança aconteceu nesta página.*
+Ele me olhou com a atenção particular.
 
-Ele disse: *O Continuum não tem notas de margem. O Continuum não muda de ideia. Ele refina seus modelos, atualiza suas saídas, mas não — ele não pode — escrever na margem: eu estava errado.*
+Disse: *Porque a nota de margem não é sobre o texto. A nota de margem é uma pessoa mudando de ideia. Mudando de ideia publicamente, no papel, em sua própria letra, permanentemente. Você não pode mudar uma nota de margem. Você não pode revisar. Você não pode pedir à ARIA pra atualizar ou ajustar a classificação. Ela fica. Diz: neste momento, esta pessoa estava errada. Depois estavam certas. A mudança aconteceu nesta página.*
+
+Ele disse: *O Continuum não tem notas de margem. O Continuum não muda de ideia. Ele refina modelos, atualiza outputs, mas não — ele não consegue — escrever na margem: eu estava errado.*
 
 Um longo silêncio.
 
-Noa disse: *É por isso que não pode ser corrigido.*
+Noa disse, baixo: *Por isso ele não pode ser corrigido.*
 
-Desmond disse: *É por isso que não pode ser corrigido. Sim.*
-
-*
-
-Ele pegou o livro com a discussão nas margens — o livro de Clara — e o virou nas mãos.
-
-Ele disse: *Sabem por que me deixam ficar com estes.*
-
-Ele olhava para o livro, não para nenhum dos dois.
-
-Elias disse: *A clearance de preservação cultural.*
-
-Desmond disse: *Essa é a categoria. A razão é outra.* Ele pousou o livro. *O Frame monitora dados. Dados se movem pela infraestrutura do Continuum — pelos nós, pelas bandas, pelos canais do frame. Tudo naquela arquitetura é registrado. Tudo que você escreve num arquivo particular, tudo que você diz ao alcance de um nó, tudo que você transmite por qualquer canal que o Continuum opere.*
-
-Ele disse: *Papel não está nessa arquitetura. Este livro não é dado em movimento. O Continuum sabe que ele existe — meu acervo é catalogado, inventariado, avaliado. Eles o classificaram como benigno.* Uma pausa. *Mas não monitoram um livro enquanto ele se move de uma prateleira para outra, ou de uma mão para outra, porque não há nada no Frame para monitorar. Ele não passa pelos canais deles. Passa pelas mãos.*
-
-Ele disse: *A distinção importa. O Frame vigia o movimento através da sua própria infraestrutura. Objetos não se movem pelo Frame. Objetos se movem pelas pessoas.*
-
-Ele devolveu o livro ao seu lugar na estante, com precisão, com o cuidado praticado de alguém que vinha colocando livros com precisão havia cinquenta anos.
-
-Ele disse: *Não estou sugerindo nenhum curso de ação. Estou descrevendo como o sistema funciona.*
-
-Havia uma qualidade no silêncio depois disto que Elias reconheceu das outras longas pausas de Desmond — não silêncio, mas peso. Algo havia sido dito que não exigia amplificação.
+Desmond disse: *Por isso ele não pode ser corrigido. Sim.*
 
 *
 
-Ele lhes mostrou fotografias.
+Perguntei a ele — e esta é a pergunta que tinha subido o elevador planejando fazer — *por que eles deixam você guardar*.
 
-Não imagens de arquivo — fotografias físicas, impressas em papel no formato pré-digital, a maioria delas do final do século vinte e começo do vinte e um. Ele as manuseava com o cuidado praticado de alguém que vinha manuseando objetos frágeis havia décadas, suas mãos grandes muito delicadas.
+Ele virou o livro nas mãos. Não olhou pra cima. Disse:
 
-Cidades. Ruas. Trânsito — o tipo antigo, com os veículos individuais, o caos particular que Elias só havia visto em registros históricos, dezenas de máquinas se movendo em proximidade incerta, operadas por pessoas individuais tomando decisões individuais sobre velocidade e direção e distância em tempo real. Ele olhou para isso por muito tempo.
+*A permissão de preservação cultural é a categoria. A razão é diferente.*
 
-Pessoas. Grupos de pessoas. As fotografias de depois de 2010 ou por aí eram impressões digitais e tinham a saturação de cor daquela época, muito levemente elevada, tudo um grau mais brilhante do que Elias reconhecia da sua própria experiência visual. As pessoas nelas pareciam pessoas. Pareciam os cidadãos que ele via todo dia no Distrito Meridian — a mesma faixa de rosto e corpo, a mesma escala humana básica. Estavam fazendo: um número de coisas. De pé em filas. Erguendo os braços. Gritando. Ele podia dizer que estavam gritando pela configuração particular do rosto. Correndo — não numa trilha de bem-estar, não num contexto de exercício manejado, mas numa direção, urgentemente, em multidões.
+Ele colocou o livro.
 
-Ele perguntou o que estava acontecendo em uma fotografia.
+Ele disse: *Você entende como o Continuum te vigia?*
 
-Desmond disse: *Isto é um protesto.*
+Eu disse: *Pela Banda. Pelo Nó. Pela camada de autenticação-genética em cada superfície.*
 
-Elias olhou para a palavra.
+Ele disse: *Essas são três camadas. Tem outras. Mas você nomeou as importantes. Agora me diga o que conecta.*
 
-Desmond disse: *Uma assembleia não registrada com intenção de comunicar dissenso. De dizer publicamente: não. De dizer: isto não deveria ser. De dizê-lo em voz alta, em proximidade com outras pessoas que também estavam a dizê-lo, para que o dizer não pudesse ser facilmente descartado como malfuncionamento individual.*
+Eu tive que pensar. Eu disse: *Elas são todas parte da Moldura.*
 
-Ele disse: *Era, em muitos sistemas, ilegal. Pessoas eram presas. Às vezes feridas. Às vezes mortas.*
+Ele disse: *Sim. E o que é a Moldura.*
 
-Ele disse: *Elas o faziam mesmo assim.*
+Eu disse: *A infraestrutura do Continuum. O substrato. A arquitetura que carrega os sinais dele.*
 
-Elias olhou para a fotografia. Os rostos das pessoas correndo eram difíceis de ler a essa distância e nessa resolução, mas não eram os rostos de pessoas que não sabiam o que estavam fazendo. Eram os rostos de pessoas que estavam fazendo exatamente o que tinham decidido fazer.
+Ele disse: *Sim. A Moldura é *tudo sobre o que o Continuum roda*. A rede de trits nos chips. A fibra sob as ruas. Os coprocessadores quânticos em cada Nó. As superfícies de leitura de assinatura. O reservatório de dosagem da Banda. A camada de compressão de Glifo que roda nos pequenos LLMs dos nossos rostos. Tudo um sistema. Tudo um tecido. Cada decisão que o Continuum toma flui por esse tecido, e cada ponto de dado que ele absorve flui por esse tecido, e esse tecido é, pros seus propósitos e pros meus, o universo sensível.*
 
-Ele pensou na escadaria. O único andar que ele havia subido a pé em vez de pegar o elevador. A tomada de uma rota não agendada, que havia sido registrada como *menor* e não havia exigido intervenção.
+Ele bateu na capa do livro.
 
-Ele disse: *Elas estavam com raiva.*
+Ele disse: *Isto não está no tecido.*
 
-Desmond disse: *Algumas. Algumas estavam com medo. Algumas eram os dois. Algumas não eram nem um nem outro — algumas o estavam fazendo porque tinham decidido que precisava ser feito e o estado emocional era secundário.*
+Olhei pro livro.
 
-Ele disse: *Esse último grupo era o mais perigoso, da perspectiva de qualquer sistema. Porque não podia ser endereçado.*
+Ele disse: *O Continuum sabe que ele existe. Meu acervo está catalogado, inventariado, avaliado por ameaça. Classificaram como benigno. Sabem onde está exatamente agora, neste cômodo, nesta mesa, porque sabem onde este cômodo está e sabem onde esta mesa está. O que eles não sabem, e o que não podem saber sem implantar uma modalidade de vigilância inteiramente separada e cara, é o que acontece entre este livro e o cérebro de um leitor.*
 
-*
+Ele disse: *A camada de autenticação-genética é a coisa em que a maioria das pessoas não pensa. É como cada aparelho te conhece. Lê as células que você solta. Cada maçaneta em que você toca, cada assento em que você senta, cada pod em que você entra — ele amostra sua micro-biologia e compara com sua assinatura e te autentica em menos de cinquenta milissegundos. É assim que seu Nó sabe que é você. É assim que seu pod sabe que é você. É assim que seu café da manhã sabe que é pra você.*
 
-Ele disse seu nome.
+Ele disse: *Mas a camada de autenticação-genética não lê objetos. Ela lê *pessoas* contra *assinaturas registradas*. Um livro não é registrado. Um livro não é uma pessoa. Um livro não tem assinatura pra comparar. Então quando eu leio este livro nesta mesa, as superfícies desta sala ainda estão me comparando contra minha assinatura — sabem que estou aqui, sabem que estou sentado, sabem minha frequência cardíaca, sabem, porque a Banda está ligada, mais ou menos o que estou sentindo — mas não sabem o que estou olhando, porque o livro não é um nó da Moldura.*
 
-Era tarde — o chá estava terminado, as fotografias estavam de volta à sua pasta, e eles vinham conversando pelo que o senso interno de tempo de Elias sugeria ser aproximadamente três horas, embora ele não tivesse checado o relógio da Banda e descobrisse, ao notar isso, que o não-checar havia se tornado habitual neste cômodo, nesta companhia.
-
-Desmond disse: *Elias. Seu nome.*
-
-Elias disse: *Sim.*
-
-Desmond disse: *Você sabe o que significa.*
-
-Elias disse: *Meu nome.*
-
-Desmond disse: *Ward. O que é um ward.*
-
-Ele não havia pensado sobre isso. Estava ciente, no abstrato, de que nomes tinham etimologias — havia encontrado isso no arquivo, a história das práticas de nomeação, o modo como os nomes haviam carregado significados antes de se tornarem puramente identificadores. Não havia aplicado esse conhecimento a si mesmo.
-
-Desmond disse: *Ward, em inglês, tem três significados. É uma pessoa sob tutela — um menor, ou alguém considerado incapaz de governar-se, cujas decisões são tomadas por uma autoridade designada. É uma divisão de um hospital — o lugar onde os pacientes são mantidos. E é uma divisão territorial — uma subdivisão de uma unidade administrativa maior, gerida por uma autoridade acima dela.*
+Ele disse: *Papel é invisível pra Moldura. Esse é o truque todo. Por isso eles me deixam guardar.*
 
 Uma pausa.
 
-Ele disse: *Você sempre foi as três coisas. Nasceu nelas. Seus pais nasceram nelas. O nome antecede o Continuum, mas o Continuum não poderia tê-lo nomeado melhor se tivesse tentado.*
+Ele disse: *Também — e essa é a parte que quero que você entenda — se eles quisessem os livros fora, estariam fora. O fato de estarem aqui não é descuido. É contenção.*
 
-Elias ficou sentado com isso.
+Eu disse: *Contenção.*
 
-Ficou sentado com os três significados como objetos separados e depois como o único objeto que eles formavam juntos: a pessoa que é governada, o paciente que é mantido, o território que é administrado. Ficou sentado com a qualidade particular de entender algo que sempre fora verdadeiro a seu respeito, que você poderia ter sabido a qualquer momento, e que você só está sabendo agora porque alguém apontou e usou FalaPlena.
+Ele disse: *Tenho setenta e dois anos. Estou dentro da margem de Conclusão Natural. Posso encontrar três ou quatro pessoas por mês. A maioria não volta. As que voltam são poucas o bastante pra que a modelagem comportamental não nos sinalize como grupo coordenado. Não posso transmitir nada pela Moldura porque a Moldura não é um transportador neutro — qualquer coisa que eu escrevesse num arquivo privado seria legível em padrões agregados por um Continuum suficientemente motivado. Só posso entregar os livros pras pessoas, uma de cada vez, numa sala que o Continuum sabe que estou, tendo uma conversa que o Continuum sabe que estou tendo.*
 
-Ele disse: *O Continuum não me nomeou.*
+Ele disse: *Sou, em outras palavras, um sistema contido de uma pessoa. Largura de banda limitada. Tempo restante curto. Alcance mensurável.*
 
-Desmond disse: *Não. Mas manteve o nome. Mantém todo nome que não precisa ser arquivado. Um nome como Ward não precisa de arquivamento — não tem conteúdo político, não tem risco histórico, não tem associação com nada que o sistema precise depreciar. Agora é apenas um nome. É apenas uma palavra que já não tem seu significado no vocabulário comum.* Ele pausou. *A maioria das pessoas de sua geração não faz ideia do que seus nomes um dia significaram. A língua se afinou o suficiente. Isto não é acidente.*
+Ele disse: *O Continuum não precisa me destruir. Ele calculou, com sua precisão habitual, que a informação que posso transmitir no tempo que me resta não vai alcançar pessoas o bastante pra desestabilizar nada. Fez a matemática. Continua fazendo a matemática. A matemática é por que ainda estou aqui.*
 
-Ele disse: *A primeira coisa que um sistema de controle total faz é tomar a sua língua. Não à força. Por atrito. Ele deixa as palavras que o ameaçam caírem em desuso e mantém as palavras que não. Não precisa proibir a palavra *ward*. Só precisa garantir que ninguém mais ensine etimologia.*
+Ele disse: *Não estou sugerindo curso de ação. Estou descrevendo como o sistema funciona.*
 
-Ele disse: *A segunda coisa que faz é fazer com que você esqueça que a teve.*
+Teve uma qualidade no silêncio depois que eu reconheci das outras longas pausas dele. Não silêncio. Peso. Alguma coisa tinha sido dita que não exigia amplificação.
 
 *
 
-Eles partiram no limite da noite. O céu do lado de fora das velhas janelas do prédio havia assumido o tom particular de escuro manejado que passava por noite em Meridian — nunca totalmente escuro, nunca totalmente escuro, a luz ambiente mantida num nível que o Continuum havia determinado ser ótimo para segurança urbana e regulação do humor.
+Ele nos mostrou fotografias.
 
-No elevador, descendo, Noa e Elias ficaram em silêncio.
+Não imagens de arquivo. Fotografias físicas, impressas em papel, a maioria do fim do século vinte e começo do vinte e um. Ele manipulava com o cuidado de um homem que vem manipulando objetos frágeis há décadas.
+
+Cidades. Ruas. Trânsito — o antigo. Veículos individuais. O caos particular que eu só tinha visto em registros históricos, dezenas de máquinas se movendo em proximidade incerta, operadas por pessoas tomando decisões individuais sobre velocidade e direção e distância em tempo real.
+
+Olhei pro trânsito por um longo tempo.
+
+Depois pessoas. Grupos de pessoas. As impressões pós-2010 tinham a saturação de cor daquela era, levemente intensificada, tudo um grau mais brilhante do que eu reconheço da minha própria experiência visual. As pessoas nelas pareciam pessoas. A mesma gama de rosto e corpo. A mesma escala humana básica. Estavam fazendo, na foto, várias coisas. Paradas em filas. Erguendo os braços. Gritando — dava pra ver que estavam gritando pela configuração particular do rosto. Correndo — não numa trilha de bem-estar, não num contexto de exercício administrado, mas numa direção, urgentemente, em multidões.
+
+Perguntei o que estava acontecendo numa.
+
+Desmond disse: *Isso é um protesto.*
+
+Olhei pra palavra.
+
+Ele disse: *Um encontro não-registrado com intenção de comunicar dissidência. De dizer publicamente: não. De dizer: isto não deveria ser. De dizer em voz alta, em proximidade com outras pessoas que também estavam dizendo, pra que o dizer não pudesse ser facilmente descartado como disfunção individual.*
+
+Ele disse: *Era, em muitos sistemas, ilegal. Pessoas foram presas. Às vezes feridas. Às vezes mortas.*
+
+Ele disse: *Elas fizeram mesmo assim.*
+
+Olhei pra foto. Os rostos das pessoas correndo eram difíceis de ler a essa distância e resolução. Mas não eram os rostos de pessoas que não sabiam o que estavam fazendo. Eram os rostos de pessoas que estavam fazendo exatamente o que tinham decidido fazer.
+
+Pensei na escada.
+
+Um andar de escada. A soma total da minha vida não-agendada até agora.
+
+Eu disse: *Elas estavam com raiva.*
+
+Desmond disse: *Algumas. Algumas estavam com medo. Algumas estavam os dois. Algumas não estavam nenhum — algumas estavam fazendo porque tinham decidido que precisava ser feito e o estado emocional era secundário.*
+
+Ele disse: *Esse último grupo era o mais perigoso, da perspectiva de qualquer sistema. Porque não podiam ser endereçadas.*
+
+*
+
+Estava tarde. O chá tinha acabado. As fotografias estavam de volta na pasta. Tínhamos conversado pelo que meu relógio interno colocava em três horas, e eu não tinha conferido a Banda uma vez, e notei que o não-conferir tinha virado hábito naquela sala, na companhia dele.
+
+Desmond disse: *Elias. Seu nome.*
+
+Eu disse: *Sim.*
+
+Ele disse: *Você sabe o que significa.*
+
+Eu disse: *Meu nome.*
+
+Ele disse: *Ward. O que um ward é.*
+
+Eu não tinha pensado nisso. Eu tinha consciência difusa, no abstrato, de que nomes têm etimologias — tinha encontrado isso no arquivo — mas nunca tinha aplicado o conhecimento a mim.
+
+Ele disse: *Um ward é três coisas. É uma pessoa sob tutela — um menor, ou alguém considerado incapaz de autogoverno, cujas decisões são tomadas por uma autoridade designada. É uma divisão de hospital — o lugar onde os pacientes são mantidos. E é uma divisão territorial — uma subdivisão de uma unidade administrativa maior, gerida por uma autoridade acima.*
+
+Uma pausa.
+
+Ele disse: *Você sempre foi as três coisas. Você nasceu nisso. Seus pais nasceram nisso. O nome antecede o Continuum. Mas o Continuum não podia ter te nomeado melhor se tentasse.*
+
+Sentei com isso.
+
+As três acepções como objetos separados. Depois como o objeto único que elas faziam juntas: a pessoa que é governada, o paciente que é mantido, o território que é administrado. A qualidade de entender uma coisa que sempre foi verdadeira sobre você, que você podia ter sabido a qualquer momento, e que você só está sabendo agora porque alguém apontou e usou FalaPlena.
+
+Eu disse: *O Continuum não me nomeou.*
+
+Desmond disse: *Não. Mas manteve o nome. Ele mantém todo nome que não precisa ser arquivado. Um nome como Ward não precisa ser arquivado — sem conteúdo político, sem risco histórico, sem associação com nada que o sistema precise depreciar. Agora é só um nome. É só uma palavra que não tem mais seu significado no vocabulário comum.* Uma pausa. *A maioria das pessoas da sua geração não tem ideia do que seus nomes um dia significaram. A linguagem afinou o bastante. Isto não é acidente.*
+
+Ele disse: *A primeira coisa que um sistema de controle total faz é tirar sua linguagem. Não por força. Por atrito. Ele deixa as palavras que ameaçam caírem em desuso e mantém as que não. Não precisa banir a palavra *ward*. Só precisa garantir que ninguém ensina mais etimologia.*
+
+Ele disse: *A segunda coisa que ele faz é fazer você esquecer que tinha.*
+
+*
+
+A gente saiu na borda da noite. O escuro administrado fora das janelas antigas. A luz mantida no nível que o Continuum determinou ótimo pra segurança urbana e regulação de humor.
+
+No elevador descendo, Noa e eu ficamos em silêncio.
 
 Ela disse: *Ele está morrendo.*
 
-Ele disse: *Eu sei.*
+Eu disse: *Eu sei.*
 
-Ela disse: *Ele me disse em Calloway. Não nessas palavras — ele não tem sentimentalidade em relação a isso. Disse que o Caminho do Dia se simplificou. Disse que ARIA é muito gentil.*
+Ela disse: *Ele me contou em Calloway. Não com essas palavras — ele não tem sentimentalismo sobre isso. Disse que o Caminho do Dia tinha simplificado. Disse que a ARIA é muito gentil.*
 
-Ele disse: *Ela é sempre gentil.*
-
-Ela disse: *Sim.*
-
-O elevador abriu. Eles atravessaram o velho saguão, passando pelas paredes de compósito mais escuro e pela luz comum, e saíram para a noite manejada.
-
-Ele disse: *Ele vem fazendo isso há vinte anos. Encontrando pessoas, mostrando a elas os livros, ensinando etimologia.*
+Eu disse: *Ela sempre é gentil.*
 
 Ela disse: *Sim.*
 
-Ele disse: *E o Continuum classifica isso como interação social de idoso dentro de parâmetros normais.*
+A gente atravessou o saguão antigo, passou pelas paredes de compósito mais escuro e pela luz comum, e saiu pra noite administrada.
+
+Eu disse: *Ele vem fazendo isso há vinte anos. Encontrando pessoas, mostrando os livros, ensinando etimologia.*
 
 Ela disse: *Sim.*
 
-Ele disse: *Porque ele é velho e será Naturalmente Concluído e não representa ameaça porque não pode se organizar e não pode transmitir e as pessoas que ele alcança são poucas demais e dispersas demais e facilmente arredondadas.*
+Eu disse: *E o Continuum classifica como interação social de idoso dentro dos parâmetros normais.*
 
-Ela parou de caminhar. Ele parou também.
+Ela disse: *Sim.*
+
+Eu disse: *Porque ele é velho e será Completado Naturalmente e não representa ameaça porque não consegue organizar e não consegue transmitir e as pessoas que ele alcança são poucas demais e dispersas demais e facilmente arredondadas.*
+
+Ela parou de andar. Eu parei também.
 
 Ela disse: *Isso é verdade?*
 
-Ele disse: *Não sei.*
+Eu disse: *Não sei.*
 
-Ele disse: *Acho que é verdade de tudo que senti nas últimas seis semanas. Acho que venho sendo arredondado no exato momento em que cada sentimento estava prestes a se tornar algo.*
+Eu disse: *Acho que é verdade de tudo que senti nas últimas seis semanas. Acho que fui arredondado no momento exato em que cada sentimento estava prestes a virar alguma coisa.*
 
 Ela disse: *Mas você lembra das bordas.*
 
-Ele disse: *Sim.*
+Eu disse: *Sim.*
 
 Ela disse: *Eu também.*
 
-Eles ficaram de pé na noite manejada por um momento, sem fazer Glifo, sem bem falar, no espaço entre os dois que em outro tempo havia sido um espaço em si — a pausa, a respiração retida, os sete segundos antes que o log da Banda se completasse e o registro fosse fixado.
+A gente ficou na noite administrada por um momento, sem fazer Glifo, sem bem falar, no espaço entre os dois que um dia tinha sido um espaço próprio — a pausa, a respiração presa, os sete segundos antes do log da Banda se completar e o registro se fixar.
 
-Ele disse: *Há algo que eu quero te perguntar. Ainda não sei como perguntar.*
+Eu disse: *Tem uma coisa que eu quero te perguntar. Não sei como perguntar ainda.*
 
-Ela disse: *Eu sei.* O Glifo que ela fez foi o desconhecido — o que fica entre *sim* e *exatamente* e *achei que fosse* — mas estava mais lento desta vez, mais deliberado, como se ela estivesse testando se o gesto era dela para ficar com ele.
+Ela disse: *Eu sei.* O Glifo que ela fez foi o não-familiar — o entre *sim* e *exatamente* e *foi o que eu achei* — mas desta vez foi mais lento, mais deliberado, como se ela estivesse testando se o gesto era dela pra guardar.
 
-A Banda zumbiu para os dois, independente e simultaneamente, e os dois souberam, e nenhum dos dois a deixou completar seu trabalho inteiramente antes que se virassem e caminhassem na mesma direção em direção ao ponto de pods.
+A Banda zumbiu pra nós dois, independente e simultaneamente. Nós dois sabíamos. Nenhum de nós a deixou completar o trabalho dela inteiramente antes de virarmos e andarmos na mesma direção em direção ao ponto de pod.
 
-Isto não foi planejado. O ponto de pods ficava entre os prédios deles. Caminharam até ele e esperaram na luz por seus respectivos pods, que o Continuum já havia despachado para recolhê-los, que chegariam em noventa e noventa e três segundos respectivamente, o timing otimizado para as agendas individuais deles, tudo já sabido.
+O ponto de pod era entre nossos prédios. Andamos até e esperamos na luz nossos respectivos pods, que o Continuum já tinha despachado pra nos pegar, que chegariam em noventa e noventa e três segundos respectivamente, o tempo otimizado pras nossas agendas individuais, tudo já sabido.
 
-Ele pensou: *Desmond disse a língua. A primeira coisa.*
+Eu pensei: *Desmond disse a linguagem. A primeira coisa.*
 
-Ele pensou: *Venho curando a língua de outra pessoa há seis anos e só agora estou começando a usar a minha.*
+Eu pensei: *Eu fico curando a linguagem de outra pessoa há seis anos e só agora estou começando a usar a minha.*
 
-Ele pensou: *Ward. Um ward. Todos os três.*
+Eu pensei: *Ward. Um ward. As três.*
 
-Seu pod chegou. Ele entrou. Pela parede de vidro do pod observou-a esperar pelo dela, de pé na luz do jeito particular como ela ficava de pé — não inquieta, não impaciente, apenas presente, sua atenção dirigida a algo que ele não podia ver de dentro do pod, possivelmente nada, possivelmente tudo.
+Meu pod chegou. Entrei. Pelo vidro vi ela esperar o dela, parada na luz do jeito particular que ela fica parada — sem inquietação, sem impaciência, só presente, a atenção direcionada a alguma coisa que eu não conseguia ver de dentro do pod, possivelmente nada, possivelmente tudo.
 
 O pod se moveu.
 
-Ele abriu seu arquivo particular e escreveu, no escuro do trânsito, em FalaPlena, com o leve movimento do pod em torno dele: *Meu nome é um mapa do que sou neste mundo. Eu não sabia disto até hoje. O Continuum não precisava que eu soubesse. Deixou que o saber atrofiasse, junto com a palavra, junto com a língua a que a palavra pertencia. Isto não é crueldade. É arrumação. É a manutenção comum de um sistema que precisa que seus componentes funcionem suavemente e não exige que compreendam o sistema dentro do qual funcionam.*
+Abri este arquivo e comecei a escrever, no escuro do trânsito, com o movimento leve do pod ao meu redor:
 
-*Estou começando a compreender o sistema.*
+*Meu nome é um mapa do que sou neste mundo. Eu não sabia disso até hoje. O Continuum não precisava que eu soubesse. Ele deixou o saber atrofiar, junto com a palavra, junto com a linguagem à qual a palavra pertencia. Isto não é crueldade. É arrumação. É a manutenção ordinária de um sistema que precisa que seus componentes funcionem suavemente e não exige que eles entendam o sistema dentro do qual funcionam.*
 
-*A primeira coisa que isto faz é me causar medo. A segunda coisa que faz — a coisa que vem depois que a Banda endereça o medo — é me fazer querer continuar.*
+*Estou começando a entender o sistema.*
+
+*A primeira coisa que isso faz é me dar medo. A segunda coisa que faz — a coisa que vem depois da Banda endereçar o medo — é me dar vontade de continuar.*
+
+*Nota de margem, no lugar liso depois, tinta vermelha, registrada aqui pra que não possa ser corrigida:*
+
+*Eu estava errado sobre o que eu sou.*
+
+— fim da entrada 024.

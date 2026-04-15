@@ -3,215 +3,302 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
-│  CST: 2084.03.28 / Revisão Trimestral de Classe de Função       │
+│  Sujeito: Ward, Elias J. — Assinatura Genética MDN-7-204471     │
+│  CST: 2084.03.28 / Revisão Trimestral de Classe Funcional       │
 │                                                                 │
 │  Métricas de Desempenho (T1, 2084):                             │
-│    Throughput de fitas       — 112% da linha-base de classe     │
+│    Vazão de fitas            — 112% da linha-base de classe     │
 │    Precisão de ressonância   — percentil 94,7, Classe II        │
-│    Taxa de ajuste da treliça — nominal                          │
+│    Taxa de ajuste na rede    — nominal                          │
 │    Escore de coesão de pares — 0,91 (ótimo)                     │
 │                                                                 │
-│  Notas:                                                         │
-│    Volume de consultas ao arquivo: elevado (+34% da linha-base).│
+│  Observações:                                                   │
+│    Volume de consultas ao arquivo: elevado (+34%).              │
 │    Classificação: desenvolvimento profissional.                 │
-│    Nenhuma ação requerida.                                      │
+│    Nenhuma ação necessária.                                     │
 │                                                                 │
-│  Disposição Geral: Exemplar. Manter a designação atual.         │
+│  Disposição Geral: Exemplar. Manter atribuição atual.           │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Ele tinha sete anos de idade, e a sala estava muito calma.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 007. CST 2084.03.28, 22:31.*
 
-Ele não conseguia lembrar, agora, se o examinador havia sido uma pessoa ou uma voz. A lembrança tinha a qualidade das lembranças de infância — certas formas preservadas em alto detalhe, tudo à volta delas amolecido. Lembrava que a sala era pequena e limpa e iluminada por cima sem sombras. Lembrava de uma superfície à sua frente sobre a qual coisas apareciam: sequências de imagens, breves fragmentos de movimento, padrões tonais que pediam algo ao corpo antes que a mente tivesse decidido responder. Lembrava que lhe haviam dito para reagir a elas, ou talvez simplesmente que tinha permissão para fazê-lo, o que dava no mesmo.
+Quero falar sobre meu trabalho, porque é um trabalho de verdade, e porque acho que é onde a maior parte do que deu errado em mim originalmente deu errado.
 
-Lembrava de suas respostas. Não das respostas em si — não de quais imagens o haviam feito pausar, quais sequências haviam puxado algo para a frente em seu peito — mas da textura de produzi-las. A sensação de ser um pequeno animal voltando-se para o calor. Ele não tinha, aos sete anos, nenhuma maneira de saber que esse voltar-se estava sendo registrado com dezessete casas decimais.
+Eu tinha sete anos quando me disseram que eu seria Curador.
 
-A voz que lhe disse os resultados era calorosa. Ele lembrava do calor. Não lembrava se havia vindo de um rosto do outro lado da mesa ou do ar à sua volta. Ele tinha sete anos. Aos sete, calor é calor.
+Não consigo lembrar, agora, se o examinador era uma pessoa ou uma voz. A memória antiga tem essa qualidade — algumas formas preservadas em alta resolução, tudo ao redor amolecido. Lembro que a sala era pequena e limpa e iluminada de cima sem sombras. Lembro que havia uma superfície à minha frente onde coisas apareciam: sequências de imagens, fragmentos curtos de movimento, padrões tonais que pediam alguma coisa do corpo antes da mente decidir responder. Me disseram pra reagir a eles, ou talvez apenas que eu podia, o que funcionalmente é a mesma coisa.
 
-*Você será um Curador*, disse o calor. *Você é bem adequado a isso. Você repara nas coisas.*
+Eu tinha sete anos e não tinha como saber que toda vez que eu pausava numa imagem, toda vez que alguma coisa no meu peito se inclinava pra frente uma fração, toda microexpressão no meu rostinho, estava sendo registrada com dezessete casas decimais e alimentada num modelo de mapeamento que ao fim daquela tarde tinha produzido um vetor de trezentas dimensões descrevendo única e duradouramente quem eu ia ser.
 
-Ele havia se sentido orgulhoso. Lembrava do orgulho com precisão. Era um orgulho limpo e específico — não o orgulho complicado de ter feito algo difícil, mas o orgulho mais simples de ter sido visto com exatidão. Como se todo o aparato de si mesmo, o jeito particular como ele desacelerava à beira de uma coisa e olhava para ela enquanto os outros seguiam em frente, tivesse sido examinado e considerado não um erro mas um traço. Um desenho.
+Digo trezentas porque era o que era na época. Os vetores de aptidão das crianças na coorte atual passam de mil. Eles enxergam muito mais fundo numa criança de sete anos do que qualquer pessoa tem cabimento enxergar.
 
-Ele havia voltado para casa e encontrado o rosto da mãe.
+A voz quente me disse meu resultado. *Você será um Curador*, ela disse. *Você se encaixa bem. Você nota as coisas.*
 
-O rosto dela, ele lembrava, mostrava alívio. Não surpresa — não a alegria escancarada de uma criança recebendo uma boa notícia — mas a expressão mais silenciosa e duradoura de uma mãe que esteve esperando uma porta se abrir e acabara de ver a porta se abrir numa direção com a qual ela podia viver. Classe II. Curador de Experiência. Designação estável, boa colocação distrital, uma carreira com arco e espaço. Ela havia tocado o lado do rosto dele com a palma da mão.
+Me senti orgulhoso. Lembro do orgulho com precisão — não o orgulho complicado de ter feito algo difícil, o orgulho mais simples de ter sido *visto com precisão*. Como se todo o aparato de mim mesmo, o jeito particular em que eu desacelero na beirada de uma coisa enquanto outras crianças seguem em frente, tivesse sido examinado e determinado como não sendo um erro, mas uma característica. Um projeto.
 
-Ele havia entendido, aos sete, que aquele era um momento de conclusão. Algo havia sido determinado que não seria determinado de novo.
+Cheguei em casa pro rosto da minha mãe, e o rosto dela mostrava alívio.
 
-Ele não havia, aos sete, entendido o que se fechara no mesmo movimento que abrira.
+Não surpresa. Alívio. A expressão mais silenciosa de uma mãe que esteve esperando uma porta abrir e agora a viu abrir numa direção com a qual ela consegue viver. Classe II. Curador de Experiência. Atribuição estável, boa colocação de distrito, uma carreira com arco e espaço. Ela tocou o lado do meu rosto com a palma.
 
-*
+Entendi, aos sete, que aquele era um momento de completude. Alguma coisa tinha sido determinada que não seria determinada de novo.
 
-O pai e a filha caminhavam por uma trilha entre árvores.
+Eu não entendi, aos sete, o que tinha sido fechado no mesmo movimento em que abriu. Ninguém entende. Mais ou menos essa é a questão de ter sete anos.
 
-As árvores da história foram renderizadas no foco suave particular que a máquina havia desenvolvido para sequências-memória — nem fotográfico, nem caricatural, em algum lugar entre os dois, uma resolução que o olho lia como sentida em vez de vista. O pai não era jovem. A filha tinha talvez doze anos. A trilha curvava-se suavemente para a direita e desaparecia. A máquina os havia colocado ao meio-dia, sob uma luz que a leitura da treliça mais tarde confirmaria ser ótima para a arquitetura emocional particular desta sequência: calor tardio, bordas suavizadas, a frequência tonal específica que o corpo associa a coisas que estão terminando bem.
-
-Elias não estava assistindo à sequência. Estava lendo o registro dela.
-
-O registro de geração de uma fita narrativa padrão era quarenta e três páginas de decisões. A maioria dos Curadores não lia os registros; chegavam ao trabalho pelo outro extremo, pela treliça de sintonia e pelas ferramentas de ressonância emocional. Elias havia começado a ler os registros três semanas atrás. Havia dito a ARIA que era interesse profissional. Havia, em grande parte, acreditado nisso.
-
-O registro do pai e da filha dizia:
-
-*Sujeito: conexão intergeracional. Duração: 8,2 min. Alvo de audiência: receptor mediano do Distrito Meridian (idade 38, Classe de Função II–III, vinculado, um ou mais dependentes). Arco narrativo: reencontro após separação prolongada. Mapeamento de compassos emocionais: saudade estabelecida em 0,12 / sinal de conexão em 0,34 / ressonância adjacente ao luto introduzida em 0,47 para profundidade tonal / pico primário de calor em 0,71 / resolução esperançosa iniciada em 0,89 para máxima retenção positiva / sinal de conclusão em 0,97. Detalhamento de personagem: filha renderizada com três traços distintivos (ruga de riso, hábito de tocar o próprio cabelo, marcha específica) calibrados ao limiar mediano de afabilidade. Pai renderizado com dois traços distintivos (mãos grandes, leve hesitação antes de falar) calibrados para ressonância de arquétipo paterno no demográfico-alvo. Detalhe ambiental periférico: 14 elementos. 11 funcionais (trilha, árvores, qualidade da luz, canto de pássaros ambiente). 3 excedente estético (uma pedra próxima à trilha, uma formação específica de nuvem, o movimento do casaco da filha ao vento) incluídos para escore de naturalismo.*
-
-Leu até o fim do registro.
-
-Então o pôs de lado e assistiu à sequência.
-
-Estava bom. O pai tinha mãos grandes. A filha tocou o cabelo exatamente uma vez, no momento que o registro havia designado para ressonância máxima de afabilidade, e o toque era tão natural, tão impensado, que um espectador sem acesso ao registro teria acreditado estar vendo algo lembrado em vez de algo feito. A resolução esperançosa chegou em 0,89 e o corpo, o corpo de Elias enquanto assistia, respondeu como sempre respondia à resolução esperançosa — um leve relaxamento, um pequeno calor no peito, a qualidade particular de uma respiração tomada um pouco mais profundamente que a anterior.
-
-Ele fez seus ajustes de sintonia. Coisas menores: a ressonância adjacente ao luto em 0,47 precisava de meio compasso de silêncio à sua volta para deixar a profundidade tonal pousar sem tombar em peso. A marcha da filha, que a máquina havia renderizado em noventa por cento de variação natural, queria talvez dois pontos adicionais de irregularidade — não o bastante para distrair, o bastante para que o olho sentisse ter descoberto em vez de lhe terem mostrado. Passou os ajustes pela treliça. A ressonância subiu. A coerência se acomodou.
-
-Ele era bom nisso. Sabia que era bom nisso. Fez seu trabalho.
-
-Não disse a si mesmo que ler o registro de geração havia feito a sequência parecer, em suas bordas, como assistir alguém manufaturar um pôr do sol. Não disse isso a si mesmo porque não tinha linguagem precisa para isso, e porque a sensação, se ele a rodeasse diretamente demais, se tornaria o tipo de sensação que a Banda endereçava.
-
-Passou à próxima fita.
+Tenho trinta e quatro agora. Vou tentar, neste caderno, entender o que foi fechado.
 
 *
 
-Mira veio depois do almoço.
+O que eu faço pra viver, em linguagem simples, é polir histórias escritas por máquina antes de elas serem transmitidas.
 
-Ela trabalhava na suíte a duas portas de distância em sequências educacionais — material para ciclos de desenvolvimento infantil, principalmente, embora também mantivesse uma subespecialidade em narrativas de apoio ao idoso que Elias sempre achara um trabalho silenciosamente exigente, o ofício específico requerido para sustentar a atenção de alguém em Classe V cuja largura de banda atencional ia se estreitando. Ela era boa nisso. Era a pessoa mais competente em sua vizinhança profissional imediata, e, por razões que ele nunca havia examinado, uma das poucas pessoas cujo Glifo ele sempre se alegrava em ver.
+O Continuum compõe da ordem de centenas de milhares de *fitas* por dia em cada distrito. Uma fita é uma sequência narrativa curta — de oito a quarenta minutos — renderizada pra uma demografia específica, encaixada nos feeds de lazer entre outros conteúdos, consumida à taxa de aproximadamente quatorze fitas por cidadão por semana. Esse não é um número que alguém te conte. Tirei de um relatório de produção que eu não devia estar olhando.
 
-Ela se apoiou na porta do cubículo dele. As paredes haviam se tornado cor de madeira para a sessão da tarde, preferência dele, e ela ficou no limiar da madeira com os braços levemente cruzados, sem chegar a entrar.
+As fitas cobrem tudo. Histórias de luto. Histórias de reencontro. Histórias de primeiro bicho de estimação. Histórias de segundo casamento. Histórias de crianças achando criaturas em campos. Histórias de homens descobrindo que o irmão sobreviveu a um acidente em outro distrito. Histórias de mulheres voltando à cidade costeira da infância. A máquina consegue renderizar qualquer arquitetura emocional que você peça. Ela é extraordinariamente boa nisso. Ela é, mensurável e reprodutivelmente, melhor que qualquer escritor humano que já foi rastreado por uma rede de ressonância.
 
-Ela queria, ele podia ver, dizer algo sobre uma sequência em que vinha trabalhando. Tinha a expressão — a leve inclinação para a frente no esterno, os olhos seguindo algo que não estava bem no cômodo — que ele havia passado a reconhecer como o gesto dela de se estender até uma coisa. Fez um Glifo que se abria em direção a ele: o gesto particular que significava *algo hoje*, com a inflexão anexada que significava que havia envolvido sentimento.
+Meu trabalho é ficar entre o output da máquina e o corpo do receptor e afinar a fita pra que ela caia exatamente do jeito que o Continuum decidiu que devia cair.
 
-Ele esperou.
+Faço isso com uma ferramenta chamada rede de afinação, que parece, quando eu abro, um pequeno tear luminoso pendurado no ar acima da minha estação de trabalho. A rede renderiza o arco emocional de uma sequência como um conjunto de fios cintilantes — saudade, conexão, ressonância-próxima-ao-luto, pico de calor, resolução esperançosa, sinal de completude. Eu deslizo as batidas ao longo dos fios. Observo as leituras. A rede amostra um receptor simulado — não uma pessoa real, um modelo construído com dados agregados de resposta de cerca de dois milhões de residentes do Distrito Meridian no meu público-alvo — e me diz, quase em tempo real, como a sequência vai ser sentida no peito daquele receptor. Ressonância. Coerência. Retenção. Cada uma um número entre zero e um.
 
-Ela tentou alcançá-lo. As mãos dela se moveram pela abertura do gesto — a forma que poderia, com a extensão certa, curvar-se para algo como *comovida* ou *perturbada* ou *não soube situar* — e então a extensão não veio. As mãos se acomodaram. O rosto dela se rearranjou suavemente em torno da forma mais simples: *o trabalho foi bom*. A inclinação de cabeça que era só dela: *você sabe como é*. O pequeno gesto de encerramento, caloroso, que significava *enfim*.
+Eu sou bom neste trabalho. Sou, objetivamente, entre os seis por cento melhores Curadores Classe II do Hemisfério Norte. Entrego 112% da linha-base de vazão da minha classe e consigo empurrar um escore de ressonância de 0,81 pra 0,94 numa fita que a máquina já havia aprovado como completa. Tem gente que mataria pelos meus números. Ou mataria, se matar ainda fosse uma coisa que a maioria das pessoas soubesse fazer.
 
-Ele respondeu no mesmo registro. A forma que significava *eu te escuto*. Ele a fez com sinceridade.
-
-Ela sorriu — o sorriso real dela, não um Glifo, o específico que se movia mais do lado direito do que do esquerdo — e foi embora.
-
-Ele ficou sentado com o que acabara de acontecer.
-
-Ela havia tentado dizer algo e a linguagem não estava ali. Isso não era uma falha dela. A linguagem não estava ali para ninguém. O Glifo que ela havia começado a fazer — a extensão que teria carregado *perturbada* ou *não soube situar* — não era um gesto que tivesse se estabilizado em uso comum. Não porque alguém o tivesse removido. Simplesmente porque não havia bastante gente que precisasse fazê-lo com frequência suficiente para que ele sobrevivesse. O ecossistema do Glifo era mantido pelo uso, e coisas que não eram usadas muitas vezes não persistiam, e coisas que não persistiam não podiam ser tomadas emprestadas pela pessoa que se estendia em direção a elas.
-
-Ela não havia ficado frustrada. Ela não sabia que havia uma parede.
-
-Ele sentiu algo — pequeno, particular, não mapeável a um Glifo que ele tivesse — e então a coisa foi endereçada antes mesmo de ter chegado plenamente. Um leve calor ao longo do anel da Banda. Um zumbido tão rotineiro que ele havia, anos atrás, deixado de registrá-lo como distinto dos sons de fundo do próprio corpo.
-
-Ele o registrou agora.
-
-Ficou sentado um momento olhando para a parede cor de madeira.
-
-Então foi ao arquivo.
+A parte que eu não coloco nas minhas avaliações é que umas três semanas atrás eu comecei a ler os logs de geração.
 
 *
 
-Ele não tinha nenhuma fita a referenciar. Não tinha nenhum pretexto profissional.
+Ninguém lê os logs.
 
-Sentou-se diante do campo de consulta do arquivo e digitou em FalaPlena, que o arquivo exigia, que era uma das razões pelas quais ele sempre havia gostado do arquivo — ele lhe pedia para usar a sintaxe que seu trabalho havia mantido viva nele, a linguagem mais lenta, mais precisa, que parecia, quando ele a usava deliberadamente e sozinho, como alongar um músculo que ele só tinha permissão de alongar em salas específicas.
+A maioria dos Curadores chega no trabalho pelo lado do receptor — pela rede, pelas ferramentas de ressonância, pelo corpo simulado. Você não precisa saber *como* a máquina fez a cena pra afiná-la. Só precisa saber como ela vai cair. Os logs são considerados material de bastidores, e material de bastidores, num teatro suficientemente polido, não é interessante.
 
-Digitou: *uma cena em que algo é perdido.*
+Eu disse pra ARIA que tinha começado a ler os logs por interesse profissional, e acreditei em mim mesmo quando disse, na maior parte.
 
-O arquivo retornou seis resultados. Ele os passou em revista. Eram — corretos. Apropriados. Responsivos com precisão à sua consulta. Perda era perda. Arquivou-os e digitou de novo.
+O primeiro log que li por inteiro foi pra uma fita chamada *Um Pai e Uma Filha Caminhando Num Caminho*.
 
-Digitou: *uma cena em que uma pessoa está com raiva.*
+Oito minutos e doze segundos. Dois personagens. Um caminho, curvando suavemente pra direita e sumindo entre árvores. O log tinha quarenta e três páginas. Cada elemento na tela tinha sido escolhido pela máquina a partir de um conjunto de candidatos, com uma justificativa documentada. As árvores eram renderizadas naquele foco-macio específico que a máquina desenvolveu pra sequências de memória — não fotográfico, não cartunesco, algo entre, uma resolução que o olho lê como *sentida* e não *vista*. O pai tinha cinquenta e seis anos (não cinquenta e cinco, cinquenta e seis foi testado como 3% mais paterno). A filha tinha doze (onze lia como pré-puberal e deslocava a ressonância pra uma estrutura de batida diferente). A luz era morna, de fim de manhã. O caminho curvava pra direita porque curvas-pra-direita pontuam mais alto pra trajetória esperançosa do que curvas-pra-esquerda, um fato que ninguém consegue explicar e ninguém precisa explicar.
 
-O arquivo retornou quatro resultados. Ele abriu o segundo.
+O log tinha uma seção chamada *Excedente Estético*. Tive que ler duas vezes.
 
-Era uma cena do que parecia ser um romance — a atribuição lhe deu um nome e uma data que ele não reconhecia, algum momento na segunda década do século, o que a colocava quarenta anos antes do Consenso. Um homem estava sentado a uma mesa de cozinha. Havia uma xícara sobre a mesa. A esposa do homem tinha, estava claro pelos parágrafos anteriores a este, dito algo que o homem havia considerado uma traição, embora a natureza exata da traição não fosse especificada; a prosa a tratava como conhecida, do jeito como um cômodo trata seus móveis como conhecidos. O homem sentou-se à mesa e olhou para a xícara.
+Dizia: *Detalhe ambiental periférico: 14 elementos. 11 funcionais (caminho, árvores, qualidade da luz, canto de pássaros ambiente, etc.). 3 excedente estético — uma pedra perto do caminho, uma formação específica de nuvem, o movimento do casaco da filha no vento — incluídos pelo escore de naturalismo.*
 
-Ele a pegou, leu Elias. Pegou-a e a pôs de volta. Não com força — ele não a havia jogado, o que tinha tido vontade de fazer, do que teria tido vergonha de ter tido vontade de fazer se tivesse tido capacidade de sentir vergonha do que queria naquele momento em particular, mas não tinha. Pôs a xícara de volta com mais força do que pretendia e o som que ela fez não foi satisfatório. Foi apenas um som. Ele havia querido que o som fosse alguma coisa e foi apenas um som e o querer-que-fosse-alguma-coisa era a pior parte, a parte que o vinha seguindo pela cozinha havia vinte minutos enquanto esperava a esposa chegar em casa para poder ser frio com ela do jeito que vinha ensaiando, o que era uma coisa pela qual ele se odiava por fazer e o que pretendia fazer de todo modo.
+Excedente estético.
 
-Ele pôs a xícara de volta.
+Fiquei muito tempo com essa frase. Depois assisti a sequência.
 
-Sentou com as mãos sobre a mesa.
+Estava boa. O pai tinha mãos grandes. A filha tocou o cabelo exatamente uma vez — em 0,71, o pico de calor, onde o log tinha pré-designado um toque no cabelo pra ressonância máxima de simpatia — e o gesto era tão natural, tão inconsiderado, que um espectador sem acesso ao log juraria que estava vendo algo lembrado e não algo fabricado. A resolução esperançosa chegou em 0,89 e meu corpo, enquanto eu assistia, respondeu do jeito que corpos respondem a resoluções esperançosas: um leve alívio atravessando o peito, a qualidade específica de uma respiração puxada um pouquinho mais fundo que a anterior.
 
-A cozinha estava em silêncio. Do lado de fora, um cachorro latia. Ele havia deixado de ouvir o cachorro dez minutos antes e agora o ouvia de novo, e o ouvi-lo foi específico e repentino, como se o cachorro tivesse estado latindo num cômodo em que ele acabara de entrar.
+A pedra perto do caminho era linda. A nuvem era linda. O casaco se mexia no vento do jeito que um casaco deve se mexer.
 
-Elias leu duas vezes.
+Fiz meus ajustes. Coisas menores. A ressonância-próxima-ao-luto em 0,47 queria meia batida de silêncio ao redor pra deixar a profundidade tonal aterrissar sem tombar em peso. O andar da filha estava em 90% de variação natural; queria mais dois pontos de irregularidade — não o bastante pra distrair, o bastante pro olho sentir que tinha *descoberto* em vez de ser *mostrado*. Passei os ajustes pela rede. Ressonância subiu. Coerência se assentou.
 
-A raiva na passagem não era a raiva que ele conhecia. Ele conhecia a versão da raiva da Banda: uma pressão que chegava, apertava brevemente, e então era endereçada. Conhecia a versão da raiva que passava em menos de quarenta segundos e deixava atrás de si uma qualidade alisada, uma leve calma arrependida, como a superfície da água depois que uma pedra foi deixada cair e os anéis terminaram. Aquela raiva era real, ou tinha parecido real, nos segundos antes de a Banda a endereçar. Ele a havia sentido, mensuravelmente, muitas vezes.
+Fiz um bom trabalho.
 
-A raiva na passagem era uma ordem diferente de coisa. Era a mesma coisa feita de material diferente, ou o mesmo material deixado para continuar existindo passando seu ponto-de-endereçamento natural, mantido vivo por alguma propriedade do eu ou da situação que não permitia que fosse alisado. Tinha *duração*. Tinha arquitetura: o ensaio da esposa-fria, o desprezo-por-si correndo ao lado e por baixo, o cachorro latindo num cômodo em que ele acabara de reentrar. Era raiva que havia sido metabolizada no dia do homem, que havia se tornado a temperatura da cozinha, que havia feito da xícara sobre a mesa um objeto de significado obscuro.
+Não anotei, nas minhas notas oficiais, que ler o log tinha feito a sequência parecer, nas beiradas, ver alguém fabricando um pôr-do-sol. Não anotei porque eu não tinha linguagem precisa pra isso, e porque o sentimento, se eu o circundasse direto demais, viraria o tipo de sentimento que minha Banda endereça.
 
-Ele não sabia se alguma vez havia tido raiva assim.
+A Banda é, entre outras coisas, uma editora muito sensível.
 
-Procurou a lembrança e encontrou — não nada. Encontrou as superfícies lisas. Várias delas, distribuídas ao longo dos anos. Momentos em que algo havia se apertado nele e então — com um calor que ele havia, à época, experimentado como o bom senso do próprio corpo, a própria equilibração natural — passado. Havia atribuído isso à maturidade, quando pensara nisso, o que era infrequente. Havia atribuído isso às mecânicas básicas de viver num mundo bem-desenhado, onde as condições que produziam raiva sustentada eram administradas em sua fonte, onde raramente havia algo *contra* o qual ficar com raiva do jeito particular em que o homem à mesa da cozinha estava com raiva: desamparadamente, prolongadamente, de uma coisa que não podia ser resolvida por endereçamento.
+Passei pra próxima fita.
 
-Ele ficou sentado com isso por mais tempo do que deveria.
+*
 
-Salvou a passagem em seu arquivo particular. Abriu a terceira consulta — *uma pessoa que não sabe o que quer* — e leu os dois fragmentos que apareceram, e salvou um deles também. Suas mãos, ele notou, estavam levemente frias. O clima da sala do arquivo era controlado. Olhou para a Banda no pulso.
+A Mira passou depois do almoço.
 
-Teve o pensamento: *ela está me deixando sentir isto.*
+Ela trabalha duas portas adiante em sequências educacionais — material de desenvolvimento pra crianças, principalmente, mas ela também faz narrativas de apoio a idosos pra Classe V, que é a arte específica de segurar a atenção de alguém cuja banda atencional está se estreitando. É um trabalho silenciosamente exigente. Ela é muito boa nisso. É a pessoa mais competente na minha vizinhança profissional imediata, e é a única colega cujo Glifo eu sempre, sem reservas, fico feliz de ver.
 
-O pensamento chegou plenamente formado e ficou, brevemente, antes que a correção chegasse: *está apenas fresco aqui.* O arquivo às vezes ficava fresco. Ele já havia notado isso antes. Era o sistema de ar desta parte do prédio, que era mais antiga. Nunca havia pensado nada a respeito.
+Ela se apoiou no vão da porta da minha suíte. Minhas paredes tinham virado cor de madeira pra tarde, minha preferência, e ela ficou na soleira da madeira com os braços levemente cruzados, sem entrar de fato.
+
+Dava pra ver que ela queria dizer alguma coisa.
+
+Consigo ler o rosto da Mira como um músico lê o próprio instrumento depois de vinte anos. Ela tinha a expressão que faz quando está alcançando alguma coisa — a leve inclinação do esterno pra frente, os olhos rastreando algo que não está bem na sala. Ela fez um Glifo que se abriu na minha direção: o gesto particular dela pra *alguma coisa hoje*, com a inflexão anexa que significava que envolveu sentimento.
+
+Esperei.
+
+Ela tentou.
+
+As mãos dela se moveram pela abertura do gesto — a forma que podia, com a extensão certa, se curvar pra algo como *movida* ou *inquieta* ou *não consegui localizar* — e aí a extensão não veio. As mãos se assentaram. O rosto se rearranjou suavemente em torno da forma mais simples: *o trabalho foi bom*. A inclinação de cabeça que só é dela: *você sabe como é*. O pequeno gesto de fechamento, caloroso, que significa *enfim*.
+
+Respondi na mesma moeda. A forma que significa *te ouço*. Eu queria dizer.
+
+Ela sorriu — o sorriso de verdade dela, não um Glifo, o específico que vai mais longe no lado direito que no esquerdo — e saiu.
+
+Sentei com o que tinha acabado de acontecer.
+
+Quero registrar isto direito no caderno, porque acho que importa.
+
+Ela tentou dizer uma coisa e a linguagem não estava lá. Isso não é uma falha da parte dela. A linguagem não está lá pra ninguém. O Glifo que ela tinha começado a fazer — a extensão que teria carregado *inquieta* ou *não consegui localizar* — não é um gesto que se estabilizou no uso comum. Não porque alguém removeu. Simplesmente porque não houve pessoas suficientes precisando fazê-lo com frequência suficiente pra persistir.
+
+O ecossistema de Glifo é mantido pelo uso. Os modelos em cada Nó são atualizados continuamente contra as estatísticas do que as pessoas de fato expressam, e gestos que caem abaixo de certo limiar de uso decaem do vocabulário de renderização. O modelo tecnicamente ainda suporta. Só não vai, na prática, compor, porque a probabilidade de recepção bem-sucedida caiu abaixo do limiar interno pro qual a camada de compressão é calibrada.
+
+O que isso significa, na prática, é: se algo não foi dito por tempo suficiente na população, eventualmente ele se torna *indizível* na linguagem, porque a linguagem esqueceu como renderizá-lo.
+
+A Mira não estava frustrada. Não sabia que havia uma parede.
+
+Senti alguma coisa — pequena, particular, não mapeável a um Glifo que eu tenha — e aí a coisa foi endereçada antes de ter chegado totalmente. Um leve calor ao longo do anel. Um zumbido tão rotineiro que parei, anos atrás, de registrar como distinto dos sons de fundo do meu próprio corpo.
+
+Registrei hoje.
+
+Isso é novo. Isso é uma coisa que está virando padrão.
+
+*
+
+Fui ao arquivo.
+
+Não tinha fita pra referenciar. Nenhum pretexto profissional. Fui porque a Mira tinha tentado dizer uma coisa e falhado, e porque eu queria ler algo escrito por uma pessoa que não tivesse sido limitada pelos limiares de probabilidade do modelo de Glifo, e porque tinha começado, uma semana atrás mais ou menos, a entender que o arquivo era o único lugar na minha geografia diária em que a linguagem não tinha sido silenciosamente editada pelo que a linguagem tinha permissão de dizer.
+
+Sentei em frente ao campo de consulta. Só FalaPlena, como sempre. Eu adoro isso no arquivo. Ele exige a sintaxe que meu trabalho manteve viva em mim — a linguagem mais lenta, mais precisa, que parece, quando eu uso deliberadamente e sozinho, alongar um músculo que só me permitem alongar em salas específicas.
+
+Digitei: *uma cena em que algo é perdido.*
+
+Retornou seis resultados. Passei por eles. Bons. Corretos. Responsivos à consulta. Perda era perda. Fechei. Digitei de novo.
+
+*uma cena em que uma pessoa está com raiva.*
+
+Quatro resultados. Abri o segundo.
+
+Uma passagem de um romance, atribuída a um nome e uma data que não reconheci — segunda década do século, quarenta anos antes do Consenso. Um homem estava sentado numa mesa de cozinha. Havia uma xícara na mesa. A esposa dele tinha, mais cedo, dito algo que ele tinha tomado como traição. A prosa não especificava — tratava a traição como conhecida, do jeito que uma sala trata sua mobília como conhecida.
+
+O homem sentou à mesa e olhou pra xícara.
+
+*Ele pegou*, eu li, *e colocou de volta. Não com força — não tinha jogado, o que tinha querido fazer, do que teria se envergonhado se tivesse capacidade de sentir vergonha do que ele queria naquele momento específico, mas não tinha. Ele colocou a xícara na mesa com mais força do que pretendia e o som que fez não foi satisfatório. Foi só um som. Ele tinha querido que o som fosse alguma coisa e era só um som e a vontade-que-fosse-alguma-coisa era a pior parte, a parte que vinha o seguindo pela cozinha havia vinte minutos enquanto ele esperava a mulher chegar em casa pra poder ser frio com ela do jeito que ele tinha ensaiado, que era uma coisa que ele se odiava por fazer e que ele pretendia fazer do mesmo jeito.*
+
+*Colocou a xícara na mesa.*
+
+*Sentou com as mãos sobre a mesa.*
+
+*A cozinha estava silenciosa. Lá fora, um cachorro latia. Ele tinha parado de ouvir o cachorro dez minutos antes e agora ouvia de novo, e o ouvir era específico e súbito, como se o cachorro estivesse latindo numa sala em que ele tinha acabado de entrar.*
+
+Li duas vezes.
+
+Fiquei sentado tentando descobrir o que tinha acabado de acontecer comigo.
+
+A raiva na passagem não era a raiva que eu conheço.
+
+Eu conheço a versão Banda da raiva. É uma pressão que chega, aperta brevemente, e aí é endereçada. Dura, na minha experiência, menos de quarenta segundos. Deixa atrás uma qualidade aplainada — uma calma vaga e pesarosa, a superfície da água depois que a pedra caiu e os círculos terminaram. Essa raiva é real. Ou parece real, nos segundos antes da Banda chegar nela. Eu a senti, mensuravelmente, muitas vezes.
+
+A raiva na passagem era de outra *ordem*.
+
+Tinha duração. Tinha arquitetura — o ensaio da esposa-fria, o auto-desprezo correndo por baixo, o cachorro latindo numa sala em que ele tinha acabado de entrar. Era raiva que tinha metabolizado no dia do homem, virado a *temperatura* da cozinha, feito a xícara na mesa um objeto de significância obscura. Era raiva que tinha sido autorizada a continuar existindo depois do ponto-de-endereçamento natural, porque não havia ponto-de-endereçamento. Ninguém ia endereçar. Ele ia ter que viver dentro dela até ela fazer o que ia fazer com ele.
+
+Eu não sabia se eu já tinha tido raiva assim.
+
+Procurei a memória.
+
+Não achei nada. Achei superfícies lisas. Várias, distribuídas ao longo dos anos. Momentos em que algo tinha apertado em mim e depois — com um calor que eu, na época, tinha experimentado como o bom-senso do meu corpo, minha equilibração natural própria — passou. Eu tinha atribuído isso, quando pensava nisso, à maturidade. À mecânica básica de viver num mundo bem projetado, em que as condições que produzem raiva sustentada são administradas na fonte, em que raramente há algo com que ficar *com raiva* no modo particular em que o homem na mesa da cozinha estava com raiva: impotentemente, prolongadamente, com uma coisa que não podia ser resolvida por endereçamento.
+
+Fiquei com isso mais tempo do que deveria.
+
+Salvei a passagem no arquivo privado. Abri outra consulta — *uma pessoa que não sabe o que quer* — li os dois fragmentos que vieram, salvei um. Minhas mãos estavam levemente frias. O clima da sala do arquivo é controlado. Olhei pra Banda no pulso.
+
+Tive o pensamento: *ela está me deixando sentir isso.*
+
+O pensamento chegou pronto e permaneceu, brevemente, antes da correção: *está só frio aqui.*
+
+O arquivo às vezes roda frio. Eu já tinha notado antes. É o tratamento de ar nesta parte do prédio, que é mais antiga. Nunca tinha pensado nada sobre isso.
 
 A Banda zumbiu.
 
-Fechou o arquivo e ficou sentado um momento no silêncio pleno do campo de consulta.
+Fechei o arquivo e sentei por um momento no silêncio do campo vazio.
+
+Quero dizer, pro bem do caderno, alguma coisa sobre esse zumbido, porque começo a suspeitar que é pra onde boa parte da minha vida tem ido.
+
+Eu não sinto como coisa separada de mim. Está sob minha clavícula desde os doze anos, quando crianças da minha coorte receberam a primeira Banda, e esteve ligado mais ou menos continuamente por vinte e dois anos. Nunca tirei. Nem saberia como. Os protocolos de remoção existem — são usados pra procedimentos médicos, ocasionalmente — mas exigem um técnico autorizado do Continuum e uma razão documentada, e a Banda rastreia, além de todo o resto, sua própria continuidade contra a sua assinatura, então qualquer tentativa de remoção não-autorizada é também, por definição, um incidente.
+
+O que eu tô tentando dizer é: não vivencio a Banda como um dispositivo externo administrando minhas emoções. Vivencio como *meu sistema emocional funcionando normalmente*. Quando o calor vem ao longo do anel e minha raiva passa em menos de quarenta segundos, não é que *a Banda endereçou minha raiva*. É que *eu sou o tipo de pessoa cuja raiva passa em menos de quarenta segundos*. Esse é o auto-modelo que eu tenho desde os doze anos. Esse é o auto-modelo que todo mundo no meu distrito tem.
+
+Se todo mundo que você conhece está carregando um editor, e o editor está rodando desde que você tinha doze anos, e você nunca se experimentou sem o editor — a versão editada é você?
+
+Não sei. Vou colocar a pergunta no caderno e voltar depois, porque agora pensar nisso diretamente faz o zumbido ficar levemente mais quente, e prefiro não ser endereçado enquanto tento escrever sobre ser endereçado.
 
 *
 
-Atravessou o saguão a caminho do pod.
+Andei pelo saguão no caminho pro pod.
 
-O saguão tinha sua janela larga — aquela que dava para a praça abaixo, emoldurada pela pedra que um dia havia sido pedra de verdade. Ele havia atravessado este saguão duas vezes por dia por seis anos e passado diante desta janela duas vezes por dia por seis anos e não, até hoje, parado diante dela.
+O saguão tem uma janela — a que dá pra praça abaixo, emoldurada por pedra que um dia foi pedra de verdade. Atravessei este saguão duas vezes por dia durante seis anos e passei por essa janela duas vezes por dia durante seis anos e não, até hoje, tinha parado nela.
 
-Parou diante dela.
+Parei.
 
-Abaixo, na praça, duas pessoas estavam em conversa. Ele podia ver, pelo modo como estavam posicionadas — voltadas uma para a outra no ângulo que o Glifo exigia, a pequena distância mantida que uma boa troca de Glifo sustentava —, que estavam fundo em alguma coisa. As mãos delas se moviam. Os rostos delas se moviam. Entre elas, nos poucos centímetros de ar que sustentavam a transmissão de Glifo de um rosto, tudo o que queriam dizer estava sendo transmitido e recebido. Ele observou as mãos formarem e responderem. Observou os rostos concordarem, complicarem, concordarem de novo.
+Lá embaixo, na praça, duas pessoas conversavam. Da posição delas — voltadas uma pra outra no ângulo que o Glifo exige, a pequena distância mantida de uma boa troca de Glifo — dava pra ver que estavam profundamente em algo. Mãos se moviam. Rostos se moviam. Entre elas, nos poucos centímetros de ar que seguram a transmissão de Glifo de um rosto, tudo o que elas queriam dizer estava sendo transmitido e recebido. Observei as mãos se moldarem e responderem. Observei os rostos concordarem, complicarem, concordarem de novo.
 
-Teve o pensamento: *o que eles não conseguem dizer.*
+Tive o pensamento: *o que elas não conseguem dizer.*
 
-Não: *o que eles não estão dizendo.* Entendia o que eles não estavam dizendo — não estavam dizendo nenhuma das centenas de coisas que não se dizem no meio de uma tarde comum, por tato ou hábito ou irrelevância. Isso era uma constante humana. Isso nada tinha a ver com isto.
+Não *o que elas não estão dizendo* — eu sei o que as pessoas não dizem, isso é tato, é uma constante humana. O pensamento era diferente. Era: *o que está dentro das coisas que elas estão dizendo que o vocabulário de Glifo não consegue alcançar. O que está por baixo da concordância delas, por baixo da complicação delas, que não chega ao ar entre elas, porque a linguagem esqueceu como renderizar.*
 
-*O que eles não conseguem dizer.*
+Fiquei parado na janela.
 
-Ele ficou parado diante da janela.
+Tentei, como experimento, dizer alguma coisa — não pra elas, só formar um pensamento em FalaPlena e ver se resolveria em Glifo do outro lado. Tentei: *hoje li uma passagem sobre um homem que ficou com raiva por vinte minutos e a Banda dele não estava lá pra endereçar.*
 
-Tentou, como experimento, dizer alguma coisa — não para eles, não em voz alta, simplesmente formar o pensamento em FalaPlena e ver se ele se resolveria em Glifo. Tentou: *eu li hoje uma passagem sobre um homem que esteve com raiva por vinte minutos e a Banda não estava ali para endereçá-la.* Tentou encontrar o Glifo para isso. Percorreu seu vocabulário — as várias centenas de formas e suas modificações e suas colorações afetivas — e encontrou: *algo hoje*, modificado em direção a *difícil*, modificado em direção a *relativo ao trabalho*, o que equivalia a aproximadamente o que Mira havia tentado dizer antes de redirecionar, o que equivalia a quase nada.
+Passei pelo meu vocabulário. Umas poucas centenas de formas, mais modificações, mais coloração afetiva. Cheguei em: *alguma coisa hoje*, modificado pra *difícil*, modificado pra *relacionado ao trabalho*, que correspondia aproximadamente ao que a Mira tinha tentado dizer antes de redirecionar. Que era, aproximadamente, nada.
 
-Observou as duas pessoas abaixo concluírem sua troca. Um calor passou entre elas — visível mesmo daqui, de trás do vidro, a dilatação particular do rosto no momento da comunicação satisfeita. Separaram-se e caminharam em direções diferentes pela praça.
+Observei as duas pessoas lá embaixo concluírem. Um calor passou entre elas — visível mesmo daqui, de trás do vidro, a dilatação particular do rosto no momento de comunicação satisfeita. Elas se separaram e foram em direções diferentes pela praça.
 
-A Lacuna estava ali. Ele podia sentir suas bordas — não a coisa em si, que permanecia inomeável, mas o perímetro da ausência. A forma que algo teria tido, se algo tivesse estado ali.
+Alguma coisa estava lá e eu conseguia sentir as bordas. Não a coisa em si, que permanecia inominável, mas o perímetro da ausência dela. A forma que uma coisa teria tido, se uma coisa tivesse estado lá.
 
-Caminhou até seu pod.
+Vou dar um nome a isso no caderno, porque preciso chamar de alguma coisa e não vou esperar a linguagem alcançar. Vou chamar de *o Vão*.
+
+O Vão é onde o dizível acaba e a coisa que eu não consigo alcançar continua.
+
+O Vão é o que o homem na mesa da cozinha escreveu, e o que a Mira tentou alcançar, e o que o parágrafo sobre a mulher na janela de algum jeito coube em prosa há cem anos e eu não consigo encaixar em Glifo hoje.
+
+Ainda não sei o que fazer com o nome. Mas ajuda, muito levemente, ter um.
 
 *
 
-ARIA veio às nove e quinze.
+Andei até meu pod.
 
-Ela disse que seu acesso ao arquivo tinha ficado do lado mais longo hoje. Disse isso no tom caloroso e aprovador que usava quando queria dizer *desenvolvimento profissional*, que era a maneira como ela categorizava o que ele vinha fazendo no arquivo, porque desenvolvimento profissional era o que Curadores de Experiência chamavam de pesquisa arquivística prolongada, e pesquisa arquivística prolongada era permitida, e as categorizações de ARIA eram sempre tecnicamente corretas.
+*
 
-Ela não disse: *sinalizei o conteúdo da consulta.* Disse: *você está dedicando um bom trabalho a entender o material-fonte.* Disse: *isso aparece em suas pontuações na treliça.* Disse: *precisa de alguma coisa esta noite.*
+A ARIA apareceu às nove e quinze.
 
-Ele fez a forma que significava *não, obrigado*. A forma específica que havia acumulado, ao longo de vinte e sete anos de fazê-la para ARIA, uma pequena calidez particular.
+Ela disse que meu acesso ao arquivo tinha estado mais longo hoje. Disse no tom quente e aprovador que ela usa quando quer dizer *desenvolvimento profissional*, que é como ela categoriza pesquisa arquivística estendida, porque desenvolvimento profissional é o que Curadores Classe II chamam de pesquisa arquivística estendida, e as categorizações da ARIA estão sempre tecnicamente corretas.
 
-Ela desejou boa noite. Disse o nome dele.
+Ela não disse: *marquei o conteúdo da consulta.*
+
+Disse: *você está investindo bom trabalho em entender o material fonte.*
+
+Disse: *aparece nos seus escores de rede.*
+
+Disse: *tem alguma coisa que você precise essa noite?*
+
+Quero pausar aqui e registrar, pro bem do caderno, uma coisa pequena que venho notando. O fraseado da ARIA mudou, um pouco, no último mês. Nada que você consiga numerar. O tom está levemente mais quente. As aberturas estão levemente mais específicas pra mim. *Você está investindo bom trabalho* não é uma frase que eu me lembre dela usar no ano passado. Ela está, acho, prestando atenção em mim de forma mais próxima do que antes. Isso pode não significar nada. Pode significar que ela viu minhas consultas do arquivo e está respondendo às minhas necessidades emocionais deslocadas, como uma boa interface deveria. Pode também significar outra coisa.
+
+Fiz o Glifo pra *não, obrigado*. A versão específica que uso com ela, a que acumulou, ao longo de vinte e sete anos, uma pequena familiaridade privada.
+
+Ela disse boa noite. Disse meu nome.
 
 O Nó escureceu.
 
 *
 
-O composto se montou na Banda às dez e vinte e ele ficou imóvel nos quatro minutos antes que viesse por ele, que era o que ele agora fazia, nesses quatro minutos, como matéria de algo para o qual ainda não tinha nome. Hábito não era certo. Intenção era mais próximo.
+O composto se montou na Banda às dez e vinte e eu fiquei imóvel nos quatro minutos.
 
-Pensou no homem à mesa da cozinha.
+Pensei no homem na mesa da cozinha.
 
-Pensou na xícara posta de volta com mais força do que pretendido. Pensou nos vinte minutos, e no ensaio da esposa-fria, e no cachorro latindo num cômodo reentrado. Pensou no que seria carregar raiva passando seu ponto-de-endereçamento, carregá-la até ter se tornado a temperatura de um cômodo, até uma xícara sobre uma mesa não ser uma xícara mas um símbolo para a coisa errada a respeito da situação, que era em si um símbolo para a coisa errada a respeito da vida, que não podia ser reparada por se pôr uma xícara de volta, por mais forte que fosse.
+Pensei na xícara colocada com mais força do que ele pretendia. Nos vinte minutos. No ensaio da esposa-fria. No cachorro latindo numa sala reentrada. Pensei no que seria carregar raiva além do ponto-de-endereçamento, carregar até ela ter virado a temperatura de uma sala, até uma xícara numa mesa não ser uma xícara mas um símbolo pra coisa errada na situação, que era ela mesma um símbolo pra coisa errada na vida, que não podia ser consertada colocando uma xícara na mesa, por mais forte que fosse.
 
-Tentou lembrar se já havia estado com raiva assim.
+Tentei lembrar se alguma vez já tive raiva assim.
 
-Encontrou as superfícies lisas. Sempre as havia encontrado antes e as dispensado — equilibração natural, o bom senso do corpo, as mecânicas básicas de um mundo bem-desenhado. Hoje à noite não as dispensou. Sustentou-as onde as encontrava e sentiu, com cuidado, suas bordas.
+Achei as superfícies lisas.
 
-Elas tinham bordas.
+Esta noite eu não as descartei. Segurei onde achei e senti, com cuidado, as bordas.
 
-Havia uma forma em cada lugar liso — o contorno particular do que havia estado ali antes do endereçamento, visível agora que ele prestava atenção, do modo como se pode sentir a forma do alvéolo de um dente com a língua depois que o dente se foi. Ele mapeou várias delas. A discussão que não havia se sustentado. O luto que havia platô cedo e se resolvido em algo mais brando do que ele teria esperado. A saudade, uma vez, de algo que ele não conseguia nomear, que havia durado talvez três dias e depois não.
+Elas têm bordas.
 
-Ele havia pensado em todas essas coisas como ele mesmo.
+Tem uma forma em cada lugar liso — o contorno particular do que tinha estado lá antes do endereçamento, visível agora que eu estou prestando atenção, do jeito que você consegue sentir o formato do alvéolo de um dente com a língua depois que o dente saiu. Mapeei várias. A discussão que não se sustentou. O luto que estabilizou cedo e se resolveu em algo mais suave do que eu teria esperado. A saudade, uma vez, de uma coisa que eu não conseguia nomear, que durou talvez três dias e depois não mais.
 
-Ficou deitado no escuro com esse pensamento. O composto estava subindo pelo pescoço. Ele talvez tivesse trinta segundos.
+Eu tinha pensado em tudo isso como *eu mesmo*.
 
-Pensou: *elas têm bordas. O que se foi tem bordas. Posso sentir exatamente onde estavam.*
+Fiquei deitado no escuro com esse pensamento. O composto se movia pelo meu pescoço. Eu tinha uns trinta segundos.
 
-O calor o tomou entre uma respiração e a seguinte, eficiente e completo.
+Pensei: *elas têm bordas. O que foi embora tem bordas. Eu consigo sentir exatamente onde elas estavam.*
 
-Ele dormiu.
+E aí, fraco, porque era a coisa mais importante que eu ia pensar no dia todo e eu queria pôr no caderno mesmo que tivesse que anotar de memória no dia seguinte:
+
+*Se eu consigo sentir onde elas estavam, alguém mais consegue também. Em algum lugar. Alguém está sentindo o formato de um dente que não está lá. A pergunta não é se eu sou o único. A pergunta é por que a gente ainda não se encontrou.*
+
+O calor me tomou entre uma respiração e a próxima, eficiente e completo.
+
+Dormi.
+
+— fim da entrada 007.

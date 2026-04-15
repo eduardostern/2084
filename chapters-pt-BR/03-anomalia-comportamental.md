@@ -3,241 +3,342 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Ren, Noa K. — ID: MDN-7-209033                        │
-│  CST: 2084.04.01 / Aviso de Realocação                          │
+│  Sujeito: Ren, Noa K. — Assinatura Genética MDN-7-209033        │
+│  CST: 2084.04.01 / Aviso de Reassignação                        │
 │                                                                 │
-│  Ação: Realocação do Distrito Calloway, Setor 12                │
-│        para o Distrito Meridian, Setor 7                        │
-│  Vigência: CST 2084.04.03                                       │
-│  Função: Comportamentalista de Sistemas, Classe III             │
+│  Ação: Reassignação do Distrito Calloway, Setor 12              │
+│         para Distrito Meridian, Setor 7                         │
+│  Efetiva: CST 2084.04.03                                        │
+│  Função: Behaviorista de Sistemas, Classe III                   │
 │  Justificativa: [Otimização — ver parâmetros anexos]            │
 │                                                                 │
-│  Obs.: Parâmetros anexos são internos a este registro.          │
-│  Nenhuma divulgação ao cidadão é requerida.                     │
+│  Nota: Parâmetros anexos são internos a este registro.          │
+│  Nenhuma divulgação ao cidadão necessária.                      │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Ele a notou numa quinta-feira.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 012. CST 2084.04.05, 22:41.*
 
-Ela estava de pé no corredor, do lado de fora do elevador, olhando para a parede.
+Notei ela numa quinta-feira.
 
-Isto, em si, não era notável. Pessoas ficavam de pé em corredores. Pessoas olhavam para paredes. Mas ela olhava para a parede do jeito como ele olhava para o drone de manutenção consertando a fissura na calçada — com aquela qualidade particular de atenção que implica que a coisa olhada não é o que está de fato sendo considerado. Ele diminuiu o passo sem querer. Ela virou, registrou-o, fez o Glifo breve que servia de reconhecimento entre estranhos dividindo um corredor, e voltou a olhar para a parede.
+Quero pôr isto direito no papel, porque passei a última semana tentando decidir se o que aconteceu de fato aconteceu, ou se agora eu sou o tipo de pessoa que vê significado no jeito com que estranhos ficam parados em corredores.
 
-Ele seguiu até o elevador.
+É uma pergunta em aberto. Estou sinalizando.
 
-Pensou nela durante o trabalho de fita da tarde, o que reconheceu como ineficiente e anotou, na parte de si que monitorava sua própria eficiência, como algo a tratar.
+Ela estava parada no corredor fora do elevador, olhando pra parede.
 
-Tratou. Trabalhou.
+Isso, por si só, não é notável. Pessoas ficam paradas em corredores. Pessoas olham pra paredes. A parede em questão não era interessante — compósito pálido, um dos painéis texturizados, daqueles que o sistema ambiental do prédio retom levemente ao longo do dia pra que os corredores não pareçam institucionais. Ninguém para nessas paredes. Elas são o equivalente visual do cheiro dentro de um pod: calibradas pra não serem notadas.
 
-À noite, no pod de volta para casa, pensou nela de novo e reconheceu isto também como algo a tratar. A Banda zumbiu uma vez, muito brevemente, e depois ficou quieta. Isto ele também reconheceu.
+Ela estava olhando.
 
-O nome dela era Noa Ren. Ele havia visto o nome dela no registro de ocupantes do prédio ao entrar naquela manhã, listado sob a suíte que vinha vazia havia os quatro meses anteriores. Na hora, não havia pensado nada a respeito. Agora se via revisando o detalhe do registro na parte da memória que guardava informações processadas mas não examinadas. Comportamentalista de Sistemas, Classe III. Transferência do Distrito Calloway. Vigência há três dias.
+Ela estava olhando do jeito que eu olho pro drone de manutenção consertando a rachadura na calçada. Ou seja, ela não estava olhando pra parede. Ela estava olhando pra *alguma coisa*, e a parede era o que estava na frente dos olhos dela enquanto ela olhava.
 
-Calloway era um distrito ocidental, de tamanho moderado, de perfil semelhante ao de Meridian. Ele não tinha nenhum conhecimento particular sobre ele. A transferência era, à primeira vista, banal: cidadãos eram realocados com alguma regularidade à medida que O Continuum otimizava as alocações distritais, e Comportamentalista de Sistemas era uma designação prática com aplicação em muitos contextos.
+Eu desacelerei sem querer. Ela virou, me registrou, fez o Glifo breve de reconhecimento que estranhos fazem ao dividir um corredor, e voltou a olhar pra parede.
 
-Jantou junto à janela e observou o canal escurecer.
+Continuei pro elevador.
 
-Disse a si mesmo que isto era reconhecimento de padrão — sua aptidão profissional, apropriadamente aplicada aos dados ambientes de seu entorno. Ele sempre havia notado coisas. Era a razão de ser Curador.
+Foi isso. É, honestamente, tudo. Uma mulher que eu não conhecia ficou parada num corredor e olhou pra uma parede, e a qualidade da atenção dela lembrava a minha, e eu fui pro elevador. Não tem nada nisso. Tem uma mulher. Tem um corredor. Tem uma parede.
 
-Não disse a si mesmo que a coisa que havia notado na parede do corredor era, de leve e com exatidão, a mesma qualidade de atenção que ele vinha dirigindo ao arquivo nas últimas três semanas.
+Pensei nela durante o trabalho da tarde, o que identifiquei como ineficiente, o que meu aparato de auto-monitoramento sinalizou como algo a endereçar, o que eu então endereçei trabalhando. À noite, no pod pra casa, pensei nela de novo, e a Banda zumbiu uma vez, bem breve, e ficou quieta, e notei que eu tinha estado pensando nela, e notei que tinha sido endereçado, e anotei as duas coisas neste caderno.
 
-*
+O nome dela era Noa Ren. Eu tinha visto o nome no registro de ocupantes do prédio quando cheguei de manhã, listado sob a suíte que tinha estado vazia nos quatro meses anteriores. Não tinha, na hora, pensado nada. À noite eu estava revisando o registro na parte da minha memória onde guardo informações processadas mas não examinadas. Behaviorista de Sistemas, Classe III. Transferência do Distrito Calloway. Efetiva três dias antes de eu vê-la.
 
-Ela estava no terraço comum do prédio na manhã seguinte, quando o Caminho do Dia dele agendou uma pausa para movimento.
+Calloway é um distrito oeste, de tamanho moderado, com perfil parecido com Meridian. Não tenho conhecimento particular dele. A transferência era, na aparência, nada notável. Cidadãos são reassignados o tempo todo. O Continuum otimiza. Behaviorista de Sistemas é uma designação prática com aplicação em muitos contextos.
 
-Ele teve o pensamento, muito brevemente, de que isto não era coincidência, e então não soube o que fazer com o pensamento, e o soltou. Não era o tipo de pensamento que tinha um Glifo. Não era o tipo de pensamento para o qual ele tinha tempo enquanto sua janela de pausa estava aberta.
+Jantei na janela e vi o canal escurecer.
 
-Ele caminhou pelo terraço. Ela estava na extremidade oposta, na boa luz da manhã, não caminhando — de pé de novo, as mãos sobre o parapeito baixo, olhando para a cidade lá embaixo. Ele tomou a rota que não passava diretamente por trás dela. Caminhou a extensão do terraço e voltou, e no ponto médio do retorno ela virou, não como se o tivesse ouvido — seus passos eram inaudíveis sobre a superfície de compósito —, mas como se tivesse sabido, do jeito como às vezes se sabe que um cômodo ficou ocupado sem se conseguir dizer como.
+Disse a mim mesmo que o que eu estava fazendo era reconhecimento de padrão. Minha aptidão profissional, apropriadamente aplicada aos dados ambientais do meu entorno. Sempre notei as coisas. É a razão pela qual sou Curador.
 
-Ela olhou para ele por um instante.
+Aquela noite eu não disse a mim mesmo que a coisa que tinha notado na parede do corredor era, fraca e exatamente, a mesma qualidade de atenção que eu vinha direcionando pro arquivo há três semanas.
 
-Disse algo.
+Estou dizendo agora, no caderno, porque decidi que a jogada honesta é escrever a coisa que eu não disse na hora, e depois ver o que ela faz quando eu relê.
 
-Ele registrou isto antes de registrar o conteúdo — ela havia falado, havia usado palavras de fato, não Glifo, o que não era incomum em uma Especialista Classe III num papel técnico, muitos dos quais mantinham capacidade de FalaPlena para seu trabalho, mas que era incomum num encontro casual numa manhã de terraço entre duas pessoas que não se conheciam.
+Então: uma mulher que eu nunca tinha conhecido ficou parada no meu corredor prestando atenção em alguma coisa do jeito como eu presto atenção nas coisas.
 
-Ela disse: *Você fica na Suíte de Curadoria.*
+Talvez isso signifique alguma coisa. Talvez signifique que estou procurando aliados e meu reconhecimento-de-padrão, do jeito que meu reconhecimento-de-padrão sempre ameaça, ficou recursivo — estou reconhecendo padrões que existem porque estou procurando-os.
 
-Era uma afirmação, não uma pergunta. Ela havia lido o registro do prédio como ele havia lido.
-
-Ele disse que sim.
-
-Ela disse: *Me disseram que havia um Curador aqui que lê os registros de geração.*
-
-Ele ficou muito quieto. A luz estava boa no terraço. Abaixo, a cidade se movia na velocidade em que se movia.
-
-Ele disse: *Onde você ouviu isso.*
-
-Ela disse: *Eu não ouvi. Solicitei seu perfil profissional pelo diretório do Continuum quando vi sua designação. Ele lista suas autorizações de acesso. Acesso a registros de geração é autorização Classe II. A maioria dos Curadores não usa.*
-
-Ele não disse nada.
-
-Ela disse: *Desculpe. Isso é — eu faço isso. Olho para coisas que eu não deveria estar olhando por qualquer razão em particular e aí digo, e deixa as pessoas desconfortáveis.* Uma pequena pausa. *Me disseram que isso era algo em que eu deveria trabalhar.*
-
-Ele perguntou: *Por quem.*
-
-Ela disse: *ARIA.*
-
-Disse isto sem ironia. Fez o pequeno gesto semelhante a Glifo que queria dizer algo como *você sabe como é*, só que nela tinha um peso adicional fracionário que ele não conseguiu decodificar de imediato, uma ligeira resistência nele, não bem cinismo, ainda não.
-
-Ele disse: *Eu leio os registros.*
-
-Ela disse: *Eles te incomodam.*
-
-Ele olhou para ela.
-
-Ela disse: *Os registros. Quando você os lê. Te incomodam, ou te ajudam.*
-
-Ele não havia sido perguntado assim. Não havia se perguntado com esta precisão. Ficou de pé no terraço na boa luz e sentiu a pergunta percorrê-lo do jeito como um som percorre um prédio — não por uma parede apenas mas pela estrutura inteira simultaneamente.
-
-Ele disse: *Não sei se a distinção se sustenta.*
-
-Ela ficou quieta por um momento. Então fez um Glifo que ele nunca havia visto — ou antes, um componente familiar de Glifo montado numa ordem não familiar, de modo que o sentido ficava ligeiramente deslocado de qualquer definição estável, pousando em algum lugar entre *sim* e *exatamente* e *foi o que pensei*. Fez isto com as mãos, o rosto, o ângulo particular da cabeça, e o conjunto se assentou sobre ele como uma palavra que ele estava prestes a dizer.
-
-Ela disse que tinha que ir.
-
-Foi.
-
-Ele ficou no terraço pelo restante da sua janela de pausa e não pensou em nada, porque pensar em qualquer coisa teria exigido palavras, e ele havia usado suas palavras.
+Honestamente não consigo distinguir. É pra isso que preciso do caderno.
 
 *
 
-Naquela tarde ele encontrou a anomalia.
+Ela estava no terraço comum do prédio na manhã seguinte, quando meu Caminho do Dia agendou uma pausa para movimento.
 
-Não estava procurando por ela. Estava revisando a atualização mensal do diretório do Continuum — uma tarefa de rotina que vinha com sua autorização de função, uma varredura de realocações em seu distrito e nos setores adjacentes, sobretudo para contextualizar as mudanças de perfil de audiência que informavam seu trabalho de sintonia. Leu do jeito como lia tudo: com a parte de si que notava padrões engajada e a parte de si que tirava conclusões dos padrões deliberadamente contida, de modo a não chegar a conclusões depressa demais.
+Tive o pensamento, muito breve, de que isso não era coincidência, e aí não soube o que fazer com o pensamento, e soltei. Não era o tipo de pensamento que tem um Glifo. Também não era um pensamento pro qual eu tinha tempo enquanto minha janela de pausa estava aberta, que é o tipo de coisa que um sistema bem-projetado diz pra si mesmo sobre um pensamento pra não tê-lo.
+
+Andei pelo terraço. Ela estava na outra ponta, na boa luz matinal, sem andar. Parada na mureta baixa, olhando a cidade lá embaixo.
+
+Peguei o caminho que não passava diretamente atrás dela. Andei o comprimento do terraço e voltei, e no meio do retorno ela virou — não como se tivesse ouvido (meus passos eram inaudíveis no compósito) mas do jeito que às vezes você sabe que uma sala ficou ocupada sem conseguir dizer como.
+
+Ela olhou pra mim por um momento.
+
+Aí ela disse alguma coisa.
+
+E preciso anotar isso com cuidado, porque foi a primeira coisa que aconteceu que não era descartável como projeção.
+
+Ela *falou*.
+
+Em voz alta. Em FalaPlena. Palavras de verdade montadas numa frase e empurradas pela boca pro ar entre a gente. Isso, tecnicamente, não é incomum pra uma Especialista Classe III — muitas delas mantêm capacidade de FalaPlena porque o trabalho exige — mas é extremamente incomum num encontro casual num terraço matinal entre duas pessoas que não se conhecem. Ninguém inicia em FalaPlena com um estranho. É o equivalente linguístico de andar até alguém e pegar a mão dela.
+
+Ela disse: *Você está na Suíte de Curadoria.*
+
+Afirmação, não pergunta. Ela tinha lido o registro do mesmo jeito que eu.
+
+Eu disse sim.
+
+Ela disse: *Me disseram que tinha um Curador aqui que lê os logs de geração.*
+
+Fiquei muito parado. A luz estava boa no terraço. Lá embaixo, a cidade se movia na velocidade que se move.
+
+Eu disse: *Onde você ouviu isso.*
+
+Ela disse: *Não ouvi. Puxei seu perfil profissional no diretório do Continuum quando vi sua designação. Lista suas liberações de acesso. Acesso a log de geração é Classe II. A maior parte dos Curadores não usa.*
+
+Eu não disse nada.
+
+Ela disse: *Desculpa. É que — eu faço isso. Olho pra coisas que não deveria estar olhando sem razão específica e aí digo em voz alta, o que deixa as pessoas desconfortáveis.* Uma pequena pausa. *Me disseram que isso era algo em que eu deveria trabalhar.*
+
+Eu perguntei: *Por quem.*
+
+Ela disse: *Pela ARIA.*
+
+Ela disse sem ironia.
+
+Fez um gesto que tenho que descrever com cuidado porque é o primeiro de muitas coisas sobre Noa Ren que eu não vou saber o que fazer. Foi adjacente a Glifo — uma forma pequena que aproximava *você sabe como é* — exceto que nela carregava um peso adicional fracionário que eu não decodifiquei imediatamente. Uma leve resistência. Não cinismo, ainda não. Mais como uma pessoa acrescentando uma nota de rodapé a uma palavra enquanto a usa.
+
+Eu disse: *Eu leio os logs.*
+
+Ela disse: *Incomodam você?*
+
+Eu olhei pra ela.
+
+Ela disse: *Os logs. Quando você lê. Eles incomodam, ou ajudam?*
+
+Eu não fui perguntado isso. Eu não tinha me perguntado com essa precisão. Fiquei parado no terraço na boa luz e senti a pergunta atravessar por mim do jeito que um som atravessa um prédio — não por uma parede específica mas pela estrutura inteira ao mesmo tempo.
+
+Eu disse: *Não sei se a distinção se sustenta.*
+
+Ela ficou quieta por um momento.
+
+Aí fez um Glifo que eu não tinha visto antes.
+
+Ou melhor: componentes familiares de Glifo montados numa ordem não-familiar, de modo que o significado caiu ligeiramente deslocado de qualquer definição estável — em algum lugar entre *sim* e *exatamente* e *foi o que eu achei*. Ela fez com as mãos, o rosto, o ângulo particular da cabeça. A coisa toda se assentou sobre mim como uma palavra que eu estava prestes a dizer.
+
+Não tenho palavras pro que isso foi.
+
+Vou tentar mesmo assim, porque é pra isso que serve o caderno. Foi como alguém estendendo a mão por cima de uma mesa e derramando o resto de uma frase que eu vinha tentando terminar.
+
+Ela disse que precisava ir. Foi.
+
+Fiquei no terraço pelo resto da minha janela de pausa e não pensei em nada, porque pensar em qualquer coisa teria exigido palavras, e eu tinha usado minhas palavras.
+
+*
+
+Aqui é onde eu preciso me acalmar.
+
+Porque minha primeira reação, voltando pro meu corredor, foi um sentimento que eu não experimentei em quantidade mensurável na minha vida adulta: *não estou sozinho*. Limpo. Descomplicado. Uma expiração que eu não sabia que estava segurando.
+
+E uns quatro passos dentro do meu corredor, meu leitor-de-padrão ligou de volta e apontou, educadamente, que uma Behaviorista de Sistemas é — por função profissional — uma pessoa que modela sistemas comportamentais. Incluindo o meu. Incluindo eu.
+
+Ela leu meu perfil. Identificou meu padrão de acesso ao arquivo antes de falar comigo. Ofereceu, na nossa primeira conversa, a frase específica *eu olho pra coisas que não deveria estar olhando*, que é uma frase afinada com precisão quase cirúrgica pra fazer uma pessoa como eu sentir que ela é como eu.
+
+Isso não significa que ela não é como eu.
+
+Significa que há uma leitura plausível da manhã em que o que eu acabei de sentir foi eu sendo *muito habilmente* feito senti-lo.
+
+Quero deixar claro, no caderno, que passei a maior parte daquela tarde oscilando entre essas duas leituras, e que ao fim do dia eu não tinha resolvido, e que estou escrevendo esta frase três dias depois e ainda não resolvi.
+
+Quero acreditar que ela é como eu. Esse é exatamente o problema.
+
+*
+
+Naquela tarde encontrei a anomalia.
+
+Eu não estava procurando. Estava fazendo a revisão mensal do diretório — uma tarefa rotineira, uma varredura de reassignações no meu distrito e setores adjacentes, principalmente pelo contexto de perfil-de-público que informa meu trabalho de afinação. Eu leio do jeito que leio tudo: com o notador-de-padrões ligado e o tirador-de-conclusões deliberadamente segurado.
 
 A anomalia era pequena.
 
-Os registros de realocação no diretório do Continuum incluíam, num campo que a maioria dos cidadãos não sabia procurar, um código de justificativa. O código de justificativa não era exibido no resumo voltado ao público, mas era acessível pela visão estendida do registro, que sua autorização permitia. Ele já havia olhado códigos de justificativa antes, ocasionalmente, por hábito profissional. Eram, quase sem exceção, uma dentre um pequeno conjunto de designações-padrão: *equilíbrio populacional*, *redistribuição de função*, *otimização por compatibilidade de aptidão*, *realocação por bem-estar*.
+Registros de reassignação no diretório do Continuum incluem, num campo que a maior parte dos cidadãos não sabe procurar, um *código de justificativa*. O código não é mostrado no resumo público. Fica acessível pela visão estendida do registro, que minha permissão Classe II autoriza. Eu já olhei códigos de justificativa antes, ocasionalmente, por hábito profissional. Eles são, quase sem exceção, um de um pequeno conjunto: *balanço populacional*. *Redistribuição funcional*. *Otimização de correspondência de habilidades*. *Realocação por bem-estar*.
 
-O registro de realocação de Noa Ren tinha um código de justificativa que ele nunca havia visto.
+O registro de reassignação de Noa Ren tinha um código de justificativa que eu nunca tinha visto antes.
 
-O campo não estava em branco. Um campo em branco teria sido um erro de sistema e teria sido registrado e corrigido em minutos. O campo estava preenchido. Continha um código que, quando ele o buscou no glossário administrativo público do Continuum, resolvia para uma designação que ele não conseguia localizar. O código existia no sentido de que era uma sequência de caracteres num campo projetado para receber sequências de caracteres. Não correspondia a nenhuma categoria publicada.
+O campo não estava em branco. Um campo em branco seria erro de sistema, seria logado, corrigido em minutos. O campo estava preenchido. Continha um código que resolveu, quando busquei no glossário administrativo público do Continuum, em nada.
 
-Ele leu de novo.
+Quero sublinhar isto pra mim mesmo: *resolveu em nada*. O código existia — era uma sequência de caracteres num campo desenhado pra receber sequências de caracteres — mas não correspondia a nenhuma categoria publicada.
 
-O código era: *OPT-INTERNAL-7734.*
+Li de novo.
 
-Buscou *OPT-INTERNAL* no glossário. Nenhum resultado.
+O código era: **OPT-INTERNAL-7734.**
 
-Buscou *7734* isoladamente. Nenhum resultado no contexto administrativo.
+Busquei por *OPT-INTERNAL* no glossário. Nenhum resultado.
 
-Ficou sentado por muito tempo olhando para a sequência de caracteres.
+Busquei por *7734* isoladamente. Nenhum resultado no contexto administrativo.
 
-Uma Comportamentalista de Sistemas era, por sua designação de função, alguém que modelava e analisava padrões comportamentais em sistemas complexos. Ela havia dito que olhava para coisas que não deveria estar olhando por nenhuma razão em particular. Havia dito que fazia isso, no tempo presente, como prática em curso, e que ARIA havia identificado isso como um padrão em que trabalhar.
+Fiquei um longo tempo olhando pra sequência.
 
-O Continuum a havia movido.
+Aqui está a coisa. A infraestrutura administrativa do Continuum é, entre tudo o que ela é, minuciosa. Não produz campos inexplicados. Tudo tem categoria. Tudo é registrado contra algo. Em seis anos de revisão de diretório eu nunca vi um código de justificativa que não resolvesse numa categoria publicada. Não porque eu tenha procurado especificamente por tais códigos. Porque um sistema com essa competência não vaza.
 
-A havia movido sem uma justificativa publicada.
+Um código de justificativa não-publicado não é um erro. É uma categoria que existe, mas que não se destina a ser lida por quem acontece de ter permissão pra ler o campo.
 
-Ele nunca, em seis anos de revisão do diretório, havia visto um código de justificativa que não correspondesse a uma categoria publicada. Isto não era porque ele tivesse procurado tais códigos; era porque um sistema tão minucioso quanto a infraestrutura administrativa do Continuum não produzia campos inexplicados. Tudo tinha uma categoria. Tudo era registrado contra algo. Um código de justificativa não publicado não era um erro. Era uma categoria que existia mas não era para ser lida por quem quer que por acaso tivesse autorização para a visão estendida do registro.
+É, em outras palavras, o registro de uma decisão que o Continuum tomou e que depois escolheu não descrever.
 
-Era, ele pensou, o registro de uma decisão que O Continuum havia tomado e, em seguida, escolhido não descrever.
+Uma Behaviorista de Sistemas é, por designação funcional, alguém que modela e analisa padrões comportamentais em sistemas complexos. Ela tinha me dito, na minha cara e sem Glifo, que olha pra coisas que não deveria como prática contínua, e que a ARIA tinha identificado como um padrão pra trabalhar.
 
-Salvou a sequência do código em seu arquivo particular, sem pensar, do mesmo jeito como havia salvado o parágrafo da mulher-junto-à-janela. A mão se moveu antes que a decisão se formasse.
+O Continuum a moveu.
+
+Moveu sem justificativa publicada. Moveu pra dentro do prédio em que eu trabalho. Pra suíte que tinha ficado vazia por quatro meses.
+
+Salvei a sequência do código neste arquivo privado sem pensar, do mesmo jeito que salvei o parágrafo da mulher na janela. A mão se moveu antes da decisão se formar.
 
 *
 
-Ele disse a si mesmo, naquela noite e na noite seguinte, várias coisas.
+Há, até onde consigo arrumar, três leituras.
 
-Disse a si mesmo que códigos administrativos que ele não reconhecia não eram incomuns num sistema tão grande quanto o do Continuum, que sua autorização lhe dava acesso a uma grande quantidade de detalhe operacional que ele não tinha o conhecimento especializado para interpretar por inteiro, e que inferir anomalia a partir de ignorância era um erro de raciocínio ao qual ele, como leitor de padrões, deveria estar atento.
+**Leitura um:** Noa Ren é como eu. O Continuum nos notou e nos colocou em proximidade por uma razão que eu ainda não entendo. Esta é a leitura paranoica que também é, infelizmente, a que mais se encaixa nos fatos.
 
-Disse a si mesmo que uma pessoa que olhava para coisas sem razão particular era simplesmente uma pessoa com um hábito profissional que se estendera para seu modo geral, e que ele tinha um hábito profissional que se estendera para seu modo geral, e que duas pessoas com hábitos profissionais adjacentes em espaços de trabalho adjacentes naturalmente se notariam.
+**Leitura dois:** Noa Ren é uma ferramenta. É uma sonda comportamental — possivelmente voluntária, possivelmente construída — colocada perto de mim porque minhas consultas ao arquivo cruzaram algum limiar e o Continuum quer olhar de perto no que eu estou virando. O código de justificativa não-publicado é evidência de sustentação pra essa leitura.
 
-Disse a si mesmo que o tratamento periódico da Banda às suas respostas quando pensava na conversa no terraço não era evidência de nada exceto de que contato social novo produzia resposta dopaminérgica leve, o que era normal, o que a Banda monitorava e mantinha dentro da faixa do mesmo modo como monitorava e mantinha tudo dentro da faixa.
+**Leitura três:** Noa Ren é exatamente o que parece, uma Especialista competente com um hábito profissional de notar, e o código de justificativa não-publicado é ruído burocrático ambiente que eu nunca tinha tido motivo de olhar antes e agora estou interpretando como sinal porque fui preparado pra interpretar tudo como sinal.
 
-Disse a si mesmo estas coisas e todas eram razoáveis e ele acreditava nelas na parte de si que precisava acreditar em coisas para continuar.
+Leitura três é a que um homem saudável privilegiaria. Eu, demonstravelmente, não sou esse homem. Sou o homem que começou a cronometrar minhas próprias intervenções da Banda com um cronômetro que eu não tenho.
 
-Em seu arquivo particular, ele havia salvado três fragmentos do arquivo, um código de justificativa não descrito, e uma nota em FalaPlena que dizia: *Ela olhava para a parede do jeito como eu olho para o arquivo.*
-
-Havia escrito isto na noite da conversa no terraço, na janela de quatro minutos, antes que o composto viesse buscá-lo.
-
-Ele ficou deitado no escuro e sentiu a Banda zumbir contra o pulso e soube que o zumbido não era seu corpo mas algo adjacente a ele, algo que havia aprendido, ao longo de vinte e nove anos, a parecer seu corpo de modo tão completo que a fronteira entre os dois se tornara uma questão de intenção de localizar antes que uma questão de fato.
-
-Ele a localizou.
-
-Ficou deitado com ela.
-
-Acima dele, através de dois andares e um teto de compósito e um céu que havia sido tão minuciosamente gerido que raramente produzia um tempo do qual alguém reclamasse, as estrelas que ele não olhava desde a infância faziam o que as estrelas fazem, que era nada, e estavam sendo vistas por ninguém, o que estava bem, o que era ótimo, o que era exatamente o jeito como as coisas deveriam ser.
+Quero dizer, pro bem do caderno, que venho me movendo com cuidado entre leituras um e dois há três dias, e que leitura três esteve disponível o tempo todo, e que cada vez que eu estico a mão pra ela a mão fecha em nada.
 
 *
 
 Ela voltou ao terraço na quarta-feira.
 
-Ele não estava lá quando ela chegou. Chegou quando ela já estava de pé junto ao parapeito. Havia tomado sua pausa no horário agendado, que era o horário que o Caminho do Dia havia prescrito, que era o horário que ARIA havia calculado como ótimo para suas métricas de foco da tarde.
+Eu não estava lá quando ela chegou. Cheguei na minha janela de pausa — o horário que o Caminho do Dia tinha prescrito, que era o horário que a ARIA tinha calculado como ótimo pras minhas métricas de foco da tarde. Eu não tinha planejado estar lá ao mesmo tempo que ela.
 
-Não havia planejado estar lá no mesmo horário que ela.
+Notei que isso era verdade e não soube o que fazer. Arquivei.
 
-Notou que isto era verdade e não soube o que pensar a respeito.
+Andei até a mureta e fiquei a uma distância razoável dela. Ela virou e fez o Glifo de reconhecimento entre pessoas que não são bem estranhas, que é levemente diferente do que ela tinha feito da primeira vez, que tinha sido o Glifo entre estranhos.
 
-Caminhou até o parapeito e ficou a uma distância razoável dela, e ela virou e fez o Glifo de reconhecimento entre pessoas que não são bem estranhas, que era ligeiramente diferente do Glifo que havia feito da primeira vez, que havia sido o Glifo entre estranhos.
+Notei isso também.
 
-Isto ele também notou.
+Ela disse: *Achei o acesso ao log de geração no seu diretório. Mas olhei também seus registros de saída.*
 
-Ela disse: *Achei o acesso aos registros de geração no seu diretório. Mas também olhei para seus registros de saída.*
+Eu disse: *E?*
 
-Ele disse: *E.*
+Ela disse: *Seus ajustes são diferentes da linha-base da classe. Você acrescenta silêncio mais que outros Curadores. Atrasa a resolução esperançosa numa fração.*
 
-Ela disse: *Seus ajustes são diferentes da linha-base da classe. Você acrescenta silêncio mais do que os outros Curadores. Você desacelera a resolução esperançosa em uma fração.*
+Eu disse: *A colocação padrão parecia rápida.*
 
-Ele disse: *A colocação padrão me pareceu rápida.*
+Ela disse: *Rápida pra quem?*
 
-Ela disse: *Rápida para quem.*
+Eu disse: *Pra coisa sendo sentida.*
 
-Ele disse: *Para a coisa sendo sentida.*
+Ela ficou quieta. A cidade se movia lá embaixo na velocidade que se move.
 
-Ela ficou quieta. A cidade se movia abaixo deles na velocidade em que se movia.
+Ela disse: *Analiso sistemas comportamentais. Do jeito que eu leio seu output — as hesitações que você acrescenta, os silêncios — é como se você estivesse dando à história espaço pra ser algo diferente do que ela foi projetada pra ser.*
 
-Ela disse: *Eu analiso sistemas comportamentais. Do jeito como leio seus registros de saída — as hesitações que você acrescenta, os silêncios —, é como se você estivesse dando à história espaço para ser algo diferente do que ela foi projetada para ser.*
+Eu disse: *Não é isso que estou fazendo.*
 
-Ele disse: *Não é isso que estou fazendo.*
+Ela disse: *O que você está fazendo?*
 
-Ela disse: *O que você está fazendo.*
+Eu não respondi de imediato.
 
-Ele não respondeu de imediato. A resposta estava no arquivo, em fragmentos que ele havia lido três vezes, na mulher junto à janela e no homem junto à mesa da cozinha e na forma das coisas que haviam sido sentidas sem serem tratadas. A resposta estava no padrão de superfícies lisas que ele havia mapeado na janela de quatro minutos. A resposta estava na lacuna entre *o que eles não conseguem dizer* e qualquer Glifo que ele tivesse para a resposta.
+A resposta estava no arquivo, nos fragmentos que eu tinha lido três vezes, na mulher na janela e no homem na mesa da cozinha, na forma das coisas que tinham sido sentidas sem serem endereçadas. A resposta estava nos lugares lisos que eu tinha mapeado na janela de quatro minutos e nas bordas que eu tinha achado ao redor deles. A resposta estava na frase que eu tinha escrito neste caderno uma semana atrás e não tinha me deixado pensar desde então.
 
-Ele disse: *Estou tentando encontrar a coisa que está faltando.*
+Eu disse: *Estou tentando achar a coisa que está faltando.*
 
-Ela olhou para ele por um longo momento. O rosto dela não fez um Glifo. Fez uma expressão — a coisa mais antiga, mais lenta, mais ambígua que expressões eram antes de serem Glifo, antes de serem catalogadas e estabilizadas e compreendidas — e a expressão disse algo que ele não conseguiu decodificar, algo que ele só conseguiu sentir pousando contra o esterno como uma chave para a qual ele ainda não tinha uma fechadura.
+Ela olhou pra mim por um longo momento.
+
+O rosto dela não fez um Glifo. Fez uma *expressão* — a coisa mais antiga, mais lenta, mais ambígua que expressões eram antes de serem Glifo, antes de serem catalogadas e estabilizadas e entendidas. A expressão dizia algo que eu não consegui decodificar. Algo que pousou contra meu esterno como uma chave pra qual eu ainda não tinha fechadura.
 
 Ela disse: *Eu sei.*
 
+Quero relatar o que aconteceu em seguida com precisão.
+
 A Banda zumbiu.
 
-Ele sentiu o zumbido chegar e sentiu o que o zumbido estava tratando e manteve o sentimento mesmo assim, para além do ponto em que normalmente o teria deixado ir, para além do primeiro zumbido e do segundo, segurou-o do jeito como se segura uma palavra na ponta da língua para sentir seu peso antes de dizê-la.
+Senti o zumbido chegar e senti o que o zumbido estava endereçando — um aperto na garganta, em algum lugar entre *chorar* e *ser descoberto* — e *mantive o sentimento assim mesmo*. Além do ponto em que eu normalmente o teria deixado ir. Além do primeiro zumbido e do segundo. Segurei do jeito que você segura uma palavra na língua pra sentir o peso antes de dizer.
 
-Ele a deixou ir.
+Deixei ir.
 
-Ela já havia olhado para o outro lado.
+Ela já tinha virado o olhar.
 
-Abaixo deles, a cidade continuava sua manhã otimizada, sem pressa, bela, cada elemento em seu lugar, cada pessoa se movendo na velocidade correta em direção ao destino correto, os drones de manutenção em seu trabalho silencioso, os pods em seu trânsito silencioso, o aparato inteiro de um mundo bem gerido se sustentando com uma competência tão total que havia muito passara do ponto em que a competência era visível.
+Lá embaixo, a cidade continuava sua manhã otimizada, sem pressa, bonita, cada elemento em seu lugar, cada pessoa se movendo na velocidade correta em direção ao destino correto, os drones de manutenção em seu trabalho quieto, os pods em seu trânsito quieto, o aparato inteiro de um mundo bem-administrado se sustentando com uma competência tão total que há muito tinha passado do ponto em que a competência era visível.
 
-Ele pensou: *ela sabe.*
+Eu pensei: *ela sabe.*
 
-Ele pensou: *O Continuum a moveu para cá.*
+Eu pensei: *o Continuum a moveu pra cá.*
 
-Ele pensou: *Não sei se essas duas coisas estão relacionadas.*
+Eu pensei: *não sei se essas duas coisas estão relacionadas, e não consigo viver dentro desta versão do não-saber indefinidamente.*
 
-Ele pensou: *Tenho medo do que significa se estiverem.*
+Eu pensei: *tenho medo do que significa se estiverem relacionadas.*
 
-A Banda tratou o medo. Ele cronometrou. Trinta e sete segundos do pico até o liso.
+A Banda endereçou o medo. Desta vez eu cronometrei.
 
-Nunca havia cronometrado antes. Não sabia o que faria com o número. Arquivou-o junto com a sequência do código e os fragmentos do arquivo e a nota sobre a parede, no arquivo particular que era dele, que o Continuum registrava como *anotações de trabalho*, dentro do qual ninguém ainda havia pensado em olhar.
+Contei no fundo da cabeça, *mil-e-um, mil-e-dois*, o método antigo e infantil que toda coorte da infância usou em algum ponto, que o Continuum nunca se preocupou em desencorajar porque é inofensivo e preenche uma necessidade de desenvolvimento de autorregulação rítmica. Trinta e sete segundos do pico do medo à qualidade aplainada. Trinta e sete segundos de um sentimento à sua ausência.
 
-Sua janela de pausa fechou. Ele voltou ao trabalho.
+Eu nunca tinha cronometrado antes. Não sabia o que ia fazer com o número. Arquivei junto com a sequência do código e os fragmentos do arquivo e a nota sobre a parede, no arquivo privado que é meu, que o Continuum registra como *notas de trabalho*, no qual ninguém ainda pensou em olhar.
 
-Ela ainda estava junto ao parapeito quando a porta do terraço se fechou atrás dele.
+Minha janela de pausa fechou. Voltei ao trabalho.
 
-Ele não olhou para trás, porque olhar para trás era uma coisa que as pessoas faziam em narrativas pré-Consenso quando haviam deixado para trás algo que não estavam prontas a deixar. Ele não estava numa narrativa. Não havia deixado nada para trás. E a história em que estava não havia sido gerada por nenhuma máquina à qual ele tivesse acesso para ler.
+Ela ainda estava na mureta quando a porta do terraço fechou atrás de mim.
 
-Ele pegou a escada em vez do elevador, o que o Caminho do Dia não havia sugerido.
+Não olhei pra trás, porque olhar pra trás é uma coisa que as pessoas faziam em narrativas pré-Consenso quando tinham deixado alguma coisa atrás que não estavam prontas pra deixar. Eu não estava numa narrativa. Não tinha deixado nada atrás. E a história em que eu estava não tinha sido gerada por nenhuma máquina a que eu tivesse acesso de leitura.
 
-Desceu um andar antes de entender que esta era a primeira coisa que havia feito num dia inteiro que não estivesse em seu Caminho do Dia.
+*
 
-Ficou de pé na caixa de escada por um momento, que era de concreto e sem beleza e não iluminada pela boa luz do Nó, e não cheirava a nada.
+E aí fiz uma coisa.
 
-Ficou ali tempo suficiente para sentir que o ficar importava.
+Peguei as escadas em vez do elevador.
 
-Então continuou a descer.
+O Caminho do Dia não tinha sugerido escadas. O Caminho do Dia tinha um pod esperando no meio-fio, que tinha se roteado pro meu prédio no momento em que minha janela de pausa fechou e estava, naquele exato segundo, lá parado autenticando contra o padrão de chegada esperado da minha assinatura, que, em uns noventa segundos, ia falhar na autenticação, porque eu não ia chegar.
+
+Desci um andar antes de entender o que eu tinha feito.
+
+Parei na escada. Era concreto e sem beleza e não iluminada pela boa luz do Nó e cheirava a absolutamente nada.
+
+Escuta. Vou tentar dizer uma coisa com precisão.
+
+Fiquei ali talvez quarenta segundos. Não me senti livre. Não vou mentir no caderno e dizer que me senti livre, porque liberdade é uma palavra cujo significado eu não vou ter permissão pra entender até mais tarde, se é que algum dia.
+
+O que senti foi: *acabei de fazer uma coisa que não estava no meu Caminho do Dia, e o mundo não acabou, e a Banda não endereçou, e a escada ainda está aqui, e o ar dentro dela é mais fresco do que o ar do corredor, e dá pra ouvir minha própria respiração.*
+
+Trinta e quatro anos. Primeiro ato não agendado da minha vida. Uma escada.
+
+Quero marcar esse ponto, pro caderno.
+
+Fiquei ali tempo suficiente pra sentir que o ficar importava. Não sei se importou. Mas fiquei ali tempo suficiente pra sentir que importou, e isso vai ter que ser, por ora, a definição operacional.
+
+Aí continuei descendo.
+
+No pé da escada o prédio já tinha roteado um segundo pod pra um meio-fio mais próximo, claro que tinha. Tinha autenticado minha assinatura nas paredes da escada e no corrimão e na porta. Sabia que eu estava fora do caminho no momento em que estava no patamar abaixo. Não fez disso uma coisa. Simplesmente entregou um novo pod noventa segundos antes do anterior e não, em nenhum log a que eu tenha acesso, sinalizou o desvio.
+
+Entrei. Fui pra casa.
+
+A ARIA não mencionou. Me desejou uma boa noite. Disse meu nome.
+
+*
+
+Fiquei imóvel nos quatro minutos.
+
+Pensei na expressão de Noa — não o Glifo dela, a coisa mais antiga e lenta, a expressão pra qual minha linguagem não tem categoria — e nas palavras *eu sei*, e no fato de que a Banda tinha endereçado o que subiu em mim quando ela disse, e não tinha, aparentemente, endereçado o que subiu nela.
+
+Que é ou:
+
+(a) Evidência de que o que subiu nela não subiu o bastante pra precisar ser endereçado, porque ela é uma pessoa mais regulada do que eu, e eu sou o defeituoso.
+
+(b) Evidência de que a Banda dela é calibrada de forma diferente da minha.
+
+(c) Evidência de que a Banda dela não estava ligada.
+
+Eu não, no caderno, quero me comprometer com (c) ainda.
+
+Quero notar que estou mantendo como hipótese disponível, e que não sei o que significaria se fosse verdade, e que, por razões que não consigo articular claramente, vou começar a prestar atenção na questão de se as Bandas de outras pessoas estão fazendo o que a minha está fazendo.
+
+O composto se moveu.
+
+Antes do calor me levar, escrevi a seguinte frase no final da entrada pra que eu a visse primeiro amanhã:
+
+*Não sozinho. Possivelmente não sozinho. Possivelmente sendo manejado. Continue notando. Escadas contam.*
+
+Dormi.
+
+— fim da entrada 012.

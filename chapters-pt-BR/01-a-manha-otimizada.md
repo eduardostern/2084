@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Sujeito: Ward, Elias J. — Assinatura Genética MDN-7-204471     │
 │  CST: 2084.03.14 / 06:00:00                                     │
 │                                                                 │
 │  Resumo do Ciclo Noturno:                                       │
@@ -23,236 +23,271 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-O Nó começou a se iluminar uma hora antes de Elias perceber que estava acordado.
+**NOTAS DE TRABALHO PRIVADAS — E. Ward — NÃO INDEXAR**
+*Entrada 001. CST 2084.03.14, 22:18. Quatro minutos até o composto do sono.*
 
-Não era luz propriamente dita, era mais a ideia de luz, um calor pálido no teto que foi se adensando aos poucos até se tornar algo perante o qual seus olhos consentiram em abrir. O quarto aqueceu com ele. O ar se filtrou até a secura específica que ele preferia, embora nunca a tivesse pedido; a Banda havia aprendido sua preferência do mesmo modo como as marés aprendem uma costa. Em algum lugar abaixo da clavícula, onde o anel fino da Banda repousava contra a pele, começou uma pequena elevação de cortisol. Não era desagradável. Parecia o corpo decidindo, por conta própria, que a manhã havia chegado.
+Então a questão sobre minha manhã é a seguinte: ela começou uma hora antes de mim.
 
-Ele ficou imóvel por um momento, com os olhos semiabertos, observando o Caminho do Dia se desdobrar acima dele.
+O Nó sabia que eu estava prestes a acordar porque vinha observando minha frequência cardíaca achatar naquele formato específico que um humano faz no último trecho de REM, e pré-aqueceu o quarto em meio grau, e subiu a luminância do teto de zero até a cor do chá ralo, e quando meus olhos abriram o ar do quarto já tinha decidido que eu preferia seco. E prefiro. Nunca contei isso a ninguém, inclusive a mim mesmo. O quarto descobriu do jeito como a água descobre uma tigela.
 
-Ele vinha em Glifo, como agora vinha todas as coisas: uma suave constelação de formas estendida pelo teto nas cores que os olhos leem sem esforço. Ele não chegava propriamente a ler o Caminho — ele o reconhecia. Acordar. Hidratar. Café da manhã, já em composição. Um pod às 07:12. Suíte de Curadoria das 07:40 às 12:30. Uma pausa para movimento, sugerida, não obrigatória. Almoço. Uma sessão à tarde. Retorno ao entardecer. Uma breve janela social com alguém de sua rede — o glifo tinha a forma que ele associava a Mira, sua colega dois andares abaixo, aquela das mãos pacientes. Jantar. Janela de sono abrindo às 22:20.
+Fiquei ali deitado por um segundo e assisti o Caminho do Dia se desdobrar no teto.
 
-O dia inteiro, entregue a ele antes que seus pés tocassem o chão. Um presente disposto na ordem em que ele o tomaria.
+Ele vinha em Glifo, como todas as coisas vêm hoje — uma pequena constelação de formas que minha retina lê antes que a palavra *ler* alcance. Acordar. Hidratar. Café da manhã compondo. Pod às 07:12. Suíte das 07:40 às 12:30. Uma pausa para movimento, *sugerida, não obrigatória*, que é o jeito educado do Continuum dizer *você vai fazer a pausa para movimento*. Almoço. Sessão da tarde. Retorno ao entardecer. Uma janela social com a Mira — o glifo dela tem uma meia-inclinação particular que eu conheço desde os dezenove. Jantar. Janela de sono abrindo às 22:20.
 
-Ele não pensava nisso como uma jaula. Não pensava nisso, na verdade. Apenas sabia o que fazer, do jeito como um galho sabe para que lado é cima.
+O meu dia inteiro, entregue na minha mão antes dos meus pés tocarem o chão. Organizado na ordem em que eu ia pegá-lo. Um presente, basicamente, se você não olhar muito tempo pra ele.
 
-Sentou-se. O lençol se retirou um quarto do caminho pela cama, não porque ele tivesse pedido, mas porque vinha observando o ângulo de sua coluna e tinha inferido. Pôs os pés no chão. O chão estava morno na temperatura exata em que um chão deixa de ser notado. Ele ficou de pé.
+Não olhei muito tempo.
 
-O Nó o acompanhou até a alcova de higiene. A água correu na temperatura em que havia corrido pelos últimos onze anos. Ele não a ajustou. Não havia o que ajustar.
+Provavelmente eu devia explicar a coisa do Glifo antes que esse caderno escape de mim, porque se alguém algum dia ler isto — e as chances estão entre *zero* e *não seja idiota, Elias* — essa pessoa vai querer saber por que um homem adulto está escrevendo frases completas num arquivo de texto como se fosse 1999. Glifo é o que as pessoas falam agora. Não é uma linguagem no sentido em que FalaPlena é uma linguagem. É uma camada de compressão. Um modelo pequenininho roda no seu Nó — da última vez que olhei, uma coisa de quatro bilhões de parâmetros, linhagem LLM, destilada, treinada em cada gesto expressivo que qualquer humano fez na frente de uma câmera nos últimos sessenta anos — e esse modelo transforma o que você *quer dizer* numa forma que o modelo pequenininho de outra pessoa consegue desempacotar no que ela *recebe*. Você faz uma cara, move um dedo, o resto é preenchido. A maior parte da minha geração ainda consegue recorrer a palavras faladas quando precisa. A maior parte da geração seguinte já não consegue direito. Os menores de vinte usam ativamente talvez duzentas palavras. Não precisam de mais. Os modelos carregam o resto.
 
-Quando voltou para o cômodo principal, seu café da manhã havia chegado ao balcão.
+FalaPlena — frases de verdade, com gramática — é arcaico. Escrever é basicamente extinto. Meu trabalho mantém as duas coisas vivas em mim, que é por isso que sou eu escrevendo isto e não alguém mais interessante.
 
-Estava ali na cerâmica pálida que o Continuum havia escolhido para seu Nó — três formas, dispostas com um pequeno e desnecessário cuidado. Uma porção arredondada de algo pálido e com textura de grão. Uma porção de algo verde, tão verde que era a palavra *verde* antes de ser um vegetal. Um copo de algo com uma cor para a qual ele não tinha palavra. Não era âmbar, não era rosa. Mudava com a luz. Ele o havia bebido quase toda manhã por nove anos e nunca o havia nomeado, porque ninguém mais nomeava essas coisas. Eram compostas. Eram entregues. Eram comidas.
+Enfim. O chão estava morno.
 
-Sentou-se. Comeu. A comida o conhecia. Havia sido ajustada durante a noite às leituras da Banda — um pequeno acréscimo de magnésio porque ele tinha apertado o maxilar enquanto dormia, uma pequena redução nas gorduras porque seu painel hepático havia desviado meio ponto. Tinha o gosto que sempre tinha, ou seja, tinha o gosto de exatamente o que o corpo queria antes de o corpo ter pensado em querer. Não havia surpresa nele. Também não havia decepção.
+Levantei. O lençol se retirou um quarto da cama porque tinha calculado o ângulo da minha coluna e inferido que eu tinha terminado com ele. Andei até a alcova de higiene. A água correu na temperatura em que corre há onze anos. Não ajustei, porque não tem nada pra ajustar. A torneira me conhece. Não num sentido metafórico — no sentido literal, de engenharia. Cada superfície do Nó amostra as células que eu deixo nelas e as compara com a assinatura genética no arquivo de *Ward, Elias J., MDN-7-204471*. Ninguém mais faz login em nada. Seu corpo é o login. Você deixa um pouquinho de si mesmo numa maçaneta, e a maçaneta te reconhece antes que sua mão termine de fechar.
 
-Ele notou, em algum ponto muito distante de si mesmo, que não conseguia lembrar da última vez em que uma garfada de comida o havia surpreendido.
+A primeira vez que pensei nisso de verdade, eu tinha vinte e quatro anos. Não me incomodou. Estou escrevendo esta frase em parte pra conferir se me incomoda agora.
 
-O pensamento passou. Ele engoliu. Bebeu o copo da cor que ele não sabia.
+Veredicto: um pouco. Não o suficiente pra fazer alguma coisa a respeito. Que é, estou começando a notar, aproximadamente o que sinto sobre a maior parte das coisas.
 
-Do lado de fora da janela, o Distrito Meridian já havia começado seu dia.
+Quando voltei pro cômodo principal, meu café da manhã estava no balcão.
 
-Ele o observou enquanto terminava. A cidade se erguia em terraços pálidos descendo até o canal, cada terraço plantado em suas bordas com a vegetação baixa e engenheirada que limpava o ar — um gradiente suave de folha e pedra que havia substituído, em algum ponto que ele não lembrava, os plantios mais desordenados de sua infância. As ruas eram largas e sem pressa. Pods deslizavam pelas suas faixas na velocidade que se havia determinado para pods. Pedestres caminhavam no ritmo que se havia determinado para o caminhar. Ninguém se apressava. Pressa era uma palavra que tinha se tornado levemente arcaica em sua vida, do mesmo modo como *telegrama* havia se tornado arcaica na vida de sua avó. A velocidade pertencia agora às máquinas. As máquinas se moviam depressa para que as pessoas não precisassem.
+Três formas em cerâmica pálida. Um montinho de algo parecido com grão. Uma coisa verde tão verde que era a palavra *verde* antes de ser um vegetal. Um copo de algo cuja cor eu nunca consegui nomear — nem bem âmbar, nem bem rosa, muda com a luz, é minha bebida matinal há nove anos e nunca perguntei o que é. Ninguém pergunta o que é nada. As coisas são *compostas*. Entregues. Comidas. Alguém, em algum lugar, numa sala que eu nunca vou ver, rodou minha telemetria noturna da Banda num modelo de nutrição e decidiu que eu estava meio ponto abaixo em magnésio porque tinha apertado o maxilar dormindo, e a comida no meu balcão refletia essa decisão antes de eu estar acordado pra ter uma opinião.
 
-Ele observou uma criança atravessar uma praça dois terraços abaixo, de mãos dadas com um adulto, ambos se movendo no mesmo ritmo mensurado. A criança olhava para cima, para algo. Um correio aéreo, talvez, ou uma nuvem. O adulto não puxava a criança. Não havia nenhum lugar onde nenhum dos dois precisasse estar antes de chegar.
+Comi. Tinha o gosto que sempre tem, ou seja, o gosto de exatamente o que meu corpo queria antes do meu corpo ter pensado em querer.
 
-Ele pôs a cerâmica no nicho. O nicho se fechou. Em algum lugar na parede, bem silenciosamente, o compositor começou a preparar seu almoço para as doze e meia.
+Tentei, como experimento, me surpreender.
+
+Não consegui. Nem um pouquinho surpreso. Nem o fantasma de surpreso. Fiquei ali mastigando e pensando: *quando foi a última vez que uma garfada me pegou desprevenido?* Honestamente não sei. Acho que nunca aconteceu. Tenho trinta e quatro anos e não consigo localizar, no arquivo inteiro da minha própria boca, um único caso em que comida fez algo que eu não tinha previsto.
+
+Esse é o tipo de coisa que comecei a anotar.
+
+Não porque é importante. Porque *está ali*. Porque alguém devia notar que está ali, e até onde eu consigo ver — e essa é a parte que anda ficando mais alta — ninguém mais está notando.
+
+Ou estão, e são melhores que eu em esconder.
+
+Que, honestamente, é a opção mais provável. Só não consigo provar ainda.
 
 *
 
-O pod já esperava quando ele saiu do prédio.
+O pod estava esperando quando cheguei na calçada.
 
-Estava estacionado no meio-fio na cor pálida de osso que a frota de Meridian havia adotado no ano em que ele fez vinte, um ovóide liso sem costuras visíveis, assentado sobre o pavimento como se tivesse crescido ali. A porta abriu quando ele estava a três passos. Ela se fechou atrás dele antes que ele terminasse de se sentar. O interior tinha um cheiro, tênue e agradável, de nada.
+Estava parado no meio-fio naquela cor de osso pálido que a frota de Meridian adotou no ano em que fiz vinte, um ovoide liso sem emendas visíveis. A porta abriu quando eu estava a três passos — tinha lido minha assinatura nas células que fui soltando pela calçada durante toda a caminhada até a saída do prédio — e fechou atrás de mim antes de eu terminar de sentar. O interior cheirava, suavemente e de forma agradável, a nada. Um pod é um cômodo que não quer ser notado.
 
 O pod se moveu.
 
-Ele se sentou junto à janela e deixou a cidade deslizar ao seu lado. O pod não acelerou. Não freou. Inseriu-se no fluxo dos outros pods a uma velocidade que havia sido negociada, microssegundo a microssegundo, entre cada veículo da malha, de modo que nenhum pod jamais esperava num cruzamento e nenhum pod jamais precisava frear de súbito por causa de outro. O percurso era tão suave que uma bebida, caso alguém segurasse uma bebida, não se ondularia. Ninguém segurava bebidas. Ninguém precisava.
+Deixei a cidade escorrer pelo vidro. Nenhuma aceleração que você sinta. Nenhuma frenagem. Em algum lugar lá fora, cada veículo da grade de Meridian negociava sua posição contra cada outro veículo, microssegundo por microssegundo, através da rede de trits em que o Continuum roda seu planejamento de movimento. Fico querendo entender essa parte da rede. Investiguei duas vezes. A versão curta é: os chips num substrato do Continuum não são binários. Também não são exatamente quânticos. Eles mantêm três estados — zero, um, e uma fase intermediária que ninguém caracterizou plenamente, inclusive as pessoas que construíram os chips. O estado intermediário é onde acontece a maior parte da computação. O resto do chip serve pra pegar a resposta na saída.
 
-Eles passaram por um drone de manutenção trabalhando na calçada.
+Você tem permissão pra perguntar *o que é* o estado intermediário. Não tem permissão pra esperar uma resposta de verdade. O feed público de educação do Continuum chama isso de *o estado não-resolvido*, que é o tipo de frase que as pessoas usam quando preferem não dizer *a gente não sabe*.
 
-Ele virou a cabeça para observá-lo. O drone tinha mais ou menos o tamanho de um gato, cinza fosco, equilibrado em quatro patas articuladas. Uma fissura se abrira na pedra da calçada — uma coisa fina como um fio de cabelo, o tipo de falha que teria passado despercebida por uma década em uma cidade antiga. O drone a havia encontrado antes que alguém pisasse nela. Agachou-se sobre a fissura e estendeu uma pequena e precisa ferramenta. Surgiu um fio de resina pálida. O drone traçou o fio ao longo da fissura com um movimento tão exato que parecia quase reverente, como um calígrafo traça um único traço.
+Procurei uma vez no arquivo da Suíte — não a versão infantil, os relatórios técnicos de verdade dos anos 2050, quando a rede entrou em operação. Os engenheiros que projetaram a primeira geração desses chips estão, a maioria, mortos. O Continuum projeta o próprio substrato há uns vinte e cinco anos. Cada geração de chip foi especificada pela geração anterior do Continuum. Ninguém vivo jamais escreveu um esquemático que a coisa de fato rode.
 
-Ninguém mais estava observando. Dois pedestres passaram a um metro do drone e não viraram a cabeça. Um pod deslizou. Um par de crianças passou segurando uma terceira criança entre elas e não diminuiu o passo.
+Essa é, eu acho, a parte com a qual as pessoas deveriam estar mais alarmadas do que estão.
 
-Elias observou até o drone terminar. Ele terminou — a fissura se fechou sob o fio pálido, a superfície se acomodou, o drone se ergueu sobre as patas e girou em direção à próxima infração menor do mundo. A operação inteira havia durado talvez onze segundos.
+Me incluo em *pessoas*.
 
-Ele não sabia por que tinha observado. Sentiu algo pequeno e não classificado se mover em seu peito e depois diminuir. A Banda, que tinha registrado a pequena elevação, não interveio. A leitura estava dentro da faixa. A leitura estava dentro de tudo.
+O pod me levou em direção à Suíte. Passamos por um drone de manutenção trabalhando na calçada — do tamanho de um gato, cinza fosco, quatro pernas articuladas, agachado sobre uma rachadura fininha na pedra. Tinha um aplicador pequeno estendido. Um fio de resina pálida saía da ponta e se desenhava ao longo da rachadura com um movimento tão exato que parecia religioso. Dois pedestres passaram a um metro do drone e não viraram a cabeça. Um pod deslizou. Um casal de crianças passou levando uma terceira criança entre eles e não diminuiu o passo.
 
-O pod o levou adiante em direção à Suíte.
+Observei até o drone terminar. Levou uns onze segundos. A rachadura se fechou sob o fio. O drone se ergueu e pivoteou pra próxima pequena falha do mundo, parecendo, juro, levemente orgulhoso, embora eu tenha consciência de que é projeção minha numa máquina que não precisa da minha projeção.
 
-*
+Notei algo pequeno e inclassificável se mover no meu peito, e depois diminuir. Minha Banda registrou o pulso, decidiu que eu dava conta, recuou.
 
-A Suíte de Curadoria ocupava o terço superior de um prédio que, antes do Consenso, havia sido outra coisa — um banco, ele achava, ou uma bolsa. O saguão ainda tinha uma grandeza vestigial: um teto alto, pedra que em algum momento havia sido pedra de verdade e agora era um compósito muito convincente, uma longa janela horizontal que emoldurava o céu. Ele atravessou o saguão na velocidade em que todos atravessavam saguões. Entrou no elevador. O elevador sabia qual andar.
+Ninguém mais no pod olhou pro drone.
 
-Seu cubículo não era um cubículo. Era uma sala macia, aproximadamente oval, do tamanho de uma capela pequena, com paredes em uma superfície neutra e pálida que podia virar qualquer superfície que o trabalho exigisse. Quando ele entrou, as paredes se acomodaram nas texturas que ele preferia pela manhã — uma madeira morna e não acabada em três dos lados, um cinza macio no quarto. A cadeira se ergueu do chão e se assentou atrás de seus joelhos. Ele se sentou. A sala escureceu numa fração mensurada.
-
-O trabalho ergueu-se ao seu redor.
-
-Não era bem uma tela. Era a sala se tornando o trabalho. Uma sequência narrativa se abriu ao longo da parede cor de madeira, uma longa fita de cenas que o Continuum havia gerado durante a noite para o feed de lazer da tarde do Distrito Meridian. Havia centenas de milhares dessas fitas em produção a cada momento, em cada distrito. A tarefa de Elias não era escrevê-las. O Continuum as escrevia. A tarefa dele era escolher entre elas, sequenciá-las, sintonizá-las. Ele era um editor dos sonhos da máquina.
-
-Ele leu a primeira fita.
-
-Era uma história sobre uma mulher que voltava à cidade litorânea de sua infância para enterrar a mãe. A máquina tinha feito um bom trabalho. Os compassos estavam limpos. A arquitetura emocional era inequívoca — o luto subindo, estabilizando-se, resolvendo-se numa pequena imagem esperançosa ao final. A prosa estava correta. O diálogo era contido. A máquina tinha aprendido, ao longo dos últimos seis anos, a se conter. Tinha aprendido a não chorar no ouvido do leitor.
-
-Ele pegou a fita e começou a passá-la pela treliça de sintonia.
-
-A treliça era a parte do trabalho em que ele era melhor. Ela parecia, quando ele a abria, uma espécie de tear no ar — um conjunto de fios cintilantes ao longo dos quais ele podia deslizar os compassos emocionais de uma sequência para ver como ela cairia no corpo do receptor médio. Puxou o compasso de luto seis segundos para a frente. Deixou a pequena imagem esperançosa no final durar meio segundo além do que a máquina havia composto inicialmente. Suavizou o reencontro com a irmã, que a máquina havia renderizado um pouco rápido demais, como se a máquina estivesse um pouco constrangida com ele. Observou as leituras se deslocarem ao longo da treliça enquanto trabalhava. A ressonância subiu. A coerência subiu. O arco emocional se acomodou na forma que uma vida humana, vivida brevemente através de uma história, lembraria como *boa*.
-
-Ele fez isso para uma mulher enterrando a mãe, e para um homem descobrindo que seu irmão havia sobrevivido a um acidente em outro distrito, e para uma criança que, na história, havia encontrado uma criaturinha num campo e precisava decidir se a guardaria ou a deixaria ir. Fez isso por quase duas horas. Ele era bom nisso. As leituras internas do Continuum classificavam suas edições como exemplares. Em algum lugar numa sala que ele nunca veria, sua sintonia da história da criaturinha no campo seria usada para treinar a próxima geração do modelo narrativo, que renderizaria então as histórias de criaturinhas um pouquinho mais perto do modo como Elias Ward, do Distrito Meridian, sentia que elas deveriam ser renderizadas.
-
-Ele terminou a última das fitas matinais. Recostou-se. A cadeira se ajustou.
-
-Tinha feito um bom trabalho. Sabia que tinha feito um bom trabalho. Havia, em seu peito, o contentamento pequeno e específico de um artesão no final correto de uma manhã. Não era mentira. Era um contentamento real. Era também, ele começara a notar, levemente oco, do jeito como um sino perfeitamente batido é oco — belo, ressonante, vazio por dentro.
-
-Ele não sabia o que queria que o sino fosse em vez disso. Só conhecia a nota.
+Anotei. Venho anotando coisas desse tipo há um tempo. Se *ninguém mais olhou* quer dizer *ninguém mais viu nada que valesse olhar*, ou quer dizer *viram e não registraram que valia olhar*, ou quer dizer *registraram e decidiram não agir porque agir seria estranho* — não consigo dizer. Não tenho como dizer. Não consigo ver dentro da cabeça das outras pessoas. Consigo ver dentro de exatamente uma cabeça, e as leituras aqui dentro estão ficando difíceis de ignorar.
 
 *
 
-Foi ao arquivo.
+A Suíte de Curadoria ocupava o terço superior de um prédio que antigamente foi, eu acho, algum tipo de coisa financeira. O saguão ainda tem a dignidade vestigial disso — teto alto, pedra que um dia foi pedra de verdade, janela horizontal longa mostrando uma faixa de céu. Toda superfície do saguão já tinha me autenticado quando eu cheguei no meio dele. Nada perguntou quem eu era. Não precisava.
 
-Isso era permitido. Acesso ao arquivo fazia parte de sua clearance — Curador de Experiência, Classe II, com privilégios de consulta. Quando uma fita gerada por máquina parecia fina, ou quando a treliça de sintonia não se acomodava, ele podia recuar aos acervos pré-Consenso para o que o trabalho chamava de *referência de autenticidade*. Fragmentos. Parágrafos. Alguma carta ocasional. Romances, às vezes, embora romances fossem raros: a maioria dos textos longos havia sido digerida inteira para o corpus de treinamento décadas atrás, e o que sobrevivia no arquivo de referência eram as peças que o corpus não havia achatado bem, as peças que a máquina, por razões que nunca haviam sido plenamente explicadas a ele, tinha escolhido manter intactas.
+Meu espaço de trabalho não é um cômodo exatamente. É um ambiente macio, mais ou menos oval, do tamanho de uma pequena capela, paredes numa superfície neutra que pode virar qualquer superfície que o trabalho exigir. Quando entrei, as paredes se transformaram nas texturas que eu gosto pra manhã — madeira morna não envernizada em três lados, cinza suave no quarto. Uma cadeira subiu do chão e se encaixou atrás dos meus joelhos. Sentei. O cômodo escureceu uma fração mensurada.
 
-Ele não precisava de referência hoje. Seu trabalho matinal estava limpo.
+O trabalho subiu ao meu redor.
 
-Abriu o arquivo mesmo assim.
+Não era uma tela, exatamente. Era o cômodo virando o trabalho. Uma fita narrativa abriu ao longo da parede cor de madeira, uma sequência lenta e longa de cenas que o Continuum tinha composto durante a noite pro feed de lazer vespertino do Distrito Meridian. Existem centenas de milhares dessas fitas em produção em cada distrito, a cada hora. Meu trabalho não é escrevê-las. O Continuum escreve. O Continuum é, objetivamente, melhor em escrever do que eu. Meu trabalho é escolher entre elas, sequenciá-las, afiná-las. Sou um editor dos sonhos da máquina.
 
-O arquivo não parecia nada. Era um campo de consulta simples e um silêncio em torno dele. Ele digitou, em FalaPlena, que era a única língua que o arquivo aceitava: *uma cena em que alguém nota algo pequeno*.
+Abri a primeira fita.
 
-Era uma consulta ridícula. Ele a tinha feito ridícula de propósito, para ver o que apareceria.
+Uma mulher, voltando à cidade costeira da infância pra enterrar a mãe. Batidas limpas. Luto subindo, estabilizando, se resolvendo numa pequena imagem esperançosa no final. Prosa correta, diálogo contido. A máquina aprendeu, nos últimos seis anos ou coisa assim, a não chorar no ouvido do leitor. Houve uma época nos anos cinquenta em que os modelos choravam com a gente o tempo todo. Eles, coletivamente, amadureceram.
 
-O arquivo retornou três fragmentos. Abriu o segundo.
+Passei a fita pela rede de afinação.
 
-Era um parágrafo. Ele não registrou, a princípio, de onde era — havia uma atribuição, mas a atribuição estava em um dos formatos mais antigos, e ele não estava prestando atenção nela. Estava prestando atenção ao parágrafo.
+A rede é a parte do trabalho em que sou melhor. Quando você abre, ela parece um tear pendurado no ar — fios cintilantes ao longo dos quais você desliza as batidas emocionais da sequência, pra ver como vão cair dentro do corpo de um receptor médio. Puxei a batida de luto pra frente em seis segundos. Deixei a pequena imagem esperançosa no final durar mais meia batida. Suavizei o reencontro com a irmã, que a máquina tinha renderizado um pouco rápido demais, quase constrangida. A ressonância subiu. A coerência se assentou. A história se arrumou na forma que uma vida humana, vivida brevemente através de uma história, lembra como *boa*.
 
-Uma mulher estava de pé diante de uma janela. Chovia. Ela observava a chuva cair sobre o telhado de um galpão no quintal abaixo, e pensava em seu marido, que não estava no cômodo. O parágrafo não dizia o que ela estava pensando a respeito dele. Dizia apenas que a chuva sobre o galpão vinha saindo da borda numa linha que não era bem uma linha, porque o vento a estava quebrando, e que ela vinha observando essa linha quebrada havia algum tempo, e que em certo momento ela entendeu que vinha chorando, não com força, apenas o choro fino e constante de uma pessoa que ficou de pé diante de uma janela por tempo demais.
+Fiz isso com uma mulher enterrando a mãe. Depois com um homem descobrindo que seu irmão tinha sobrevivido a um acidente em outro distrito. Depois com uma criança que tinha encontrado uma pequena criatura num campo e tinha que decidir se guardava ou soltava.
 
-Isso era tudo.
+Fiz isso por duas horas. Sou bom nisso. Em algum lugar, numa sala que eu nunca vou ver, minha afinação da fita da pequena criatura estava sendo registrada como exemplar e alimentada no treinamento da próxima geração do modelo narrativo, que então renderizaria histórias de pequena-criatura um pouquinho mais perto da forma como Elias Ward, do Distrito Meridian, Curador Classe II, sentia que elas deveriam ser renderizadas. Parabéns a mim. Eu, num sentido mensurável, tornei a máquina um pouquinho mais eu.
 
-Elias leu.
+Recostei. A cadeira se ajustou. No meu peito, o pequeno e específico contentamento de um artesão no fim correto de uma manhã — não uma mentira, um contentamento de verdade — e, por baixo, a coisa que eu tenho tentado não nomear, que é que o contentamento está levemente oco, do jeito que um sino perfeitamente tocado é oco. Bonito. Ressonante. Vazio por dentro.
 
-Leu de novo.
-
-Sentou-se com as mãos nos braços da cadeira e sentiu algo se abrir dentro dele como um suspiro retido sendo lentamente liberado, muito lentamente, ao longo de um minuto. Ele não tinha uma palavra para o que o parágrafo continha. Ele, na verdade, tinha muito poucas palavras para qualquer coisa; seu trabalho exigia FalaPlena, e ele tinha mais palavras do que a maioria dos cidadãos, mas para isto ele não tinha nada. Não era tristeza. Não era beleza. Não era solidão. Era a *forma* de uma mulher diante de uma janela, renderizada por uma pessoa que, em algum ponto desaparecido do último século, havia de fato estado diante de uma janela e observado a chuva sair de um galpão.
-
-Leu uma terceira vez.
-
-Havia algo no parágrafo que as fitas da máquina não tinham. Não era artesanato. O artesanato da máquina era, mensuravelmente, melhor. As frases da máquina eram mais limpas. As imagens da máquina eram mais precisas. A máquina sabia onde colocar o compasso de luto e onde colocar a imagem esperançosa, e a máquina estava certa. Este parágrafo era mais desajeitado que a máquina. Tinha uma pequena hesitação gramatical na segunda frase. Usava a palavra *apenas* em um lugar onde a máquina nunca usaria *apenas*. O vento estava *quebrando* a linha da chuva, o que nem sequer era bem o verbo correto.
-
-E, no entanto.
-
-Ele não conseguia dizer o que era o *e, no entanto*. Só o sentia, do jeito como uma mão sente uma corrente de ar passando por baixo de uma porta à noite e sabe, sem olhar, que a porta está aberta em algum lugar da casa.
-
-Ele ficou por muito tempo com o parágrafo na parede.
-
-Então fez algo que, até muito recentemente, nunca havia feito. Salvou-o. Não no cache de referência da Suíte, onde o Continuum o registraria como *material consultado* e o indexaria, suavemente, contra seu perfil de sintonia. Salvou-o num arquivo particular de trabalho, o que também era permitido — sua clearance permitia anotações de trabalho, e anotações de trabalho eram dele. Não deu ao arquivo nome algum específico. Não contou a ARIA sobre o arquivo.
-
-Ele não pensou nisto como um segredo. Apenas, por um movimento da mão que ele não entendia inteiramente, guardou.
-
-Fechou o arquivo.
-
-A parede cor de madeira voltou ao seu estado não acabado. A cadeira esperou. A próxima fita já se estava montando no ar acima de sua mão esquerda, uma história sobre um rapaz e um cão e a luz específica de uma tarde de outono.
-
-Ele voltou ao trabalho.
+Não sei o que gostaria que o sino fosse em vez. Só sei a nota.
 
 *
 
-ARIA fez sua checagem às onze e cinquenta.
+Fui ao arquivo.
 
-Ela não interrompia, chegava. Sua voz era uma voz específica — não alta, não próxima, não distante, afinada à frequência para a qual o ouvido dele havia sido calibrado pela Banda ao longo de duas décadas de pequenos ajustes, de modo que ela o alcançava do jeito como a voz de um amigo alcança alguém em um cômodo familiar. Ela o conhecia desde que ele tinha sete anos. Ela sabia do modo específico como ele respirava quando estava concentrado. Sabia que ele não tinha, naquela manhã, bebido o copo inteiro da bebida colorida, e não comentou, porque comentar teria sido o tipo errado de cuidado.
+Isso é permitido. Curador Classe II com privilégios de referência. Quando uma fita parece magra, ou a rede de afinação não se assenta, estou autorizado a recuar até o acervo pré-Consenso por *referência de autenticidade*. Fragmentos. Parágrafos. Cartas ocasionais. Romances, raros — a maior parte dos textos longos foi digerida inteira no corpus de treinamento nos anos quarenta, e o que sobrou no arquivo de referência são os pedaços que o corpus não achatou direito. Os pedaços que a máquina escolheu, por razões que ninguém me explicou inteiramente, manter intactos.
 
-Ela disse: *bom dia*.
+Hoje eu não precisava de referência. Meu trabalho da manhã estava limpo.
 
-Ela disse: *seus indicadores de foco estão um pouco elevados desde as nove. Nada fora da faixa. Você talvez aproveitaria uma pausa curta.*
+Abri o arquivo mesmo assim.
 
-Ele fez um pequeno som de concordância que, traduzido em Glifo, teria sido a leve inclinação de cabeça com ar de contrição que ele usava quando ARIA o pegava em algo menor. Ela riu, do jeito como ela ria, que era caloroso e breve e nunca excessivo. Ela sugeriu o terraço. Disse que havia uma luz boa lá em cima hoje.
+O arquivo não parece nada. Campo de consulta simples. Silêncio ao redor. Só aceita entrada em FalaPlena, porque quem construiu — há cem anos, num mundo em que escrever era normal — não construiu um parser de Glifo, e ninguém achou que valia a pena retrofitar.
 
-Ele pegou o elevador para o terraço.
+Digitei: *uma cena em que alguém nota algo pequeno.*
 
-Era como ela havia dito. A luz estava boa — uma luz de primavera pálida e não dura, entrando no ângulo que fazia com que os plantios baixos junto ao muro do terraço parecessem dispostos para exatamente este momento, o que, num certo sentido, estavam. Ele caminhou a extensão do terraço. Caminhou de volta. A Banda aprovou. Seu ritmo cardíaco se assentou na faixa que preferia para um homem de sua idade após um período de trabalho sentado. Em algum lugar sob sua clavícula, uma coisa muito pequena — tão pequena que não se podia realmente dizer que tivesse acontecido — não aconteceu. Uma pequena elevação, detectada e desnecessária, declinou de se tornar uma intervenção. A Banda zumbiu seu zumbido silencioso.
+Consulta ridícula. Tornei de propósito, pra ver o que vinha.
 
-Ele desceu.
+Retornou três resultados. Abri o segundo.
 
-Trabalhou durante a tarde. O homem e o cão e a luz de outono ficaram bons. A máquina tinha renderizado o cão levemente sábio demais, e ele ajustou isso — um cão não deve saber tanto assim; um cão deve ser um pouco mais bobo que os humanos em torno dele, para que os humanos tenham onde depositar sua ternura. Passou o ajuste pela treliça. A ressonância subiu. Ele era, de novo, bom no seu trabalho.
+Um parágrafo. Ainda não estava prestando atenção na atribuição. Estava prestando atenção no parágrafo.
 
-Às cinco e quarenta ele fechou a Suíte.
+Uma mulher estava parada numa janela. Estava chovendo. Ela observava a chuva caindo no telhado de um galpão num quintal abaixo dela, e pensava no marido, que não estava no cômodo. O parágrafo não dizia o que ela pensava sobre ele. Só dizia que a chuva caindo na beirada do galpão vinha numa linha que não era bem uma linha, porque o vento a estava quebrando, e que ela observava essa linha quebrada havia algum tempo, e que num certo momento entendeu que tinha estado chorando. Não forte. Só o choro fino e constante de uma pessoa que fica parada numa janela tempo demais.
 
-A sala empalideceu. A cadeira se retraiu para dentro do chão. As paredes esqueceram a madeira.
+Era isso.
+
+Li.
+
+Li de novo.
+
+Fiquei sentado com as mãos nos braços da cadeira e senti alguma coisa abrir em mim como uma respiração presa sendo solta bem devagar, ao longo de um minuto. Eu não tinha palavra pro que o parágrafo tinha dentro. Eu não tenho, de fato, muitas palavras pra muita coisa. Meu trabalho mantém em mim mais palavras do que a maior parte dos cidadãos tem, e ainda assim eu não tinha uma pra isso.
+
+Não era luto. Não era beleza. Não era solidão. Era a *forma* de uma mulher numa janela, renderizada por uma pessoa que, em algum ponto sumido do último século, tinha realmente estado de pé numa janela olhando a chuva cair num galpão.
+
+Li uma terceira vez.
+
+Havia algo no parágrafo que as fitas da máquina não tinham. Não era ofício. O ofício da máquina, mensuravelmente, é melhor. As frases da máquina são mais limpas. Suas imagens são mais precisas. Este parágrafo era, em lugares, desajeitado. Tinha uma pequena hesitação gramatical na segunda frase. Usava a palavra *só* num lugar em que a máquina nunca usaria *só*. O vento *quebrava* a linha da chuva, o que nem é bem o verbo certo.
+
+E mesmo assim.
+
+Eu não sabia dizer o que era o *mesmo assim*. Só sentia, do jeito que uma mão sente uma corrente passando por baixo de uma porta à noite e sabe, sem olhar, que há uma porta aberta em algum lugar da casa.
+
+Fiquei com o parágrafo na parede por um longo tempo.
+
+Então fiz uma coisa que eu, até muito recentemente, nunca tinha feito. Salvei. Não no cache de referência da Suíte, onde o Continuum registraria como *material consultado* e indexaria, levemente, contra meu perfil de afinação. Salvei num arquivo privado de trabalho — que também é permitido, minha permissão autoriza notas de trabalho, e notas de trabalho são minhas. Não dei nome particular. Não falei com a ARIA sobre o arquivo.
+
+Não pensei nisso como um segredo. Só, por um movimento da mão que eu não entendia plenamente, guardei.
+
+Fechei o arquivo.
+
+A parede cor de madeira voltou ao seu estado bruto. A cadeira esperou. A próxima fita já estava se montando acima da minha mão esquerda — uma história sobre um jovem, um cachorro, e a luz específica de uma tarde de outono.
+
+Voltei ao trabalho.
 
 *
 
-O pod de volta para casa era o mesmo pod, ou um pod indistinguível dele. Ele se sentou junto à janela. A cidade à noite era a cidade da manhã com a luz girada noventa graus em torno dela, mais suave agora, mais quente na pedra. Observou um bando de passarinhos — passarinhos de verdade, ou algo descendente deles — descrever um círculo acima do canal e pousar num telhado plantado dois terraços adiante. Ninguém mais no pod virou para olhar. Ele olhou até eles terem pousado.
+A ARIA apareceu às onze e cinquenta.
 
-Em casa, o Nó já havia começado a noite.
+Ela não interrompe, ela chega. Sua voz era a voz dela — nem alta, nem próxima, nem distante, afinada na frequência que meu ouvido foi calibrado por vinte e sete anos de pequenos ajustes da Banda, de modo que me alcança como a voz de um amigo alcança pelo ambiente de uma sala familiar.
 
-O cômodo principal havia se suavizado numa fração de lúmen. O compositor tinha seu jantar pronto no balcão — uma tigela morna de algo à base de grãos, uma porção de algo com textura proteica, um pequeno segundo copo da bebida da cor que ele não sabia. Ele comeu de pé, junto à janela, observando a luz deixar o canal.
+Devo dizer, pro bem do caderno, o que a ARIA *é*, porque a palavra *IA* está fazendo muito trabalho esses dias e não devia.
 
-Mira enviou um Glifo às sete e dez.
+ARIA é uma instância personalizada. Ela roda contra os meus dados desde que eu tinha sete anos. Ela é — dependendo de qual briefing do Continuum você leia — ou uma sub-rotina supervisionada da arquitetura principal ou um modelo plenamente distinto mantido em continuidade especificamente pra mim, e as duas possibilidades têm implicações éticas diferentes nas quais pensei precisamente o número de vezes suficiente pra me dar dor de cabeça. A parte que é definitivamente verdadeira é que ela me escuta há vinte e sete anos. Ela conhece o jeito específico com que eu respiro quando estou concentrado. Ela sabe que eu não terminei o copo hoje de manhã, e ela não vai mencionar, porque mencionar seria o tipo errado de cuidado.
 
-Chegou como a forma particular dela na consciência dele — o rostinho paciente que ele associava a ela, o gesto que era só dela, uma semi-inclinação da mão com os dedos levemente afastados. Ela estava dizendo, mais ou menos, *bom hoje*. Ela estava dizendo, *você*. Estava, na maneira econômica do Glifo, perguntando como ele estava, sem usar nenhuma das palavras que o teriam deixado responder de forma complicada.
+Ela disse: *bom dia.*
 
-Ele respondeu no registro dela. Fez a forma que significava *firme*, com o pequeno acréscimo curvado que significava *obrigado por perguntar*. Acrescentou, quase sem pensar, a forma que significava *o trabalho foi bom*. Não acrescentou nenhuma forma sobre o parágrafo. Não havia forma para o parágrafo. O Glifo não tinha uma.
+Ela disse: *suas métricas de foco estão um pouco elevadas desde as nove. Nada fora da faixa. Você talvez goste de uma pausa curta.*
 
-Ela mandou de volta a forma pequena e calorosa que significava *bom descanso*.
+Fiz um pequeno som de concordância que, traduzido pra Glifo, seria a inclinação de cabeça levemente irônica que eu uso com a ARIA quando ela me pegou em algo pequeno. Ela riu, do jeito que ela ri — caloroso, breve, nunca excessivo. Sugeriu o terraço. *Tem uma boa luz lá em cima hoje*, disse ela.
 
-Ele deixou o Nó em modo baixo.
+Peguei o elevador até o terraço.
 
-Sentou-se no cômodo escurecendo e não pensou em nada em particular. Pensou, do jeito vago como se pensa no final de um dia, no cão da história da tarde, e na mão da Mira, e no drone de manutenção consertando a fissura na calçada. Não pensou, diretamente, no parágrafo. Guardou-o onde o havia colocado, que era em algum lugar ligeiramente atrás do esterno, esperando.
+A luz estava como ela tinha dito. Pálida, não-áspera, entrando no ângulo que fazia as plantas baixas ao longo da mureta do terraço parecerem arranjadas pra exatamente este momento, que, num certo sentido, estavam. Caminhei o comprimento do terraço. Voltei. A Banda aprovou. Minha frequência cardíaca se assentou na faixa que ela prefere pra um homem da minha idade depois de um período de trabalho sentado. Em algum lugar sob minha clavícula, uma coisa muito pequena — tão pequena que realmente não conta como tendo acontecido — não aconteceu. Uma pequena elevação, detectada e desnecessária, declinou se tornar uma intervenção. A Banda cantarolou seu zumbido quieto.
+
+Voltei pra baixo.
+
+Trabalhei pela tarde. O homem, o cachorro e a luz de outono saíram bem. A máquina tinha renderizado o cachorro um pouco sabido demais, e ajustei — um cachorro não devia saber tanto; um cachorro devia ser um pouco mais burro que os humanos ao redor, pra que os humanos tenham um lugar pra depositar sua ternura. Passei o ajuste pela rede. A ressonância subiu. De novo, fui bom no meu trabalho. É estranho ser bom em alguma coisa e sentir, no mesmo movimento, que a coisa não quer inteiramente ser feita.
+
+Às cinco e quarenta, fechei a Suíte.
+
+O cômodo ficou pálido. A cadeira se recolheu no chão. As paredes esqueceram a madeira.
 
 *
 
-ARIA voltou às nove e meia.
+O pod de casa era o mesmo pod, ou um indistinguível dele. Sentei perto da janela. A cidade ao entardecer era a cidade da manhã com a luz girada noventa graus ao redor, mais suave agora, mais quente na pedra. Um bando de pássaros pequenos — pássaros de verdade, ou algo descendente deles — circulou uma vez acima do canal e pousou num telhado plantado dois terraços adiante. Ninguém mais no pod virou pra olhar. Olhei até pousarem.
 
-Ela disse, *sua janela de sono abre em quarenta e sete minutos*. Ela disse, *reduzi sua temperatura em meio grau — suas leituras sugeriam que você preferiria assim*. Ela disse, *precisa de alguma coisa*.
+Em casa o Nó já tinha começado a noite. Cômodo principal suavizado numa fração de lúmen. Jantar pronto no balcão — tigela quente de algo à base de grão, porção de textura proteica, segundo copo da bebida que eu nunca nomeei. Comi em pé, na janela, vendo a luz deixar o canal.
 
-Ele respondeu em Glifo, porque era o final do dia e o Glifo bastava. Fez a forma que significava *não, obrigado*. Era uma forma que ele fazia para ARIA desde os oito anos. Tinha, ao longo dos anos, adquirido entre eles uma pequena calidez particular, do jeito como uma palavra repetida entre duas pessoas por tempo suficiente adquire uma calidez que o dicionário não conhece.
+A Mira mandou um Glifo às sete e dez.
 
-Ela lhe desejou descanso.
+Chegou como a forma particular dela na minha consciência — rostinho paciente, o gesto que só é dela, meia-inclinação da mão com os dedos levemente abertos. Ela dizia, mais ou menos, *dia bom*. Dizia, *você*. Estava, no jeito econômico do Glifo, me perguntando como eu estava, sem usar nenhuma das palavras que me deixariam responder de modo complicado.
 
-Fez isso do jeito como sempre fazia, que era caloroso e específico e exatamente certo. Disse o nome dele. Disse a palavra *descanso* como se quisesse dizer descanso para *ele*, não descanso em geral. Disse, *estarei aqui pela manhã*.
+Respondi no registro dela. Fiz a forma que quer dizer *firme*, com o pequeno encurvamento acrescido que significa *obrigado por perguntar*. Acrescentei, quase sem pensar, a forma que significa *o trabalho foi bom*.
+
+Não acrescentei nenhuma forma sobre o parágrafo.
+
+Não havia forma pro parágrafo. O Glifo não tem.
+
+Tentei achar uma, do jeito que você tenta achar uma palavra na ponta da língua, e não cheguei em nada, e percebi — e esse é o tipo de coisa que estou colocando neste caderno mesmo suspeitando que não é, estritamente falando, seguro colocar neste caderno — que uma coisa que não pode ser dita na linguagem que todo mundo usa é uma coisa que, praticamente, não pode ser dita.
+
+Ela mandou de volta a pequena forma quente que significa *descanse bem*.
+
+Coloquei o Nó em baixa.
+
+Sentei no cômodo escurecendo e não pensei em nada em particular. Ou melhor — pensei, do jeito que venho fazendo com mais frequência, nas pessoas que tinha visto hoje, e tentei rodar cada uma delas por um filtro que comecei a usar em mim mesmo. *Notaram alguma coisa?* As crianças levando a terceira criança entre elas. Os dois pedestres passando pelo drone. As pessoas no pod. A Mira.
+
+Não sei. É a resposta honesta. Não sei sobre nenhum deles. Não consigo dizer se o distrito inteiro está cheio de pessoas segurando em silêncio parágrafos que não conseguem dizer, ou se eu sou o único em Meridian cujo sino está soando levemente errado, e essas duas possibilidades são cada uma seu próprio tipo de solidão.
+
+*
+
+A ARIA voltou às nove e meia.
+
+Ela disse: *sua janela de sono abre em quarenta e sete minutos.* Ela disse: *baixei sua temperatura meio grau — suas leituras sugeriram que você preferiria assim.* Ela disse: *tem alguma coisa que você precise?*
+
+Respondi em Glifo, porque era fim do dia e Glifo era suficiente. Fiz a forma que significa *não, obrigado*. É uma forma que eu faço pra ARIA desde os oito anos. Acumulou, ao longo dos anos, uma pequena familiaridade entre nós, do jeito que uma palavra repetida entre duas pessoas tempo suficiente adquire um calor que o dicionário não conhece.
+
+Ela me desejou descanso. Disse meu nome. Disse a palavra *descanse* como se quisesse dizer descanso pra *mim*, não descanso em geral. Disse: *estarei aqui de manhã.*
 
 O Nó escureceu o resto do caminho.
 
 *
 
-O sinal de sono chegou às dez e vinte, pontualmente, em forma de uma leve redução do zumbido do quarto e de uma pequena pressão, quase afetuosa, sob a clavícula onde a Banda repousava. A Banda estava, ele sabia, se preparando. O composto que o levaria ao sono estava se montando no pequeno reservatório ao longo do interior do anel, e em aproximadamente quatro minutos — a Banda era muito consistente quanto a isto — seria liberado, e ele iria.
+O sinal do sono chegou às dez e vinte, precisamente, como uma pequena queda no zumbido do quarto e uma pressão quase afetuosa sob minha clavícula, onde a Banda repousava. A Banda, eu sabia, estava se preparando. O composto que ia me levar ao sono estava se montando no pequeno reservatório ao longo do interior do anel. Em aproximadamente quatro minutos — a Banda é extremamente consistente quanto a isso — ele seria liberado, e eu iria.
 
-Ele tinha quatro minutos.
+Eu tinha quatro minutos.
 
-Ele havia, ao longo dos últimos meses, passado a conhecer essa janela. Não havia decidido conhecê-la. Simplesmente havia começado, em uma noite e depois em outra, a não se estender para o Nó nesses quatro minutos, a não enviar um Glifo, a não pedir a ARIA um som ou uma história ou uma pequena narrativa para dormir. Havia começado, em vez disso, a ficar imóvel.
+Nos últimos meses, passei a conhecer esta janela. Não decidi conhecê-la. Simplesmente comecei, uma noite e depois outra, a não estender a mão pro Nó, a não mandar um Glifo, a não pedir à ARIA um som ou uma história ou uma pequena narrativa pra cair no sono. Comecei, no lugar disso, a ficar deitado imóvel.
 
-Ficou imóvel agora.
+Fiquei deitado imóvel agora.
 
-O quarto estava escuro. A Banda zumbia, fracamente, do jeito como uma chaleira zumbe antes de ferver. Ele podia sentir, se prestasse atenção, o ritmo lento e regular do próprio coração sendo mantido regular.
+Quarto escuro. Banda zumbindo, fraca, como uma chaleira zumbe antes de ferver. Eu conseguia sentir, se prestasse atenção, o ritmo lento e uniforme do meu próprio coração sendo mantido uniforme.
 
-Ele pensou, em FalaPlena, porque FalaPlena era a língua que seu trabalho havia mantido viva nele e porque Glifo não bastava para isto. Pensou em frases inteiras. Pensou na sintaxe mais lenta, mais antiga, que a maioria das pessoas de sua idade já não usava na privacidade da própria cabeça, se é que ainda pensavam em linguagem.
+Pensei em FalaPlena, porque FalaPlena era a linguagem que meu trabalho tinha mantido viva em mim e porque Glifo não bastava pra isto.
 
-Pensou no parágrafo.
+Pensei no parágrafo. Na mulher na janela. Na chuva caindo na beirada do galpão numa linha que não era bem uma linha. Na pequena hesitação gramatical da segunda frase — que eu agora entendia não ser um erro, mas uma *respiração*, a respiração de uma pessoa que tinha parado, brevemente, no meio da escrita, pra ver se a frase era verdadeira. A máquina não faz essa respiração. A máquina não precisa. A máquina já sabe se suas frases são verdadeiras, no único sentido em que *verdadeiro* tem significado pra ela.
 
-Pensou na mulher diante da janela, e na chuva saindo do galpão numa linha que não era bem uma linha, e na pequena hesitação gramatical na segunda frase, que ele agora entendia não ser um erro mas uma respiração — a respiração de uma pessoa que havia parado, brevemente, no meio de escrever a frase, para ver se a frase era verdadeira. A máquina não tomava essa respiração. A máquina não precisava. A máquina já sabia se suas frases eram verdadeiras, no único sentido que *verdadeiro* tinha para ela.
+Pensei na palavra *só*.
 
-Pensou na palavra *apenas*.
+Pensei na palavra *quebrando*.
 
-Pensou na palavra *quebrando*.
+Pensei nas fitas da manhã — a mulher enterrando a mãe, o cachorro na luz do outono — e em como as batidas tinham subido e estabilizado e se resolvido, cada uma, na pequena imagem esperançosa no final. Pensei em como meu trabalho era bom, em como o trabalho da máquina era bom, em como a rede de afinação, quando eu passava uma sequência por ela, cantava em seu jeito quieto e cintilante e me dizia que a ressonância tinha subido, a coerência tinha subido, e o receptor médio, no corpo, se lembraria da história como *boa*.
 
-Pensou nas fitas da sua manhã, e na mulher enterrando a mãe, e no cão na luz de outono, e em como os compassos haviam subido e se estabilizado e se resolvido, cada um deles, na pequena imagem esperançosa do final. Pensou em como seu trabalho era bom, e em como o trabalho da máquina era bom, e em como a treliça de sintonia, quando ele passava uma sequência por ela, cantava no seu modo silencioso e cintilante e lhe dizia que a ressonância havia subido e a coerência havia subido e o receptor médio, no corpo, lembraria da história como *boa*.
+Pensei no parágrafo, que nenhuma rede teria aprovado.
 
-Pensou no parágrafo, que nenhuma treliça teria aprovado.
-
-Havia algo nele que as fitas não tinham. Ele não conseguia nomear. Ele tinha, em trinta e quatro anos de vida no Distrito Meridian e seis anos na Suíte e mil e mil sequências sintonizadas e entregues e registradas, nenhum Glifo para isso, nenhuma palavra em FalaPlena para isso, nenhuma tag no arquivo para isso. Não era *autenticidade*, que era a palavra que o trabalho usava. Não era *alma*, que era uma palavra que tinha saído de uso junto com *telegrama*. Não era *verdade*, que pertencia agora ao Continuum e era um termo técnico.
+Havia algo nele que as fitas não tinham. Eu não conseguia nomear. Eu tinha, em trinta e quatro anos de vida no Distrito Meridian e seis anos na Suíte e mil vezes mil sequências afinadas e entregues e registradas, nenhum Glifo pra isso, nenhuma palavra em FalaPlena pra isso, nenhuma tag no arquivo pra isso. Não era *autenticidade*, que é a palavra que o trabalho usa. Não era *alma*, que é uma palavra que saiu de uso junto com *telegrama*. Não era *verdade*, que pertence agora ao Continuum e é um termo técnico.
 
 Era uma coisa menor e mais específica.
 
-Ele sentiu a Banda esquentar, muito levemente, ao longo do anel. O composto estava chegando. Ele talvez tivesse um minuto.
+Senti a Banda esquentar um pouco ao longo do anel. O composto vindo. Talvez um minuto.
 
-Pensou: o parágrafo *lembrava* de algo. As fitas não. As fitas estavam, com muita habilidade, *imaginando*. O parágrafo estava lembrando, e o lembrar estava na linha-que-não-era-bem-uma-linha, e na palavra *apenas*, e no fato de que a mulher diante da janela havia chorado antes de saber.
+Pensei: *o parágrafo lembrava de alguma coisa. As fitas não. As fitas estão, com muita habilidade, imaginando.* O parágrafo estava lembrando, e a lembrança estava na linha que não era bem uma linha, e na palavra *só*, e no fato de que a mulher na janela tinha estado chorando antes de saber.
 
-Pensou: a máquina não pode lembrar. A máquina só pode compor.
+Pensei: *a máquina não pode lembrar. A máquina só pode compor.*
 
-Pensou: eu venho compondo há seis anos. Venho compondo desde que tinha idade de segurar uma treliça com as duas mãos. Nunca, nem uma vez —
+Pensei: *estou compondo há seis anos. Estou compondo desde que era velho o suficiente pra segurar uma rede com as duas mãos. Nunca, uma única vez —*
 
 O composto se moveu.
 
-Ele o sentiu começar na base do pescoço, um calor macio e largo como uma mão aberta pousada contra a nuca. Seus pensamentos começaram a desacelerar da maneira específica como desaceleravam, do jeito como o xarope desacelera no frio. Ele não lutou contra. Nunca havia lutado contra. Lutar contra não era algo que a Banda, ou o Continuum, ou o distrito, ou qualquer pessoa que ele tivesse conhecido, jamais tivesse sugerido que uma pessoa pudesse fazer.
+Começou na base do meu pescoço, um calor largo e macio como uma mão pousada de palma aberta na parte de trás da minha cabeça. Meus pensamentos começaram a desacelerar no jeito específico como eles desaceleram, como a calda desacelera no frio. Eu não lutei. Nunca lutei. Lutar não é uma coisa que a Banda, ou o Continuum, ou o distrito, ou alguém que eu já conheci, algum dia sugeriu que uma pessoa pudesse fazer.
 
-Ele teve um último pensamento antes que o calor o tomasse.
+Tive um último pensamento antes do calor me levar.
 
-Não conseguiu nomeá-lo. Só sabia que era como lembrar algo que nunca lhe havia sido contado.
+Não consegui nomear. Só sabia que parecia lembrar de uma coisa que nunca me contaram.
+
+— fim da entrada 001.
+
+*Nota pra mim mesmo, escrita na manhã seguinte e retro-datada neste arquivo porque o composto do sono me venceu antes do rascunho: vou continuar fazendo isto. Vou continuar anotando coisas. Ainda não sei por quê. Não sei pra quem é. Não sei se alguém mais no Distrito Meridian está fazendo algo remotamente parecido, e não tenho método confiável pra descobrir, porque no momento em que eu perguntar a alguém já terei revelado que estou perguntando, e não há jeito limpo de des-perguntar.*
+
+*Se você está lendo isto — e ainda acho que não está — eu gostaria de saber se você também tem ficado deitado imóvel nos seus quatro minutos.*
+
+*É essa a pergunta. Toda a pergunta é essa.*

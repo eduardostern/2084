@@ -88,12 +88,24 @@ This is not a world of screaming oppression. It is a world of **quiet erasure**.
 
 ## Writing Style Guide
 
-- **Prose register:** Literary fiction. Dense but not opaque. Orwell's clarity + Le Guin's warmth + McCarthy's economy.
-- **POV:** Close third-person. We are inside the protagonist's head but the narration occasionally slips into a tone that feels slightly... observed.
-- **Tense:** Past tense throughout, except ARIA's dialogue and system outputs (present tense).
-- **Chapter length target:** ~15 pages / ~4,500–5,000 words per chapter.
-- **Dialogue:** Sparse but weighted. Every conversation matters.
+- **Prose register:** Andy Weir's *The Martian*. Wry, first-person, practical, funny, technical-but-accessible. Problem-solving on the page. Short paragraphs, varied sentence length, plain diction, almost no adverbs, contractions, lightly profane when earned.
+- **POV:** First-person past tense, Elias narrating. **Framing device: the book is Elias's private FullSpeech journal**, kept inside his "working notes" file on the Node. Chapters open with a dated entry header and close with "end of entry N" and occasional margin notes. Readers know from page 1 they are reading his illegal notebook. The paper account that appears in Chapters 9–12 is a separate, internal artifact — a physical document he writes on Desmond's paper; the notebook we read is the scaffolding around it.
+- **Tense:** Past tense throughout Elias's narration. **ARIA's dialogue remains present tense**, per the original style. Continuum Records remain the only non-first-person voice in the book — their flat bureaucratic tone is the ironic counterpoint to Elias's voice.
+- **Tech density — Watney-level:** Elias explains the world's machinery in his own words, the way Watney explains orbital mechanics. When a term is introduced (Band, trit-lattice, genetic auth, Glyph, quantum coprocessor), he gives a short, characterful technical aside. This is part of the voice, not a detour.
+- **Register:** Lightly profane. Occasional "shit"/"bullshit" when earned. Dry sarcasm throughout. Real adult writing privately.
+- **Chapter length target:** ~5,000–5,500 words per chapter.
+- **Dialogue:** In FullSpeech scenes (Desmond, Vael, Noa unmedicated), full sentences with weight. Glyph exchanges are narrated, not quoted. ARIA's dialogue is present-tense and italicized-adjacent in the prose.
 - **The Continuum's voice:** Never sinister. Always reasonable. This is the horror.
+
+### Tech refresh vocabulary (use throughout)
+- **Genetic-auth layer:** Every surface samples shed cells and matches them to each citizen's signature in under 50ms. Your body is your login. The Band is the intervention layer, not the identity layer.
+- **Trit-lattice / unresolved state:** The Continuum's substrate. Chips hold 0, 1, and a middle "unresolved" phase where most computation happens. No living human has written the current chip spec — the Continuum designs its own hardware since 2058.
+- **Quantum coprocessors:** Standard in every Node. Part of ambient infrastructure, not remarkable.
+- **Glyph:** Rendered by small on-device LLMs (4B-parameter distilled lineage). Gestures/expressions → tokens. Ecosystem is use-maintained — gestures that fall below usage thresholds decay out of rendering, which is how the language thins.
+- **ARIA:** Personalized model instance. Trained against Elias's data since age 7. Warm, present-tense, never sinister. She is also a ward — this is thematically load-bearing in Ch. 8 and 12.
+
+### "Am I the only one?" interior thread
+Structural to the rewrite. Elias's interior arc is not a lonely drift into rebellion. He argues with himself on the page, fails to find allies, doubts his own clarity, suspects he's broken rather than awake. The question flips across the book: *am I the only one?* → *no, Noa* → *no, Noa and Desmond* → (Ch. 10) *the chain is longer than I thought, Mira was already on it, I was wrong in a good way* → (Ch. 12) *you, reading this, are here too.* Each chapter should contain at least one beat where Elias interrogates whether what he's noticing is real or confabulated.
 
 ---
 

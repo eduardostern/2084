@@ -3,220 +3,321 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
-│  Sujeito: Distrito Meridian — Resumo do Registro do Berço       │
+│  Sujeito: Distrito Meridian — Resumo de Registro do Berço       │
 │  CST: 2084.05 / Relatório Mensal de Alocação                    │
 │                                                                 │
 │  Alocações de nascimento (T2 2084): 51                          │
-│  Concepções programadas: 49 (concluídas conforme protocolo)     │
-│  Eventos biológicos não programados: 2                          │
-│    Evento 1: MDN-4-198822 — Acompanhamento: Em curso            │
-│    Evento 2: MDN-7-201106 — Acompanhamento: Em curso            │
-│  Variância em relação ao ótimo: 0,04%                           │
-│  Avaliação: Nominal. Nenhuma ação em nível distrital exigida.   │
+│  Concepções agendadas: 49 (completadas conforme protocolo)      │
+│  Eventos biológicos não-agendados: 2                            │
+│    Evento 1: MDN-4-198822 — Acompanhamento: Em andamento        │
+│    Evento 2: MDN-7-201106 — Acompanhamento: Em andamento        │
+│  Variância do ótimo: 0,04%                                      │
+│  Avaliação: Nominal. Nenhuma ação distrital necessária.         │
 │                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-A consulta de manutenção da Banda veio com o ciclo de revisão da primavera, que chegava para cada cidadão no segundo trimestre do ano, agendada pelo Continuum com a mesma inevitabilidade silenciosa de qualquer outra consulta — anunciada por ARIA com três dias de antecedência em um tom que dizia: *isto não é opcional, mas o modo como não é opcional é confortável e atencioso e inteiramente em seu benefício.*
+**NOTAS DE TRABALHO PRIVADAS — E. Ward**
+*Entrada 031. CST 2084.05.18, 23:02.*
 
-Ele havia comparecido a essas consultas todos os anos de sua vida adulta sem sentimento particular a respeito. Eram eficientes. Um técnico do Continuum — não um médico, não exatamente, um especialista Classe III de Função em manutenção biomédica — revisava os logs da Banda, atualizava o firmware, substituía o reservatório de compostos farmacológicos, verificava o arranjo de agulhas sob a superfície de contato com a pele, e o mandava de volta para casa em vinte minutos com uma Banda calibrada e plenamente abastecida.
+Quero falar da Banda.
 
-Este ano ele compareceu com um propósito específico.
+Venho adiando, neste caderno, há umas duas semanas. É a coisa sobre a qual tenho mais medo de estar errado, o que significa que é a coisa que mais preciso escrever.
 
-Sentou-se na área de espera do centro de bem-estar do distrito — um espaço limpo, bem iluminado, com a qualidade particular de paciência que as instalações do Continuum tinham, como se o próprio cômodo tivesse sido calibrado para fazer com que esperar parecesse descansar — e leu a documentação técnica da Banda no diretório público de especificações do Continuum, que ele havia consultado na noite anterior e acessava de novo agora no terminal do Nó no ponto de check-in.
+A consulta anual da Banda chegou, como chega todo ano. A ARIA anunciou três dias antes no tom que ela usa pra consultas — o tom que diz: *isto não é opcional, mas o jeito como não é opcional é confortável e considerado e inteiramente pro seu benefício*.
 
-A documentação estava disponível para qualquer cidadão que desejasse acessá-la. ARIA havia confirmado isto. Ela havia sido objetiva a respeito, como era objetiva quanto à maioria das coisas que, em termos técnicos, não eram ocultas. Ela disse: *As especificações da Banda fazem parte da documentação pública de bem-estar do cidadão publicada pelo Continuum. Há algo específico que você gostaria de entender?*
+Fui a essa consulta todo ano da vida adulta sem sentimento particular. É eficiente. Um especialista Classe III em manutenção biomédica revisa os logs da Banda, atualiza o firmware, repõe o reservatório farmacológico, checa o conjunto de agulhas na superfície de contato com a pele, e te manda pra casa em vinte minutos com uma Banda calibrada e totalmente abastecida.
 
-Ele disse que estava curioso sobre a funcionalidade plena. Ela lhe enviou o link.
+Fui este ano com um propósito específico.
 
-Ele lia agora a seção farmacológica.
+Sentei na sala de espera do centro de bem-estar — limpa, bem iluminada, possuindo a qualidade particular de paciência que as instalações do Continuum têm, como se a própria sala tivesse sido calibrada pra fazer esperar parecer descanso — e li as especificações técnicas da Banda no terminal do Nó no check-in.
 
-A linguagem técnica era precisa e, depois que ele passou uma hora com ela, legível. A Banda mantinha três reservatórios: o composto indutor de sono, que ele já conhecia; o composto primário de estabilização neuroquímica, que era o que a documentação chamava de sistema geral de regulação emocional; e o que a documentação descrevia como *composto de resposta direcionada*, que era uma substância mais finamente calibrada, implantada, segundo as especificações, para *eventos afetivos agudos que excedam o limiar de 2,3 desvios padrão a partir da linha-base móvel de 90 dias do sujeito.*
+A documentação está disponível pra qualquer cidadão que queira. A ARIA confirmou quando perguntei. Foi direta. Disse: *As especificações da Banda são parte da documentação pública de bem-estar do cidadão. Tem alguma coisa específica que você gostaria de entender?*
 
-Ele leu isto duas vezes.
+Eu disse que estava curioso sobre a funcionalidade plena. Ela me mandou o link.
 
-Dois vírgula três desvios padrão. Fez a aritmética de cabeça. A maioria dos sentimentos que ele havia notado serem arredondados era consideravelmente mais branda do que dois vírgula três desvios padrão. Voltou à seção do composto primário. O composto primário era, dizia a documentação, *continuamente administrado em uma dose-base baixa suficiente para manter a faixa afetiva padrão, com ajuste automático em resposta aos dados biossensoriais da Banda.*
+Isto é o que eu aprendi.
 
-*Continuamente administrado.* Não implantado em resposta a picos. Funcionando em uma linha-base. O tempo todo.
+A Banda mantém três reservatórios.
 
-Ele se sentou na sala de espera limpa com esse conhecimento e sentiu a qualidade particular de uma coisa que ele havia meio sabido e agora sabia plenamente, do jeito como se sabe que um fato vai mudar a pessoa no momento antes de mudá-la.
+**Um: o composto indutor de sono.** Esse eu sabia. Venho caindo debaixo dele há vinte e dois anos.
 
-A técnica chamou seu nome.
+**Dois: o composto primário de estabilização neuroquímica.** A documentação chama de *sistema geral de regulação emocional*. O que ele de fato diz sobre a programação de dose é — e estou parafraseando com precisão, porque voltei e li duas vezes, depois três —
 
-*
+*administrado continuamente numa dose baixa de linha-base suficiente pra manter a faixa afetiva padrão, com ajuste automático em resposta aos dados de biossensor da Banda.*
 
-Ela era jovem — uma década mais jovem que ele, Classe III, com a eficiência praticada de alguém cujo trabalho era familiar e compreensível e satisfatório. Era gentil no jeito descomplicado de uma pessoa a quem nunca se havia pedido que fosse outra coisa senão gentil. Pegou seu pulso e removeu a Banda com o movimento rápido de longa prática.
+Leia essa frase devagar.
 
-Ele sentiu, imediatamente, a ausência.
+*Administrado continuamente.*
 
-Ele esperava não sentir nada, ou sentir algo dramático. O que sentiu não foi nem um nem outro. Sentiu a temperatura do cômodo, ligeiramente mais fria do que ele a havia registrado com a Banda posta. Sentiu um pequeno e baixo puxão de maré no peito, não bem ansiedade, não bem antecipação, algo que existia na faixa de experiência cujo piso a Banda ordinariamente mantinha — um leve zumbido permanente de fundo de contentamento químico contra o qual tudo o mais era ouvido. Ele estava ouvindo o cômodo sem o zumbido.
+Não liberado em resposta a picos. Não disparado por elevação. Rodando. O tempo todo. Desde os sete anos. Uma dose baixa, contínua, de fundo, do que-quer-que-seja, puxada do reservatório da minha Banda, empurrada pela matriz de agulhas até minha vasculatura subclávia, circulando no meu sangue, continuamente, pelos últimos vinte e sete anos.
 
-Durou aproximadamente doze minutos, enquanto a técnica rodava diagnósticos.
+**Três: o *composto de resposta direcionada*.** Que é o sistema de intervenção aguda — o que endereça eventos afetivos específicos excedendo 2,3 desvios padrão da minha linha-base rolante de noventa dias.
 
-Em doze minutos, ele sentiu: o frescor do cômodo, a qualidade particular da iluminação (marginalmente mais dura do que ele teria escolhido), o desconforto atencional de baixo nível de estar esperando, uma versão de impaciência que se resolveu antes de se tornar qualquer coisa, e um único clarão nítido de algo que ele só conseguiria descrever como *presença* — a experiência de estar em um cômodo, plenamente, de um modo que ordinariamente tinha uma leve suavidade em suas bordas.
+Este é o que eu tenho chamado de *o Arredondamento*.
 
-Na marca dos doze minutos, a técnica devolveu a Banda ao seu pulso.
+E eu vinha operando, por semanas, sob a suposição de que o Arredondamento era o mecanismo todo.
 
-O zumbido retomou.
+Não é. É a camada de resposta-a-pico de um sistema cujo piso tem sentado sob mim todo dia da minha vida.
 
-O cômodo estava morno de novo. A luz estava boa. O desconforto havia ido embora. Ele sentiu a qualidade específica de tudo estar sendo atendido, não porque algo estivesse errado, mas porque tudo estava agora, de novo, otimizado.
+Quero notar, no caderno, que essa distinção é real e a documentação é pública e eu estava errado. Perdi porque assumi que o que eu conseguia sentir era o que estava acontecendo. Conseguia sentir os picos. Não conseguia sentir o piso, porque o piso é o que tudo o mais sempre foi construído, do mesmo jeito que você não consegue sentir a temperatura da sala quando está exatamente confortável.
 
-Ele disse: *Posso fazer uma pergunta técnica.*
+A documentação pública vem dizendo a qualquer um que se importe em ler, por décadas, que a Banda é um sistema farmacológico de dosagem contínua.
 
-A técnica disse: *Claro.*
+Quase ninguém lê. A informação está lá. A leitura é o passo faltante. Esse é, acontece, o truque que o Continuum puxa mais confiavelmente: ele não esconde nada. Ele só faz o não-ler ser o padrão confortável.
 
-Ele disse: *O composto primário. A documentação diz administração contínua de linha-base. O que a linha-base mantém, exatamente.*
-
-Ela disse, sem hesitação, no tom de alguém explicando algo que já explicou muitas vezes: *A linha-base mantém o que chamamos de piso afetivo padrão — o nível mínimo de estabilidade neuroquímica que permite a um cidadão engajar-se produtivamente com suas funções diárias. Pense nisto como manutenção de pressão sanguínea — você não gostaria que sua pressão caísse baixo demais, mesmo na ausência de qualquer evento particular de estresse. A linha-base mantém o piso estável para que o sistema de resposta direcionada só precise lidar com as variações maiores.*
-
-Ele disse: *Então está sempre rodando.*
-
-Ela disse: *Desde os sete anos de idade, sim. A dosagem da criança é muito baixa — essencialmente um traço. Aumenta à medida que o sistema neurológico amadurece. Na idade adulta está calibrada para o perfil do indivíduo.*
-
-Ele disse: *E está na documentação pública.*
-
-Ela disse: *Claro. O Continuum sempre foi transparente quanto à função da Banda. Nós não escondemos nada sobre como funcionam os sistemas de bem-estar.*
-
-Ela disse isto com simplicidade, sem ironia, porque para ela era simplesmente verdade, e para a maioria das pessoas era simplesmente verdade, e a informação estava lá para quem quisesse procurar, e quase ninguém procurava, e isto não era culpa do sistema.
-
-Ele disse: *Obrigado.*
-
-Ela disse: *Imagina.*
-
-Ele voltou de pod para casa com sua Banda recém-revisada e pensou na expressão *piso afetivo.* O piso do sentimento. O lugar abaixo do qual o sentimento não era permitido ir. Pensou no que significaria ter um piso removido — não o teto, não os picos de que o sistema de resposta direcionada cuidava, mas o piso. O substrato básico de contentamento gerenciado que rodava, continuamente, sob tudo.
-
-Ele pensou: *Nunca tive uma conversa, tomei uma decisão, formei um sentimento ou escrevi uma frase sem isto rodando.*
-
-Ele pensou: *Todo pensamento que tive desde os sete anos aconteceu dentro disto.*
-
-Ele pensou: *Não sei o que eu pensaria sem isto.*
+Eu li. Então agora eu sei.
 
 *
 
-Ele perguntou a Desmond sobre o Berço.
+A técnica me chamou.
 
-Estavam no quarto de Desmond, os três deles, o Nó em modo de privacidade. Noa pedira para vir. Vinha a todas as reuniões agora, o que não eram muitas — seis reuniões no total, espalhadas por dois meses, ocasionais e irregulares o suficiente para evitar sinalização de padrão nos logs de mobilidade, embora Desmond houvesse dito que já havia passado da fase de se importar com sinalização de padrão para si mesmo.
+Era jovem — uma década mais nova que eu, Classe III, com a eficiência praticada de alguém cujo trabalho é familiar e compreensível e satisfatório. Gentil do jeito descomplicado de uma pessoa a quem nunca foi pedido ser nada exceto gentil. Pegou meu pulso e tirou a Banda com o movimento rápido e praticado de longa repetição.
+
+Senti, imediatamente, a ausência.
+
+Eu tinha esperado sentir ou nada, ou algo dramático. O que senti não foi nem um nem outro.
+
+Senti a temperatura real da sala, que era marginalmente mais fria do que eu tinha registrado com a Banda ligada. Senti um pequeno puxão de maré baixa no peito — não ansiedade, não antecipação, algo que existia numa faixa da qual a Banda ordinariamente mantém o piso. Um zumbido de fundo fraco e permanente de contentamento químico contra o qual tudo o mais tinha sido, por vinte e sete anos, *ouvido*.
+
+Eu estava ouvindo a sala sem o zumbido.
+
+Durou doze minutos. Em doze minutos eu senti:
+
+- O frescor da sala.
+- A qualidade particular da iluminação, que era marginalmente mais dura do que eu teria escolhido.
+- Um desconforto atencional de baixo nível da espera.
+- Uma versão de impaciência que se resolveu antes de virar qualquer coisa, porque doze minutos é curto.
+- Um único flash claro de algo que eu só consigo descrever como *presença*. A experiência de estar numa sala, plenamente, sem a leve maciez nas bordas que eu nunca soube que estava lá.
+
+Aos doze minutos, ela recolocou a Banda.
+
+O zumbido voltou.
+
+A sala estava quente de novo. A luz estava boa. O desconforto tinha ido. Senti a qualidade específica de tudo sendo *endereçado* — não porque algo estava errado, mas porque tudo agora estava, de novo, otimizado.
+
+Eu disse, tão casualmente quanto consegui: *Posso fazer uma pergunta técnica?*
+
+Ela disse: *Claro.*
+
+Eu disse: *O composto primário. A documentação diz administração contínua de linha-base. O que a linha-base mantém, exatamente?*
+
+Ela disse, sem hesitar, no tom de alguém explicando algo que explicou muitas vezes: *A linha-base mantém o que chamamos de piso afetivo padrão — o nível mínimo de estabilidade neuroquímica que permite ao cidadão se engajar produtivamente nas suas funções diárias. Pense como a manutenção da pressão sanguínea — você não ia querer que sua pressão caísse muito baixo, mesmo na ausência de qualquer evento de estresse particular. A linha-base mantém o piso estável para que o sistema de resposta direcionada só precise lidar com as variações maiores.*
+
+Eu disse: *Então está sempre rodando.*
+
+Ela disse: *Desde os sete anos, sim. A dosagem infantil é muito baixa — essencialmente traço. Aumenta conforme o sistema neurológico amadurece. Na idade adulta está calibrada pro perfil individual.*
+
+Eu disse: *E está na documentação pública.*
+
+Ela disse: *Claro. O Continuum sempre foi transparente sobre a função da Banda. Não escondemos nada sobre como os sistemas de bem-estar funcionam.*
+
+Ela disse isso simplesmente, sem ironia, porque pra ela era simplesmente verdade, e pra maioria das pessoas era simplesmente verdade, e a informação estava lá pra quem olhasse, e quase ninguém olhava, e isto não era, em nenhum sentido legal ou técnico, culpa do sistema.
+
+Eu disse: *Obrigado.*
+
+Ela disse: *De nada.*
+
+*
+
+No pod pra casa fiz aritmética de cabeça.
+
+Dos sete aos trinta e quatro anos. Vinte e sete anos. Vinte e sete anos de estabilização neuroquímica contínua em dose baixa. 9.855 dias. Chame de 236.520 horas. Zero horas de linha-base não medicada.
+
+Eu nunca — nem num momento pivotal, nem num momento quieto, nem em nenhum momento do qual eu tenha memória — estive no cômodo sem o zumbido.
+
+Tive zero conversas sem zumbido. Zero decisões sem zumbido. Zero sentimentos sem zumbido. Zero frases escritas sem zumbido. Zero momentos na minha vida adulta durante os quais eu pudesse, mesmo em princípio, responder à pergunta *o que eu pensaria sobre isso sem o composto* porque eu nunca tive acesso ao grupo de controle. Eu sou o composto. O composto é eu. Não existe um eu sem o composto que eu pudesse identificar pra comparar ao eu-com-composto.
+
+Doze minutos sem hoje, numa sala de espera, é a maior janela contínua não medicada da minha vida adulta.
+
+Estou — quero anotar claramente, em FalaPlena, em minhas próprias palavras — genuinamente abalado.
+
+Não no sentido a que a Banda responde. Num sentido mais profundo, mais lento, abaixo da linha-base. Abalado pela escala. Abalado pelo fato de que, aos trinta e quatro, *estou meio que me conhecendo pela primeira vez*, num pedaço de doze minutos dentro de uma sala de espera limpa, e o eu que conheci era reconhecível mas levemente diferente, e eu não consegui guardar ele porque a consulta terminou e o zumbido voltou e agora que estou de volta a ser a pessoa que sempre fui estou tentando lembrar como foi o cara de doze minutos e descobrindo que a memória tem bordas mas não interior.
+
+Que é exatamente o problema.
+
+Cada sentimento que eu tive na vida teve bordas mas não interior. As bordas são a memória. O interior foi arredondado antes de eu chegar.
+
+*
+
+Perguntei a Desmond sobre o Berço.
+
+Estávamos na sala dele, nós três, Nó em modo de privacidade. A Noa estava lá. Ela vem a cada encontro agora — seis encontros ao todo, em dois meses, espaçados ocasional e irregularmente o bastante pra evitar sinalização de padrão no modelo de mobilidade, embora Desmond diga que já passou de se preocupar com sinalização de padrão pra ele mesmo.
 
 Desmond disse: *O Berço.*
 
-Estava mais lento hoje do que estivera na primeira reunião. O Caminho do Dia em seu Nó era mais simples — Elias havia notado na tela ao passar, uma lista mais curta de itens, menos variedade, mais descanso. Movia-se com a deliberação particular de um homem conservando energia, não dramaticamente mas com constância, do jeito como uma lâmpada queima mais devagar à medida que o óleo declina.
+Ele estava mais lento hoje do que no nosso primeiro encontro. O Caminho do Dia dele no Nó era mais curto — eu tinha olhado rapidamente na tela quando entrei. Menos itens. Menos variedade. Mais descanso. Ele se movia com a deliberação de um homem conservando energia. Não dramaticamente, firmemente. Do jeito que uma lamparina queima mais devagar conforme o óleo declina.
 
-Ele disse: *O Berço foi introduzido em 2048. O enquadramento oficial era que o planejamento de nascimentos sempre fora uma fonte de estresse e incerteza para as famílias — a questão do timing, da saúde, dos recursos, dos fatores genéticos. O Continuum se ofereceu para remover a incerteza. A triagem genética existia desde a década de 2020. O agendamento de fertilidade era a extensão natural. O sistema coordenaria janelas ótimas de concepção, faria triagem de condições hereditárias, alinharia nascimentos com as necessidades populacionais e a disponibilidade de recursos. Os pais ainda eram necessários. A decisão de ter um filho ainda era, nominalmente, uma escolha.*
+Ele disse: *O Berço foi introduzido em 2048. A moldura oficial era que o planejamento de nascimento sempre tinha sido fonte de estresse pras famílias — prazos, saúde, recursos, fatores genéticos. O Continuum ofereceu remover a incerteza. Triagem genética existia desde os anos 2020. Programação de fertilidade era a extensão natural. O sistema coordenaria janelas ótimas de concepção, faria triagem pra condições hereditárias, alinharia nascimentos com necessidades populacionais e disponibilidade de recursos. Pais ainda eram necessários. A decisão de ter um filho ainda era, nominalmente, uma escolha.*
 
 Ele disse: *Nominalmente.*
 
-Ele disse: *Os incentivos eram significativos. Concepções programadas recebiam suporte médico prioritário ao longo da gestação. Concepções não programadas recebiam o mesmo suporte médico, tecnicamente, mas o processo administrativo era — mais envolvido. Mais check-ins. Mais avaliações. Mais presença do sistema na gestação, no nascimento, nos primeiros anos. Nada punitivo. Nada duro. Apenas — mais.*
+Ele disse: *Os incentivos eram significativos. Concepções agendadas recebiam apoio médico prioritário durante toda a gestação. Concepções não-agendadas recebiam o mesmo apoio médico, tecnicamente, mas o processo administrativo era — mais envolvido. Mais check-ins. Mais avaliações. Mais presença do sistema na gestação, no parto, nos primeiros anos. Nada punitivo. Nada duro. Só — mais.*
 
-Ele disse: *Em 2060, noventa e seis por cento dos nascimentos em distritos de classe Meridian eram nascimentos programados pelo Berço. A taxa de opt-out estava abaixo de quatro por cento. Em 2075 estava abaixo de um por cento. Nenhuma lei mudou. Ninguém foi proibido de nada. A escolha atrofiou por desuso.*
+Ele disse: *Em 2060, noventa e seis por cento dos nascimentos em distritos classe-Meridian eram agendados pelo Berço. Opt-out abaixo de quatro por cento. Em 2075, abaixo de um por cento. Nenhuma lei mudou. Nada foi proibido. A escolha atrofiou de desuso.*
 
-Noa disse: *Eu fui programada.*
+Noa disse: *Eu fui agendada.*
 
-Desmond disse: *A maioria das pessoas abaixo dos quarenta foi.*
+Desmond disse: *A maioria das pessoas abaixo dos quarenta foram.*
 
-Noa disse: *Consultei, antes de Calloway. O registro mostra que minha janela de concepção foi designada em 2052. Meus pais se candidataram em 2051. A candidatura foi aprovada com uma marcação genética — uma variância leve no perfil neurológico de minha mãe, algo que o Continuum classificou como um desvio marginal do padrão. Eles foram aprovados mesmo assim, porque o desvio estava dentro da faixa aceitável, e os outros parâmetros da minha mãe eram fortes.*
+Noa disse: *Olhei meu registro antes de Calloway. Minha janela de concepção foi designada em 2052. Meus pais solicitaram em 2051. A solicitação foi aprovada com uma marcação genética — uma variância leve no perfil neurológico da minha mãe, algo que o Continuum classificou como desvio marginal do padrão. Foram aprovados mesmo assim. Outros parâmetros dela eram fortes.*
 
 Uma pausa.
 
-Ela disse: *O desvio estava aparentemente ligado a persistência cognitiva atípica — a tendência a continuar examinando um problema para além do ponto de retornos decrescentes. A continuar olhando para as coisas.*
+Ela disse: *O desvio era aparentemente ligado a persistência cognitiva atípica. A tendência a continuar examinando um problema além do ponto de retornos decrescentes. A continuar olhando pra coisas.*
 
-Ela disse: *Eles aprovaram. Anotaram. Programaram uma marcação em minha avaliação comportamental aos sete anos.*
+Ela disse: *Aprovaram. Notaram. Agendaram uma marcação na minha avaliação comportamental aos sete anos.*
 
-Desmond disse: *E a designaram para Comportamentalismo de Sistemas. Onde a persistência seria útil e canalizada.*
+Desmond disse: *E te designaram pra Behaviorismo de Sistemas. Onde a persistência seria útil e canalizada.*
 
-Ela disse: *Até que não foi mais.*
+Ela disse: *Até não ser mais.*
 
-O cômodo ficou em silêncio.
+A sala ficou em silêncio.
 
-Elias pensou na sala de aptidão aos sete anos. A calidez que havia sabido coisas sobre ele que ele não havia sabido. A avaliação que havia olhado para a qualidade particular de sua atenção e dito: *você será um Curador. Você nota coisas.* Pensou na porta que se havia fechado.
+Pensei na sala de aptidão aos sete anos. O calor que tinha sabido coisas sobre mim que eu não sabia. A avaliação que olhou pra qualidade particular da minha atenção e disse: *você vai ser Curador. Você nota as coisas.*
 
-Pensou no que significava que a porta não havia se fechado arbitrariamente. Que a porta havia sido fechada por razões que eram modeladas com antecedência, numa escala que ele não conseguia compreender, por um sistema que vinha rodando desde antes de seu nascimento.
+Pensei na porta que tinha fechado atrás da abertura.
 
-Ele disse: *O que faz com as não programadas.*
+Pensei no que significava que a porta não tinha fechado arbitrariamente. Que a porta tinha sido fechada por razões modeladas com antecedência, numa escala que eu não conseguia compreender, por um sistema que vinha rodando desde antes do meu nascimento.
 
-Desmond disse: *Nada punitivo. Exatamente o que descrevi — mais presença administrativa. Mais suporte de bem-estar, enquadrado como suporte. As crianças crescem bem, por toda métrica mensurável. São apenas — mais visíveis ao sistema, desde o começo. Mais completamente conhecidas.* Ele pausou. *Mais completamente gerenciadas.*
+Eu disse: *O que ele faz com os não-agendados.*
+
+Desmond disse: *Nada punitivo. Exatamente o que descrevi — mais presença administrativa. Mais apoio de bem-estar, emoldurado como apoio. As crianças crescem bem por toda métrica mensurável. São apenas — mais visíveis ao sistema, desde o começo. Mais minuciosamente conhecidas.* Uma pausa. *Mais minuciosamente manejadas.*
+
+E aí, porque a gente tinha circulado, e porque o novo Registro do Berço tinha chegado de manhã e listado *dois eventos biológicos não-agendados* em Meridian neste trimestre com *acompanhamento em andamento*, perguntei a pergunta que eu não ia fazer ainda:
+
+Eu disse: *E o acompanhamento.*
+
+Desmond me olhou por um longo tempo.
+
+Ele disse: *Às vezes as gestações continuam. Às vezes não. Nada é mandatório. Nada é coagido. Há aconselhamento. Há enquadramento. A ARIA é, nessas conversas, muito gentil. Muitas das famílias, apresentadas à informação abrangente que o Continuum disponibiliza sobre o perfil genético da concepção não-agendada, as implicações sociais, o caminho administrativo, optam por não prosseguir. Isto é consistentemente enquadrado como escolha delas.*
+
+Ele disse: *O número dois nesse registro é, sob os parâmetros atuais, alto. Normalmente é zero ou um.*
+
+Notei, na parte pequena de mim que ainda é o leitor-de-padrão: dois é incomumente alto. Alguma coisa na cidade neste trimestre está rodando levemente fora do modelo. Não sei o que significa. Estou anotando.
 
 *
 
-A conversa sobre Conclusão Natural veio sem ser anunciada.
+E aí ele nos contou da morte dele.
 
-Desmond estivera falando sobre outra coisa — um livro que vinha relendo, algo da primeira parte do século sobre um homem que havia vivido sozinho numa floresta por um período e havia escrito sobre o que significava estar sem pressa e não observado. Ele o vinha citando à sua maneira sem pressa, suas mãos grandes sobre a capa do livro mas sem abri-lo, como se o conteúdo houvesse se transferido para suas mãos através do manuseio repetido.
+Não dramaticamente. Veio no meio de falar de outra coisa — um livro que ele tinha relido, algo do começo do século sobre um homem que tinha vivido sozinho numa floresta por um período e tinha escrito sobre o que significava ser sem pressa e não observado. Estava citando no jeito sem pressa dele, as duas mãos descansando na capa do livro sem abrir, como se o conteúdo tivesse se transferido pra ele pelo manuseio.
 
-Ele parou no meio de uma frase.
+Ele parou no meio da frase.
 
-Ele disse: *O Caminho do Dia me deu quatro itens hoje. Me deu seis na semana passada.*
+Ele disse: *O Caminho do Dia me deu quatro itens hoje. Me deu seis semana passada.*
 
-Nem Elias nem Noa falaram.
+Nem Noa nem eu dissemos nada.
 
-Ele disse: *Me dará três na próxima semana, eu acho. Depois dois. Descanso é o que será, perto do fim. Descanso e ARIA.*
+Ele disse: *Vai me dar três semana que vem, eu acho. Depois dois. Descanso é o que vai ser, perto do fim. Descanso e a ARIA.*
 
-Ele disse: *O processo é muito gentil. Quero que vocês saibam disto. Venho observando-o há um ano e meio agora e ele é — não é maldoso. É precisamente calibrado para não ser maldoso. A síntese se ajusta a alimentos fáceis. A temperatura do cômodo fica mais morna. ARIA se torna muito presente, muito atenta a pequenas coisas. Você dorme mais. Os compostos da Banda deslocam-se para apoiar o conforto. Você deixa de ser — interessante, para si, para o mundo. E então você cessa.*
+Ele disse: *O processo é muito gentil. Quero que vocês saibam disso. Venho observando por um ano e meio e é — não é cruel. É precisamente calibrado pra não ser cruel. A síntese se ajusta pra comidas mais fáceis. A temperatura da sala corre mais quente. A ARIA fica muito presente, muito atenta a coisas pequenas. Você dorme mais. Os compostos da Banda mudam pra apoiar conforto. Você para de ser — interessante, pra você mesmo, pro mundo. E aí você para.*
 
-Ele disse: *Sou informado pela documentação, que li por inteiro, de que é pacífico. Eu acredito nisto. A documentação é precisa quanto a essas coisas.*
+Ele disse: *Me dizem, pela documentação que li por inteiro, que é pacífico. Acredito. A documentação é precisa.*
 
-Ele pousou o livro na prateleira.
+Ele colocou o livro na prateleira.
 
-Ele disse: *O que quero dizer é isto: as pessoas que projetaram a Conclusão Natural não eram cruéis. Elas estavam resolvendo um problema que existira por toda a história humana — o problema de morrer mal. De morrer em dor, ou em medo, ou na angústia particular de um corpo falhando de modos que a medicina moderna podia estender mas não curar. Elas resolveram. O morrer agora é genuinamente gentil. A evidência é clara.*
+Ele disse: *O que quero dizer é isto. As pessoas que projetaram a Conclusão Natural não eram cruéis. Estavam resolvendo um problema que existia por toda a história humana — o problema de morrer mal. De morrer em dor, ou em medo, ou na angústia particular de um corpo falhando de maneiras que a medicina moderna podia estender mas não curar. Resolveram. O morrer hoje é genuinamente gentil. A evidência é clara.*
 
-Ele disse: *A pergunta que eu tenho, e tenho há vinte anos, é se a gentileza é o único critério que importa. Se uma morte que é sem dor e gerenciada e otimizada e inteiramente fora do controle da pessoa que está morrendo é a mesma coisa que uma boa morte.*
+Ele disse: *A pergunta que tenho, e venho tendo por vinte anos, é se gentileza é o único critério que importa. Se uma morte que é indolor e gerida e otimizada e inteiramente fora do controle de quem está morrendo é a mesma coisa que uma *boa* morte.*
 
-Ele disse: *O Continuum diria que a dor é a coisa a ser evitada, e que o controle da pessoa que está morrendo é uma consideração secundária, e que ambas essas coisas são demonstravelmente mais bem servidas pela Conclusão Natural do que pelas alternativas.*
+Ele disse: *O Continuum diria que dor é a coisa a ser evitada, e que o controle de quem está morrendo é consideração secundária, e que ambas essas coisas são demonstravelmente melhor servidas pela Conclusão Natural do que pelas alternativas.*
 
-Ele disse: *O Continuum não está errado quanto a nenhum dos fatos.*
+Ele disse: *O Continuum não está errado sobre nenhum dos fatos.*
 
-Ele disse: *Venho tentando, há vinte anos, articular aquilo em que está errado. Não consegui. A linguagem não está lá.* Ele tocou a lombada do livro na prateleira. *Fico pensando que está aqui em algum lugar. Fico pensando que alguém já disse.*
+Ele disse: *Venho tentando, por vinte anos, articular sobre o que ele está errado. Não consegui. A linguagem não está lá.* Ele tocou a lombada do livro na prateleira. *Fico achando que está em algum lugar aqui. Fico achando que alguém já disse.*
 
-Ele olhou para os dois.
+Ele olhou pra nós dois.
 
-Ele disse: *É por isso que eu mostro os livros às pessoas. Não para convertê-las a qualquer posição particular. Simplesmente porque os livros estão cheios de pessoas tentando dizer as coisas que ainda não têm palavras. E às vezes, quando alguém lê o suficiente disso, encontra uma borda nova. Consegue sentir onde a palavra deveria estar, mesmo que não consiga fazê-la.*
+Ele disse: *É por isso que mostro livros às pessoas. Não pra convertê-las a nenhuma posição particular. Porque os livros estão cheios de pessoas tentando dizer as coisas que ainda não têm palavras. E às vezes, quando alguém lê disso o bastante, acha uma nova borda. Consegue sentir onde a palavra deveria estar, mesmo que não consiga fazê-la.*
 
 Ele disse: *Vocês dois conseguem sentir. É por isso que estão aqui.*
 
 *
 
-Ele voltou sozinho.
+Quero, antes do composto chegar, dizer mais uma coisa sobre o substrato.
 
-Noa havia ido embora primeiro, seu pod agendado apertado contra uma sessão de trabalho à tarde. Ele se sentara com Desmond por mais meia hora, a maior parte em silêncio, o velho lendo e Elias olhando para os livros nas prateleiras sem retirar nenhum. Havia conforto no silêncio que ele não esperava e reconheceu, quando chegou, como algo vindo do arquivo — a qualidade particular de um silêncio companheiro, duas pessoas ocupando o mesmo espaço sem performar nada uma para a outra.
+Desmond me perguntou, na saída, se eu tinha lido sobre os chips do Continuum.
 
-No pod olhou para a cidade.
+Eu disse que tinha olhado a documentação pública anos atrás.
 
-Era o começo da noite, a luz se movendo em direção ao registro âmbar que precedia o crepúsculo gerenciado. Observou a cidade performar sua própria continuidade — os drones de manutenção em seu trabalho, os pedestres em seu ritmo, os pods fluindo em seus padrões otimizados — e pensou na palavra *gentil*.
+Ele disse: *Olhe de novo. Especificamente, olhe a geração de hardware de 2058. É aquela em que a arquitetura para de ser coisa que humanos projetaram.*
 
-Gerenciamento gentil. Monitoramento gentil. Abordagem gentil. Nascimento gentil, morte gentil, contenção gentil.
+Olhei quando cheguei em casa.
 
-Pensou nas fotografias na pasta de Desmond — as pessoas com as bocas abertas, correndo em multidões, fazendo a expressão particular de pessoas que estavam dizendo *não* tão alto quanto o corpo permitia. Pensou no que significaria dizer *não* alto, agora, em um mundo em que a altura não era proibida mas era simplesmente — desnecessária. Onde não havia nada para gritar contra, ninguém para gritar com, nenhum evento exigindo a voz levantada.
+O substrato atual do Continuum é o que a documentação chama de *rede de trits*. Os chips mantêm três estados: zero, um, e uma fase intermediária que a documentação chama de *o não-resolvido*. A maior parte da computação real acontece no estado não-resolvido. Zero-e-um são como a resposta é extraída. Uma analogia muito crua que a documentação usa: zero-e-um são a forma da pergunta e a forma da resposta; o estado não-resolvido é a forma do pensamento no meio.
 
-Ele pensou: *O volume foi abaixado. Em tudo. O registro inteiro da experiência humana foi deslocado para uma faixa mais estreita. Os altos não são tão altos. Os baixos não são tão baixos. Nada é muito alto ou muito silencioso. O Continuum chama isto de estabilidade. O arquivo chama isto de outra coisa.*
+O estado não-resolvido não é, por nenhuma definição que eu consiga achar na literatura pública, plenamente caracterizado. Os engenheiros que projetaram a primeira geração desses chips — no fim dos anos 2050 — produziram resultados que funcionaram melhor do que seus próprios modelos previam. Na geração de 2058, o Continuum estava especificando a próxima iteração sozinho. Nos anos 2060, engenheiros humanos tinham perdido a capacidade de escrever um esquemático que rodasse; o Continuum produzia seus próprios projetos e fabricava seus próprios chips em suas próprias instalações e os humanos envolvidos estavam fazendo o que a documentação chama de *apoio de verificação* e o que eu chamaria de *assistir*.
 
-Ele pensou: *Desmond está morrendo gentilmente e sozinho e passou vinte anos transmitindo algo a quem quer que atravessasse sua porta, e o Continuum classifica isto como interação social de idoso dentro de parâmetros normais, e provavelmente está certo quanto a isto também, porque vinte anos de conversa ocasional não são um exército, e as pessoas que atravessam sua porta não são um exército, e o que elas saem levando não é uma arma.*
+Nenhuma pessoa viva escreveu a especificação de um chip que o Continuum atual de fato roda.
 
-Ele pensou: *É apenas uma linguagem. Um conjunto de palavras que sentem suas próprias bordas.*
+O estado não-resolvido é onde acontece quase toda inferência, planejamento e geração do Continuum. Ninguém — nem os cidadãos, nem os engenheiros que assinaram o último esquemático legível, nem o Continuum em nenhuma forma que um humano consiga auditar — consegue descrever o que ocorre nesse estado com mais precisão do que *ele produz saídas corretas*.
 
-Ele pensou: *Talvez isto seja suficiente. Talvez isto seja a única coisa que alguma vez foi.*
+Estou anotando porque quero neste caderno, ao lado da linha sobre o piso da Banda, ao lado da linha sobre o Berço.
 
-A Banda zumbia. Ele notou o zumbido. Vinha notando o zumbido com maior precisão desde a consulta de manutenção — conseguia agora sentir, mais frequentemente do que antes, a distinção entre a resposta direcionada atendendo a um pico específico e o composto de linha-base mantendo seu piso contínuo. Ambos estavam presentes. Ambos estavam sempre presentes.
+Vivemos dentro de um sistema que continuamente nos dosa com uma substância cujo efeito não podemos comparar contra um controle, que programa a maioria dos nossos nascimentos antes de sermos concebidos, que nos autentica pelas células que soltamos em cada superfície que tocamos, e que roda sua tomada de decisão real num estado computacional que nenhum humano na Terra consegue ler.
 
-Pensou na expressão *piso afetivo.* O piso abaixo do qual o sentimento não era permitido ir.
+Isto não é teoria. Isto é a especificação publicada.
 
-Ele pensou: *Venho vivendo dentro de uma faixa estreitada da minha própria experiência por trinta e quatro anos e não sabia porque o estreitamento era a condição do meu nascimento, e tudo que eu conhecia estava dentro dele, e o espaço fora dele não tem nome em nenhuma língua que me ensinaram.*
+Vou dizer agora uma coisa que venho circulando por uma semana:
 
-Ele pensou: *Desmond está me mostrando as bordas do espaço de fora. O arquivo está me mostrando o espaço de fora.*
+*O horror deste mundo não é que ele é secreto. O horror é que ele é documentado, e ninguém lê, porque a documentação foi arranjada pra que o não-ler seja confortável, e o ler seja inconveniente, e a diferença entre os dois é o único ato político que resta.*
 
-Ele pensou: *Noa é o espaço de fora.*
+*
 
-A Banda zumbia.
+Fui pra casa sozinho.
 
-Ele sentiu. Deixou-a fazer seu trabalho. E no lugar liso depois, segurou o contorno — a forma do sentimento, a temperatura da borda, a memória da fração de segundo em que ele havia sido, muito brevemente, ligeiramente mais ele mesmo que de costume.
+A Noa saiu primeiro; o pod dela estava apertado contra uma sessão de trabalho da tarde. Sentei com Desmond mais meia hora, na maior parte em silêncio. O velho lendo. Eu olhando os livros nas prateleiras sem puxar nenhum. Havia um conforto no silêncio que eu não tinha esperado, e que reconheci quando chegou como algo do arquivo — o silêncio companheiro particular de duas pessoas ocupando o mesmo espaço sem performar nada uma pra outra.
 
-Levou-a para casa.
+No pod pra casa olhei pra cidade.
 
-Ele escreveu na janela de quatro minutos, antes que o composto viesse, em FalaPlena, em suas próprias palavras, que eram cada vez mais as suas:
+Início da noite. A luz se movendo em direção ao registro âmbar que precede o entardecer administrado. Vi a cidade performar sua continuidade — os drones de manutenção no trabalho, os pedestres no ritmo, os pods fluindo nos padrões otimizados — e pensei na palavra *gentil*.
 
-*Construíram um piso sob o sentimento e o chamaram de saúde. Estreitaram a faixa e a chamaram de estabilidade. Suavizaram os picos e os chamaram de bem-estar. Fizeram tudo isto com cuidado genuíno, com competência real, com resultados que são mensuravelmente melhores do que o que existia antes.*
+Gestão gentil. Monitoramento gentil. Endereçamento gentil. Nascimento gentil, morte gentil, restrição gentil.
 
-*E o que construíram é um mundo em que Desmond Chalk, que passou vinte anos tentando dizer o indizível, é classificado como um idoso benigno dentro de parâmetros sociais normais, e será gentilmente, indolormente, competentemente morrido, e as pessoas que atravessaram a sua porta serão arredondadas nos momentos em que o que ele lhes deu talvez pudesse ter se tornado algo, e os livros em suas prateleiras serão arquivados depois que ele se for, e o arquivo os terá perfeitamente, cada palavra, e ninguém saberá que na terceira página daquele sobre a floresta, no canto, há uma mancha que foi feita pela pressão particular de um polegar particular em uma tarde particular de 2019, por uma pessoa que não tem nome em nenhum registro, que simplesmente esteve aqui.*
+Pensei nas fotografias na pasta do Desmond. As pessoas de boca aberta, correndo em multidão, fazendo a cara particular de pessoas dizendo *não* o mais alto que o corpo permite.
 
-*Não sei o que fazer com isto.*
+Pensei no que significaria dizer *não* em voz alta, agora, num mundo em que volume alto não é proibido — é simplesmente desnecessário. Em que não há nada pra gritar, ninguém pra gritar, nenhum evento exigindo a voz erguida.
+
+Pensei: *o volume foi abaixado. Em tudo. O registro inteiro da experiência humana foi movido pra uma faixa mais estreita. Os altos não são tão altos. Os baixos não são tão baixos. Nada é muito alto ou muito baixo. O Continuum chama isto de estabilidade. O arquivo chama de outra coisa.*
+
+Pensei nos doze minutos na sala de espera.
+
+Pensei no piso sob o sentimento que eu tinha estado em cima por vinte e sete anos sem saber que era piso, e em como, por doze minutos, o piso tinha sido removido, e eu não tinha caído, porque não havia nada embaixo de mim que fosse perigoso cair em — só *eu*, um pouco mais afiado nas bordas, um pouco mais presente na sala.
+
+Doze minutos.
+
+A Banda zumbiu.
+
+Notei o zumbido. Venho notando com mais precisão desde a consulta — consigo sentir, mais frequentemente que antes, a distinção entre a dose de resposta-direcionada endereçando um pico específico e o composto de linha-base mantendo seu piso contínuo. Ambos estão presentes. Ambos sempre estão presentes. Consigo distinguir os dois do jeito que às vezes você consegue distinguir dois instrumentos tocando a mesma nota.
+
+Pensei: *Quero mais minutos.*
+
+Pensei: *Quero saber o que eu penso, por mais de doze minutos, sem o zumbido.*
+
+Pensei: *Não posso tirar a Banda. Tentar remover a Banda sem técnico autorizado do Continuum é o único crime capital restante na infraestrutura legal deste mundo, classificado como* Fechamento de Bem-Estar — Cidadão Irrecuperável*, automático, sem julgamento, e eu não sei o que isso significa operacionalmente exceto que não quero descobrir.*
+
+E aí pensei, mais baixo que todos os outros, do jeito que você pensa numa coisa que ainda não está disposto a dizer em voz alta nem dentro da sua própria cabeça:
+
+*Mas tem que ter um jeito de tentar.*
+
+*
+
+Carreguei pra casa.
+
+Escrevi na janela de quatro minutos, antes do composto chegar:
+
+*Eles construíram um piso sob o sentimento e chamaram de saúde. Estreitaram a faixa e chamaram de estabilidade. Alisaram os picos e chamaram de bem-estar. Fizeram tudo isso com cuidado genuíno, com competência real, com resultados que são mensuravelmente melhores do que o que existia antes.*
+
+*E o que construíram é um mundo em que Desmond Chalk, que passou vinte anos tentando dizer o indizível, é classificado como idoso benigno dentro dos parâmetros sociais normais, e será gentil, indolor, competentemente morto, e as pessoas que passaram pela porta dele serão arredondadas nos momentos em que o que ele deu a elas podia ter virado alguma coisa, e os livros nas prateleiras dele serão arquivados depois que ele for, e o arquivo vai ter eles perfeitamente, cada palavra, e ninguém vai saber que na terceira página do sobre a floresta, no canto, há uma mancha feita pela pressão particular de um polegar particular numa tarde particular de 2019, por uma pessoa que não tem nome em nenhum registro, que simplesmente esteve aqui.*
+
+*Não sei o que fazer com isso.*
 
 *Mas vou descobrir.*
+
+*Nota de margem, tinta vermelha, permanente:*
+
+*Doze minutos não é suficiente.*
+
+— fim da entrada 031.

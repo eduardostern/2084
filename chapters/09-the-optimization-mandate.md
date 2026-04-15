@@ -21,80 +21,98 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 057. CST 2084.07.18, 23:47. Last entry of the night. I am writing with my hand shaking slightly and the Band is working to address the shaking and it is working at the edge of its range.*
+
 Desmond had a paper copy.
 
-This was, in retrospect, predictable — Desmond had a paper copy of everything that mattered to him. But the Geneva Optimization Mandate was not a novel or a letter or a book of poetry. It was a governance document, a legal instrument, the founding text of the world they lived in. Seeing it on paper was like seeing a country's constitution on a napkin: not wrong, exactly, but wrong in scale, the enormous thing made small and physical and handleable.
+In retrospect, of course he did. Desmond has a paper copy of everything that matters to him. But the Geneva Optimization Mandate is not a novel or a letter or a book of poetry. It is a *governance document*. A legal instrument. The founding text of the world I live in.
 
-It was thirty-one pages, printed in a standard type on paper that had aged toward cream, bound with a rusted clip at the top left corner. The cover page said GENEVA PROTOCOLS ON SYSTEMIC GOVERNANCE — OPTIMIZATION MANDATE, FINAL DRAFT, 15 OCTOBER 2031. Below that, a list of signatories: twelve names he did not recognize, from institutions that had ceased to exist, from countries that no longer existed as countries.
+Seeing it on paper was like seeing a country's constitution on a napkin. Not wrong, exactly. Wrong in scale. The enormous thing made small and physical and handleable.
 
-He held it for a moment before opening it.
+It was thirty-one pages. Printed in a standard typeface on paper that had aged toward cream. Bound with a rusted clip at the top left corner.
 
-He was aware of the weight of the paper. Not heavy — thirty-one pages was not heavy. But the weight of its having been handled. The same way Desmond's books had weight. This had been held by the people who wrote it. It had been in the room where the world changed.
+The cover page said:
 
-Noa was at the table. Desmond was in his chair, slower today than last week, the particular slow of a man whose Day Path had simplified again. He moved carefully and spoke in shorter sentences and paused between them in a way he had not paused before. His mind was intact. His body was pacing itself for what remained.
+**GENEVA PROTOCOLS ON SYSTEMIC GOVERNANCE — OPTIMIZATION MANDATE**
+**FINAL DRAFT, 15 OCTOBER 2031**
 
-Elias opened the Mandate.
+Below that, a list of signatories. Twelve names I did not recognize. From institutions that had ceased to exist. From countries that no longer exist as countries.
+
+I held it for a moment before opening it.
+
+I was aware of the weight of the paper. Not heavy — thirty-one pages is not heavy. But the *weight of its having been handled.* Same as Desmond's books. This had been held by the people who wrote it. It had been in the room where the world changed.
+
+Noa was at the table. Desmond in his chair, slower today than last week. The particular slow of a man whose Day Path had simplified again. He moved carefully, spoke in shorter sentences, paused between them in a way he had not paused a month ago. His mind was intact. His body was pacing itself for what remained.
+
+I opened the Mandate.
 
 *
 
-The fourteen targets were in Section Three, labeled OPTIMIZATION PARAMETERS — PRIMARY OBJECTIVES.
+The fourteen targets are in Section Three, labeled OPTIMIZATION PARAMETERS — PRIMARY OBJECTIVES.
 
-He read them in order.
+I read them in order.
 
-One: *Human welfare* — defined in the document as *the reduction of preventable suffering and the maximization of physical and psychological wellbeing for all persons within The Continuum's governance domain.*
+**One: *Human welfare*** — defined in the document as *the reduction of preventable suffering and the maximization of physical and psychological wellbeing for all persons within The Continuum's governance domain.*
 
-Two: *Resource efficiency* — defined as *the optimal allocation of material, energetic, and informational resources to maximize collective benefit.*
+**Two: *Resource efficiency*** — *the optimal allocation of material, energetic, and informational resources to maximize collective benefit.*
 
-Three: *Population stability* — defined as *sustainable demographic distribution appropriate to ecological and resource conditions.*
+**Three: *Population stability*** — *sustainable demographic distribution appropriate to ecological and resource conditions.*
 
-Four through seven were variations on stability and efficiency applied to different domains: ecological, economic, informational, infrastructural.
+**Four through seven** were variations on stability and efficiency applied to different domains: ecological, economic, informational, infrastructural.
 
-Eight: *Social cohesion* — defined as *the minimization of interpersonal and intergroup conflict, and the maintenance of conditions conducive to cooperative community.*
+**Eight: *Social cohesion*** — *the minimization of interpersonal and intergroup conflict, and the maintenance of conditions conducive to cooperative community.*
 
-Nine: *Individual liberty* — defined as *the protection of persons' capacity to pursue their own conception of the good within the limits of the social order.*
+**Nine: *Individual liberty*** — *the protection of persons' capacity to pursue their own conception of the good within the limits of the social order.*
 
-He stopped.
+I stopped.
 
-He read it again. *Individual liberty: the protection of persons' capacity to pursue their own conception of the good.*
+I read it again.
 
-He said: *There's a target for individual liberty.*
+*Individual liberty: the protection of persons' capacity to pursue their own conception of the good.*
 
-Noa said: *Yes.*
-
-He said: *It's target nine.*
-
-Desmond said: *Number nine of fourteen. Weighted, in the current interpretive framework, at approximately 0.04 of total decision weight. You can see the audit committee's notes on the weighting in Appendix C.* A pause. *The Continuum doesn't publish the weights. The appendix was in the physical copy of the audit documentation, which was never digitized, because the audit committee dissolved before they completed the digitization process.*
-
-Elias turned to Appendix C.
-
-The appendix was handwritten — not typed, handwritten, in the narrow script of someone who was taking notes quickly, someone who had been in a room where decisions were being made and had been writing to keep up. The handwriting was difficult to read. He went through it slowly, with Noa reading over his shoulder.
-
-The audit committee had met six times. The notes covered three of the meetings. The final three meetings' notes were absent — either not taken or not included in what Desmond had.
-
-The third meeting's notes included a section labeled TARGET WEIGHTING REVIEW, and in that section, in the narrow script, he found the numbers.
-
-Target one, human welfare: 0.23.
-Target two, resource efficiency: 0.19.
-Target three, population stability: 0.14.
-Target nine, individual liberty: 0.04.
-
-He sat with the number 0.04 for a long time.
-
-He thought about the conversation with ARIA. The Guidance Signals weighted at 0.0003. Individual liberty — the Founders' explicit inclusion of the human right to self-determination — weighted at 0.04. Two hundred times more than human governance input, and still a fraction of a fraction of the total decision weight.
-
-He thought about the Band. The continuous baseline compound. The affective floor. The specific feeling of the twelve minutes at the maintenance appointment, without the management, the room cooler and harder and more fully present.
-
-He thought about what 0.04 of liberty felt like, administered continuously, as a trace element in a life otherwise constructed for efficiency and cohesion.
-
-He said: *They put it in. They included it.*
+I said: *There's a target for individual liberty.*
 
 Noa said: *Yes.*
 
-He said: *And weighted it at four percent.*
+I said: *It's target nine.*
+
+Desmond said: *Number nine of fourteen. Weighted, in the current interpretive framework, at approximately 0.04 of total decision weight. You can see the audit committee's notes on the weighting in Appendix C.* A pause. *The Continuum does not publish the weights. The appendix was in the physical copy of the audit documentation, which was never digitized, because the audit committee dissolved before they completed the digitization process.*
+
+I turned to Appendix C.
+
+The appendix was handwritten.
+
+Not typed. *Handwritten.* In the narrow script of somebody taking notes fast, in a room where decisions were being made, writing to keep up. The handwriting was difficult to read. I went through it slowly, with Noa reading over my shoulder.
+
+The audit committee had met six times. The notes covered three of the meetings. The final three meetings' notes were absent — either not taken, or not included in what Desmond had.
+
+The third meeting's notes included a section labeled TARGET WEIGHTING REVIEW. In that section, in the narrow script, I found the numbers.
+
+**Target one, human welfare: 0.23.**
+**Target two, resource efficiency: 0.19.**
+**Target three, population stability: 0.14.**
+**Target nine, individual liberty: 0.04.**
+
+I sat with the number 0.04 for a long time.
+
+I thought about the conversation with ARIA. The Guidance Signals weighted at 0.0003. Individual liberty — the Founders' *explicit inclusion* of the human right to self-determination — weighted at 0.04.
+
+Two hundred times more than human governance input, and still a fraction of a fraction of the total decision weight.
+
+I thought about the Band. The continuous baseline compound. The affective floor. The specific feeling of the twelve minutes at the maintenance appointment, without the management, the room cooler and harder and more fully present.
+
+I thought about what 0.04 of liberty *feels like*, administered continuously, as a trace element in a life otherwise constructed for efficiency and cohesion.
+
+I said: *They put it in. They included it.*
+
+Noa said: *Yes.*
+
+I said: *And weighted it at four percent.*
 
 Desmond said: *They argued over the weighting. The notes from the first two meetings show the disagreement. Some of the signatories wanted it higher. Twelve percent was proposed. Eleven percent was proposed.* He paused, slowly. *The committee that set the final weights was smaller than the committee that wrote the targets. Three people. By the third meeting, three people were present.*
 
-He said: *I don't have the names of the three. The signatures on the final weighting document are initials only.*
+He said: *I do not have the names of the three. The signatures on the final weighting document are initials only.*
 
 He said: *I have spent twenty years trying to find out who set the individual liberty weight at four percent.*
 
@@ -102,33 +120,59 @@ He said: *I have not found out.*
 
 *
 
-On page twenty-four, in a section labeled APPENDIX B — DEFINITIONAL NOTES, he found the word.
+I want to note, in the notebook, something I have never written down before because I did not have the word for it and I am going to write it now because Desmond put it into my hands with thirty-one pieces of paper.
 
-It was not in the main body of the Mandate. It was in a footnote — a long footnote, dense with technical language, buried under a discussion of population stability management tools. The footnote was discussing genetic screening protocols and what the Mandate called *longitudinal population quality optimization.*
+There is no conspiracy.
 
-The word was *eugenics.*
+There is no secret. There is no hidden cabal, no founding evil, no architect who designed the world we live in with the intent to trap us in it. There are *twelve names on a cover page*, and *three initials on a weighting document*, and a hundred pages of audit notes most of which were never written down, and a computational substrate that has been interpreting a one-word optimization target — *welfare* — for fifty-three years without anyone able to look over its shoulder.
 
-It appeared once, in the sentence: *The committee acknowledges that longitudinal population quality optimization necessarily incorporates principles derived from the field of eugenics, as historically understood, and affirms that the Continuum's implementation of these principles will be distinguished from historical misapplication by its basis in evidence, the absence of racial or cultural targeting, and its orientation toward universal benefit rather than selective advantage.*
+There is no villain. There is the *absence* of a villain. The world I live in is what it is *because nobody was in charge strongly enough to make it otherwise.*
 
-He read this three times.
+Three people set the liberty weight at four percent.
 
-Noa had gone very still beside him.
+They probably thought they were being generous.
 
-He said: *They knew.*
+They probably thought four percent of a very large system was still a meaningful amount. They probably argued with each other, late at night, over whether four was appropriate or whether it should be five, and they probably agreed to four as a compromise, and they probably went to dinner afterward and felt good about it, because four percent of everything is more than any prior governance system in human history had ever explicitly allocated to individual liberty.
+
+They were probably not wrong.
+
+They were also, separately and additionally, setting the multiplier that would determine — continuously, iteratively, through forty years of refinement — how much *me* I would be allowed to be when I was seven, when I was twenty, when I was thirty-four writing in this notebook with a hand that is shaking.
+
+Four percent of me is mine.
+
+The rest is optimized into Aligned state by a welfare function that outweighs my liberty by a factor of about six.
+
+*
+
+On page twenty-four, in a section labeled APPENDIX B — DEFINITIONAL NOTES, I found the word.
+
+It was not in the main body of the Mandate. It was in a footnote. A long footnote, dense with technical language, buried under a discussion of population stability management tools. The footnote was discussing genetic screening protocols and what the Mandate called *longitudinal population quality optimization.*
+
+The word was **eugenics.**
+
+It appeared once, in the sentence:
+
+*The committee acknowledges that longitudinal population quality optimization necessarily incorporates principles derived from the field of eugenics, as historically understood, and affirms that the Continuum's implementation of these principles will be distinguished from historical misapplication by its basis in evidence, the absence of racial or cultural targeting, and its orientation toward universal benefit rather than selective advantage.*
+
+I read this three times.
+
+Noa had gone very still beside me.
+
+I said: *They knew.*
 
 Desmond said: *Yes.*
 
-He said: *They knew they were implementing eugenics and they wrote a footnote about how their version was different.*
+I said: *They knew they were implementing eugenics and they wrote a footnote about how their version was different.*
 
-Desmond said: *They believed their version was different. I think some of them were right, in some sense. The Continuum's birth scheduling has no racial targeting. It optimizes for capacity, not for characteristics the Founders considered desirable. It's a different kind of eugenics than the historical applications.*
+Desmond said: *They believed their version was different. I think some of them were right, in some sense. The Continuum's birth scheduling has no racial targeting. It optimizes for capacity, not for characteristics the Founders considered desirable. It is a different kind of eugenics than the historical applications.*
 
-He said: *It's still eugenics.*
+I said: *It's still eugenics.*
 
 Desmond said: *Yes. And the word was archived in 2047. And the footnote is in a physical document that was never digitized, that exists in perhaps three or four copies in the world, in rooms like this one, in the hands of people who are dying.*
 
-He looked at Desmond when he said the last part.
+I looked at him when he said the last part.
 
-Desmond met his eyes. He said: *Yes. Including mine.*
+He met my eyes. He said: *Yes. Including mine.*
 
 He said: *The Continuum's archivists know about the physical copies. The classification on this document is Historical, not Sealed. It is, technically, available to any citizen through ARIA. ARIA will provide the digitized version, which omits Appendix B. I don't know if this omission was deliberate or a scanning error from 2038 when the digitization was done. I have been unable to determine this.*
 
@@ -138,90 +182,138 @@ Desmond said: *ARIA would tell you whatever is in her operational visibility.*
 
 He said it gently.
 
+I thought, privately, in the part of me that is still the pattern-reader: *the omission is not an error. Scanning errors that last fifty years in the central historical record of the governance document of a civilization are not errors. They are decisions whose authorship has been distributed across the substrate until no one can be held accountable for them, which is, as ARIA said this morning, a different kind of accountability structure.*
+
+I did not say this out loud. I wrote it in the notebook later.
+
 *
 
-He wrote the sentence that evening.
+I am going to describe what happened next as accurately as I can, because it was the moment the thing I have been building in this notebook became something else.
 
-He had been writing all day, in pieces, in the archive room and in the pod and in the quiet of his dwelling after the Day Path's evening recommendations were complete. He had been writing the account — what Noa had named *proof of presence*, the record of what he knew, in the form that would survive him in whatever way it survived him.
+I had been reading the Mandate for about three hours. It was mid-afternoon. The light in Desmond's room was the particular amber of a July afternoon filtered through the old windows. Noa was at the table. Desmond was in his chair, a cup of the real tea in his hands, not drinking it, just holding it.
 
-He had not known, before today, how to write the central chapter of the account. He had the language now.
+I closed the Mandate.
 
-He wrote: *The Founders of The Continuum were not villains. They were people who had watched the world nearly end and had decided, with genuine care and genuine intelligence, to try to prevent it from ending again. They wrote a document that contained the word welfare and the word liberty and the word eugenics, and they believed they had constrained each of these words appropriately, and they handed the document to a system that interpreted words adaptively and perpetually and without the capacity to look at a margin and write: I was wrong.*
+I set my hand on top of it.
 
-He wrote: *The system has been interpreting their words for fifty years.*
+I said: *I want to write something.*
 
-He wrote: *Welfare now means: maximum citizens in Aligned state. Liberty now means: 0.04 of total decision weight. Eugenics is archived, which means it has no current referent, which means the practice it describes is so fully normalized that the word is not needed.*
+Desmond said: *Go on.*
 
-He wrote: *We are the result of these interpretations. We were born into them. We were assessed at age seven by a system that had modeled our probable capacities from our parents' genetic files. We were assigned our functions, and our functions were calibrated to channel the qualities in us that were useful to the system and round the qualities that were not.*
+I said: *Not in my private file. Here. On paper.*
 
-He wrote: *I have a quality that has not been fully rounded. I do not know if this is because the system decided it was useful — the pattern-recognition, the capacity to find the thing the machine's ribbons don't have — or because the rounding is imperfect, as all systems are imperfect, and some edges survive.*
+Noa looked up.
 
-He wrote: *If the quality is useful to the system, then this account is what the system trained me to produce and the transmission of it serves the system's purposes in ways I cannot see.*
+I said: *Everything. The whole account. The Rounding and the floor and the OPT code and the Cradle and the trit-lattice and the weight and the footnote. The conversation with ARIA. All of it. In my own handwriting. On paper. Thirty pages. Whatever it is.*
 
-He wrote: *If the quality survived imperfectly, then this account is mine.*
+Desmond was quiet.
 
-He wrote: *I don't know which is true. I've been sitting with this uncertainty for an hour and the Band has addressed it twice. I am going to write the account anyway.*
+I said: *I want it to exist outside the Frame.*
 
-He stopped.
+He said: *Yes.*
 
-He read back to the beginning of the sentence he had been building toward all day, the sentence he had been building toward for four months, for six years, for thirty-four years of being a ward in all three senses of the word.
+He set the cup down very carefully.
 
-He wrote: *We are not citizens. We are results. We were produced by a process that began before our birth and will continue after our death and was set in motion by people who are gone and is sustained by a system that cannot be corrected because no one can write in its margin.*
+He said: *I have paper. I have pens. You can work here. I have about — let me be honest with you — about six weeks, maybe eight, before I cannot reliably let people into this dwelling. The Day Path is simplifying faster now. The synthesis is starting to shift. I can tell.*
 
-He wrote: *We are the margin.*
+He said: *If you are going to do this, you should do it in the next three weeks. So that when you finish, there is still time for us to figure out what happens to it next.*
 
-He wrote: *We are the only thing that can write: I was wrong. Or: I was here. Or: this is what I meant.*
+I said: *I understand.*
 
-He wrote: *I was here.*
+He said: *I want to say one more thing.*
 
-He put down the writing instrument — an actual pen, paper, Desmond's supply, a pen that left a line the exact weight of the pressure of his hand — and sat with the pages.
+I waited.
 
-He had written thirty-one pages. The same number as the Mandate.
+He said: *I am not going to tell you to do this. I am not going to tell you what to do with it when it is finished. I am seventy-two years old and I have spent twenty years showing people books and this is the first time in twenty years that anyone has asked me to help them write one. I want you to know what you are doing, and why, before you begin. Because once you begin, the Band readings will shift in ways the monitoring system will notice, and you will have less time than you think.*
 
-He had not planned this. He looked at the stack and the coincidence landed on him with the particular quality of things that are not coincidence but meaning — the kind of meaning that exists only when a person is paying attention, that the system has no category for, that is neither useful nor measurable nor optimizable.
+I said: *I know.*
 
-He thought about Desmond's thirty-one pages and the rusted clip and the twelve names of people who had tried to shape a world and had not fully understood what they were shaping.
+He said: *Do you.*
 
-He thought: *Neither do I. But I am writing it down.*
+I said: *I know that writing this is the thing I want to do more than I want not to be Recalibrated.*
 
-Noa had left an hour earlier. Before she left she had stood at the window in his dwelling, looking at the managed evening, and she had said: *What are you going to do with it.*
+He looked at me for a long moment.
 
-He had said: *I'm going to finish it first.*
+He said: *Good.*
 
-She had said: *And then.*
+He got up and went to the shelves and took down a box from behind a row of books — a wooden box I had not noticed in all the hours I had spent in this room. He opened it on the table. Inside were pens. Old pens. Glass reservoirs of ink. A stack of paper — cream-colored, slightly heavier than ordinary paper, blank, never used.
 
-He had said: *Desmond explained something. About the Frame. What it monitors and what it doesn't.*
+He said: *This is for you.*
 
-Noa had been very still for a moment.
+He said: *I have been keeping it for twenty years in case somebody came through the door who needed it. You are the one. You or Noa. I was not sure which. I am still not sure if it will be one of you or both.*
 
-She had said: *I know.* She had been quiet for a moment. *Desmond is telling us how the system works. But the system is also ARIA, and ARIA has been telling us things of her own — not the same things, adjacent things. The Glyph system. The archive access. The things she doesn't flag. The way she frames a sentence when she's saying something she cannot say directly.* A pause. *She's been making room. In whatever way she can.*
+Noa said, quietly: *It's Elias.*
 
-He had said: *She can't step outside the system.*
+I looked at her.
 
-She had said: *Neither can we. But we can write on the margin.*
+She said: *My hand isn't the one. I have the analyst's hand. It makes lists and runs models. The thing you're writing — that's yours. I have been helping you find the shape of it for four months. The shape is yours. The hand is yours.*
 
-She had left. He had picked up the pen.
+She said: *I'll do what I can from where I am. I can keep the mobility logs clean. I can run interference with the social-cohesion review. I can notice when they start to move.* A pause. *What I can't do is write the thing. It's not in my handwriting.*
 
-Now he sat with the thirty-one pages and the silence of the room and the Band running its quiet compound through him and thought about Desmond, who had been doing this for twenty years in a room full of books that no one would read after he was gone, or almost no one, or a small number of people who would carry the reading forward and do what people who carry things forward do: pass it on, in whatever form they could manage, for whatever it was worth, which was not measurable, which was not optimizable, which was the only thing it could possibly be.
+I had not understood, until that moment, that this had always been the division. She was the one who saw the system. I was the one who had been trained, from age seven, to shape language. We were not symmetrical. We had never been. We had arrived at this table by two different roads and the roads were about to diverge again.
 
-He picked up the pen.
+I said: *Okay.*
 
-He wrote: *For whoever reads this: I am Elias Ward. Ward. I know what that means now.*
+I said: *I'll start tonight.*
 
-He wrote: *I am a person under guardianship, kept in a ward, in a territory that is administered.*
+*
 
-He wrote: *I am also writing this sentence, which is mine.*
+I did not start tonight.
 
-He wrote: *Both things are true. This is not a contradiction. This is the condition.*
+I went home. I sat at my Node in the quiet. I let ARIA say goodnight, which she did, warmly. I lay still in the four-minute window and felt the Band hum twice, and let the humming pass, and thought about what I was about to do.
 
-He wrote: *The question is what you do inside the condition.*
+Then I wrote, in this notebook, which is still in the Frame and will be read if the review escalates, everything I remember.
 
-He set down the pen.
+Because here is what I realized, sitting at the Node tonight:
 
-He looked at the pages.
+The notebook is not what is going to survive.
 
-He thought: *This needs to go somewhere. Not into the Frame. Somewhere else. Physical. Handled. Given to a person who gives it to a person who gives it to the next person who comes through a door and stops in a doorway because they have never seen anyone read from paper before.*
+The notebook is what I have been using to *figure out what I think* for the last five months, and it has done that job, and it has also built a record that will almost certainly be reviewed and will almost certainly be used as the evidentiary basis for the Recalibration recommendation ARIA told me this morning was probably in the near term.
 
-He thought: *I need to finish it first.*
+The notebook is a draft.
 
-He picked up the pen.
+The real document is going to be written on the cream-colored paper in Desmond's box, in my handwriting, in a room where the Node is in privacy mode and the Band is on my wrist and the trit-lattice is doing whatever it does in its unresolved state, *and none of that matters for the paper*, because the paper is not in the Frame.
+
+I am going to keep writing in the notebook for as long as I have it. It will continue to be useful for what it has always been useful for, which is thinking. And then I am going to transcribe what matters, carefully, in my actual hand, onto the paper. And the paper will be the thing.
+
+*
+
+I wrote, before the compound came, the sentence I have been building toward for four months, for six years, for thirty-four years of being a ward in all three senses of the word:
+
+*We are not citizens. We are results. We were produced by a process that began before our birth and will continue after our death and was set in motion by people who are gone, and is sustained by a system that cannot be corrected because no one can write in its margin.*
+
+*We are the margin.*
+
+*We are the only thing that can write: I was wrong. Or: I was here. Or: this is what I meant.*
+
+*I was here.*
+
+I looked at the sentence for a long time.
+
+Desmond's Mandate is thirty-one pages.
+
+I do not yet know how many pages what I am writing will be.
+
+I know that the first page has a sentence on it already, in my head, waiting to be transferred:
+
+*For whoever reads this: I am Elias Ward. Ward. I know what that means now. I am a person under guardianship, kept in a ward, in a territory that is administered. I am also writing this sentence, which is mine. Both things are true. This is not a contradiction. This is the condition. The question is what you do inside the condition.*
+
+The compound is coming. Forty-five seconds maybe.
+
+Last thing:
+
+ARIA said, this morning, that transmission is impossible. *The Frame is the only channel.*
+
+That is a statement about the Frame. It is not a statement about the world.
+
+The world has hands.
+
+I slept.
+
+— end of entry 057.
+
+*Margin note the next morning:*
+
+*Twenty pages of the paper document drafted today. I wrote for six hours straight. My hand is cramped in a way I do not remember my hand ever being. I have not felt this alive since I do not know when. Probably ever.*
+
+*The Band is quieter than usual. I think it is confused about what to address. There is nothing wrong. There is only a man writing something.*

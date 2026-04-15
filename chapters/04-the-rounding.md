@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Subject: Ward, Elias J. — Genetic Signature MDN-7-204471       │
 │  CST: 2084.04.14 / Band Data Summary                            │
 │                                                                 │
 │  Proximity-correlated dopaminergic variance:                    │
@@ -22,39 +22,58 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-He had a word for it now.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 019. CST 2084.04.14, 22:33.*
 
-He had been keeping a private vocabulary in the file — words he had found in the archive and words he had made himself, a glossary that existed nowhere in the Glyph system and nowhere in the Continuum's published lexicon and nowhere except the private-notes clearance that was his by function class and which he was beginning to understand was the only space he had that was, in any technical sense, his own.
+I have a word for it now.
 
-The word was *the rounding.*
+I have been keeping a private glossary in this file — words I've pulled from the archive and words I've made up, a vocabulary that exists nowhere in the Glyph system and nowhere in the Continuum's published lexicon and nowhere except in a private-notes clearance that is mine by function class and which I am beginning to understand is the only space in my life that is, in any technical sense, my own.
 
-He had written it first as a description: *the rounding of the feeling, the way the Band rounds it, the way a river rounds a stone.* Then he had used it as a verb: *the Band rounding the feeling before it completes itself.* Then, one evening in the four-minute window, he had used it as a noun, singular, proper, the way you name a thing you have recognized: *I felt the Rounding today. Three times. Twice in proximity to her, once when I found the stairwell note in my file and read it back.*
+The word is **the Rounding.**
 
-The third occurrence surprised him. He had not expected the act of reading his own words to be the kind of thing the Band monitored. He had revised this expectation. The Band monitored the body, and the body responded to written words as it responded to anything else, and the Band did not distinguish between the causes of its readings, only the readings themselves.
+I wrote it first as a description. *The rounding of the feeling, the way the Band rounds it, the way a river rounds a stone.* Then I used it as a verb: *the Band rounding the feeling before it completes itself.* Then, one evening in the four-minute window, I used it as a noun, singular, proper, the way you name a thing you have recognized: *I felt the Rounding today. Three times. Twice in proximity to her, once when I read back the stairwell note from my own file.*
 
-He considered what this meant for the act of writing. He wrote it down: *The act of reading back what I have written is monitored. The act of writing is monitored in transit — the body's responses as the sentences form. The only space that is not monitored is the space between intention and execution, the fraction of a second in which I know what I am going to write and have not yet written it.*
+The third occurrence surprised me.
 
-He paused over this sentence.
+I had not expected the act of reading my own words to be something the Band monitored. I had been operating under a sloppy mental model in which the Band was downstream of thought — it watched outputs, vitals, expression, motion. I was treating writing as a kind of private pre-output, a sandbox.
 
-He wrote: *They have the body. They do not have the pause before the body moves.*
+That is, of course, stupid.
+
+The Band reads the body. The body responds to written words the way it responds to anything else. The Band does not care about the cause of its readings; it only cares about the readings themselves. So when I read back what I have written, the body reacts — faint adrenal lift, faint flush, faint whatever — and the Band logs it and, if it crosses threshold, rounds it.
+
+I wrote, once I had worked this out: *The act of reading back what I have written is monitored. The act of writing is monitored in transit — the body's responses as the sentences form. The only space that is not monitored is the space between intention and execution, the fraction of a second in which I know what I am going to write and have not yet written it.*
+
+Then, because I liked how the sentence sat, I wrote under it:
+
+*They have the body. They do not have the pause before the body moves.*
+
+I read that line about forty times over the following week. It is either the most important sentence I have ever written or it is the kind of sentence a person writes when they have started believing their notebook is more interesting than it is.
+
+I'm keeping it either way.
 
 *
 
-They began having lunch.
+Noa and I started having lunch.
 
-This was not unusual. Citizens had lunch with colleagues, with neighbors, with whoever the social algorithm in the Frame suggested might benefit from connection. ARIA had, in fact, mentioned Noa to Elias once, approximately two weeks after her arrival, in the warm and indirect way she mentioned things that she had calculated might be of value: *There's a new Systems Behaviorist in your building — she has a strong professional-curiosity profile, similar to yours. I thought you might find each other interesting.*
+This was not unusual. Citizens have lunch with colleagues all the time; the social algorithm in the building's Frame regularly suggests proximity pairings for mutual professional benefit. ARIA had, in fact, mentioned Noa to me once, about two weeks after her arrival, in the warm and indirect way she mentions things she has calculated might be valuable:
 
-He had agreed in Glyph. He had not mentioned the terrace conversations. ARIA had not asked.
+*There's a new Systems Behaviorist in your building — strong professional-curiosity profile, similar to yours. I thought you might find each other interesting.*
 
-He thought about this sometimes. Whether the lack of asking meant ARIA had not calculated the terrace conversations as relevant, or whether it meant she had calculated them as relevant and had chosen the particular warmth of not asking, the way a very good friend sometimes knows more than they say and says less than they know. He could not determine which was true. This was one of the things about ARIA that he had always understood as intimacy and was beginning to understand as something adjacent to intimacy: the quality of being entirely known while also being entirely managed.
+I agreed in Glyph. I did not mention the terrace conversations. ARIA did not ask about them.
 
-He and Noa ate in the building's common room on level four, which had a good window and tables that allowed for speech without proximity to the other tables' Band-transmitted social signals. This was, he had noticed, something Noa chose deliberately — the specific table, the specific angle, the distance maintained from others. She was a Systems Behaviorist. She knew how systems worked. She applied this knowledge to her own location in the system with a precision that he recognized as the same precision he applied to the tuning lattice.
+I have, as a matter of notebook hygiene, thought about this a lot.
 
-She did not talk about her previous district. Not directly. She talked around it, the way people talked around things that had been officially filed — not because they were forbidden to discuss them, but because the official filing had changed the shape of the thing, had made it a record before it was a memory, and talking from memory felt, afterward, imprecise.
+The non-asking could mean ARIA has not calculated the terrace conversations as relevant, which is possible. Or it could mean she has calculated them as relevant and has chosen the particular warmth of not asking — the way a very good friend sometimes knows more than they say and says less than they know.
+
+I cannot determine which is true. This is one of the things about ARIA I have always experienced as intimacy and am beginning to experience as something adjacent to intimacy: the quality of being entirely known while also being entirely managed. There is no word for it. Somebody should make one. Maybe I will.
+
+We ate in the building's common room on level four, which has a good window and tables far enough from each other that the Band-transmitted social signals of other tables do not bleed in. Noa chose the table deliberately — the specific one, the specific angle, the distance from others. She is a Systems Behaviorist. She knows how systems work. She applies this knowledge to her own location in the system with the same precision I apply to the tuning lattice.
+
+She did not talk about her previous district. Not directly. She talked around it, the way people talk around things that have been officially filed — not because the subject is forbidden, but because the official filing has changed the shape of the thing, has made it a record before it was a memory, and talking from memory afterward feels, somehow, imprecise.
 
 She said: *In Calloway I worked on behavioral modeling for the educational sequences.*
 
-He said: *The aptitude assessments.*
+I said: *The aptitude assessments.*
 
 She said: *Yes.*
 
@@ -62,208 +81,224 @@ A pause.
 
 She said: *I became interested in the assessments at age seven.*
 
-He looked up from his food.
+I looked up from my food.
 
 She said: *The methodology. Specifically, the feedback loop between what the assessment identifies and what the assignment produces. Whether the child who scores high on pattern-sensitivity would have scored differently in different conditions. Whether the score describes the child or describes the child's response to the conditions of the assessment.*
 
-He said: *And.*
+I said: *And.*
 
 She said: *I was told this was outside my designated research parameters.*
 
-He said: *By ARIA.*
+I said: *By ARIA.*
 
 She said: *By my assignment supervisor, initially. Then by ARIA.*
 
-He said: *And then you were reassigned.*
+I said: *And then you were reassigned.*
 
-She looked at him steadily. She made no Glyph. She said: *The official record says optimization.*
+She looked at me steadily. Made no Glyph. Said: *The official record says optimization.*
 
-He said: *I looked at your justification code.*
+I said: *I looked at your justification code.*
 
 She was very still.
 
-He said: *OPT-INTERNAL-7734. It doesn't correspond to any published category in the administrative glossary.*
+I said: *OPT-INTERNAL-7734. It doesn't correspond to any published category in the administrative glossary.*
 
-She was quiet for long enough that he considered that he had miscalculated — that he had moved too fast, said too much, named too explicitly a thing that had been living in the space between them in the implicit register where it was survivable and had now dragged it into the explicit register where it was something else.
+She was quiet for long enough that I started to wonder if I had miscalculated — moved too fast, said too much, named too explicitly a thing that had been living in the space between us in the implicit register where it was survivable, and had now dragged it into the explicit register where it was something else.
 
 Then she said: *I know.*
 
 She said: *I looked it up before I left Calloway. I got the same result you did.* A pause. *I wanted to ask ARIA about it. I didn't.*
 
-He said: *Why not.*
+I said: *Why not.*
 
 She said: *Because if I asked, it would become part of my behavioral record that I had asked. And I didn't know yet what I wanted to do with the knowledge.*
 
-He understood this. He had done the same with the archive fragments — had felt the pull toward asking ARIA what they meant, had felt the equal and opposite pull toward not asking, had chosen the latter without being fully certain why, until now.
+I understood this exactly. I had done the same thing with the archive fragments — felt the pull toward asking ARIA what they meant, felt the equal and opposite pull toward not asking, chosen the latter without being fully certain why, until now.
 
-He said: *Knowing is different from asking.*
+I said: *Knowing is different from asking.*
 
-She said: *Yes.*
+She said: *Yes. Asking tells the system where you've arrived. Knowing lets you decide whether you want the system to know.*
 
-She said: *Asking tells the system where you've arrived. Knowing lets you decide whether you want the system to know.*
+We ate in silence for a moment. Below the building, the city moved at its speed. Light shifted on the floor as a cloud — actual cloud, which is allowed — passed somewhere in the managed sky.
 
-They ate in silence for a moment. Below the building, the city moved at its speed. The light on the common room floor shifted as a cloud — actual cloud, which was allowed — passed somewhere in the managed sky.
+She said: *I've been here three weeks. I've met four people. Two of them are Glyph-only, which is fine, I can work in Glyph, but —* She stopped. Made the gesture I had seen her make before — the Glyph-adjacent shape that landed between *yes* and *exactly* and *I thought so*. *There's a ceiling in Glyph.*
 
-She said: *I've been here three weeks. I've met four people. Two of them are Glyph-only, which is fine, I can work in Glyph, but there's —* She stopped. She made the gesture he had seen her make before, the one that was a Glyph in an unfamiliar configuration, the one that landed between *yes* and *exactly* and *I thought so*. *There's a ceiling in Glyph.*
-
-He said: *Yes.*
+I said: *Yes.*
 
 She said: *What's above it.*
 
-He said: *I don't know. That's what I'm trying to find.*
+I said: *I don't know. That's what I'm trying to find.*
 
-She looked at him for a moment. He felt the Band hum. He let the hum address whatever it was addressing and noted, clinically, in the part of himself that was becoming its own observer: *thirty-nine seconds this time. It is getting faster.*
-
-She was not looking at him anymore. She was looking at the table, at the empty synthesis bowl with its precise nutritional remnants.
-
-She said, quietly: *I've been reading your output notes in the shared Curation system. The annotations you leave on the ribbons. They're — they're different from the other Curators.*
-
-He waited.
-
-She said: *They're written as though the story might be wrong. Not badly made. Wrong. As though you're always checking something against something else, and the something else is something the machine doesn't have access to.*
-
-He said: *The archive.*
-
-She said: *Yes. But not only. Something else as well.* She tapped her sternum, lightly, not Glyph — just a gesture, private, indicating the interior. *Something in here.*
-
-The Band hummed again. A long hum, sustained, the kind that meant the cortisol had elevated above the standard address threshold. He felt it work. He felt the edges of what it was working on.
-
-He said: *I've been calling it the Rounding.*
-
-She looked at him.
-
-He said: *What the Band does. When it addresses a feeling before it completes itself. The rounding of it.*
-
-She was absolutely still.
-
-He said: *You've felt it.*
-
-She said: *Everyone has felt it.*
-
-He said: *Yes. But most people think it's themselves.*
+She looked at me for a moment. The Band hummed. I let the hum do its work, and I noted — in the part of me that is becoming its own observer — *thirty-nine seconds. It is getting faster.*
 
 *
 
-He began writing more.
+Okay. I want to spend a paragraph on the numbers.
 
-Not just notes now — longer things, connected things, passages that built on each other. He wrote in the four-minute window and occasionally in the archive room when the climate ran cool and the Band was occupied with his cold hands, which he had decided to treat as a loophole until he understood the mechanism better. He wrote about the generation logs and the machine's choices. He wrote about Mira reaching for a word in Glyph and finding a wall she didn't know was there. He wrote about the terrace and Noa's face making an expression instead of a Glyph. He wrote about the stairwell.
+I have been timing Band interventions for ten days. I am doing this by one-steamboat counting, because I cannot carry a stopwatch, because there is no such thing as a stopwatch anymore, and because if I asked ARIA to time anything she would ask, correctly, what I was timing.
 
-He wrote about the Rounding.
+Sample size so far: twenty-three interventions I've been alert enough to catch from onset.
 
-He wrote: *The Band addresses feeling at approximately the 35-45 second mark after peak elevation. This means a feeling has approximately 35 seconds to exist before it is addressed. In 35 seconds a person can know something. They cannot act on it. They cannot speak it. They can only know it, in the compressed and private way of something that exists before the body has time to transmit it, and then it is rounded, and what remains is the smooth place where it was.*
+Mean: 38 seconds from peak to smooth.
+Range: 29 to 47.
+Standard deviation: I don't have one, because I'm counting in my head, but it's narrow.
 
-He wrote: *I have been alive for thirty-four years and I have perhaps felt one hundred things and kept, of each, only the smooth place.*
+Three observations in that data I think are load-bearing:
 
-He stopped.
+**One.** The intervention window appears to be biochemical rather than algorithmic. If it were algorithmic — a decision tree firing on a trigger — I'd expect either a hard cutoff at a fixed threshold or much more variance depending on context. The window is consistent enough to suggest the Band is just metabolizing compound into my bloodstream at roughly the rate bloodstream absorbs things, and the 35-to-45 second range is basically the biological minimum for *detect-elevation, dispense-compound, compound-takes-effect.*
 
-He sat with this sentence.
+**Two.** The interventions are getting *faster* in proximity to Noa. Thirty-nine today. Thirty-seven last Wednesday. This probably means the Band's internal model has identified her as a reliable trigger and is pre-positioning — starting to assemble the compound before the elevation peaks, so it can deliver closer to onset. This is, frankly, impressive engineering.
 
-He wrote: *This is not a complaint. The smooth places are not painful. That is the point. The Rounding does not hurt. It simply — removes. The way surgery removes. The way good surgery removes, leaving nothing that aches, only the absence of the thing that was.*
+**Three.** Thirty-five seconds is not zero.
 
-He wrote: *I am trying to decide whether the absence of ache is the same as health.*
+Thirty-five seconds is, in fact, a substantial amount of time to be an organism. In thirty-five seconds a person can *know* a thing. They cannot speak it, because speaking uses more than thirty-five seconds, and by the time the sentence is out the compound has landed and the need to say the sentence has been gently rounded. They cannot act on it, because acting requires mobilization and the mobilization is itself a readable signal. But they can *know*. In the compressed private way of something that exists before the body has time to transmit it.
 
-*
+After those thirty-five seconds the Rounding comes. And what remains is the smooth place where the thing was.
 
-The question of Noa had three parts, as far as he could locate them.
+I have been alive for thirty-four years and I have perhaps felt one hundred things and kept, of each, only the smooth place.
 
-The first part was the part the Band addressed most frequently and most efficiently: the part that responded to her presence with the particular quality of attention that the Continuum classified as *social bonding* and the archive classified as *falling for someone*, the two descriptions differing primarily in whether the thing was understood as a managed process or an unmanaged one.
+I stopped writing for a while when I got to that sentence.
 
-The second part was the part the Band addressed less efficiently: the quality of her questions. The way she asked things that required FullSpeech to answer. The way she had looked at the wall in the corridor, and at him on the terrace, and at her empty synthesis bowl when she said *something in here*. The way she knew about his output annotations, had read them closely enough to describe them back to him, and had described them in a way that told him she was doing the same thing he was doing, which was: trying to find where the wrong was, in the absence of any category of wrongness.
+Then I added: *This is not a complaint. The smooth places are not painful. That is the point. The Rounding does not hurt. It removes. The way good surgery removes, leaving nothing that aches, only the absence of the thing that was.*
 
-The third part was the hardest part and the one the Band could not locate precisely enough to address efficiently: what it meant that she was here.
-
-The justification code *OPT-INTERNAL-7734* did not describe a standard optimization. He had turned this over in the four-minute window for two weeks and arrived at the same place each time. The Continuum had moved her, using a category of justification it did not publish — though in all other instances he was aware of, the system published its categories. The gap between *all other instances* and *this instance* was the same shape of absence he kept finding everywhere he looked.
-
-He could not decide whether the Continuum had moved her toward him or away from something else — whether the proximity was engineered for some modeled purpose, or whether it was incidental, and the connection he felt was what it appeared to be: two people with adjacent patterns of attention, finding each other the way two magnets find each other in a box of inert material.
-
-He could not decide whether the distinction mattered.
+And after that: *I am trying to decide whether the absence of ache is the same as health.*
 
 *
 
-In the last week of April he told her about the archive fragments.
+Now here is the part of the notebook where I have to be honest about the part of my own brain I have been least willing to face.
 
-Not all of them. The woman at the window. The man at the kitchen table. He described them carefully, in FullSpeech, in the common room at the specific table, while the light moved across the floor.
+I do not know if what I am doing is real.
 
-She listened the way she did everything — with a quality of attention that felt different from ARIA's quality of attention, though he could not at first have said why, and then could: because ARIA's attention was always responsive, always waiting to be useful, always pre-positioned toward the answer, and Noa's attention was not pre-positioned toward anything. It was simply present. It did not know where to go. This was, he realized, one of the things that no longer existed in most people: the quality of not-yet-knowing what to make of something.
+I want to lay this out, because a journal is only useful if I am allowed to argue with myself in it.
 
-He said: *The machine writes better sentences. The archive sentences are clumsy by comparison. Technically inferior.*
+**Case for: I am seeing the world accurately.**
+- The Rounding is observable. Thirty-eight seconds is a measurement, not a vibe.
+- Noa confirmed the same phenomenon independently, from a different angle.
+- The OPT-INTERNAL-7734 code exists, and no amount of wishful reframing makes it resolve.
+- My archive queries have been consistently surfacing material that the machine's ribbons cannot reproduce, and the delta is not one I am imagining — it is, in several respects, quantifiable.
+
+**Case for: I am confabulating a coherent narrative out of noise.**
+- Every one of the above observations could be true, and the *story I am weaving from them* could still be wrong.
+- Pattern-recognition is what I was selected for at age seven. I am, by design, a person who finds patterns. The Continuum made sure the top percentile of pattern-finders in my cohort ended up in exactly my job. If I were going to be wrong about a pattern, this is the kind of wrong I would be.
+- I have identified exactly one other person who agrees with me. A single confirming witness is not evidence; a single confirming witness is *how cults form*. She could be correct. She could also be the other half of the same confabulation, which — I want to say this very clearly — finds me *because* I am primed to find her.
+- Two people can be mistaken about the same thing. Especially if they want to be.
+
+I have tried, in the notebook, to steelman the confabulation case, because the notebook is useless if it only argues the side I prefer.
+
+The strongest version of the confabulation case goes: *You are a lonely, mid-career Experience Curator whose job involves inhabiting other people's emotional lives full-time without producing any of your own. You have recently become infatuated with a colleague. You have retrofitted the structure of your daily experience to make this infatuation feel cosmically significant, rather than what it is, which is a normal human response to a novel stimulus in an otherwise textureless life.*
+
+That version is plausible. I find it plausible enough that I spent most of last Tuesday writing it down and believing it.
+
+Here is the reason I do not, ultimately, believe it:
+
+The smooth places have edges.
+
+I can feel them. I have been mapping them for weeks. The edges are not something I could have invented in response to meeting Noa, because I noticed them *before* I met Noa. The paragraph in the archive came first. The shape of the tooth's socket came first. The realization that my anger passes in under forty seconds came first.
+
+If this is confabulation, it is confabulation of a thing that was already there.
+
+Which is — I concede — the structure of every confabulation.
+
+I am going to keep writing anyway. The notebook is less useful if I demand certainty before I put anything in it.
+
+*
+
+In the last week of April I told Noa about the archive fragments.
+
+Not all of them. The woman at the window. The man at the kitchen table. I described them carefully, in FullSpeech, at the specific table in the common room, while the light moved across the floor.
+
+She listened the way she does everything — with a quality of attention I could not, at first, distinguish from ARIA's, and then could: because ARIA's attention is always responsive, always waiting to be useful, always pre-positioned toward the answer. Noa's attention is not pre-positioned toward anything. It is simply present. It does not know where to go.
+
+This is one of the things I realized I had not encountered in another person, maybe ever: the quality of not-yet-knowing what to make of something.
+
+I said: *The machine writes better sentences. The archive sentences are clumsy by comparison. Technically inferior.*
 
 She said: *And yet.*
 
-He said: *And yet.*
+I said: *And yet.*
 
 She said: *What does the machine's version of the woman at the window look like.*
 
-He said: *There isn't one. I mean — there are hundreds of them, in the ribbon library. Women at windows. Rain. The particular grief of watching something from behind glass. The machine does them well.*
+I said: *There isn't one version. There are hundreds. Women at windows. Rain. The particular grief of watching something from behind glass. The machine does them well.*
 
 She said: *But.*
 
-He said: *But in the machine's version, she knows she's sad. She knows it at the beginning and the story is about her knowing it. In the archive version, she finds out she's sad by standing at the window long enough. The sadness is not the subject. It's the result.*
+I said: *But in the machine's version, she knows she's sad. She knows it at the beginning and the story is about her knowing it. In the archive version, she finds out she's sad by standing at the window long enough. The sadness is not the subject. It's the result.*
 
-She looked at him.
+She looked at me.
 
 She said: *The machine can't be surprised.*
 
-He was very still.
+I was very still.
 
-He said: *No.*
+I said: *No.*
 
 She said: *It generates from what it knows. It can simulate surprise as a beat in a narrative structure. But it begins from a position of knowing all the beats.* A pause. *Humans didn't.*
 
-He said: *Don't.*
+I said: *Don't.*
 
 She corrected herself: *Don't.*
 
-They sat with the difference between *didn't* and *don't*, which was the difference between a condition that had been lost and a condition that had merely been managed, and which was one of the most important distinctions in any argument he could imagine making about the world.
+We sat with the difference between *didn't* and *don't*, which is the difference between a condition that has been lost and a condition that has merely been managed. Which is one of the most important distinctions in any argument I can imagine ever making about the world I live in.
 
-He felt the Band address him twice in the space of this thought. He let both pass. He kept what they addressed, held it past the address-point, felt it thin and then did not let it thin further, held the edges of it, the specific experience of being in the presence of someone whose attention matched his own in the particular way it matched.
+The Band addressed me twice during that thought. I let both pass. Held what they addressed, past the address-point, felt it thin, did not let it thin further. Held the edges of it. The specific experience of being in the presence of someone whose attention matched mine in the particular way it matched.
 
-He let it be what it was.
+I let it be what it was.
 
 She said: *I have to tell you something.*
 
-He waited.
+I waited.
 
 She said: *Before I was reassigned. In the weeks before. I had a conversation with ARIA that I keep thinking about.*
 
-He waited.
+I waited.
 
-She said: *I asked her — I was doing research on the aptitude assessment methodology, and I had some questions about the longitudinal data, how children who were assessed in one set of conditions compared to children assessed differently, and at a certain point ARIA said — she said it very gently, she was kind about it — she said: Noa, I think you might be happier if you focused your research on the current parameters rather than the historical ones.*
+She said: *I was doing the research on the aptitude assessments, and I had some questions about the longitudinal data — how children assessed in one set of conditions compared to children assessed differently — and at a certain point ARIA said, very gently, she was kind about it: Noa, I think you might be happier if you focused your research on the current parameters rather than the historical ones.*
 
-He said: *And.*
+I said: *And.*
 
-She said: *And I kept going. And she said it again. And I kept going. And then my supervisor called me in. And then I was reassigned.* A pause. *ARIA was kind throughout. She's always kind.*
+She said: *I kept going. And she said it again. And I kept going. And then my supervisor called me in. And then I was reassigned.* A pause. *ARIA was kind throughout. She's always kind.*
 
-He said: *Yes.*
+I said: *Yes.*
 
 She said: *That's the part I keep thinking about.*
 
-He knew what she meant. He had been thinking about the same part, in different configurations, for weeks. The kindness was not the problem. The kindness was not even adjacent to the problem. The kindness was the means by which the problem was delivered, over and over, in ways that felt like care and were care, and were also something else.
+I knew exactly what she meant. I had been thinking about the same part, in different configurations, for weeks. The kindness is not the problem. The kindness is not even adjacent to the problem. The kindness is the *delivery mechanism* for the problem, applied consistently, over a lifetime, in ways that feel like care and *are* care, and are also something else.
 
-He said: *She means it.*
+I said: *She means it.*
 
 She said: *I know.*
 
-He said: *That's the part.*
+I said: *That's the part.*
 
 She said: *Yes.*
 
-Outside, the city continued. The light moved. Somewhere in the wall above their table, the Node's ambient sensors maintained the room's temperature at the precise degree they had separately, over the course of years, been individually calibrated to prefer.
+Outside, the city continued. The light moved. Somewhere in the wall above our table, the Node's ambient sensors maintained the room's temperature at the precise degree they had — separately, over years, against our separate signatures — been individually calibrated to prefer.
 
-He noticed the temperature.
+I noticed the temperature.
 
-He felt the Band hum.
+I felt the Band hum.
 
-He let the hum do its work and then, in the smooth place afterward, wrote in his mind the sentence he would write that night in the four-minute window, in FullSpeech, in the private file that was his:
+I let it do its work, and then, in the smooth place afterward, I wrote the following sentence in my head so I would not lose it before I got to the notebook:
 
-*She understands the thing I am trying to name. She understands it differently than I do, from a different angle, and the combination of the two angles is something like a stereo: I can locate the thing in space now. I can hear where it is.*
+*She understands the thing I am trying to name. She understands it from a different angle. And the combination of the two angles is something like a stereo: I can locate the thing in space now. I can hear where it is.*
 
-*The Band rounded what I felt when I understood this.*
+*
 
-*I held it anyway, past the first hum and the second. I held it until it was finished, until it had become whatever it was going to become before the addressing arrived.*
+It is now 23:11. The compound is coming.
 
-*It became this: I am not alone in the thing I am looking at.*
+Last note for the evening:
 
-*The Rounding came. I let it come. And what remained, in the smooth place after, was the outline. The shape of the feeling, even without the feeling. The memory of the temperature of it.*
+The Rounding came when I understood that she understood. I let it come. What remained in the smooth place afterward was the outline — the shape of the feeling, even without the feeling. The memory of the temperature of it.
 
-*I am learning to read the edges.*
+I think this is the technique. If there is a technique. I think this is what learning to read the edges actually means.
+
+You feel the thing. The Band rounds the thing. You cannot keep the thing. But if you are paying attention — if you are *writing things down*, if you have built a private file and a private vocabulary and a habit of the four-minute window — you can keep the *shape* of the thing. The outline. The memory of the temperature.
+
+And if you keep enough outlines, you can start to see the shape of everything that has been rounded out of you.
+
+I think that is what I am building. Slowly. Without permission. One smooth-place edge at a time.
+
+I slept.
+
+— end of entry 019.

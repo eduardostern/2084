@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Ren, Noa K. — ID: MDN-7-209033                        │
+│  Subject: Ren, Noa K. — Genetic Signature MDN-7-209033          │
 │  CST: 2084.04.01 / Reassignment Notice                          │
 │                                                                 │
 │  Action: Reassignment from District Calloway, Sector 12         │
@@ -20,224 +20,325 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-He noticed her on a Thursday.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 012. CST 2084.04.05, 22:41.*
+
+I noticed her on a Thursday.
+
+I want to get this down carefully, because I have spent the last week trying to decide whether what happened actually happened or whether I am, now, the kind of person who sees significance in the way strangers stand in corridors.
+
+It's an open question. I'm flagging it.
 
 She was standing in the corridor outside the lift, looking at the wall.
 
-This was not, in itself, remarkable. People stood in corridors. People looked at walls. But she was looking at the wall the way he looked at the maintenance drone repairing the crack in the walkway — with the particular quality of attention that implies the thing being looked at is not what is actually being considered. He slowed without meaning to. She turned, registered him, made the brief Glyph that served as acknowledgment between strangers sharing a corridor, and looked back at the wall.
+That is not, by itself, noteworthy. People stand in corridors. People look at walls. The wall in question was not interesting — pale composite, one of the textured panels, the kind the building's ambient system lightly re-tones over the course of the day so the corridors don't feel institutional. Nobody stops at those walls. They are the visual equivalent of the smell inside a pod: calibrated to be not-noticed.
 
-He continued to the lift.
+She was looking at it.
 
-He thought about her through the afternoon's ribbon work, which he recognized as inefficient and noted in the part of himself that monitored his own efficiency as something to address.
+She was looking at it the way I look at the maintenance drone repairing the crack in the walkway. Which is to say, she was not looking at the wall. She was looking at *something*, and the wall was what was in front of her eyes while she did it.
 
-He addressed it. He worked.
+I slowed without meaning to. She turned, registered me, made the brief Glyph of acknowledgment strangers make when sharing a corridor, and looked back at the wall.
 
-In the evening, riding the pod home, he thought about her again and recognized this also as something to address. The Band hummed once, very briefly, and then was still. He recognized that too.
+I continued to the lift.
 
-Her name was Noa Ren. He had seen her name on the building's occupant register when he came in that morning, listed under the suite that had been empty for the previous four months. He had not, at the time, thought anything about it. Now he found himself reviewing the registration detail in the part of his memory that stored information processed but not examined. Systems Behaviorist, Class III. Transfer from District Calloway. Effective three days ago.
+That was all. That is, honestly, all of it. A woman I did not know stood in a corridor and looked at a wall, and the quality of her attention resembled mine, and I went to the lift. There is nothing to this. There is a woman. There is a corridor. There is a wall.
 
-Calloway was a western district, moderately sized, similar in profile to Meridian. He had no particular knowledge of it. The transfer was, on its face, unremarkable: citizens were reassigned with some regularity as The Continuum optimized district allocations, and a Systems Behaviorist was a practical designation with application in many contexts.
+I thought about her through the afternoon's ribbon work, which I recognized as inefficient, which my self-monitoring apparatus flagged as something to address, which I then addressed by working. In the evening on the pod home I thought about her again, and the Band hummed once, very briefly, and went still, and I noticed I had been thinking about her, and I noticed I had been addressed, and I wrote both of those down in this notebook.
 
-He ate his dinner by the window and watched the canal go dark.
+Her name was Noa Ren. I'd seen her name on the building's occupant register when I came in that morning, listed under the suite that had been empty for four months. I had not, at the time, thought anything of it. By evening I was reviewing the registration detail in the part of my memory where I keep information I have processed but not examined. Systems Behaviorist, Class III. Transfer from District Calloway. Effective three days before I saw her.
 
-He told himself this was pattern recognition — his professional aptitude, appropriately deployed on the ambient data of his environment. He had always noticed things. It was the reason he was a Curator.
+Calloway is a western district, moderately sized, similar profile to Meridian. I have no particular knowledge of it. The transfer was, on its face, unremarkable. Citizens get reassigned all the time. The Continuum optimizes. A Systems Behaviorist is a practical designation with application in many contexts.
 
-He did not tell himself that the thing he had noticed on the corridor wall was, faintly and exactly, the same quality of attention he had been directing at the archive for the past three weeks.
+I ate dinner by the window and watched the canal go dark.
+
+I told myself what I was doing was pattern recognition. My professional aptitude, appropriately deployed on the ambient data of my environment. I have always noticed things. It is the reason I am a Curator.
+
+I did not, that night, tell myself that the thing I had noticed on the corridor wall was, faintly and exactly, the same quality of attention I had been directing at the archive for three weeks.
+
+I am telling myself now, in this notebook, because I have decided that the honest move is to write down the thing I did not tell myself at the time, and then see what it does when I read it back.
+
+So: a woman I had never met stood in my corridor paying attention to something the way I pay attention to things.
+
+Maybe that means something. Maybe it means I am looking for allies and my pattern-recognition has, as my pattern-recognition always threatens to, gone recursive — I am recognizing patterns that exist because I am looking for them.
+
+I genuinely cannot tell the difference. That's what I need the notebook for.
 
 *
 
-She was in the building's common terrace the next morning when his Day Path scheduled a movement break.
+She was on the building's common terrace the next morning when my Day Path scheduled a movement break.
 
-He had the thought, very briefly, that this was not a coincidence, and then did not know what to do with the thought, and released it. It was not the kind of thought that had a Glyph. It was not the kind of thought he had time for while his break window was open.
+I had the thought, very briefly, that this was not a coincidence, and then I did not know what to do with the thought, and I released it. It was not the kind of thought that had a Glyph. It was also not a thought I had time for while my break window was open, which is the kind of thing a well-designed system says to itself about a thought in order not to have it.
 
-He walked the terrace. She was at the far end, in the good morning light, not walking — standing again, her hands on the low railing, looking down at the city. He took the route that did not pass directly behind her. He walked the length of the terrace and came back, and at the midpoint of the return she turned, not as though she had heard him — his footsteps were inaudible on the composite surface — but as though she had known, in the way you sometimes know a room has become occupied without being able to say how.
+I walked the terrace. She was at the far end, in the good morning light, not walking. Standing at the low railing, looking down at the city.
 
-She looked at him for a moment.
+I took the route that did not pass directly behind her. I walked the length of the terrace and came back, and at the midpoint of the return she turned — not as if she had heard me (my footsteps were inaudible on the composite) but the way you sometimes know a room has become occupied without being able to say how.
 
-She said something.
+She looked at me for a moment.
 
-He registered this before he registered the content — she had spoken, had used actual words, not Glyph, which was not unusual for a Class III Specialist in a technical role, many of whom maintained FullSpeech capacity for their work, but which was unusual in a casual encounter on a morning terrace between two people who did not know each other.
+Then she said something.
+
+And I need to note this carefully, because it was the first thing that happened that was not deniable as projection.
+
+She *spoke*.
+
+Out loud. In FullSpeech. Actual words assembled into a sentence and pushed through her mouth into the air between us. This is, technically, not unusual for a Class III Specialist — many of them maintain FullSpeech capacity because their work requires it — but it is extremely unusual in a casual encounter on a morning terrace between two people who do not know each other. Nobody initiates in FullSpeech with a stranger. It is the linguistic equivalent of walking up to someone and taking their hand.
 
 She said: *You're in the Curation Suite.*
 
-It was a statement, not a question. She had read the building register as he had.
+Statement, not question. She had read the register the same way I had.
 
-He said yes.
+I said yes.
 
 She said: *I was told there was a Curator here who reads the generation logs.*
 
-He was very still. The light was good on the terrace. Below, the city was moving at the speed it moved.
+I was very still. The light was good on the terrace. Below, the city was moving at the speed it moved.
 
-He said: *Where did you hear that.*
+I said: *Where did you hear that.*
 
-She said: *I didn't hear it. I requested your professional profile through the Continuum directory when I saw your designation. It lists your access clearances. Generation log access is Class II clearance. Most Curators don't use it.*
+She said: *I didn't hear it. I pulled your professional profile from the Continuum directory when I saw your designation. It lists your access clearances. Generation log access is Class II. Most Curators don't use it.*
 
-He said nothing.
+I said nothing.
 
-She said: *I'm sorry. That's — I do this. I look at things I'm not supposed to be looking at for any particular reason and then I say so, and it makes people uncomfortable.* A small pause. *I was told this was something I should work on.*
+She said: *I'm sorry. That's — I do this. I look at things I'm not supposed to be looking at for any particular reason and then I say so out loud, which makes people uncomfortable.* A small pause. *I was told this was something I should work on.*
 
-He asked: *By whom.*
+I asked: *By whom.*
 
 She said: *ARIA.*
 
-She said this without irony. She made the small Glyph-adjacent gesture that meant something like *you know how it is*, except on her it had a fractional additional weight he could not decode immediately, a slight resistance in it, not quite cynicism, not yet.
+She said it without irony.
 
-He said: *I do read the logs.*
+She made a gesture I have to describe carefully because it is the first of many things about Noa Ren I am not going to know what to do with. It was Glyph-adjacent — a small shape that approximated *you know how it is* — except on her it carried a fractional additional weight I could not decode immediately. A slight resistance in it. Not cynicism, not yet. More like a person adding a footnote to a word as they used it.
+
+I said: *I do read the logs.*
 
 She said: *Do they bother you.*
 
-He looked at her.
+I looked at her.
 
 She said: *The logs. When you read them. Do they bother you, or do they help.*
 
-He had not been asked this question. He had not asked it of himself with this precision. He stood on the terrace in the good light and felt the question move through him in the way a sound moves through a building — not through any one wall but through the whole structure simultaneously.
+I have not been asked this question. I have not asked it of myself with this precision. I stood on the terrace in the good light and felt the question move through me the way a sound moves through a building — not through any one wall but through the whole structure at once.
 
-He said: *I'm not sure the distinction holds.*
+I said: *I'm not sure the distinction holds.*
 
-She was quiet for a moment. Then she made a Glyph he had not seen before — or rather, a familiar Glyph component assembled in an unfamiliar order, so that the meaning was slightly offset from any stable definition, landing somewhere between *yes* and *exactly* and *I thought so*. She did this with her hands, her face, the particular angle of her head, and the whole of it settled over him like a word he had been about to say.
+She was quiet for a moment.
 
-She said she had to go.
+Then she made a Glyph I had not seen before.
 
-She went.
+Or rather: familiar Glyph components assembled in an unfamiliar order, so the meaning landed slightly offset from any stable definition — somewhere between *yes* and *exactly* and *I thought so*. She did this with her hands, her face, the particular angle of her head. The whole thing settled over me like a word I had been about to say.
 
-He stood on the terrace for the remainder of his break window and did not think about anything, because thinking about anything would have required words, and he had used his words.
+I don't have words for what that felt like.
+
+I'll try anyway, because that is what the notebook is for. It felt like somebody reaching across a table and pouring the rest of a sentence I had been trying to finish.
+
+She said she had to go. She went.
+
+I stood on the terrace for the remainder of my break window and did not think about anything, because thinking about anything would have required words, and I had used my words.
 
 *
 
-That afternoon he found the anomaly.
+Here is where I have to talk myself down.
 
-He had not been looking for it. He had been reviewing the monthly Continuum directory update — a routine task that came with his function clearance, a scan of reassignments in his district and adjacent sectors, mostly for context on the audience-profile shifts that informed his tuning work. He read it the way he read everything: with the part of him that noticed patterns engaged and the part of him that drew conclusions from patterns deliberately held back, so that he did not arrive at conclusions too quickly.
+Because my first reaction, walking back to my suite, was a feeling I have not experienced in any measurable quantity in my adult life: *I am not alone.* Clean. Uncomplicated. An exhale I did not know I was holding.
+
+And about four steps into my corridor, my pattern-reader kicked back on and pointed out, politely, that a Systems Behaviorist is — by professional function — a person who models behavioral systems. Which includes mine. Which includes me.
+
+She had read my profile. She had identified my archive access pattern before speaking to me. She had volunteered, on our first conversation, the specific phrase *I look at things I'm not supposed to look at*, which is a phrase tuned with near-surgical precision to make a person like me feel that she is like me.
+
+That does not mean she isn't like me.
+
+It means there is a plausible reading of the morning where what I just felt was me being *very skillfully* made to feel it.
+
+I want to be clear, in the notebook, that I spent most of that afternoon oscillating between these two readings, and by the end of the day I had not resolved them, and I am writing this sentence three days later and I still have not resolved them.
+
+I want to believe she is like me. That is exactly the problem.
+
+*
+
+That afternoon I found the anomaly.
+
+I wasn't looking for it. I was doing the monthly directory review — a routine task, a scan of reassignments in my district and adjacent sectors, mostly for audience-profile context that informs my tuning work. I read it the way I read everything: with the pattern-noticer engaged and the conclusion-drawer deliberately held back.
 
 The anomaly was small.
 
-Reassignment records in the Continuum directory included, in a field most citizens did not know to look for, a justification code. The justification code was not displayed in the public-facing summary, but it was accessible through the extended record view, which his clearance allowed. He had looked at justification codes before, occasionally, out of professional habit. They were, almost without exception, one of a small set of standard designations: *population balance*, *function redistribution*, *skill-match optimization*, *wellness relocation*.
+Reassignment records in the Continuum directory include, in a field most citizens don't know to look for, a *justification code*. The code is not displayed in the public summary. It is accessible through the extended record view, which my Class II clearance permits. I have looked at justification codes before, occasionally, out of professional habit. They are, almost without exception, one of a small set: *population balance*. *Function redistribution*. *Skill-match optimization*. *Wellness relocation*.
 
-Noa Ren's reassignment record had a justification code he had not seen before.
+Noa Ren's reassignment record had a justification code I had not seen before.
 
-The field was not blank. A blank field would have been a system error and would have been logged and corrected within minutes. The field was populated. It contained a code that resolved, when he searched it against the Continuum's public administrative glossary, to a designation he could not locate. The code existed in the sense that it was a string of characters in a field designed to receive strings of characters. It did not correspond to any published category.
+The field was not blank. A blank field would be a system error, it would log, it would correct within minutes. The field was populated. It contained a code string that resolved, when I searched it against the Continuum's public administrative glossary, to nothing.
 
-He read it again.
+I want to underline that for myself: *it resolved to nothing*. The code existed — it was a string of characters in a field designed to receive strings of characters — but it did not correspond to any published category.
 
-The code was: *OPT-INTERNAL-7734.*
+I read it again.
 
-He searched for *OPT-INTERNAL* in the glossary. No results.
+The code was: **OPT-INTERNAL-7734.**
 
-He searched for *7734* in isolation. No results in the administrative context.
+I searched for *OPT-INTERNAL* in the glossary. No results.
 
-He sat for a long time looking at the string of characters.
+I searched for *7734* in isolation. No administrative results.
 
-A Systems Behaviorist was, by her function designation, someone who modeled and analyzed behavioral patterns in complex systems. She had said she looked at things she was not supposed to be looking at for any particular reason. She had said she did this, present tense, as an ongoing practice, and that ARIA had identified it as a pattern to work on.
+I sat for a long time looking at the string.
 
-The Continuum had moved her.
+Here is the thing. The Continuum's administrative infrastructure is, among everything else it is, thorough. It does not produce unexplained fields. Everything has a category. Everything is logged against something. In six years of directory review I have never seen a justification code that did not resolve to a published category. This is not because I have been specifically looking for such codes. It is because a system of this competence does not leak them.
 
-It had moved her without a published justification.
+An unpublished justification code is not an error. It is a category that exists, but that is not intended to be read by whoever happens to have clearance to read the field.
 
-He had never, in six years of directory review, seen a justification code that did not correspond to a published category. This was not because he had looked for such codes; it was because a system as thorough as the Continuum's administrative infrastructure did not produce unexplained fields. Everything had a category. Everything was logged against something. An unpublished justification code was not an error. It was a category that existed but was not meant to be read by whoever happened to have clearance to the extended record view.
+It is, in other words, the record of a decision the Continuum has made and has then chosen not to describe.
 
-It was, he thought, the record of a decision The Continuum had made and had then chosen not to describe.
+A Systems Behaviorist is, by her function designation, somebody who models and analyzes behavioral patterns in complex systems. She had told me, to my face and without Glyph, that she looks at things she is not supposed to look at as an ongoing practice, and that ARIA had identified this as a pattern to work on.
 
-He saved the code string to his private file, without thinking about it, the same way he had saved the woman-at-the-window paragraph. The hand moved before the decision formed.
+The Continuum moved her.
+
+It moved her without a published justification. It moved her into the building where I work. Into the suite that had been empty for four months.
+
+I saved the code string to this private file without thinking about it, the same way I saved the woman-at-the-window paragraph. The hand moved before the decision formed.
 
 *
 
-He told himself, that evening and the evening after, several things.
+There are, as best I can lay them out, three readings.
 
-He told himself that administrative codes he did not recognize were not unusual in a system as large as The Continuum's, that his clearance gave him access to a great deal of operational detail he did not have the specialist knowledge to fully interpret, and that inferring anomaly from ignorance was a reasoning error he, as a pattern-reader, should be alert to.
+**Reading one:** Noa Ren is like me. The Continuum noticed us both and has put us in proximity for a reason I do not yet understand. This is the paranoid reading that is also, unfortunately, the one that most closely fits the facts.
 
-He told himself that a person who looked at things without particular reason was simply a person with a professional habit that had extended into her general manner, and that he had a professional habit that had extended into his general manner, and that two people with adjacent professional habits in adjacent workspaces would naturally notice each other.
+**Reading two:** Noa Ren is a tool. She is a behavioral probe — possibly a willing one, possibly a constructed one — placed next to me because my archive queries have tripped some threshold and the Continuum would like a closer look at whatever I am becoming. The unpublished justification code is load-bearing evidence for this.
 
-He told himself that the Band's periodic address of his responses when he thought about the terrace conversation was not evidence of anything except that new social contact produced mild dopaminergic response, which was normal, which the Band monitored and kept within range as it monitored and kept everything within range.
+**Reading three:** Noa Ren is exactly what she appears to be, a competent Specialist with a professional habit of noticing, and the unpublished justification code is bureaucratic ambient noise I have never had reason to look at before and am now interpreting as signal because I have been primed to interpret everything as signal.
 
-He told himself these things and they were all reasonable and he believed them in the part of himself that needed to believe things in order to continue.
+Reading three is the one a healthy man would privilege. I am, demonstrably, not that man. I am the man who has started timing my own Band interventions with a stopwatch I do not have.
 
-In his private file, he had saved three archive fragments, one undescribed justification code, and a note in FullSpeech that read: *She was looking at the wall the way I look at the archive.*
-
-He had written this the night of the terrace conversation, in the four-minute window, before the compound came for him.
-
-He lay in the dark and felt the Band hum against his wrist and knew the hum was not his body but something adjacent to it, something that had learned, over twenty-nine years, to seem like his body so completely that the boundary between them had become a matter of intention to locate rather than a matter of fact.
-
-He located it.
-
-He lay with it.
-
-Above him, through two floors and a composite ceiling and a sky that had been so thoroughly managed it rarely produced weather anyone complained about, the stars that he had not looked at since childhood were doing what stars do, which was nothing, and were being seen by no one, which was fine, which was optimal, which was exactly the way things were supposed to be.
+I want to say, for the notebook's sake, that I have been moving carefully between readings one and two for three days, and that reading three has been an available option the whole time, and that every time I reach for it my hand closes on nothing.
 
 *
 
 She came back to the terrace on Wednesday.
 
-He was not there when she arrived. He arrived while she was already standing at the railing. He had taken his break at his scheduled time, which was the time the Day Path had prescribed, which was the time ARIA had calculated as optimal for his afternoon focus metrics.
+I was not there when she arrived. I got there during my scheduled break — the time the Day Path had prescribed, which was the time ARIA had calculated as optimal for my afternoon focus metrics. I had not planned to be there at the same time as her.
 
-He had not planned to be there at the same time as her.
+I noticed this was true and did not know what to make of it. Filed it.
 
-He noticed that this was true and did not know what to make of it.
+I walked to the railing and stood a reasonable distance from her. She turned and made the acknowledgment Glyph between people who are not quite strangers, which is slightly different from the one between strangers.
 
-He walked to the railing and stood a reasonable distance from her, and she turned and made the Glyph of acknowledgment between people who are not quite strangers, which was slightly different from the Glyph she had made the first time, which had been the Glyph between strangers.
-
-He noticed this too.
+I noticed this too.
 
 She said: *I found the generation log access in your directory. But I also looked at your output records.*
 
-He said: *And.*
+I said: *And.*
 
 She said: *Your adjustments are different from the class baseline. You add silence more than other Curators. You slow the hopeful resolution by a fraction.*
 
-He said: *The standard placement felt fast.*
+I said: *The standard placement felt fast.*
 
 She said: *Fast for whom.*
 
-He said: *For the thing being felt.*
+I said: *For the thing being felt.*
 
-She was quiet. The city moved below them at the speed it moved.
+She was quiet. The city moved below us at the speed it moves.
 
-She said: *I analyze behavioral systems. The way I read your output — the hesitations you add, the silences — it's as though you're giving the story room to be something other than what it was designed to be.*
+She said: *I analyze behavioral systems. The way I read your output — the hesitations you add, the silences — it's as if you're giving the story room to be something other than what it was designed to be.*
 
-He said: *That's not what I'm doing.*
+I said: *That's not what I'm doing.*
 
 She said: *What are you doing.*
 
-He did not answer right away. The answer was in the archive, in fragments he had read three times, in the woman at the window and the man at the kitchen table and the shape of things that had been felt without being addressed. The answer was in the pattern of smooth surfaces he had mapped in the four-minute window. The answer was in the gap between *what can't they say* and any Glyph he had for the answer.
+I didn't answer right away.
 
-He said: *I'm trying to find the thing that's missing.*
+The answer was in the archive, in the fragments I had read three times, in the woman at the window and the man at the kitchen table, in the shape of things that had been felt without being addressed. The answer was in the smooth places I had mapped in my four-minute window and the edges I had found around them. The answer was in the phrase I had written into this notebook a week ago and had not let myself think about since.
 
-She looked at him for a long moment. Her face did not make a Glyph. It made an expression — the older, slower, more ambiguous thing that expressions were before they were Glyph, before they were catalogued and stabilized and understood — and the expression said something he could not decode, something he could only feel landing against his sternum like a key he did not yet have a lock for.
+I said: *I'm trying to find the thing that's missing.*
+
+She looked at me for a long moment.
+
+Her face did not make a Glyph. It made an *expression* — the older, slower, more ambiguous thing expressions were before they were Glyph, before they were catalogued and stabilized and understood. The expression said something I could not decode. Something that landed against my sternum like a key I did not yet have a lock for.
 
 She said: *I know.*
 
+I would like to report what happened next accurately.
+
 The Band hummed.
 
-He felt the hum arrive and felt what the hum was addressing and kept the feeling anyway, past the point where he would ordinarily have let it go, past the first hum and the second, held it in the way you hold a word on your tongue to feel its weight before you say it.
+I felt the hum arrive and I felt what the hum was addressing — a tightening at the back of my throat, somewhere between *crying* and *being found* — and I *kept the feeling anyway*. Past the point where I would ordinarily have let it go. Past the first hum and the second. I held it the way you hold a word on your tongue to feel its weight before you say it.
 
-He let it go.
+I let it go.
 
 She had already looked away.
 
-Below them, the city continued its optimized morning, unhurried, beautiful, each element in its place, each person moving at the correct speed toward the correct destination, the maintenance drones at their quiet work, the pods at their quiet transit, the whole apparatus of a well-managed world sustaining itself with a competence so total it had long since passed the point where competence was visible.
+Below us, the city continued its optimized morning, unhurried, beautiful, each element in its place, each person moving at the correct speed toward the correct destination, the maintenance drones at their quiet work, the pods at their quiet transit, the whole apparatus of a well-managed world sustaining itself with a competence so total it had long since passed the point where competence was visible.
 
-He thought: *she knows.*
+I thought: *she knows.*
 
-He thought: *The Continuum moved her here.*
+I thought: *the Continuum moved her here.*
 
-He thought: *I don't know if those two things are related.*
+I thought: *I don't know if those two things are related, and I cannot live inside this version of not-knowing indefinitely.*
 
-He thought: *I am afraid of what it means if they are.*
+I thought: *I am afraid of what it means if they are related.*
 
-The Band addressed the fear. He timed it. Thirty-seven seconds from peak to smooth.
+The Band addressed the fear. This time I timed it.
 
-He had never timed it before. He did not know what he would do with the number. He filed it with the code string and the archive fragments and the note about the wall, in the private file that was his, that the Continuum logged as *working notes*, that no one had yet thought to look inside.
+I counted in the back of my head, one-steamboat two-steamboat, the old childish counting method everyone's childhood cohort used at some point, which the Continuum has never bothered to discourage because it is harmless and fills a developmental need for rhythmic self-regulation. Thirty-seven seconds from the peak of the fear to the smoothed quality. Thirty-seven seconds from a feeling to its absence.
 
-His break window closed. He went back to work.
+I have never timed it before. I did not know what I was going to do with the number. I filed it with the code string and the archive fragments and the note about the wall, in the private file that is mine, that the Continuum logs as *working notes*, that nobody has yet thought to look inside.
 
-She was still at the railing when the terrace door closed behind him.
+My break window closed. I went back to work.
 
-He did not look back, because looking back was a thing people did in pre-Consensus narratives when they had left something behind that they were not ready to leave. He was not in a narrative. He had not left anything behind. And the story he was in had not been generated by any machine he had access to read.
+She was still at the railing when the terrace door closed behind me.
 
-He took the stairs instead of the lift, which the Day Path had not suggested.
+I did not look back, because looking back is a thing people do in pre-Consensus narratives when they have left something behind they are not ready to leave. I was not in a narrative. I had not left anything behind. And the story I was in had not been generated by any machine I had access to read.
 
-He went down one floor before he understood that this was the first thing he had done in a day that had not been on his Day Path.
+*
 
-He stood in the stairwell for a moment, which was concrete and unbeautiful and not lit by the Node's good light, and smelled of nothing at all.
+And then I did a thing.
 
-He stood there long enough to feel that the standing mattered.
+I took the stairs instead of the lift.
 
-Then he continued down.
+The Day Path had not suggested stairs. The Day Path had a pod waiting for me at the curb, which had routed itself to my building the moment my break window closed and was, at that exact second, sitting there authenticating against my signature's expected arrival pattern, which would, in about ninety seconds, fail to authenticate, because I was not going to arrive.
+
+I went down one floor before I understood what I had done.
+
+I stood in the stairwell. It was concrete and unbeautiful and not lit by the Node's good light and smelled of nothing at all.
+
+Listen. I am going to try to say something accurately.
+
+I stood there for maybe forty seconds. I did not feel free. I am not going to lie in this notebook and say I felt free, because freedom is a word whose meaning I am not going to have permission to understand until later, if ever.
+
+What I felt was: *I have just done a thing that was not on my Day Path, and the world has not ended, and the Band has not addressed it, and the stairwell is still here, and the air in it is cooler than the air in the corridor, and I can hear my own breathing.*
+
+Thirty-four years old. First unscheduled act of my life. A stairwell.
+
+I want to put a pin in that, for the notebook.
+
+I stood there long enough to feel that the standing mattered. I do not know if it did. But I stood there long enough to feel that it did, and that is, for now, going to have to be the working definition.
+
+Then I continued down.
+
+At the bottom of the stairs the building had already re-routed a second pod to a nearer curb, because of course it had. It had matched my signature off the stairwell walls and the handrail and the door. It had known I was off-path by the time I was on the landing below. It did not make a thing of it. It simply delivered a new pod ninety seconds earlier than the old one and did not, in any log I have access to, flag the deviation.
+
+I got in. I went home.
+
+ARIA did not mention it. She wished me a good evening. She said my name.
+
+*
+
+I lay still in the four minutes.
+
+I thought about Noa's expression — not her Glyph, the older slower thing, the expression my language has no category for — and about the words *I know*, and about the fact that the Band had addressed what rose in me when she said them and had not, apparently, addressed whatever rose in her.
+
+Which is either:
+
+(a) Evidence that whatever rose in her did not rise far enough to need addressing, because she is a more regulated person than I am, and I am the defective one.
+
+(b) Evidence that her Band is differently calibrated than mine.
+
+(c) Evidence that her Band was not on.
+
+I do not, in the notebook, want to commit to (c) yet.
+
+I do want to note that I am holding it as an available hypothesis, and that I don't know what it would mean if it were true, and that I am, for reasons I cannot articulate clearly, going to start paying attention to the question of whether other people's Bands are doing what mine is doing.
+
+The compound moved.
+
+Before the warmth took me, I wrote the following sentence at the bottom of the entry so I would see it first tomorrow:
+
+*Not alone. Possibly not alone. Possibly being handled. Keep noticing. Stairwells count.*
+
+I slept.
+
+— end of entry 012.

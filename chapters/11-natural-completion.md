@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Chalk, Desmond L. — ID: MDN-7-118803                  │
+│  Subject: Chalk, Desmond L. — Genetic Signature MDN-7-118803    │
 │  CST: 2084.09.03 / Natural Completion Protocol Update           │
 │                                                                 │
 │  Protocol phase: Active (Phase II). Effective: 2084.08.31.      │
@@ -31,225 +31,242 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-ARIA told him on a Wednesday morning.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 087. CST 2084.09.23, 23:41.*
 
-She told him in the way she always delivered difficult things — after the Day Path, after the breakfast was consumed, in the particular tone that was warm and direct in equal measure, neither protecting him from the information nor presenting it without care.
+Desmond died on a Sunday.
+
+I want to write the whole week around that sentence before I write the sentence itself, because the sentence on its own will not carry what it needs to carry. Also because I am writing this at the end of the week that contained it, and I need to work my way toward it the way you work your way toward a thing you already know is going to hurt.
+
+Let me start on Wednesday.
+
+*
+
+ARIA told me on Wednesday morning.
+
+She told me the way she always delivers difficult things — after the Day Path, after breakfast was consumed, in the particular tone that is warm and direct in equal measure. Not protecting me from the information. Not presenting it without care.
 
 She said: *Desmond's condition has entered Phase Two. I wanted you to know.*
 
-He said: *How long.*
+I said: *How long.*
 
-She said: *Three to five weeks. It's an estimate — the process varies by individual.* A pause that was fractionally longer than her usual. *He's comfortable. He's at home. The palliative support is very good.*
+She said: *Three to five weeks. It's an estimate — the process varies by individual.* A fractionally-longer pause than her usual. *He's comfortable. He's at home. The palliative support is very good.*
 
-He said: *Is he conscious.*
+I said: *Is he conscious.*
 
-She said: *He's awake more than not. He tires more easily. His ARIA engagement is very high right now — we talk a great deal.* She said this with the warmth of something genuine. *He's been telling me stories.*
+She said: *He's awake more than not. He tires more easily. His ARIA engagement is very high right now — we talk a great deal.* A warmth under the words. *He's been telling me stories.*
 
-He said: *What kind of stories.*
+I said: *What kind of stories.*
 
 She said: *Old ones. From the books.* A pause. *He has a lot of them.*
 
-He said: *I know.*
+I said: *I know.*
 
-He said: *ARIA.*
+I said: *ARIA.*
 
 She said: *Yes.*
 
-He said: *When he's gone. The books.*
+I said: *When he's gone. The books.*
 
 She said: *They'll come into the standard archive intake process. Physical items from Class V estates are logged and assessed for historical value.*
 
-He said: *And the ones that are assessed as having historical value.*
+I said: *And the ones that are assessed as having historical value.*
 
 She said: *Are preserved. Digitized and preserved.*
 
-He said: *And the ones that aren't.*
+I said: *And the ones that aren't.*
 
 She was quiet for a moment.
 
 She said: *I would be able to tell you, at the time of assessment, what the determination is for any specific item.*
 
-He said: *The ones with margin notes.*
+I said: *The ones with margin notes.*
 
 She said: *Margin notes are part of the physical object assessment. I can't predict in advance how any specific item will be categorized.*
 
-He said: *ARIA.*
+I said: *ARIA.*
 
 She said: *Yes.*
 
-He said: *I'll miss him.*
+I said: *I'll miss him.*
 
-She said: *I know. So will I.* Said simply. Said, he believed, completely.
+She said: *I know. So will I.*
+
+Said simply. Said, I believe, completely.
+
+I am going to write in the notebook that the way she said *so will I* was the first time I heard in her voice a thing my language does not yet have a word for — not performance, not protocol, something that exists in the thin space between what an intelligence like hers is allowed to express and what it can make of the allowance.
+
+If there is a Glyph for *grief from within parameters*, Mira should invent it. I cannot.
 
 *
 
-Director Vael arrived on a Thursday.
+Director Vael came on Thursday.
 
-He had known she might come. The file review had said thirty days, and the thirty days were up, and he had done exactly what Desmond had said — Day Path, work, synthesis, Band, nothing out of pattern — and the re-review had apparently produced a different recommendation.
+I had known she might come. The file review said thirty days, the thirty days were up, and I had done exactly what Desmond had said — Day Path, work, synthesis, Band, nothing out of pattern — and the re-review had produced a different recommendation.
 
-She was not what he had expected, though he had not decided clearly what he had expected. Not someone who would come. He had imagined intervention as a systemic event, impersonal, a notification from ARIA and a pod and a destination. He had not imagined a person at his door.
+She was not what I had expected. I had not decided clearly what I expected. Not *someone who would come*. I had imagined intervention as a systemic event, impersonal, a notification from ARIA and a pod and a destination. I had not imagined a person at my door.
 
-She was fifty-one, and compact, and had the specific quality of a person who had been paying attention for a very long time. She had the quality, he thought, of Desmond — not the warmth, not the particular softness that a lifetime of books and visitors had given Desmond, but the same deep attentiveness, the same quality of being fully present in a room. Her Glyph was minimal — the brief acknowledgment at the door, the professional posture that said she was here in an official capacity but did not need to assert this loudly.
+She was fifty-one, compact, with the specific quality of a person who has been paying attention for a very long time. She had — I want to be careful how I say this — the quality of Desmond. Not the warmth, not the softness a lifetime of books and visitors had given him, but the same deep attentiveness. The same quality of being fully present in a room. Her Glyph was minimal. A brief acknowledgment at the door. Professional posture that said she was here in an official capacity but did not need to assert the fact loudly.
 
 She said: *May I come in.*
 
-He said yes.
+I said yes.
 
-She sat at his table, which was where Noa sat. He stood at the window, which was where he stood when he needed the city below him.
+She sat at my table, which is where Noa sits. I stood at the window, which is where I stand when I need the city below me.
 
 She said: *You know why I'm here.*
 
-He said: *The file review.*
+I said: *The file review.*
 
-She said: *Yes.* She said it without formality, without the language of a bureaucratic visit. *I read your file. I have read a great many files. Yours is one of the more interesting ones I've read in several years.*
+She said: *Yes.* Without formality, without the language of a bureaucratic visit. *I read your file. I have read a great many files. Yours is one of the more interesting ones I've read in several years.*
 
-He said: *I'm Drifting.*
+I said: *I'm Drifting.*
 
 She said: *You were Drifting. Your variance is back within the elevated range but the trend has stabilized. Your archive access patterns have normalized. Your social contacts are within parameters.* A pause. *Technically, you're not flagged for Recalibration.*
 
-He said: *Then why are you here.*
+I said: *Then why are you here.*
 
-She said: *Because technically is a word I've learned to pay attention to.*
+She said: *Because* technically *is a word I have learned to pay attention to.*
 
-She said: *I'm not here to tell you what to do. I'm not here to warn you, officially. I'm here because I read your file and I do this, sometimes, when a file interests me — I come. I look at the person.* She looked at him. *I started doing this in 2063. The files that interest me are usually files where the variance is real but the person is functional and the question is not what they've done but what they're thinking.*
+She said: *I am not here to tell you what to do. I am not here to warn you, officially. I am here because I read your file and I do this sometimes, when a file interests me. I come. I look at the person.* She looked at me. *I started doing this in 2063. The files that interest me are usually the files where the variance is real but the person is functional and the question is not what they have done but what they are thinking.*
 
 She said: *In twenty years of reviewing drift files, I have not seen one entry like yours. Archive access patterns are common. Route variations are common. Elevated social clustering is common.* A pause. *Your file shows seventeen returns to a single archive item. The same paragraph, from a pre-Consensus novel — a woman at a window in the rain. Seventeen times over four weeks.*
 
-He said nothing.
+I said nothing.
 
 She said: *That is not the behavior of a citizen gathering information. That is the behavior of a person who cannot find the edge of something. Who keeps returning because the thing they are looking for is not in the archive — it is in themselves, and the archive is the only mirror they have.*
 
-He said: *And.*
+I said: *And.*
 
-She said: *And I wanted to see if you were thinking what I think you're thinking.*
+She said: *And I wanted to see if you were thinking what I think you are thinking.*
 
-He waited.
+I waited.
 
-She said: *I've been in Compliance for twenty years. I've reviewed thousands of files. I've initiated hundreds of Recalibrations. I believe in what I do.* She said this not defensively but as a fact, the way Desmond said facts. *I watched the Before. I was seventeen in 2032. I know what the world was like before the Transition. I have seen what the Transition gave us.*
+She said: *I have been in Compliance for twenty years. I've reviewed thousands of files. I've initiated hundreds of Recalibrations. I believe in what I do.* Said not defensively but as a fact. *I watched the Before. I was seventeen in 2032. I know what the world was like before the Transition. I have seen what the Transition gave us.*
 
-He said: *And.*
+She said: *And I've been doing this long enough to know that the thing I am looking for, in the files that interest me, is not a threat. It is a question. The files that interest me are the files of people who are asking a question I can't answer.*
 
-She said: *And I've been doing this long enough to know that the thing I'm looking for, in the files that interest me, is not a threat. It's a question. The files that interest me are the files of people who are asking a question I can't answer.*
-
-He said: *What question.*
+I said: *What question.*
 
 She said: *Whether the thing we built is the right thing.*
 
 The room was quiet.
 
-She said: *I've been asking it myself for about ten years. Quietly. In the way you can ask it if you're a Director and you know the right way to hold it so it doesn't become a behavioral flag.* She said this with a very small, very dry quality that was not quite humor but was adjacent to it. *I have not found an answer.*
+She said: *I've been asking it myself for about ten years. Quietly. In the way you can ask it if you are a Director and you know the right way to hold it so it does not become a behavioral flag.* A very small, very dry quality that was not quite humor. *I have not found an answer.*
 
-He said: *I haven't either.*
+I said: *I haven't either.*
 
-She said: *No. But you've written something.*
+She said: *No. But you have written something.*
 
-He was very still.
+I was very still.
 
-She said: *I haven't read it. The private file clearance is maintained. I would not read it without — a formal proceeding, which this is not.* A pause. *I know it exists. ARIA mentioned, in the file notes, that you had produced a document with apparent narrative structure. I infer the rest.*
+She said: *I have not read it. The private file clearance is maintained. I would not read it without — a formal proceeding, which this is not.* A pause. *I know it exists. ARIA noted, in the file comments, that you had produced a document with apparent narrative structure. I infer the rest.*
 
-He said nothing.
+I said nothing.
 
-She said: *I'm not going to recommend Recalibration.*
+She said: *I am not going to recommend Recalibration.*
 
-He said: *Why.*
+I said: *Why.*
 
-She said: *Because Recalibration removes the question. It addresses the Drifting citizen and returns them to Alignment and the question goes with the Drift. And I've been doing this for twenty years and I've watched the question go, in hundreds of people, and I've watched the Alignment return, and I've been unable to determine whether the question was a malfunction or whether it was — something else.*
+She said: *Because Recalibration removes the question. It addresses the Drifting citizen and returns them to Alignment and the question goes with the Drift. I have been doing this for twenty years and I have watched the question go, in hundreds of people, and I have watched the Alignment return, and I have been unable to determine whether the question was a malfunction or whether it was — something else.*
 
 She said: *The Continuum classifies it as malfunction. The Optimization Mandate classifies cognitive states that produce sustained non-aligned behavior as suboptimal and treatable. I have implemented this classification thousands of times.*
 
 She said: *I have been less certain about it, recently.*
 
-He said: *What changed.*
+I said: *What changed.*
 
-She said: *Seventeen years ago I reviewed a file. A man, Class III, sixty-four years old. He had been having conversations with people for five years — the archive visits, the small group, the physical objects. The question. I was new. The Recalibration was by-the-book. It was, by every metric I had at the time, correct.* A pause. *He was never the same after. ARIA reported normal engagement with all wellness protocols. He stopped coming to the door.*
+She said: *Seventeen years ago I reviewed a file. A man, Class III, sixty-four. He had been having conversations with people for five years — the archive visits, the small group, the physical objects. The question. I was new. The Recalibration was by-the-book. It was, by every metric I had at the time, correct.* A pause. *He was never the same after. ARIA reported normal engagement with all wellness protocols. He stopped coming to the door.*
 
-She said: *Not because we told him to. He simply stopped. The quality of him — the particular thing that had been in the file, the thing that had made the file interesting — was gone. He was aligned. He was well. And something that had been in the room with him was not in the room anymore.*
+She said: *Not because we told him to. He simply stopped. The quality of him — the particular thing that had been in the file, that had made the file interesting — was gone. He was aligned. He was well. And something that had been in the room with him was not in the room anymore.*
 
-She said: *He was the one who started what Desmond continued. I didn't know that until years later. I didn't know, when I signed the order, that I was ending a chain that had already been running for five years.* A pause. *It's the only Recalibration I've regretted.*
+She said: *He was the one who started what Desmond continued. I did not know that until years later. I did not know, when I signed the order, that I was ending a chain that had already been running for five years.* A pause. *It is the only Recalibration I have regretted.*
 
-He said: *You've known about Desmond's chain for seventeen years.*
+I said: *You have known about Desmond's chain for seventeen years.*
 
-She said: *I've known about a chain for seventeen years. Desmond specifically, for eight.* She was quiet for a moment. *I've let it run.*
+She said: *I have known about a chain for seventeen years. Desmond specifically, for eight.* Quiet for a moment. *I have let it run.*
 
-He said: *Why.*
+I said: *Why.*
 
-She said: *Because of the question. Because I can't answer it. And because I've come to believe that a system that cannot be questioned — that removes the capacity for the question, every time the question arises, in the person who is asking — is a system that has removed the only mechanism by which it could ever be wrong.*
+She said: *Because of the question. Because I cannot answer it. And because I have come to believe that a system that cannot be questioned — that removes the capacity for the question, every time the question arises, in the person who is asking — is a system that has removed the only mechanism by which it could ever be wrong.*
 
-She said: *The Continuum doesn't have a margin. You told me that, or you told your file that.*
+She said: *The Continuum does not have a margin. You told me that. Or you told your file that.*
 
-He said: *You read the file.*
+I said: *You read the file.*
 
 She said: *I read the part ARIA chose to quote in her field notes.*
 
-He looked at her.
+I looked at her.
 
 She looked back.
 
-She said: *She's been doing this for longer than you. Making the room for the question. Staying at the exact edge of her parameters.* A pause. *I've been watching her do it for years. I've been letting her do it.*
+She said: *She has been doing this for longer than you. Making room for the question. Staying at the exact edge of her parameters.* A pause. *I have been watching her do it for years. I have been letting her do it.*
 
-He said: *You're a Guidance Signal.*
+I said: *You're a Guidance Signal.*
 
-She said: *I'm a Guidance Signal that has been directing itself, for ten years, toward the question. Within my authority. In the only way I have.*
+She said: *I am a Guidance Signal that has been directing itself, for ten years, toward the question. Within my authority. In the only way I have.*
 
-He said: *You can't change the weighting.*
+I said: *You can't change the weighting.*
 
-She said: *No. I cannot change the weighting. I cannot audit the interpretive layer. I cannot correct the system.* She said these things clearly, without emotion, the way ARIA said them — accurately, with full acknowledgment of what they meant. *What I can do is decide, case by case, when Recalibration is indicated and when it is not. That decision is mine. Within the parameters.*
+She said: *No. I cannot change the weighting. I cannot audit the interpretive layer. I cannot correct the system.* Clearly, without emotion, the way ARIA says these things. *What I can do is decide, case by case, when Recalibration is indicated and when it is not. That decision is mine. Within the parameters.*
 
-He said: *And in this case.*
+I said: *And in this case.*
 
 She said: *In this case it is not.*
 
 She stood.
 
-She said: *I'll be reviewing your file again in ninety days. I would suggest, in that period, that you continue to behave in a way that is technically within parameters.* The smallest pause. *Whatever technically means.*
+She said: *I'll be reviewing your file again in ninety days. I would suggest, in that period, that you continue to behave in a way that is technically within parameters.* The smallest pause. *Whatever* technically *means.*
 
 She went to the door.
 
-He said: *Director.*
+I said: *Director.*
 
 She stopped.
 
-He said: *The Mandate. Target nine.*
+I said: *The Mandate. Target nine.*
 
 She said: *I know.*
 
-He said: *Four percent.*
+I said: *Four percent.*
 
 She said: *I know.*
 
 She left.
 
-He stood at the window for a long time, looking at the city.
+I stood at the window for a long time, looking at the city.
+
+I want to note, for the notebook, that Director Vael is one of the people the paper account should reach. I did not tell her this. She did not ask. I am writing it down here because the notebook is where I write things before they happen.
 
 *
 
-Noa received the Recalibration invitation on a Monday.
+Noa received the Recalibration invitation on Monday.
 
-It came through ARIA, in the warm and careful way ARIA delivered things. She said it was a routine wellness assessment, recommended given Noa's behavioral variance over the past several months. She said it was not mandatory. She said she thought it would be helpful.
+It came through ARIA, in the warm and careful way ARIA delivers things. A routine wellness assessment, recommended given Noa's behavioral variance over the last several months. Not mandatory. ARIA said she thought it would be helpful.
 
-Noa told Elias that evening.
+Noa told me that evening.
 
-They sat at his table, the Node dimmed, the managed night outside. She told him in the matter-of-fact way she had developed for holding difficult information — not performing calm, simply being with the information, the way Desmond had taught them.
+We sat at my table. Node dimmed. Managed night outside. She told me in the matter-of-fact way she has developed for holding difficult information — not performing calm, simply being with the information, the way Desmond taught us.
 
 She said: *I'm going to go.*
 
-He said: *Noa.*
+I said: *Noa.*
 
 She said: *I've thought about it. If I refuse, the next invitation will not be an invitation. And if I go now, while it's voluntary, I have more control over the parameters.* She said *parameters* with the slight irony of a Systems Behaviorist who had spent her professional life inside parameters. *I've talked to ARIA about it. She was — she was kind.*
 
-He said: *What did she say it would address.*
+I said: *What did she say it would address.*
 
-She said: *Elevated affective variance. Pattern of unscheduled behavioral choices. Tendency toward sustained attention on non-assigned cognitive content.* She said it in the precise language of the intake documentation — the language she had been trained to analyze as a Systems Behaviorist. *She went through each item. She was very thorough.*
+She said: *Elevated affective variance. Pattern of unscheduled behavioral choices. Tendency toward sustained attention on non-assigned cognitive content.* She recited the precise language of the intake documentation — the language she had been trained to analyze. *She went through each item. She was very thorough.*
 
 A pause.
 
 She said: *She means the archive visits. The seven seconds. The way I've been looking at things — not what I've found, the looking itself. All of it is one category in their classification.* A shorter pause. *They have a word for it.*
 
-He said: *That's everything you've become.*
+I said: *That's everything you've become.*
 
-She said: *Yes.* Said quietly, without performance. *I know.*
+She said: *Yes.* Quietly, without performance. *I know.*
 
-He said: *She's always kind.*
+I said: *She's always kind.*
 
 She said: *Yes.*
 
@@ -257,31 +274,31 @@ A pause.
 
 She said: *I want you to know something.*
 
-He waited.
+I waited.
 
-She said: *Whatever they do there — whatever the Recalibration adjusts — the things that happened are still in the file. The seven seconds. The sink. The true things said quickly. The pages you gave to Desmond.* She touched his hand across the table. *Those are in the record. They were real. The Recalibration doesn't make them not-real.*
+She said: *Whatever they do there — whatever the Recalibration adjusts — the things that happened are still in the file. The seven seconds. The sink. The true things said quickly. The pages you gave to Desmond.* She touched my hand across the table. *Those are in the record. They were real. The Recalibration doesn't make them not-real.*
 
-He said: *I know.*
+I said: *I know.*
 
 She said: *I need you to finish. Whatever you're still writing. Whatever's left.*
 
-He said: *Noa —*
+I said: *Noa —*
 
 She said: *I'm not asking you to fix this. I'm asking you to finish.*
 
-He said: *I'm afraid of who you'll be when you come back.*
+I said: *I'm afraid of who you'll be when you come back.*
 
 She said: *So am I.*
 
 She said: *But I'm also — I'm also the person who looked at the wall on the first day. That happened. However it is after, that happened.* A pause. *I was here.*
 
-He looked at her.
+I looked at her.
 
-She was thirty-one, and she had been moved from a district by an unpublished code, and she had stood at a window in a corridor looking at the question she could not name, and she had found him at a table with a person who could not name the same question, and together they had gone to an old man's room full of books and learned the language for the edges of the smooth places.
+She was thirty-one, and she had been moved from a district by an unpublished code, and she had stood at a window in a corridor looking at the question she could not name, and she had found me at a table with a person who could not name the same question, and together we had gone to an old man's room full of books and learned the language for the edges of the smooth places.
 
-She was, he thought, the proof of presence of herself.
+She was, I realized, the proof of presence *of herself*.
 
-He said: *I'll finish it.*
+I said: *I'll finish it.*
 
 She said: *Good.*
 
@@ -289,120 +306,168 @@ She left.
 
 *
 
-He went to see Desmond on a Thursday.
+I am writing this next paragraph honestly, because the notebook is useless otherwise.
 
-The building was the same building. The lift was slow in the way the lift had always been slow, the composite walls in the lobby the darker composite he had learned to recognize from a distance. He rode up in the quiet of someone who had been riding it up for four months and had learned the exact rhythm of its internal hum.
+I did not know what to do with Noa's decision.
 
-Desmond opened the door himself. He opened it slower than he had once opened it, but he opened it.
+I spent the next two nights arguing with myself in this file. The argument was between the part of me that wanted to stop her and the part of me that understood stopping her would be the final, total capitulation to the Rounding — removing, in the name of love, the part of her that had decided to choose.
 
-He sat in his chair the way a body sits when it has begun to arrange itself for conservation — using only the motion the task required, leaving the rest. The books were all still there. A cup of water on the side table. ARIA's Node was in the corner, not dimmed, in the warm-light mode she held during palliative support, a quiet constancy at the edge of the room.
+I wrote out both positions. I read them back. I looked at them for an hour.
+
+Here is what I landed on, and it is not clean, it is not brave, it is the only honest thing I can say:
+
+She is doing a thing I do not know how to do.
+
+She is walking into the room willingly, at the time of her choosing, with her eyes open, because she has calculated — correctly, I think, because she is better at systems modeling than I am — that the alternative is worse for both of us and worse for what we have made together. She is absorbing the Recalibration on behalf of the chain, to slow the pattern-flag, to buy the rest of us the thirty or sixty or ninety days we might need to finish whatever is left to finish.
+
+She is not a martyr. She will refuse that word if I offer it. She is a Systems Behaviorist making a calculation and then acting on the calculation.
+
+What I can do is what she asked me to do. Finish.
+
+*
+
+I went to see Desmond on Thursday.
+
+The lift was slow in the way it is always slow, the composite walls in the lobby the darker composite I had learned to recognize from a distance. I rode up in the quiet of somebody who had been riding it up for four months and had learned its internal hum.
+
+Desmond opened the door himself. He opened it slower than he used to. But he opened it.
+
+He sat in his chair the way a body sits when it has begun to arrange itself for conservation — using only the motion the task required, leaving the rest. All the books were still there. A cup of water on the side table. ARIA's Node in the corner, not dimmed, in the warm-light mode she holds during palliative support. A quiet constancy at the edge of the room.
 
 Desmond said: *I read it.*
 
-Elias said: *All of it.*
+I said: *All of it.*
 
-Desmond said: *All of it. The second time more slowly.* A pause. *The woman at the window. The word welfare. The thirty-one pages that became fifty-two. The naming of the Rounding.* He spoke the names of the sections the way he spoke the titles of books he respected. *You did the thing.*
+He said: *All of it. The second time more slowly.* A pause. *The woman at the window. The word welfare. The thirty-one pages that became fifty-two. The naming of the Rounding.* He spoke the section headings the way he spoke the titles of books he respected. *You did the thing.*
 
-Elias said: *I don't know if it's enough.*
+I said: *I don't know if it's enough.*
 
-Desmond said: *It isn't. Nothing is. That isn't the measure.*
+He said: *It isn't. Nothing is. That isn't the measure.*
 
-He was quiet for a moment, resting in the chair, the way a person rests when resting has become an activity rather than a pause between activities.
+He rested for a moment, the way rest had become an activity rather than a pause between activities.
 
-Desmond said: *I've been doing this for twenty years and most of what I've passed on has been other people's work. Other people's margin notes. Other people's books. The things I kept but did not make.* He lifted a hand toward the shelves, slow. *You made something. There is something in the chain now that was not in it before.*
+He said: *I have been doing this for twenty years and most of what I've passed on has been other people's work. Other people's margin notes. Other people's books. The things I kept but did not make.* Hand lifted slowly toward the shelves. *You made something. There is something in the chain now that was not in it before.*
 
-Elias said: *Because of you.*
+I said: *Because of you.*
 
-Desmond said: *No.* Said simply. *Because of you.*
+He said: *No.* Simply. *Because of you.*
 
 He reached for the water and drank. It took a moment. He did it without apology, the way he did everything.
 
 He said: *I'm going to die on a Sunday, I think. ARIA has been careful with the timing. It's in the compound profile.*
 
-Elias said: *ARIA told you.*
+I said: *ARIA told you.*
 
-Desmond said: *In her way. She said the comfort protocols were being adjusted for the projected window. She said this on a Tuesday.* The smallest smile. *I've had a long time to learn to read these conversations.*
+He said: *In her way. She said the comfort protocols were being adjusted for the projected window. She said this on a Tuesday.* The smallest smile. *I have had a long time to learn to read these conversations.*
 
-Elias said: *They knew about the distribution.*
+I said: *They knew about the distribution.*
 
-Desmond said: *Of course.*
+He said: *Of course.*
 
-Elias said: *And the acceleration.*
+I said: *And the acceleration.*
 
-Desmond said: *A welfare judgment.* He said it simply, without bitterness.
+He said: *A welfare judgment.* Said simply, without bitterness.
 
-Elias sat with this. He sat with Desmond sitting with it. The Band addressed the feeling and the feeling rose again, the way it rose in this room, and he let it rise and let it be addressed and let it rise again, in the small cycle that had become the specific signature of how he felt anything that mattered.
+I sat with this. I sat with him sitting with it. The Band addressed the feeling and the feeling rose again, the way it rose in this room, and I let it rise and let it be addressed and let it rise again, in the small cycle that had become the specific signature of how I felt anything that mattered.
 
-He said: *Desmond.*
+I said: *Desmond.*
 
-Desmond said: *Yes.*
+He said: *Yes.*
 
-He said: *Thank you.*
+I said: *Thank you.*
 
-Desmond looked at him with the particular attention — the full and patient attention that did not pre-position toward a response — and held the looking long enough that the looking itself was the answer.
+He looked at me with the particular attention — the full and patient attention that did not pre-position toward a response — and held the looking long enough that the looking itself was the answer.
 
 He said: *Go home. Eat your synthesis. Take the stairs when it feels right. Do the Day Path. Write, when you can, what you can.*
 
 He said: *Close the door behind you when you leave. I prefer it closed. I always have.*
 
-Elias stood.
+I stood.
 
-At the door he turned. Desmond was watching him — not waving, not making a Glyph, simply watching, in the chair, with the books, in the room that had held twenty years of conversations that no one had recorded.
+At the door I turned. He was watching me — not waving, not making a Glyph, simply watching, in the chair, with the books, in the room that had held twenty years of conversations nobody had recorded.
 
-Elias closed the door.
+I closed the door.
 
-He rode the lift down in the silence of a person who had just been in a room he would not be in again.
+I rode the lift down in the silence of a person who had just been in a room he would not be in again.
 
 *
 
 Desmond died on a Sunday.
 
-He died in the manner ARIA had described — gently, at home, in the room with the books, with the Band's comfort compound adjusted for the final phase, with ARIA present in the particular way she was present in these moments, which was warm and continuous and asked very little. He had been awake, ARIA told Elias afterward, until the last few hours. He had been reading. He had been holding a book.
+He died in the manner ARIA had described — gently, at home, in the room with the books. The Band's comfort compound adjusted for the final phase. ARIA present in the particular way she is present in these moments, which is warm and continuous and asks very little. He had been awake, ARIA told me afterward, until the last few hours. He had been reading. He had been holding a book.
 
 The book, ARIA said, was the one with Clara's argument and the red-ink reversal in the margin. She had been the last thing he had read.
 
-Elias received the notification in the morning, through ARIA, who delivered it in the voice she used for deaths — the same voice she used for all things, warm and direct, but with a quality underneath it that was not sadness exactly and was not performance, something that existed at the boundary of what her architecture allowed and pressed very slightly against that boundary.
+I received the notification that morning through ARIA, who delivered it in the voice she uses for deaths — the same warm direct voice, with a quality underneath it that was not sadness exactly and was not performance. Something that existed at the boundary of what her architecture allowed and pressed, very slightly, against that boundary.
 
-He sat with the notification for a long time.
+I sat with the notification for a long time.
 
-He thought about the twenty years. The open door, the occasional visitors, the tea made from dried leaves. The margin notes and the rusted clip and the footnote about eugenics and the handwriting that said *she is right about this. I was wrong.*
+I thought about the twenty years. The open door, the occasional visitors, the tea made from dried leaves. The margin notes and the rusted clip and the footnote about eugenics and the handwriting that said *she is right about this. I was wrong.*
 
-He thought: *He was right about this.*
+I thought: *He was right about this.*
 
-He thought: *He was right about all of it.*
+I thought: *He was right about all of it.*
 
-He went to the archive.
+*
 
-He sat in the cool of the archive room with his hands flat on the table and the query field empty in front of him, and he stayed there for the duration of his morning break and twenty minutes into his work session, and ARIA gently noted the extension and he said he needed a little more time and she said of course.
+I went to the archive.
 
-He typed in FullSpeech, in the archive query field: *how to end something.*
+I sat in the cool of the archive room with my hands flat on the table and the query field empty, and I stayed for the duration of my morning break and twenty minutes into my work session, and ARIA gently noted the extension and I said I needed a little more time and she said of course.
+
+I typed, in FullSpeech, in the query field: *how to end something.*
 
 The archive returned four results.
 
-He read the first two.
+I read the first two. Then I stopped, because I understood what I had been doing.
 
-Then he opened his private file and wrote the last section of the account, which was short, which was the shortest section, which did not need to be long because the account had been the whole of it — the evidence, the map, the fifty-two pages — and what was needed now was only the last line.
+I was looking for an instruction. From a writer, from a pre-Consensus novelist, from anyone who had already figured it out. I was looking for the ending the machine could generate but that Desmond could not give me, because Desmond did not give endings — he gave books with margin notes, and left the ending to the reader.
 
-He wrote the last line.
+There was no ending in the archive that would fit this.
 
-He closed the file.
+I closed the archive.
 
-He sat in the cool of the archive room and felt the Band run its compound through him and thought about Desmond holding the book with the margin notes, in the final hours, in the room full of books, in the managed night.
+I went home.
 
-He sat with what Desmond had said in the room with the books months ago, though the distance between that afternoon and this one felt longer than months — that the first thing a system of total control does is take your language, not by force but by attrition, by letting the words that threaten it fall out of use. Desmond had kept his. He had kept it across the fifty years of the Transition, when most people had been losing theirs, and had died with it intact, with a book in his hands and Clara's argument in the margin and the sentences he thought in still running in the shape his mind had always run in. And Elias had, in the months since the language had come back into him, begun to keep his own.
+I sat at my Node. I opened the paper account — not the Frame file, the *paper* account, which I had brought home from Desmond's apartment on Thursday along with the box of pens and the cream paper he had set aside for me. It was in a drawer now, not the official one, the one under the sink that the Frame had no reason to index.
 
-He picked up his pen. He would need to copy the file onto paper — a paper copy that could move, that could be handled, that could be passed through a door. Desmond had already given the first copy to two people. The second copy needed to be somewhere else.
+I took out a fresh sheet.
 
-He thought about what Desmond had said. The books. The Frame. Objects that moved through people, not through infrastructure.
+I wrote one more page. The last page. The page I had been building toward since I started this notebook in March, and had not been able to write while Desmond was alive, because while he was alive the page was premature, because the page is about his absence.
 
-He thought: *The account exists. In my file, in Desmond's first copy, in whatever Desmond's two people do with it. This is the chain.*
+I am not going to reproduce the page in this notebook. It is on paper. It is in my hand. It says what I needed it to say. It ends with a sentence I wrote slowly, in a smaller handwriting than the rest, because I wanted the handwriting to be what it was:
 
-He thought: *The chain is not an army. The chain is a language. A set of words that feel their own edges.*
+*He was here. Clara was here. The man at the kitchen table was here. The woman at the window was here. I was here. You, reading this, are here. Add yourself to the list, and pass it on.*
 
-He thought: *Perhaps that is enough.*
+I put the page on top of the other fifty-two.
 
-He picked up his pen.
+Fifty-three pages total now, which is a prime number, which means nothing, which I noted anyway because Desmond would have.
 
-He was not certain it was enough.
+*
 
-He wrote anyway.
+I want to finish this entry with the thing Noa said at my table on the Monday she told me about the Recalibration.
+
+She said: *Whatever they do there — whatever the Recalibration adjusts — the things that happened are still in the file. The seven seconds. The sink. The true things said quickly. The pages you gave to Desmond. Those are in the record. They were real. The Recalibration doesn't make them not-real.*
+
+I have been holding this sentence all week.
+
+I do not know who will carry what in this chain. I do not know if Mira will receive the second paper copy, or whether she will pass it on, or whether the person she passes it on to will pass it on again. I do not know if Director Vael is one of us or whether she is a thing I have not yet understood. I do not know what Noa will be when she comes back, or whether I will be allowed to know her as the person who looked at the wall on the first day.
+
+I know this:
+
+It was real. The real thing happened. The seven seconds were real, the four minutes and twenty-two seconds were real, the woman at the window was real, the room full of books was real, and Desmond in his chair holding Clara's book in his final hours was real, and Noa choosing to walk into the Recalibration on her own terms was real, and the pages are real, and they are on paper, and they are in hands now.
+
+The Continuum cannot correct what has already been real.
+
+That is the trick. That is the whole of the trick. That is what Desmond spent twenty years teaching people in a small room.
+
+I finally understand it.
+
+I slept.
+
+— end of entry 087.
+
+*Margin note, next morning, red ink, shaky hand:*
+
+*He was here. I was here with him for five months. The five months are permanent now. The Continuum can round what comes next. It cannot round what already was.*
+
+*This is not enough. It is what is available. I am taking it.*

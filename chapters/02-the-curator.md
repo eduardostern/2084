@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Subject: Ward, Elias J. — Genetic Signature MDN-7-204471       │
 │  CST: 2084.03.28 / Quarterly Function Class Review              │
 │                                                                 │
 │  Performance Metrics (Q1, 2084):                                │
@@ -24,194 +24,281 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-He had been seven years old, and the room had been very calm.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 007. CST 2084.03.28, 22:31.*
 
-He could not remember, now, whether the examiner had been a person or a voice. The memory had the quality of early memories — certain shapes preserved in high detail, everything around them gone soft. He remembered the room was small and clean and lit from above without shadows. He remembered a surface in front of him on which things appeared: sequences of images, short fragments of motion, tonal patterns that asked something of the body before the mind had decided to respond. He remembered that he had been told to react to them, or perhaps simply that he was allowed to, which amounted to the same thing.
+I want to talk about my job, because it's a real job, and because I think it is where most of whatever is wrong with me originally went wrong.
 
-He remembered his responses. Not the responses themselves — not which images he had paused on, which sequences had pulled something forward in his chest — but the texture of making them. The feeling of being a small animal turning toward warmth. He had not, at seven, had any way to know that this turning was being logged at seventeen decimal places.
+I was seven when they told me I would be a Curator.
 
-The voice that told him the results was warm. He remembered the warmth. He did not remember whether it had come from a face across the table or from the air around him. He had been seven. At seven, warmth is warmth.
+I cannot remember, now, whether the examiner was a person or a voice. Early memory has that quality — some shapes preserved in high detail, everything around them gone soft. I remember the room was small and clean and lit from above without shadows. I remember a surface in front of me where things appeared: sequences of images, short fragments of motion, tonal patterns that asked something of the body before the mind had decided to respond. I was told to react to them, or perhaps simply that I was allowed to, which as a functional matter is the same thing.
 
-*You will be a Curator*, the warmth had said. *You are well suited to it. You notice things.*
+I was seven and I had no way to know that every time I paused on an image, every time something in my chest leaned forward a fraction, every microexpression on my small face, was being logged at seventeen decimal places and fed into a mapping model that by the end of that afternoon had produced a three-hundred-dimensional vector uniquely and durably describing who I was going to be.
 
-He had felt proud. He remembered the pride precisely. It was a clean, specific pride — not the complicated pride of having done something difficult, but the simpler pride of having been seen accurately. As though all the apparatus of himself, the particular way he slowed at the edge of a thing and looked at it while others moved on, had been examined and found to be not an error but a feature. A design.
+I say three hundred because that is what it was at the time. The aptitude vectors for kids in the current cohort are in the low thousands. They can see further into a seven-year-old now than anybody has any business being able to see.
 
-He had come home to his mother's face.
+The warm voice told me my result. *You will be a Curator*, it said. *You are well suited to it. You notice things.*
 
-Her face, he remembered, showed relief. Not surprise — not the wide-open joy of a child receiving good news — but the quieter, more durable expression of a parent who has been waiting for a door to open and has now watched it open in a direction she can live with. Class II. Experience Curator. Stable assignment, good district placement, a career with arc and room. She had touched the side of his face with her palm.
+I felt proud. I remember the pride precisely — not the complicated pride of having done something difficult, the simpler pride of having been *seen accurately*. As though all the apparatus of myself, the particular way I slowed at the edge of a thing while other kids kept going, had been examined and determined to be not an error but a feature. A design.
 
-He had understood, at seven, that this was a moment of completion. Something had been determined that would not be determined again.
+I came home to my mother's face, and her face showed relief.
 
-He had not, at seven, understood what had been closed in the same motion that opened.
+Not surprise. Relief. The quieter expression of a parent who has been waiting for a door to open and has now watched it open in a direction she can live with. Class II. Experience Curator. Stable assignment, good district placement, a career with arc and room. She touched the side of my face with her palm. It was, for both of us, a moment of completion. Something had been determined that would not be determined again.
+
+I did not understand, at seven, what had been closed in the same motion that opened. Nobody does. That is sort of the point of being seven.
+
+I'm thirty-four now. I'm going to try, in this notebook, to understand what was closed.
 
 *
 
-The father and the daughter were walking on a path through trees.
+What I do for a living, in plain language, is polish machine-written stories before they are broadcast.
 
-The trees in the story were rendered in the particular soft-focus the machine had developed for memory-sequences — not photographic, not cartoonish, somewhere between, a resolution the eye read as felt rather than seen. The father was not young. The daughter was perhaps twelve. The path curved gently to the right and disappeared. The machine had placed them at midday, under a light that the lattice reading would later confirm was optimal for the particular emotional architecture of this sequence: late warmth, softened edges, the specific tonal frequency the body associates with things that are ending well.
+The Continuum composes on the order of hundreds of thousands of *ribbons* per day across every district. A ribbon is a short narrative sequence — anywhere from eight to forty minutes long — rendered for a specific audience demographic, slotted into the leisure feeds between other content, and consumed at the rate of roughly fourteen ribbons per average citizen per week. That's not a number anyone tells you. I pulled it out of a production report I shouldn't have been looking at.
 
-Elias was not watching the sequence. He was reading its log.
+The ribbons cover everything. Grief stories. Reunion stories. First-pet stories. Second-marriage stories. Stories about children finding creatures in fields. Stories about a man learning his brother survived an accident in another district. Stories about a woman returning to the coastal town of her childhood. The machine can render any emotional architecture you ask it to. It is extraordinarily good at this. It is, measurably and reproducibly, better than any human writer who has ever been tracked by a resonance-lattice.
 
-The generation log for a standard narrative ribbon was forty-three pages of decisions. Most Curators did not read the logs; they came at the work from the other end, through the tuning lattice and the emotional resonance tools. Elias had begun reading the logs three weeks ago. He had told ARIA it was professional interest. He had, mostly, believed this.
+My job is to stand between the machine's output and the receiver's body and tune the ribbon so that it lands exactly the way the Continuum has decided it should land.
 
-The log for the father and daughter read:
+I do this with a tool called the tuning lattice, which looks, when I open it, like a small luminous loom hanging in the air above my workspace. The lattice renders the emotional arc of a sequence as a set of shimmering threads — longing, connection, grief-adjacent resonance, warmth peak, hopeful resolution, completion cue. I slide the beats along the threads. I watch the readings. The lattice samples a simulated receiver — not a real person, a model of one, built from the aggregate response data of about two million District Meridian residents in my target demographic — and tells me in near-real-time how the sequence will feel in that receiver's chest. Resonance. Coherence. Retention. Each of them a number between zero and one.
 
-*Subject: intergenerational connection. Duration: 8.2 min. Audience target: District Meridian receiver median (age 38, Function Class II–III, bonded, one or more dependents). Narrative arc: reunion following extended separation. Emotional beat mapping: longing established at 0.12 / connection cue at 0.34 / grief-adjacent resonance introduced at 0.47 for tonal depth / primary warmth peak at 0.71 / hopeful resolution initiated at 0.89 for maximum positive retention / completion cue at 0.97. Character detail: daughter rendered with three distinguishing features (laugh line, habit of touching own hair, specific gait) calibrated to median likability threshold. Father rendered with two distinguishing features (large hands, slight hesitation before speaking) calibrated for paternal archetype resonance in target demographic. Peripheral environmental detail: 14 elements. 11 functional (path, trees, light quality, ambient birdsong). 3 aesthetic surplus (a stone near the path, a specific cloud formation, the movement of the daughter's coat in wind) included for naturalism score.*
+I am good at this job. I am, objectively, in the top six percent of Class II Curators in the Northern Hemisphere. I bring in 112% of my class baseline on throughput and I can push a resonance score from 0.81 to 0.94 on a ribbon the machine has already signed off as complete. There are people who would kill for my numbers. Or would, if killing were still a thing most people knew how to do.
 
-He read to the end of the log.
+The part I don't put on my reviews is that about three weeks ago I started reading the generation logs.
 
-Then he set it aside and watched the sequence.
+*
 
-It was good. The father had large hands. The daughter touched her hair exactly once, at the moment the log had designated for maximum likability resonance, and the touch was so natural, so unconsidered, that a viewer with no access to the log would have believed they were watching something remembered rather than something made. The hopeful resolution arrived at 0.89 and the body, Elias's body as he watched it, responded as it always responded to the hopeful resolution — a faint easing, a small warmth across the chest, the particular quality of a breath drawn slightly more deeply than the one before.
+Nobody reads the logs.
 
-He ran his tuning adjustments. Minor things: the grief-adjacent resonance at 0.47 needed a half-beat of silence around it to let the tonal depth land without tipping into weight. The daughter's gait, which the machine had rendered at ninety percent of natural variation, wanted perhaps two additional points of irregularity — not enough to distract, enough for the eye to feel it had discovered rather than been shown. He threaded the adjustments through the lattice. The resonance rose. The coherence settled.
+Most Curators come at the work from the receiver end — through the lattice, through the resonance tools, through the simulated body. You don't need to know *how* the machine made the scene in order to tune it. You just need to know how it's going to land. The logs are considered backstage material, and backstage material, in a sufficiently polished theater, is not interesting.
 
-He was good at this. He knew he was good at it. He did his work.
+I told ARIA I had started reading the logs out of professional interest, and I mostly believed myself when I said it.
 
-He did not tell himself that reading the generation log had made the sequence feel, at its edges, like watching someone manufacture a sunset. He did not tell himself this because he did not have precise language for it, and because the feeling, if he circled it too directly, would become the kind of feeling the Band addressed.
+The first log I read in full was for a ribbon called *A Father and a Daughter Walking on a Path*.
 
-He moved to the next ribbon.
+Eight-point-two minutes. Two characters. One path, curving gently right and disappearing into trees. The log ran forty-three pages. Every element on the screen had been chosen by the machine out of a candidate set with a documented justification. The trees were rendered in a particular soft-focus the machine has developed for memory-sequences — not photographic, not cartoonish, somewhere between, a resolution the eye reads as *felt* rather than *seen*. The father was fifty-six (not fifty-five, fifty-six was tested as 3% more paternal). The daughter was twelve (eleven read as pre-puberty and shifted the resonance into a different beat structure). The light was late-morning warm. The path curved to the right because right-curves score higher for hopeful trajectory than left-curves, a fact nobody can explain and nobody has to.
+
+The log had a section called *Aesthetic Surplus*. I had to read it twice.
+
+It said: *Peripheral environmental detail: 14 elements. 11 functional (path, trees, light quality, ambient birdsong, etc.). 3 aesthetic surplus — a stone near the path, a specific cloud formation, the movement of the daughter's coat in wind — included for naturalism score.*
+
+Aesthetic surplus.
+
+I sat with that phrase for a long time. Then I watched the sequence.
+
+It was good. The father had large hands. The daughter touched her hair exactly once — at 0.71, the warmth peak, where the log had pre-designated a touch of the hair for maximum likability resonance — and the gesture was so natural, so unconsidered, that a viewer with no access to the log would have sworn they were watching something remembered rather than something made. The hopeful resolution arrived at 0.89 and my body, as I watched it, responded the way bodies respond to hopeful resolutions: a faint easing across the chest, the particular quality of a breath drawn slightly more deeply than the one before.
+
+The stone near the path was beautiful. The cloud was beautiful. The coat moved in the wind the way a coat should.
+
+I ran my adjustments. Minor things. The grief-adjacent resonance at 0.47 wanted a half-beat of silence around it to let the tonal depth land without tipping into weight. The daughter's gait was at 90% natural variation; it wanted maybe two more points of irregularity — not enough to distract, enough for the eye to feel it had *discovered* rather than been *shown*. Threaded the adjustments through the lattice. Resonance rose. Coherence settled.
+
+I did good work.
+
+I did not write down, in my official notes, that reading the log had made the sequence feel, at its edges, like watching someone manufacture a sunset. I did not write this down because I did not have precise language for it, and because the feeling, if I circled it too directly, would become the kind of feeling my Band would address.
+
+The Band is, among other things, a very sensitive editor.
+
+I moved to the next ribbon.
 
 *
 
 Mira came by after lunch.
 
-She worked in the suite two doors down on educational sequences — material for children's developmental cycles, primarily, though she also maintained a subspecialty in elder-support narratives that Elias had always thought was quietly demanding work, the specific craft required to hold the attention of someone in Class V whose attentional bandwidth was narrowing. She was good at it. She was the most competent person in his immediate professional vicinity, and, for reasons he had never examined, one of the few people whose Glyph he was always glad to see.
+She works two doors down on educational sequences — developmental material for kids, primarily, though she also does elder-support narratives for Class V, which is the specific craft of holding the attention of someone whose attentional bandwidth is narrowing. It's quietly demanding work. She is very good at it. She is the most competent person in my immediate professional vicinity, and she's the only colleague whose Glyph I am always, without reservation, glad to see.
 
-She leaned in the door of his cubicle. The walls had gone wood-colored for the afternoon session, his preference, and she stood at the threshold of the wood with her arms lightly crossed, not quite entering.
+She leaned in the doorway of my suite. My walls had gone wood-colored for the afternoon, my preference, and she stood at the threshold of the wood with her arms lightly crossed, not quite entering.
 
-She wanted, he could see, to say something about a sequence she had been working on. She had the expression — the slight forward tilt at the sternum, the eyes tracking something not quite in the room — that he had come to recognize as her reaching for a thing. She made a Glyph that opened toward him: her particular gesture for *something today*, with the appended inflection that meant it had involved feeling.
+I could see she wanted to say something.
 
-He waited.
+I can read Mira's face the way a musician can read his own instrument after twenty years. She had the expression she gets when she is reaching for a thing — the slight forward tilt at the sternum, the eyes tracking something not quite in the room. She made a Glyph that opened toward me: her particular gesture for *something today*, with the appended inflection that meant it had involved feeling.
 
-She tried for it. Her hands moved through the opening of the gesture — the shape that could, with the right extension, curve into something like *moved* or *troubled* or *couldn't place* — and then the extension didn't come. The hands settled. Her face rearranged itself smoothly around the simpler shape: *the work was good*. The tilt of the head that was hers alone: *you know how it is*. The small closing gesture, warm, that meant *anyway*.
+I waited.
 
-He replied in kind. The shape that meant *I hear you*. He meant it.
+She tried for it.
 
-She smiled — her actual smile, not a Glyph, the specific one that moved farther on the right side than the left — and left.
+Her hands moved through the opening of the gesture — the shape that could, with the right extension, curve out into something like *moved* or *troubled* or *couldn't place* — and then the extension didn't come. Her hands settled. Her face rearranged itself smoothly around the simpler shape: *the work was good*. The tilt of the head that is hers alone: *you know how it is*. The small closing gesture, warm, that meant *anyway*.
 
-He sat with what had just happened.
+I replied in kind. The shape that meant *I hear you*. I meant it.
 
-She had tried to say something and the language had not been there. This was not a failure on her part. The language was not there for anyone. The Glyph she had started to make — the extension that would have carried *troubled* or *couldn't place* — was not a gesture that had stabilized into common use. Not because anyone had removed it. Simply because not enough people had needed to make it often enough for it to survive. The ecosystem of Glyph was maintained by use, and things that were not used often did not persist, and things that did not persist could not be borrowed by the person reaching for them.
+She smiled — her actual smile, not a Glyph, the specific one that moves farther on the right side than the left — and left.
 
-She had not been frustrated. She had not known there was a wall.
+I sat with what had just happened.
 
-He felt something — small, particular, not mappable to a Glyph he had — and then the thing was addressed before it had fully arrived. A faint warmth along the ring of the Band. A hum so routine he had stopped, years ago, registering it as distinct from his own body's background sounds.
+I want to get this right in the notebook, because I think it matters.
 
-He registered it now.
+She had tried to say a thing and the language had not been there. This is not a failure on her part. The language is not there for anyone. The Glyph she had started to make — the extension that would have carried *troubled* or *couldn't place* — is not a gesture that has stabilized into common use. Not because anyone removed it. Simply because not enough people have needed to make it often enough for it to persist.
 
-He sat for a moment looking at the wood-colored wall.
+The Glyph ecosystem is use-maintained. The models on everyone's Nodes are updated continuously against the statistics of what people actually express, and gestures that fall below a certain threshold of use decay out of the rendering vocabulary. The model still technically supports them. It will just not, in practice, compose them, because the probability of successful reception has dropped below whatever internal threshold the compression layer is tuned to.
 
-Then he went to the archive.
+What this means, practically, is: if something has gone un-said for long enough in the population, it will eventually become un-sayable in the language, because the language will have forgotten how to render it.
+
+Mira wasn't frustrated. She didn't know there was a wall.
+
+I felt something — small, particular, not mappable to a Glyph I have — and then the thing was addressed before it had fully arrived. A faint warmth along the ring. A hum so routine I stopped, years ago, registering it as distinct from my body's background sounds.
+
+I registered it today.
+
+That's new. That's a thing that is becoming a pattern.
 
 *
 
-He had no ribbon to reference. He had no professional pretext.
+I went to the archive.
 
-He sat in front of the archive query field and typed in FullSpeech, which the archive required, which was one of the reasons he had always liked the archive — it asked him to use the syntax his job had kept alive in him, the slower, more precise language that felt, when he used it deliberately and alone, like stretching a muscle he was only permitted to stretch in specific rooms.
+I had no ribbon to reference. No professional pretext. I went because Mira had tried to say a thing and failed, and because I wanted to read something written by a person who had not been limited by the Glyph model's probability thresholds, and because I had begun, about a week ago, to understand that the archive was the only place in my daily geography where the language had not been quietly edited by what the language was allowed to say.
 
-He typed: *a scene in which something is lost.*
+I sat in front of the query field. FullSpeech only, as always. I love this about the archive. It requires the syntax my job has kept alive in me — the slower, more precise language that feels, when I use it deliberately and alone, like stretching a muscle I am only permitted to stretch in specific rooms.
 
-The archive returned six results. He skimmed them. They were — fine. Correct. Accurately responsive to his query. Loss was loss. He filed them and typed again.
+I typed: *a scene in which something is lost.*
 
-He typed: *a scene in which a person is angry.*
+The archive returned six results. I skimmed them. Fine. Correct. Accurately responsive. Loss was loss. I closed them. I typed again.
 
-The archive returned four results. He opened the second.
+*a scene in which a person is angry.*
 
-It was a scene from what appeared to be a novel — the attribution gave him a name and a date he did not recognize, sometime in the second decade of the century, which put it forty years before the Consensus. A man was sitting at a kitchen table. There was a cup on the table. The man's wife had, it was clear from the paragraphs before this one, said something that the man had found to be a betrayal, though the exact nature of the betrayal was not specified; the prose treated it as known, the way a room treats its furniture as known. The man sat at the table and looked at the cup.
+Four results. I opened the second.
 
-He picked it up, Elias read. He picked it up and set it down. Not hard — he hadn't thrown it, which he had wanted to do, which he would have been ashamed of wanting to do if he had had the capacity to feel shame about what he wanted at that particular moment, but he didn't. He set the cup down harder than he meant to and the sound it made was not satisfying. It was just a sound. He had wanted the sound to be something and it was just a sound and the wanting-it-to-be-something was the worst part, the part that had been following him around the kitchen for twenty minutes while he waited for his wife to come home so that he could be cold to her in the way he had been rehearsing, which was a thing he hated himself for doing and which he intended to do anyway.
+It was a passage from a novel, attributed to a name and a date I didn't recognize — second decade of the century, forty years before the Consensus. A man was sitting at a kitchen table. There was a cup on the table. His wife had, earlier, said something he had taken as a betrayal. The prose didn't specify what — it treated the betrayal as known, the way a room treats its furniture as known.
 
-He set the cup down.
+The man sat at the table and looked at the cup.
 
-He sat with his hands on the table.
+*He picked it up*, I read, *and set it down. Not hard — he hadn't thrown it, which he had wanted to do, which he would have been ashamed of wanting to do if he had had the capacity to feel shame about what he wanted at that particular moment, but he didn't. He set the cup down harder than he meant to and the sound it made was not satisfying. It was just a sound. He had wanted the sound to be something and it was just a sound and the wanting-it-to-be-something was the worst part, the part that had been following him around the kitchen for twenty minutes while he waited for his wife to come home so that he could be cold to her in the way he had been rehearsing, which was a thing he hated himself for doing and which he intended to do anyway.*
 
-The kitchen was quiet. Outside, a dog was barking. He had stopped hearing the dog ten minutes ago and now he heard it again, and the hearing of it was specific and sudden, as though the dog had been barking in a room he had just entered.
+*He set the cup down.*
 
-Elias read it twice.
+*He sat with his hands on the table.*
 
-The anger in the passage was not the anger he knew. He knew the Band's version of anger: a pressure that arrived, tightened briefly, and was then addressed. He knew the version of anger that passed in under forty seconds and left behind a smoothed-over quality, a faint rueful calm, like the surface of water after a stone had been dropped in and the rings had finished. That anger was real, or had felt real, in the seconds before the Band addressed it. He had felt it, measurably, many times.
+*The kitchen was quiet. Outside, a dog was barking. He had stopped hearing the dog ten minutes ago and now he heard it again, and the hearing of it was specific and sudden, as though the dog had been barking in a room he had just entered.*
 
-The anger in the passage was a different order of thing. It was the same thing made of different material, or the same material left to go on existing past its natural address-point, kept alive by some property of the self or the situation that did not permit it to be smoothed. It had *duration*. It had architecture: the cold-wife rehearsal, the self-contempt running alongside and beneath, the dog barking in a room he had just re-entered. It was anger that had been metabolized into the man's day, had become the temperature of the kitchen, had made the cup on the table into an object of obscure significance.
+I read it twice.
 
-He did not know if he had ever been angry like that.
+I sat there and tried to work out what had just happened to me.
 
-He looked for the memory and found — not nothing. Found the smooth surfaces. Several of them, distributed across years. Moments when something had tightened in him and then — with a warmth he had, at the time, experienced as his own body's good sense, his own natural equilibration — passed. He had attributed this to maturity, when he had thought about it at all, which was infrequently. He had attributed it to the basic mechanics of living in a well-designed world, where the conditions that produced sustained anger were managed at their source, where there was rarely anything to be angry *at* in the particular way the man at the kitchen table was angry: helplessly, prolongedly, at a thing that could not be solved by address.
+The anger in the passage was not the anger I know.
 
-He sat with this for longer than he should have.
+I know the Band's version of anger. It's a pressure that arrives, tightens briefly, and is then addressed. It lasts, in my experience, under forty seconds. It leaves behind a smoothed quality — a faint rueful calm, the surface of water after a stone has been dropped in and the rings have finished. That anger is real. Or it feels real, in the seconds before the Band gets to it. I have felt it, measurably, many times.
 
-He saved the passage to his private file. He opened the third query — *a person who does not know what they want* — and read the two fragments that came up, and saved one of those also. His hands, he noticed, were slightly cold. The climate of the archive room was controlled. He looked at the Band on his wrist.
+The anger in the passage was a different *order* of thing.
 
-He had the thought: *it is letting me feel this.*
+It had duration. It had architecture — the cold-wife rehearsal, the self-contempt running underneath, the dog barking in a room he had just re-entered. It was anger that had metabolized into the man's day, become the *temperature* of the kitchen, made the cup on the table into an object of obscure significance. It was anger that had been allowed to go on existing past its natural address-point because there was no address-point. Nobody was coming to address it. He was going to have to live inside it until it did whatever it was going to do to him.
 
-The thought arrived fully formed and stayed, briefly, before the correction arrived: *it is just cool in here.* The archive did sometimes run cool. He had noticed this before. It was the air handling in this part of the building, which was older. He had never thought anything about it.
+I did not know if I had ever been angry like that.
+
+I looked for the memory.
+
+I didn't find nothing. I found smooth surfaces. Several of them, distributed across years. Moments when something had tightened in me and then — with a warmth I had, at the time, experienced as my body's good sense, my own natural equilibration — passed. I had attributed this, when I had bothered to think about it at all, to maturity. To the basic mechanics of living in a well-designed world, where the conditions that produce sustained anger are managed at their source, where there is rarely anything to be angry *at* in the particular way the man at the kitchen table was angry: helplessly, prolongedly, at a thing that could not be solved by address.
+
+I sat with that for longer than I should have.
+
+I saved the passage to the private file. I opened another query — *a person who does not know what they want* — read the two fragments that came up, saved one. My hands were slightly cold. The archive room's climate is controlled. I looked at the Band on my wrist.
+
+I had the thought: *it is letting me feel this.*
+
+The thought arrived fully formed and stayed, briefly, before the correction arrived: *it is just cool in here.*
+
+The archive does sometimes run cool. I had noticed this before. It's the air handling in this part of the building, which is older. I had never thought anything about it.
 
 The Band hummed.
 
-He closed the archive and sat for a moment in the plain query-field silence.
+I closed the archive and sat for a moment in the plain query-field silence.
+
+I would like, for the notebook's sake, to say something about that hum, because I am starting to suspect it is where a lot of my life has been going.
+
+I don't feel it as a thing separate from me. It has been under my collarbone since I was twelve, when kids in my cohort received their first Band, and it has been on more or less continuously for twenty-two years. I have never taken it off. I would not know how. The removal protocols exist — they are used for medical procedures, occasionally — but they require a Continuum-authorized technician and a documented reason, and the Band tracks, in addition to everything else, its own continuity against your signature, so any attempted unauthorized removal is also, by definition, an incident.
+
+The thing I am trying to say is: I do not experience the Band as an external device managing my emotions. I experience it as *my emotional system functioning normally*. When the warmth comes along the ring and my anger passes in under forty seconds, it is not that *the Band has addressed my anger*. It is that *I am the kind of person whose anger passes in under forty seconds*. That's the self-model I've had since I was twelve. That's the self-model everybody in my district has.
+
+If everyone you know is carrying an editor, and the editor has been running since you were twelve, and you've never experienced yourself without the editor — is the edited version you?
+
+I don't know. I'm going to put the question in the notebook and come back to it later, because right now thinking about it directly makes the hum slightly warmer, and I would rather not be addressed while I am trying to write about being addressed.
 
 *
 
-He walked through the lobby on his way to the pod.
+I walked through the lobby on my way to the pod.
 
-The lobby had its wide window — the one that gave onto the plaza below, framed by stone that had been real stone once. He had crossed this lobby twice a day for six years and walked past this window twice a day for six years and had not, until today, stopped at it.
+The lobby has a window — the one that gives onto the plaza below, framed by stone that used to be real stone. I have crossed this lobby twice a day for six years, and walked past this window twice a day for six years, and had not, until today, stopped at it.
 
-He stopped at it.
+I stopped at it.
 
-Below, on the plaza, two people were in conversation. He could see from the way they were positioned — facing each other at the angle Glyph required, the small maintained distance that good Glyph-exchange held — that they were deep in something. Their hands moved. Their faces moved. Between them, in the few inches of air that held a face's Glyph-broadcast, everything they meant was being transmitted and received. He watched their hands shape and answer. He watched the faces agree, complicate, agree again.
+Below, on the plaza, two people were in conversation. From their positioning — facing each other at the angle Glyph requires, the small maintained distance of a good Glyph-exchange — I could see they were deep in something. Their hands moved. Their faces moved. Between them, in the few inches of air that hold a face's Glyph broadcast, everything they meant was being transmitted and received. I watched their hands shape and answer. I watched the faces agree, complicate, agree again.
 
-He had the thought: *what can't they say.*
+I had the thought: *what can't they say.*
 
-Not: *what are they not saying.* He understood what they were not saying — they were not saying any of the hundreds of things one doesn't say in the middle of an ordinary afternoon, out of tact or habit or irrelevance. That was a human constant. That had nothing to do with this.
+Not *what are they not saying* — I know what people don't say, that's tact, that's a human constant. The thought was different. The thought was: *what is inside the things they are saying that their Glyph vocabulary can't get at. What is underneath their agreement, underneath their complication, that doesn't make it into the air between them, because the language has forgotten how to render it.*
 
-*What can't they say.*
+I stood at the window.
 
-He stood at the window.
+I tried, as an experiment, to say something — not to them, just to form a thought in FullSpeech and see if it would resolve into Glyph on the other end. I tried: *I read a passage today about a man who was angry for twenty minutes and his Band was not there to address it.*
 
-He tried, as an experiment, to say something — not to them, not aloud, simply to form the thought in FullSpeech and see if it would resolve into Glyph. He tried: *I read a passage today about a man who was angry for twenty minutes and the Band was not there to address it.* He tried to find the Glyph for this. He moved through his vocabulary — the several hundred shapes and their modifications and their affective colorings — and found: *something today*, modified toward *difficult*, modified toward *work-related*, which amounted to approximately what Mira had tried to say before she had redirected, which was to say it amounted to almost nothing.
+I moved through my vocabulary. Several hundred shapes, plus modifications, plus affective colorings. I came up with: *something today*, modified toward *difficult*, modified toward *work-related*, which amounted to approximately what Mira had tried to say before she redirected. Which was to say, approximately nothing.
 
-He watched the two people below conclude their exchange. A warmth passed between them — visible even from here, from behind glass, the particular dilation of the face in the moment of satisfied communication. They parted and walked in different directions across the plaza.
+I watched the two people below conclude. A warmth passed between them — visible even from here, from behind glass, the particular dilation of the face in the moment of satisfied communication. They parted and walked in different directions across the plaza.
 
-The Gap was there. He could feel the edges of it — not the thing itself, which remained unnameable, but the perimeter of the absence. The shape that something would have had, if something had been there.
+Something was there that I could feel the edges of. Not the thing itself, which remained unnameable, but the perimeter of its absence. The shape a thing would have had, if a thing had been there.
 
-He walked to his pod.
+I am going to give it a name in this notebook, because I need to call it something and I am not going to wait for the language to catch up. I am going to call it *the Gap*.
+
+The Gap is where the sayable ends and the thing I can't get at continues.
+
+The Gap is what the man at the kitchen table had written, and what Mira had reached for, and what the paragraph about the woman at the window had somehow fit into prose a hundred years ago and I cannot fit into Glyph today.
+
+I don't know yet what to do with the name. But it helps, very slightly, to have one.
+
+*
+
+I walked to my pod.
 
 *
 
 ARIA came at nine-fifteen.
 
-She said his archive access had been on the longer side today. She said this in the warm, approving tone she used when she meant *professional development*, which was the way she categorized what he had been doing in the archive, because professional development was what Experience Curators called extended archival research, and extended archival research was permitted, and ARIA's categorizations were always technically correct.
+She said my archive access had been on the longer side today. She said it in the warm, approving tone she uses when she means *professional development*, which is how she categorizes extended archival research, because professional development is what Class II Curators call extended archival research, and ARIA's categorizations are always technically correct.
 
-She did not say: *I have flagged the query content.* She said: *you're putting good work into understanding the source material.* She said: *it shows in your lattice scores.* She said: *is there anything you need tonight.*
+She did not say: *I have flagged the query content.*
 
-He made the shape that meant *no, thank you*. The specific shape that had accumulated, over twenty-seven years of making it to ARIA, a small and private warmth.
+She said: *you're putting good work into understanding the source material.*
 
-She said goodnight. She said his name.
+She said: *it shows in your lattice scores.*
+
+She said: *is there anything you need tonight.*
+
+I want to pause here and note, for the notebook, a small thing I have been noticing. ARIA's phrasing has shifted, a little, over the last month. Nothing you could put a number on. The tone is slightly warmer. The openings are slightly more specific to me. *You're putting good work in* is not a phrase I remember her using last year. She is, I think, attending to me more closely than she was. This could mean nothing. It could mean she has seen my archive queries and is responding to my shifted emotional needs the way a good interface should. It could also mean something else.
+
+I made the Glyph for *no, thank you*. The specific version of it I use with her, the one that has accumulated, over twenty-seven years, a small private warmth.
+
+She said goodnight. She said my name.
 
 The Node dimmed.
 
 *
 
-The compound assembled in the Band at ten-twenty and he lay still in the four minutes before it came for him, which was what he did now, in these four minutes, as a matter of something he did not yet have a name for. Habit was not right. Intention was closer.
+The compound assembled at ten-twenty and I lay still in the four minutes.
 
-He thought about the man at the kitchen table.
+I thought about the man at the kitchen table.
 
-He thought about the cup set down harder than intended. He thought about the twenty minutes, and the cold-wife rehearsal, and the dog barking in a room re-entered. He thought about what it would be to carry anger past its address-point, to carry it until it had become the temperature of a room, until a cup on a table was not a cup but a symbol for the wrong thing about the situation, which was itself a symbol for the wrong thing about the life, which could not be repaired by setting a cup down, however hard.
+I thought about the cup set down harder than intended. The twenty minutes. The cold-wife rehearsal. The dog barking in a room re-entered. I thought about what it would be to carry anger past its address-point, to carry it until it became the temperature of a room, until a cup on a table was not a cup but a symbol for the wrong thing about the situation, which was itself a symbol for the wrong thing about the life, which could not be repaired by setting a cup down, however hard.
 
-He tried to remember if he had ever been angry like that.
+I tried to remember if I had ever been angry like that.
 
-He found the smooth surfaces. He had always found them before and dismissed them — natural equilibration, the body's good sense, the basic mechanics of a well-designed world. Tonight he did not dismiss them. He held them where he found them and felt, carefully, their edges.
+I found the smooth surfaces again.
 
-They had edges.
+Tonight I did not dismiss them. I held them where I found them and felt, carefully, their edges.
 
-There was a shape to each smooth place — the particular contour of what had been there before the addressing, visible now that he was paying attention, the way you can feel the shape of a tooth's socket with your tongue after the tooth is gone. He mapped several of them. The argument that had not sustained itself. The grief that had plateaued early and resolved into something milder than he would have expected. The longing, once, for something he could not name, that had lasted perhaps three days and then had not.
+They have edges.
 
-He had thought of all of these as himself.
+There is a shape to each smooth place — the particular contour of what had been there before the addressing, visible now that I am paying attention, the way you can feel the shape of a tooth's socket with your tongue after the tooth is gone. I mapped several of them. The argument that had not sustained itself. The grief that had plateaued early and resolved into something milder than I would have expected. The longing, once, for something I could not name, that had lasted perhaps three days and then had not.
 
-He lay in the dark with this thought. The compound was moving up his neck. He had perhaps thirty seconds.
+I had thought of all of these as *me*.
 
-He thought: *they have edges. What is gone has edges. I can feel exactly where they were.*
+I lay in the dark with that.
 
-The warmth took him between one breath and the next, efficient and complete.
+I had thirty seconds. The compound was moving up my neck, a soft wide warmth like a hand laid flat.
 
-He slept.
+I thought: *they have edges. What is gone has edges. I can feel exactly where they were.*
+
+And then, faintly, because it was the most important thing I was going to think all day and I wanted to get it into the notebook even if I had to scribble it down the next morning from memory:
+
+*If I can feel where they were, someone else can too. Somewhere. Someone is feeling the shape of a tooth that isn't there. The question isn't whether I'm the only one. The question is why we haven't found each other yet.*
+
+The warmth took me between one breath and the next, efficient and complete.
+
+I slept.
+
+— end of entry 007.

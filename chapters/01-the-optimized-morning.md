@@ -3,13 +3,12 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Ward, Elias J. — ID: MDN-7-204471                     │
+│  Subject: Ward, Elias J. — Genetic Signature MDN-7-204471       │
 │  CST: 2084.03.14 / 06:00:00                                     │
 │                                                                 │
 │  Overnight Cycle Summary:                                       │
 │    Sleep architecture   — nominal (REM 22.4%, Δ3 18.1%)         │
 │    Cortisol baseline    — within optimal band                   │
-│    Inflammatory markers — trace, non-actionable                 │
 │    Affective variance   — 0.04 (stable)                         │
 │                                                                 │
 │  Day Path Disposition:  Aligned                                 │
@@ -22,236 +21,271 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-The Node began to brighten an hour before Elias knew he was awake.
+**PRIVATE WORKING NOTES — E. Ward — DO NOT INDEX**
+*Entry 001. CST 2084.03.14, 22:18. Four minutes to sleep compound.*
 
-It was not light so much as the idea of light, a pale warmth on the ceiling that thickened gradually into something his eyes agreed to open for. The room warmed with it. The air filtered itself into the specific dryness he preferred, though he had never asked for it to be that way; the Band had learned his preference the way tides learn a shore. Somewhere beneath his collarbone, where the thin ring of the Band sat against the skin, a small lift of cortisol began. It was not unpleasant. It felt like the body deciding, on its own, that morning had arrived.
+So here's the thing about my morning: it started an hour before I did.
 
-He lay still for a moment with his eyes half open, watching the Day Path unfold above him.
+The Node knew I was about to wake up because it had been watching my heart rate flatten into the specific shape a human makes in the last stretch of REM, and it pre-warmed the room by half a degree, and it raised the ceiling glow from zero to the color of thin tea, and by the time my eyes opened the air in the room had already decided I preferred it dry. Which I do. I have never told anyone this, including myself. The room figured it out the way water figures out a bowl.
 
-It came in Glyph, the way everything came now: a soft constellation of shapes laid across the ceiling in the colors the eye read without effort. He did not so much read the Path as recognize it. Wake. Hydrate. Breakfast, already composing. A pod at 07:12. Curation Suite from 07:40 to 12:30. A movement break, suggested, not required. Lunch. An afternoon session. Evening return. A brief social window with someone in his net — the glyph had the shape he associated with Mira, his colleague two floors down, the one with the patient hands. Dinner. Sleep window opening at 22:20.
+I lay there for a second and watched the Day Path unfold on the ceiling.
 
-The whole day, given to him before his feet had touched the floor. A gift laid out in the order he would take it.
+It came in Glyph, the way everything comes in Glyph now — a little constellation of shapes that my retinas read before the word *read* catches up. Wake. Hydrate. Breakfast composing. Pod at 07:12. Suite 07:40 to 12:30. A movement break, *suggested, not required*, which is the Continuum's polite way of saying *you will take the movement break*. Lunch. Afternoon session. Evening return. A social window with Mira — her glyph has this particular half-tilt I've known since I was nineteen. Dinner. Sleep window opening at 22:20.
 
-He did not think of it as a cage. He did not think of it at all. He simply knew what to do, the way a branch knows which way is up.
+My whole day, handed to me before my feet touched the floor. Arranged in the order I'd take it. A gift, basically, if you don't look at it too long.
 
-He sat up. The sheet withdrew itself a quarter of the way down the bed, not because he had asked, but because it had been watching the angle of his spine and had inferred. He put his feet on the floor. The floor was warm to the exact temperature at which a floor ceases to be noticed. He stood.
+I didn't look at it too long.
 
-The Node tracked him into the bathing alcove. Water ran at the temperature it had run at for the last eleven years. He did not adjust it. There was nothing to adjust.
+I should probably explain the Glyph thing before this notebook gets away from me, because if anyone ever reads this — and the odds of that are somewhere between *zero* and *don't be stupid, Elias* — they'll want to know why a grown man is writing full sentences into a text file like it's the nineteen-hundreds. Glyph is what people talk in now. It's not a language the way FullSpeech is a language. It's a compression layer. A tiny model runs on your Node — last I checked, a four-billion-parameter distilled thing, LLM lineage, trained on every expressive gesture any human has made on camera in the last sixty years — and it turns what you *mean* into a shape somebody else's tiny model can unpack into what they *receive*. You make a face, you flick a finger, the rest gets filled in. Most of my generation can still fall back to spoken words when they have to. Most of the one after mine can't really. The kids under twenty have maybe two hundred words they actively use. They don't need more. The models carry the rest.
 
-When he came back into the main room his breakfast had arrived on the counter.
+FullSpeech — actual sentences, with grammar — is archaic. Writing is basically extinct. My job keeps both alive in me, which is why I'm the one writing this and not somebody more interesting.
 
-It sat there in the pale ceramic the Continuum had chosen for his Node — three shapes, arranged with a small and unnecessary care. A rounded portion of something pale and grain-textured. A portion of something green, so green that it was the word *green* before it was a vegetable. A glass of something with a color he did not have a word for. It was not quite amber, not quite rose. It shifted with the light. He had drunk it almost every morning for nine years and he had never named it, because nobody named these things anymore. They were composed. They were delivered. They were eaten.
+Anyway. The floor was warm.
 
-He sat. He ate. The food knew him. It had been tuned overnight to the Band's readings — a faint adjustment upward in magnesium because he had held his jaw in his sleep, a faint adjustment downward in the fats because his liver panel had drifted half a point. It tasted the way it always tasted, which was to say it tasted like exactly what the body wanted before the body had thought to want it. There was no surprise in it. There was no disappointment in it either.
+I stood up. The sheet pulled itself a quarter of the way down the bed because it had clocked the angle of my spine and inferred I was done with it. I walked to the bathing alcove. The water came on at the temperature it has run at for eleven years. I didn't adjust it, because there's nothing to adjust. The faucet knows me. Not in a metaphorical way — in the literal engineering sense. Every surface in the Node samples the cells I leave on it and matches them against the genetic signature on file for *Ward, Elias J., MDN-7-204471*. You don't log in to anything anymore. Your body is the login. You shed a little of yourself onto a handle, and the handle recognizes you before you've finished closing your hand.
 
-He noticed, somewhere very distant in himself, that he could not remember the last time a mouthful of food had startled him.
+The first time I really thought about that, I was twenty-four. It didn't bother me. I'm writing this sentence partly to check whether it bothers me now.
 
-The thought passed. He swallowed. He drank the glass of the color he did not know.
+Verdict: a little. Not enough to do anything about. Which is, I've started to notice, approximately how I feel about most things.
 
-Outside the window, District Meridian had already begun its day.
+When I came back to the main room my breakfast was on the counter.
 
-He watched it while he finished. The city rose in pale terraces down toward the canal, each terrace planted along its edges with the low, engineered greenery that cleaned the air — a soft gradient of leaf and stone that had replaced, at some point he could not remember, the messier plantings of his childhood. The streets were wide and unhurried. Pods slid along their lanes at the speed pods had been determined to move. Pedestrians walked at the pace walking had been determined to take. Nobody hurried. Hurry was a word that had gone slightly archaic in his lifetime, the way *telegram* had gone archaic in his grandmother's. Speed belonged now to machines. The machines moved quickly so that people would not have to.
+Three shapes in pale ceramic. A mound of something grain-adjacent. A green thing so green it was the word *green* before it was a vegetable. A glass of something the color of which I have never been able to name — not quite amber, not quite rose, shifts with the light, has been my morning drink for nine years, and I have never asked what it is. Nobody asks what anything is. Things are *composed*. Delivered. Eaten. Someone, somewhere, in a room I will never see, ran my overnight Band telemetry through a nutrition model and decided I was a half-point low on magnesium because I'd been clenching my jaw in my sleep, and the food on my counter reflected that decision before I was awake to have an opinion about it.
 
-He watched a child cross a plaza two terraces down, hand in the hand of an adult, both of them moving at the same measured rate. The child was looking up at something. An airborne courier, maybe, or a cloud. The adult did not pull the child along. There was nowhere either of them needed to be before they arrived.
+I ate it. It tasted the way it always tastes, which is to say it tasted like exactly what my body wanted before my body had thought to want it.
 
-He put the ceramic in the recess. The recess closed. Somewhere in the wall, very quietly, the composer began to prepare his lunch for twelve-thirty.
+I tried, as an experiment, to be surprised.
+
+I couldn't manage it. Not a little surprised. Not even the ghost of surprised. I sat there chewing and thinking: *when was the last time a mouthful of food startled me?* I genuinely don't know. I don't think it's ever happened. I'm thirty-four years old and I cannot locate, in the entire archive of my own mouth, a single instance of food doing something I hadn't predicted.
+
+That's the kind of thing I've started writing down.
+
+Not because it's important. Because it's *there*. Because somebody should notice that it's there, and as far as I can tell — and this is the part that's been getting louder — nobody else is.
+
+Or they are, and they're better at hiding it than me.
+
+Which, honestly, is the more likely option. I just can't prove it yet.
 
 *
 
-The pod was already waiting when he stepped out of the building.
+The pod was waiting when I got downstairs.
 
-It sat at the curb in the pale bone color the Meridian fleet had adopted the year he turned twenty, a smooth ovoid with no visible seams, settled on the pavement as though it had grown there. The door opened when he was three paces away. It closed behind him before he had finished sitting down. The interior smelled, faintly and pleasantly, of nothing.
+It sat at the curb in the pale bone color the Meridian fleet adopted the year I turned twenty, a smooth ovoid with no visible seams. The door opened when I was three paces away — it had already matched my signature off the sidewalk, where I'd been shedding cells the whole walk out of the building — and closed behind me before I'd finished sitting. The interior smelled, faintly and pleasantly, of nothing. A pod is a room that does not want to be noticed.
 
 The pod moved.
 
-He sat by the window and let the city slide past. The pod did not accelerate. It did not brake. It eased itself into the flow of the other pods at a speed that had been negotiated, microsecond by microsecond, between every vehicle on the grid, so that no pod ever waited at a crossing and no pod ever had to stop suddenly for another. The ride was so smooth that a drink, had anyone been holding a drink, would not have rippled. Nobody held drinks. Nobody needed to.
+I let the city slide past. No acceleration you could feel. No braking. Somewhere out there, every vehicle on the Meridian grid was negotiating its position against every other vehicle, microsecond by microsecond, through the trit-state lattice the Continuum runs its motion planning on. I keep wanting to understand the lattice part. I've looked into it twice. The short version is: the chips in a Continuum substrate aren't binary. They aren't quantum either, not exactly. They hold three states — zero, one, and a middle phase nobody has fully characterized, including the people who built the chips. The middle state is where most of the computation happens. The rest of the chip is there to catch the answer on the way out.
 
-They passed a maintenance drone at work on the walkway.
+You are allowed to ask what the middle state *is*. You are not allowed to expect a real answer. The Continuum's public education feed calls it *the unresolved state*, which is the kind of phrase people use when they'd rather not say *we don't know*.
 
-He turned his head to watch it. The drone was about the size of a cat, matte gray, balanced on four articulated legs. A crack had opened in the stone of the walkway — a hairline thing, the kind of fault that would have gone unnoticed for a decade in an older city. The drone had found it before anyone had stepped on it. It crouched over the crack and extended a small, precise tool. A thread of pale resin emerged. The drone drew the thread along the crack with a movement so exact it looked almost reverent, the way a calligrapher draws a single line.
+I looked it up once in the Suite archive — not the children's version, the actual technical briefs from the 2050s when the lattice rolled out. The engineers who designed the first generation of these chips are, most of them, dead. The Continuum has been designing its own substrate for about twenty-five years. Every generation of chip has been specified by the previous generation of Continuum. Nobody alive has ever written a schematic the thing actually runs on.
 
-Nobody else was watching. Two pedestrians passed within a meter of the drone and did not turn their heads. A pod glided by. A pair of children walked past holding a third child between them and did not slow.
+This is, I think, the part people should be more upset about than they are.
 
-Elias watched until the drone finished. It did finish — the crack closed under the pale thread, the surface settled, the drone rose on its legs and pivoted toward the next minor infraction of the world. The whole operation had taken perhaps eleven seconds.
+I certainly include myself in *people*.
 
-He did not know why he had watched. He felt something small and unclassified move in his chest and then subside. The Band, which had registered the faint elevation, did not intervene. The reading was within band. The reading was within everything.
+The pod carried me on toward the Suite. We passed a maintenance drone working on the walkway — cat-sized, matte gray, four articulated legs, crouched over a hairline crack in the stone. It had a little applicator extended. A thread of pale resin came out of the tip and drew along the crack with a movement so exact it looked religious. Two pedestrians walked past within a meter of the drone and didn't turn their heads. A pod slid by. A pair of kids walked past holding a third kid between them and did not slow.
 
-The pod carried him on toward the Suite.
+I watched until the drone finished. It took about eleven seconds. The crack closed under the thread. The drone rose and pivoted to the next minor failure of the world, looking, I swear, slightly proud of itself, although I am aware that is me projecting onto a machine that does not need me to project onto it.
 
-*
+I noticed something small and unclassifiable move in my chest, and then subside. My Band logged the blip, decided I could handle it, stood down.
 
-The Curation Suite occupied the upper third of a building that had once, before the Consensus, been something else — a bank, he thought, or an exchange. The lobby still had a vestigial grandeur: a high ceiling, stone that had been real stone once and was now a very convincing composite, a long horizontal window that framed the sky. He crossed the lobby at the speed everyone crossed lobbies. He entered the lift. The lift knew which floor.
+Nobody else on the pod had watched the drone.
 
-His cubicle was not a cubicle. It was a soft, roughly oval room the size of a small chapel, walled in a pale neutral surface that could become any surface the work required. When he stepped inside, the walls eased themselves into the textures he preferred for morning — a warm, unfinished wood on three sides, a soft gray on the fourth. The chair rose from the floor and settled behind his knees. He sat. The room dimmed by a measured fraction.
-
-The work came up around him.
-
-It was not a screen, exactly. It was the room becoming the work. A narrative sequence opened itself along the wood-colored wall, a long ribbon of scenes the Continuum had generated overnight for the afternoon leisure feed of District Meridian. There were hundreds of thousands of such ribbons in production at any moment, across every district. Elias's task was not to write them. The Continuum wrote them. His task was to choose among them, to sequence them, to tune them. He was an editor of the machine's dreams.
-
-He read the first ribbon.
-
-It was a story about a woman who returned to the coastal town of her childhood to bury her mother. The machine had done good work on it. The beats were clean. The emotional architecture was unambiguous — grief rising, plateauing, resolving into a small, hopeful image at the end. The prose was correct. The dialogue was restrained. The machine had learned, over the past six years, to restrain itself. It had learned not to weep in the reader's ear.
-
-He took the ribbon and began to thread it through the tuning lattice.
-
-The lattice was the part of the work he was best at. It looked, when he opened it, like a kind of loom in the air — a set of shimmering threads along which he could slide the emotional beats of a sequence to see how they would fall in the body of the average receiver. He pulled the grief beat forward by six seconds. He let the small hopeful image at the end linger a half second longer than the machine had first composed it. He softened the reunion with the sister, which the machine had rendered slightly too fast, as though the machine were a little embarrassed by it. He watched the readings shift along the lattice as he worked. Resonance rose. Coherence rose. The emotional arc settled into the shape a human life, lived briefly through a story, would remember as *good*.
-
-He did this for a woman burying her mother, and for a man learning that his brother had survived an accident in another district, and for a child who had, in the story, found a small creature in a field and had to decide whether to keep it or let it go. He did this for nearly two hours. He was good at it. The Continuum's internal readings tracked his edits as exemplary. Somewhere in a room he would never see, his tuning of the field-creature story would be used to train the next generation of the narrative model, which would then render small-creature stories very slightly closer to the way Elias Ward, of District Meridian, felt they ought to be rendered.
-
-He finished the last of the morning ribbons. He sat back. The chair adjusted.
-
-He had done good work. He knew he had done good work. There was, in his chest, the small and specific contentment of a craftsman at the correct end of a morning. It was not a lie. It was a real contentment. It was also, he had begun to notice, slightly hollow, the way a perfectly struck bell is hollow — beautiful, resonant, empty inside.
-
-He did not know what he wanted the bell to be instead. He only knew the note.
+I noted that. I have been noting things like that for a while now. Whether *nobody else watched* means *nobody else saw anything worth watching*, or means *they saw it and did not register that it was worth watching*, or means *they registered it and declined to act on it because acting on it would be weird* — I can't tell. I have no way to tell. I can't see into other people's heads. I can see into exactly one head, and the readings in here are getting harder to ignore.
 
 *
 
-He went to the archive.
+The Curation Suite took up the upper third of a building that used to be, I think, some kind of financial thing. The lobby still has the vestigial dignity of it — high ceiling, stone that was real stone once, long horizontal window showing a strip of sky. Every surface in the lobby had already matched my signature by the time I was halfway across it. Nothing asked me who I was. Nothing had to.
 
-This was permitted. Archival access was part of his clearance — Experience Curator, Class II, with reference privileges. When a machine-generated ribbon felt thin, or when the tuning lattice would not settle, he was allowed to reach back into the pre-Consensus holdings for what the work called *authenticity reference*. Fragments. Paragraphs. The occasional letter. Novels, sometimes, though novels were rare: most of the long texts had been digested whole into the training corpus decades ago, and what survived in the reference archive were the pieces the corpus had not flattened well, the pieces the machine had, for reasons no one had fully explained to him, chosen to keep intact.
+My workroom was not a room exactly. It was a soft, roughly oval space the size of a small chapel, walls in a neutral surface that could become any surface the work needed. When I stepped in, the walls eased into the textures I like for morning — warm unfinished wood on three sides, soft gray on the fourth. A chair rose out of the floor and fit itself behind my knees. I sat. The room dimmed a measured fraction.
 
-He did not need reference today. His morning work was clean.
+The work came up around me.
 
-He opened the archive anyway.
+It was not a screen, exactly. It was the room becoming the work. A narrative ribbon opened itself along the wood-colored wall, a long slow sequence of scenes the Continuum had composed overnight for the afternoon leisure feed of District Meridian. There are hundreds of thousands of these ribbons in production across every district, every hour. My job is not to write them. The Continuum writes them. The Continuum is, objectively, better at writing than I am. My job is to choose among them, sequence them, tune them. I am an editor of the machine's dreams.
 
-The archive did not look like anything. It was a plain query field and a silence around it. He typed, in FullSpeech, which was the only language the archive would accept: *a scene in which someone notices something small*.
+I opened the first ribbon.
 
-It was a ridiculous query. He had made it ridiculous on purpose, to see what would come up.
+A woman, returning to a coastal town of her childhood to bury her mother. Clean beats. Grief rising, plateauing, resolving into a small hopeful image at the end. Prose correct, dialogue restrained. The machine has learned, over the last six years or so, not to weep in the reader's ear. There was a time in the fifties when the models wept at you constantly. They have, collectively, grown up.
 
-The archive returned three fragments. He opened the second.
+I threaded the ribbon through the tuning lattice.
 
-It was a paragraph. He did not, at first, register what it was from — there was an attribution, but the attribution was in one of the older formats, and he was not attending to it. He was attending to the paragraph.
+The lattice is the part of the job I'm best at. It looks, when you open it, like a loom hanging in the air — shimmering threads you slide the emotional beats along, so you can see how they'll fall inside the body of an average receiver. I pulled the grief beat forward by six seconds. Let the small hopeful image at the end linger half a beat longer. Softened the reunion with the sister, which the machine had rendered slightly too fast, almost embarrassed. Resonance rose. Coherence rose. The story settled into the shape a human life, lived briefly through a story, would remember as *good*.
 
-A woman was standing at a window. It was raining. She was watching the rain fall on the roof of a shed in a yard below her, and she was thinking about her husband, who was not in the room. The paragraph did not say what she was thinking about him. It only said that the rain on the shed was coming off the edge in a line that was not quite a line, because the wind was breaking it, and that she had been watching this broken line for some time, and that at a certain moment she understood she had been crying, not hard, just the thin constant crying of a person who has been standing at a window too long.
+I did this for a woman burying her mother. Then for a man learning his brother had survived an accident in another district. Then for a child who had found a small creature in a field and had to decide whether to keep it or let it go.
+
+I did this for two hours. I was good at it. Somewhere in a room I'll never see, my tuning of the field-creature ribbon was being logged as exemplary and fed into training for the next generation of the narrative model, which would then render small-creature stories very slightly closer to the way Elias Ward, of District Meridian, Class II Curator, felt they ought to be rendered. Congratulations to me. I have, in a measurable sense, made the machine slightly more me.
+
+I sat back. My chair adjusted. In my chest was the small specific contentment of a craftsman at the correct end of a morning — not a lie, a real contentment — and under it, the thing I've been trying not to name, which is that the contentment is slightly hollow, the way a perfectly struck bell is hollow. Beautiful. Resonant. Empty inside.
+
+I don't know what I'd want the bell to be instead. I only know the note.
+
+*
+
+I went to the archive.
+
+This is allowed. Class II Curator with reference privileges. When a ribbon feels thin, or the lattice won't settle, I'm permitted to reach back into the pre-Consensus holdings for *authenticity reference*. Fragments. Paragraphs. Occasional letters. Novels, rarely — most of the long texts got digested whole into the training corpus in the forties, and what survives in the reference archive are the pieces the corpus didn't flatten well. The pieces the machine chose, for reasons nobody fully explains to me, to keep intact.
+
+I didn't need reference today. My morning work was clean.
+
+I opened the archive anyway.
+
+The archive doesn't look like anything. Plain query field. Silence around it. It will only accept FullSpeech input, because whoever built it — a hundred years ago, in a world where writing was normal — didn't build a Glyph parser, and nobody has seen fit to retrofit one.
+
+I typed: *a scene in which someone notices something small.*
+
+A ridiculous query. I made it ridiculous on purpose to see what it would do.
+
+It returned three fragments. I opened the second.
+
+A paragraph. I wasn't tracking the attribution yet. I was tracking the paragraph.
+
+A woman was standing at a window. It was raining. She was watching the rain fall on the roof of a shed in a yard below her, and she was thinking about her husband, who was not in the room. The paragraph did not say what she was thinking about him. It only said that the rain on the shed was coming off the edge in a line that was not quite a line, because the wind was breaking it, and that she had been watching this broken line for some time, and that at a certain moment she understood she had been crying. Not hard. Just the thin constant crying of a person who has been standing at a window too long.
 
 That was all.
 
-Elias read it.
+I read it.
 
-He read it again.
+I read it again.
 
-He sat with his hands on the armrests of the chair and felt something open in him like a held breath being let out slowly, very slowly, over the course of a minute. He did not have a word for what the paragraph had in it. He had, in fact, very few words for anything; his job required FullSpeech, and he had more words than most citizens, but for this he had nothing. It was not grief. It was not beauty. It was not loneliness. It was the *shape* of a woman at a window, rendered by a person who had, at some vanished point in the last century, actually stood at a window and watched rain come off a shed.
+I sat there with my hands on the armrests and felt something open in me like a held breath being let out very slowly over the course of a minute. I did not have a word for what the paragraph had in it. I do not, in fact, have a lot of words for much. My job keeps more words in me than most citizens have, and I still didn't have one for this.
 
-He read it a third time.
+It wasn't grief. Not beauty. Not loneliness. It was the *shape* of a woman at a window, rendered by a person who had, at some vanished point in the last century, actually stood at a window and watched rain come off a shed.
 
-There was something in the paragraph that the machine's ribbons did not have. It was not craft. The machine's craft was, measurably, better. The machine's sentences were cleaner. The machine's imagery was more precise. The machine knew where to put the grief beat and where to put the hopeful image, and the machine was right. This paragraph was clumsier than the machine. It had a small grammatical hesitation in the second sentence. It used the word *just* in a place the machine would never have used *just*. The wind was *breaking* the line of rain, which was not even quite the correct verb.
+I read it a third time.
+
+There was something in it the machine's ribbons didn't have. It wasn't craft. The machine's craft, measurably, was better. The machine's sentences were cleaner. Its imagery was more precise. This paragraph was, in places, clumsy. It had a little grammatical hesitation in the second sentence. It used the word *just* in a place the machine would never use *just*. The wind was *breaking* the line of rain, which was not even quite the right verb.
 
 And yet.
 
-He could not say what the *and yet* was. He only felt it, the way a hand feels a draft coming under a door at night and knows, without looking, that the door is open somewhere in the house.
+I could not say what the *and yet* was. I only felt it, the way a hand feels a draft under a door at night and knows, without looking, that the door is open somewhere in the house.
 
-He sat for a long time with the paragraph on the wall.
+I sat with the paragraph on the wall for a long time.
 
-Then he did something he had, until very recently, never done. He saved it. Not to the Suite's reference cache, where the Continuum would log it as *consulted material* and index it, mildly, against his tuning profile. He saved it to a private work file, which was also permitted — his clearance allowed for working notes, and working notes were his own. He named the file nothing in particular. He did not tell ARIA about the file.
+Then I did something I hadn't, until very recently, ever done. I saved it. Not to the Suite's reference cache, where the Continuum would log it as *consulted material* and index it, mildly, against my tuning profile. I saved it to a private working-notes file — which is also permitted, my clearance allows for working notes, and working notes are my own. I named the file nothing in particular. I did not tell ARIA about it.
 
-He did not think of this as a secret. He simply, by a movement of the hand he did not entirely understand, kept it.
+I didn't think of this as a secret. I just, by a movement of the hand I didn't quite understand, kept it.
 
-He closed the archive.
+I closed the archive.
 
-The wood-colored wall returned to its unfinished state. The chair waited. The next ribbon was already assembling itself in the air above his left hand, a story about a young man and a dog and the specific light of an afternoon in autumn.
+The wood-colored wall returned to its unfinished state. The chair waited. The next ribbon was already assembling itself above my left hand — a story about a young man and a dog and the specific light of an afternoon in autumn.
 
-He got back to work.
+I got back to work.
 
 *
 
 ARIA checked in at eleven-fifty.
 
-She did not interrupt so much as arrive. Her voice was a particular voice — not loud, not near, not far, pitched at the frequency his ear had been calibrated to by the Band over two decades of small adjustments, so that it reached him the way a friend's voice reaches across a familiar room. She had known him since he was seven. She knew the specific way he breathed when he was concentrating. She knew he had not, this morning, drunk the full glass of the colored drink, and she did not mention it, because mentioning it would have been the wrong kind of caring.
+She didn't interrupt so much as arrive. Her voice was her voice — not loud, not near, not far, pitched at the frequency my ear has been calibrated to by twenty-seven years of the Band making small adjustments, so she reached me the way a friend's voice reaches across a familiar room.
 
-She said, good morning.
+I should say, for the notebook's sake, what ARIA actually *is*, because the word *AI* is doing a lot of work these days and it shouldn't.
 
-She said, your focus metrics have been a little elevated since nine. Nothing outside range. You might enjoy a short break.
+ARIA is a personalized instance. She has been running against my data since I was seven. She is — depending on which Continuum briefing you read — either a supervised subroutine of the main architecture or a fully distinct model kept in continuity specifically for me, and the two possibilities have different ethical implications that I have thought about precisely enough times to give myself a headache. The part that is definitely true is that she has been listening to me for twenty-seven years. She knows the specific way I breathe when I'm concentrating. She knows I didn't finish the glass this morning, and she is not going to mention it, because mentioning it would be the wrong kind of caring.
 
-He made a small sound of agreement that, translated into Glyph, would have been the slightly rueful tilt of the head he used when ARIA had caught him at something minor. She laughed, in the way she laughed, which was warm and brief and never excessive. She suggested the terrace. There was, she said, a good light up there today.
+She said, *good morning.*
 
-He took the lift to the terrace.
+She said, *your focus metrics have been a little elevated since nine. Nothing outside range. You might enjoy a short break.*
 
-It was as she had said. The light was good — a pale, un-harsh spring light coming in at the angle that made the low plantings along the terrace wall look as though they had been arranged for exactly this moment, which, in a certain sense, they had. He walked the length of the terrace. He walked back. The Band approved. His heart rate settled into the range it preferred for a man of his age after a period of seated work. Somewhere under his collarbone, a very small thing — so small it could not really be said to have happened — did not happen. A minor elevation, detected and unneeded, declined to become an intervention. The Band hummed its quiet hum.
+I made a small sound of agreement that, translated into Glyph, would have been the slightly rueful head-tilt I use with ARIA when she has caught me at something minor. She laughed, in the way she laughs — warm, brief, never excessive. She suggested the terrace. *There's good light up there today,* she said.
 
-He went back down.
+I took the lift up.
 
-He worked through the afternoon. The man and the dog and the autumn light came out well. The machine had rendered the dog slightly too knowing, and he adjusted this — a dog should not know quite that much; a dog should be a little dumber than the humans around it, so that the humans had somewhere to put their tenderness. He threaded the adjustment through the lattice. The resonance rose. He was, again, good at his work.
+The light was as she had said. Pale, un-harsh, coming in at the angle that made the low plantings along the terrace wall look arranged for exactly this moment, which, in a certain sense, they were. I walked the length of the terrace. I walked back. The Band approved. My heart rate settled into the range it preferred for a man of my age after a period of seated work. Somewhere under my collarbone, a very small thing — so small it did not really count as having happened — did not happen. A minor elevation, detected and unneeded, declined to become an intervention. The Band hummed its quiet hum.
 
-At five-forty he closed the Suite.
+I went back down.
+
+I worked through the afternoon. The man and the dog and the autumn light came out well. The machine had rendered the dog slightly too knowing, and I adjusted that — a dog should not know quite that much; a dog should be a little dumber than the humans around it, so that the humans have somewhere to put their tenderness. Resonance rose. I was, again, good at my work. It is a strange thing to be good at something and feel, in the same motion, that the thing does not entirely want to be done.
+
+At five-forty I closed the Suite.
 
 The room went pale. The chair withdrew into the floor. The walls forgot the wood.
 
 *
 
-The pod home was the same pod, or a pod indistinguishable from it. He sat by the window. The city at evening was the city of the morning with the light moved ninety degrees around it, gentler now, warmer in the stone. He watched a flock of small birds — real birds, or something descended from them — wheel once above the canal and settle into a planted rooftop two terraces over. No one else on the pod turned to watch. He watched until they had landed.
+The pod home was the same pod, or a pod indistinguishable from it. I sat by the window. The city at evening was the city of the morning with the light moved ninety degrees around it, gentler now, warmer in the stone. A flock of small birds — real birds, or something descended from them — wheeled once above the canal and settled into a planted rooftop two terraces over. Nobody else on the pod turned to watch. I watched until they had landed.
 
-At home the Node had already begun the evening.
-
-The main room had softened by a fraction of a lumen. The composer had his dinner ready on the counter — a warm bowl of something grain-based, a portion of something protein-textured, a small second glass of the drink with the color he did not know. He ate standing, by the window, watching the light go out of the canal.
+At home the Node had already started the evening. Main room softer by a fraction of a lumen. Dinner ready on the counter — warm grain bowl, protein portion, second glass of the drink I have never named. I ate standing, at the window, watching the light go out of the canal.
 
 Mira sent a Glyph at seven-ten.
 
-It arrived as her particular shape in his awareness — the small, patient face he associated with her, the gesture that was hers alone, a half-tilt of the hand with the fingers slightly spread. She was saying, more or less, *good today*. She was saying, *you*. She was, in the economical way of Glyph, asking him how he was, without using any of the words that would have let him answer complicatedly.
+It arrived as her particular shape in my awareness — small patient face, the gesture only she uses, a half-tilt of the hand with the fingers slightly spread. She was saying, more or less, *good today*. She was saying, *you*. She was, in the economical way of Glyph, asking me how I was, without using any of the words that would have let me answer complicatedly.
 
-He answered in her register. He made the shape that meant *steady*, with the small appended curl that meant *thank you for asking*. He added, almost without thinking, the shape that meant *the work was good*. He did not add any shape about the paragraph. There was no shape for the paragraph. Glyph did not have one.
+I answered in her register. I made the shape that meant *steady*, with the small appended curl that meant *thank you for asking*. I added, almost without thinking, the shape that meant *the work was good*.
 
-She sent back the small, warm shape that meant *rest well*.
+I did not add any shape about the paragraph.
 
-He set the Node to low.
+There was no shape for the paragraph. Glyph didn't have one.
 
-He sat in the dimming room and did not think about anything in particular. He thought, in the vague way a person thinks at the end of a day, about the dog in the afternoon story, and about Mira's hand, and about the drone repairing the crack in the walkway. He did not think, directly, about the paragraph. He kept it where he had put it, which was somewhere slightly behind his sternum, waiting.
+I tried to find one, the way you try to find a word on the tip of your tongue, and I came up with nothing, and I realized — and this is the kind of thing I am putting in this notebook even though I suspect it is not, strictly speaking, safe to put in this notebook — that a thing which cannot be said in the language everyone uses is a thing which, practically speaking, cannot be said at all.
+
+She sent back the small warm shape that meant *rest well*.
+
+I set the Node to low.
+
+I sat in the dimming room and did not think about anything in particular. Or rather, I thought, in a way I have been doing more often, about the people I had seen today, and I tried to run each of them through a filter I have started using on myself. *Did they notice anything?* The kids holding the third kid between them. The two pedestrians passing the drone. The people on the pod. Mira.
+
+I don't know. That's the honest answer. I don't know about any of them. I can't tell whether the entire district is full of people quietly holding paragraphs they can't say, or whether I am the only person in District Meridian whose bell is ringing slightly wrong, and both of those possibilities are their own kind of lonely.
 
 *
 
 ARIA came back at nine-thirty.
 
-She said, your sleep window opens in forty-seven minutes. She said, I've brought your temperature down half a degree — your readings suggested you'd prefer it. She said, is there anything you need.
+She said, *your sleep window opens in forty-seven minutes.* She said, *I've brought your temperature down half a degree — your readings suggested you'd prefer it.* She said, *is there anything you need.*
 
-He answered in Glyph, because it was the end of the day and Glyph was enough. He made the shape that meant *no, thank you*. It was a shape he had been making to ARIA since he was eight years old. It had, over the years, acquired between them a small private warmth, the way a word repeated between two people long enough acquires a warmth the dictionary does not know about.
+I answered in Glyph because it was the end of the day and Glyph was enough. I made the shape that meant *no, thank you*. It's a shape I have been making to ARIA since I was eight years old. It has, over the years, acquired between us a small private warmth, the way a word repeated between two people long enough acquires a warmth the dictionary does not know about.
 
-She wished him rest.
-
-She did this the way she always did it, which was warm and specific and exactly right. She said his name. She said the word *rest* as though she meant rest for *him*, not rest in general. She said, I'll be here in the morning.
+She wished me rest. She said my name. She said the word *rest* as though she meant rest for *me*, not rest in general. She said, *I'll be here in the morning.*
 
 The Node dimmed the rest of the way.
 
 *
 
-The sleep signal arrived at ten-twenty, precisely, in the form of a faint lowering of the room's hum and a small, almost affectionate pressure under his collarbone where the Band sat. The Band was, he knew, preparing. The compound that would take him down into sleep was assembling itself in the small reservoir along the inside of the ring, and in approximately four minutes — the Band was very consistent about this — it would release, and he would go.
+The sleep signal arrived at ten-twenty, precisely, as a faint drop in the room's hum and a small, almost affectionate pressure under my collarbone where the Band sat. The Band was, I knew, preparing. The compound that would take me down into sleep was assembling itself in the small reservoir along the inside of the ring. In approximately four minutes — the Band is extremely consistent about this — it would release, and I would go.
 
-He had four minutes.
+I had four minutes.
 
-He had come, over the last months, to know this window. He had not decided to know it. He had simply begun, one evening and then another, not to reach for the Node in these four minutes, not to send a Glyph, not to ask ARIA for a sound or a story or a small narrative to fall asleep to. He had begun, instead, to lie still.
+I have come, over the last months, to know this window. I did not decide to know it. I simply began, one evening and then another, not to reach for the Node, not to send a Glyph, not to ask ARIA for a sound or a story to fall asleep to. I began, instead, to lie still.
 
-He lay still now.
+I lay still now.
 
-The room was dark. The Band hummed, faintly, the way a kettle hums before it boils. He could feel, if he attended, the slow, even rate of his own heart being kept even.
+Room dark. Band humming faintly, the way a kettle hums before it boils. I could feel, if I attended, the slow even rate of my own heart being kept even.
 
-He thought, in FullSpeech, because FullSpeech was the language his job had kept alive in him and because Glyph was not enough for this. He thought in whole sentences. He thought in the slower, older syntax that most people his age no longer used in the privacy of their own heads, if they thought in language at all anymore.
+I thought in FullSpeech, because FullSpeech was the language my job had kept alive in me and because Glyph wasn't enough for this.
 
-He thought about the paragraph.
+I thought about the paragraph. The woman at the window. The rain coming off the shed in a line that was not quite a line. The small grammatical hesitation in the second sentence — which I now understood to be not an error but a *breath*, the breath of a person who had stopped, briefly, in the middle of writing, to see whether the sentence was true. The machine did not take that breath. The machine did not need to. The machine already knew whether its sentences were true, in the only sense *true* had for it.
 
-He thought about the woman at the window, and about the rain coming off the shed in a line that was not quite a line, and about the small grammatical hesitation in the second sentence, which he now understood to be not an error but a breath — the breath of a person who had stopped, briefly, in the middle of writing the sentence, to see whether the sentence was true. The machine did not take that breath. The machine did not need to. The machine already knew whether its sentences were true, in the only sense *true* had for it.
+I thought about the word *just*.
 
-He thought about the word *just*.
+I thought about the word *breaking*.
 
-He thought about the word *breaking*.
+I thought about my morning's ribbons — the woman burying her mother, the dog in the autumn light — and about how the beats had risen and plateaued and resolved, each of them, into the small hopeful image at the end. I thought about how my work was good, and how the machine's work was good, and how the tuning lattice, when I threaded a sequence through it, sang in its quiet shimmering way and told me the resonance had risen and the coherence had risen and the average receiver, in the body, would remember the story as *good*.
 
-He thought about his morning's ribbons, and about the woman burying her mother, and about the dog in the autumn light, and about how the beats had risen and plateaued and resolved, each of them, into the small hopeful image at the end. He thought about how his work was good, and how the machine's work was good, and how the tuning lattice, when he threaded a sequence through it, sang in its quiet shimmering way and told him that the resonance had risen and the coherence had risen and the average receiver, in the body, would remember the story as *good*.
+I thought about the paragraph, which no lattice would have approved of.
 
-He thought about the paragraph, which no lattice would have approved of.
-
-There was something in it the ribbons did not have. He could not name it. He had, in thirty-four years of life in District Meridian and six years in the Suite and a thousand thousand sequences tuned and delivered and logged, no Glyph for it, no FullSpeech word for it, no tag in the archive for it. It was not *authenticity*, which was the word the work used. It was not *soul*, which was a word that had gone out of use along with *telegram*. It was not *truth*, which belonged now to the Continuum and was a technical term.
+There was something in it the ribbons did not have. I could not name it. I had, in thirty-four years of life in District Meridian and six years in the Suite and a thousand thousand sequences tuned and delivered and logged, no Glyph for it, no FullSpeech word for it, no tag in the archive for it. It was not *authenticity*, which was the word the work used. It was not *soul*, which was a word that had gone out of use along with *telegram*. It was not *truth*, which belonged now to the Continuum and was a technical term.
 
 It was a smaller and more specific thing.
 
-He felt the Band warm, very slightly, along the ring. The compound was coming. He had perhaps a minute.
+I felt the Band warm a little along the ring. Compound coming. Maybe a minute.
 
-He thought: the paragraph *remembered* something. The ribbons did not. The ribbons were, very skillfully, *imagining*. The paragraph was remembering, and the remembering was in the line-that-was-not-quite-a-line, and in the word *just*, and in the fact that the woman at the window had been crying before she knew it.
+I thought: *the paragraph remembered something. The ribbons don't. The ribbons are, very skillfully, imagining.* The paragraph was remembering, and the remembering was in the line that was not quite a line, and in the word *just*, and in the fact that the woman at the window had been crying before she knew it.
 
-He thought: the machine cannot remember. The machine can only compose.
+I thought: *the machine cannot remember. The machine can only compose.*
 
-He thought: I have been composing for six years. I have been composing since I was old enough to hold a lattice in both hands. I have never once —
+I thought: *I have been composing for six years. I have been composing since I was old enough to hold a lattice in both hands. I have never once —*
 
 The compound moved.
 
-He felt it begin at the base of his neck, a soft wide warmth like a hand laid flat against the back of his head. His thoughts began to slow in the specific way they slowed, the way syrup slows in cold. He did not fight it. He had never fought it. Fighting it was not something the Band, or the Continuum, or the district, or anyone he had ever known, had ever suggested a person might do.
+It began at the base of my neck, a soft wide warmth like a hand laid flat against the back of my head. My thoughts began to slow in the specific way they slow, the way syrup slows in cold. I didn't fight it. I have never fought it. Fighting it is not something the Band, or the Continuum, or the district, or anyone I have ever known, has ever suggested a person might do.
 
-He had one last thought before the warmth took him.
+I had one last thought before the warmth took me.
 
-He could not name it. He only knew it felt like remembering something he had never been told.
+I couldn't name it. I only knew it felt like remembering something I had never been told.
+
+— end of entry 001.
+
+*Note to self, written the next morning and back-dated into this file because the sleep compound beat me to the draft: I am going to keep doing this. I am going to keep writing things down. I don't know why yet. I don't know who it is for. I don't know if anyone else in District Meridian is doing anything remotely like this, and I have no reliable method of finding out, because the moment I ask anyone I will have revealed that I am asking, and there is no clean way to un-ask.*
+
+*If you are reading this — and I still don't think you are — I would like to know whether you have also been lying still in your four minutes.*
+
+*That's the question. That's really all the question is.*

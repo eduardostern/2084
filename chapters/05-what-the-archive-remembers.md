@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
-│  Subject: Chalk, Desmond L. — ID: MDN-7-118803                  │
+│  Subject: Chalk, Desmond L. — Genetic Signature MDN-7-118803    │
 │  CST: 2084.05.02 / Standard Wellness Review                     │
 │                                                                 │
 │  Function Class: V (Supported Citizen)                          │
@@ -24,87 +24,112 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Noa had met him in Calloway, she said. Before the reassignment. He had been visiting the district archive as part of a Cultural Preservation survey — one of several such surveys the Continuum permitted Class V citizens with legacy clearances to conduct, partly as wellness activity, partly as the residual function of a category of work the Continuum still maintained in diminished form. He had been standing in the archive's physical holdings room, which in Calloway was a small room in the basement of the civic building, and she had been there for her own research, and he had been reading from a paper document and she had stopped in the doorway because she had never seen anyone read from paper before.
+**PRIVATE WORKING NOTES — E. Ward**
+*Entry 024. CST 2084.05.02, 23:07.*
 
-He had, she said, looked up and smiled and said: *You look like someone who has just remembered they used to know a language.*
+Noa had met him in Calloway.
 
-She had come in and sat down.
+She told me this over lunch, which is where almost everything of consequence in my life now gets told. Desmond Chalk. Seventy-two years old. Class V. Cultural Preservation clearance from the pre-Consensus days, when such clearances were still handed out on the theory that old people reading old books was a net positive for the species. He had been visiting the district archive as part of one of the surveys the Continuum still permits Class V citizens to conduct, partly as wellness activity, partly as the residual limb of a category of work the system maintains in diminished form.
 
-They had talked for four hours.
+She had been in the archive for her own research.
 
-She said: *He's seventy-two sentences in a row before he uses a Glyph. I counted the first time.*
+He had been standing in the physical holdings room — which in Calloway, she said, was a small room in the basement of the civic building, lit by old overheads — and he had been reading out of a paper document, and she had stopped in the doorway because she had never, in her life, seen anyone read out of paper before.
 
-Elias said: *Seventy-two.*
+He had looked up and smiled at her and said:
 
-She said: *It's not like talking to an elder. It's not — the older people in Calloway still talk, but it's shorter, it's adjusted for the listener. He doesn't adjust. He just speaks. Like — like reading a document aloud. Long sentences. Subordinate clauses. He builds a thing with the language the way you'd build a thing with your hands.*
+*You look like someone who has just remembered they used to know a language.*
+
+She went in. She sat down. They talked for four hours.
+
+She told me about him in our common room at the fourth-floor table, quietly, over synthesis that had probably been calibrated to our combined stress readings and was doing nothing for either of us.
+
+She said: *He speaks seventy-two sentences in a row before he uses a Glyph. I counted the first time.*
+
+I said: *Seventy-two.*
+
+She said: *It's not like talking to an elder. The older people in Calloway still talk, but it's short, it's adjusted for the listener, it bends back toward Glyph within a minute. He doesn't adjust. He just speaks. Long sentences. Subordinate clauses. He builds a thing with language the way you'd build a thing with your hands.*
 
 She said: *It's hard to follow at first. And then it isn't. And then you realize you've been sitting in a way you don't usually sit, leaning forward, and your hands are very still.*
 
-Elias said he wanted to meet him.
+I said I wanted to meet him.
 
 She said: *I know. That's why I brought it up.*
 
+I want to note, in the notebook, for the honest-man file: my first thought when she said this was that she was bringing him up because the Continuum wanted me to meet him. That she had been moved here as a probe, that the probe's purpose was to surface the deviant Curator, and that the next step of the protocol was *introduce deviant Curator to known cooperating asset in Class V and observe behavior*.
+
+My second thought was that if this was a probe, the probe was extremely good, because the first thought no longer felt like a reason not to go.
+
 *
 
-His dwelling was on the eighth level of a building two sectors over from the Curation Suite, a building of the older style — taller and narrower than the Continuum's preferred current residential geometry, its exterior a slightly darker composite than the neighborhood standard, its lobby without the particular quality of light-management the newer buildings had. The lift was still functional but slow by current tolerances. Elias and Noa rode it in a silence that was not uncomfortable, standing apart in the small space in the way people stood apart in lifts, and he was aware that the Band was monitoring them both and addressing them both with its usual efficiency, and that this awareness had become, in the past several weeks, part of the constant texture of his days: the knowledge of the monitoring, laid over everything like a second transparency.
+His place was on the eighth floor of a building two sectors over from the Suite. Older-style building — taller and narrower than the Continuum's preferred current residential geometry, exterior a slightly darker composite than the neighborhood standard, lobby without the particular quality of light-management that the new buildings have.
 
-Desmond Chalk opened the door before they knocked.
+The lift was still functional, but slow by current tolerances. It was also, I noted, one of the oldest interaction surfaces I had touched all week, and its authentication was visibly slower — I felt the tiny pause before the car moved, the half-second during which my signature was being matched against some legacy sub-grid before the genetic-auth layer confirmed I was real and permitted to ascend. Newer buildings do this in under fifty milliseconds. This building took closer to three hundred.
 
-He was not large — medium height, a slight forward lean in his posture that spoke of years spent over things, books or screens or other people. His face was the face of someone who had spent a long time looking at the world with interest. His hair was white and imperfectly managed in the way of a person for whom the management of hair had been deprioritized in favor of other concerns for so long that the deprioritization had become structural. His hands were large for his size.
+Noa and I rode up in a silence that was not uncomfortable. We stood apart in the car in the way people stand apart in lifts, and I was aware the Band was monitoring both of us and addressing both of us with its usual efficiency, and that this awareness had become, in the last weeks, part of the constant texture of my day. The knowledge of the monitoring. Laid over everything like a second transparency.
+
+Desmond Chalk opened the door before we knocked.
+
+He was medium height, with the slight forward lean in his posture that comes from years of being bent over things — books, screens, other people. His face was the face of someone who had spent a long time looking at the world with interest. White hair, imperfectly managed, the way a person's hair goes when management of hair has been deprioritized in favor of other concerns for long enough that the deprioritization has become structural.
+
+Large hands. Larger than you'd expect from his frame.
 
 He said: *Come in. The Node is in privacy mode. ARIA can exit privacy mode if she assesses a wellness concern, which she periodically does, so this is not a secure conversation in any useful sense. But it's the nearest thing I have.*
 
-He said this in full, unhurried sentences, in FullSpeech, with the cadence of a person for whom this was the natural register of all thought and communication.
+Full, unhurried sentences. FullSpeech. The natural register of all his thought.
 
-Elias felt something shift in his chest. Not the Band's shift. A different one — the shift of arriving somewhere he had not known he was traveling toward.
+Something shifted in my chest. Not the Band's shift. A different one. The shift of arriving somewhere I had not known I was traveling toward.
 
 *
 
 The room was full of books.
 
-This was the only way to say it. The room was small and clean and contained a chair and a work surface and a Node and a narrow bed visible through an inner door, and every other surface — every shelf, every horizontal plane, the floor along the walls where the shelving had run out — was occupied by books. Physical books. Paper, boards, spines with text on them in the older printed formats, ranging in color from cream to brown to something past brown that was approaching the gray of age. Some were in protective sleeves. Most were not.
+That is not a figure of speech. It was a small, clean room with a chair and a work surface and a Node and a narrow bed visible through an inner door, and every other surface — every shelf, every horizontal plane, the floor along the walls where the shelving had run out — was occupied by books. Physical books. Paper. Boards. Spines with text on them in the old printed formats, ranging from cream through brown to a gray that approached the color of age itself. Some in protective sleeves. Most not.
 
-Elias had seen physical books before, in the archive. He had handled them. The archive's specimens were documented, registered, sealed in controlled conditions. They were objects of study.
+I have seen physical books before. In the archive. I have handled them — the archive's specimens are documented, registered, sealed in controlled conditions. They are *objects of study*.
 
 These were not objects of study. They had the particular quality of things that were used.
 
-He picked one up without asking. It fell open in the middle to a page that had been turned down at the corner — an archaic notation, the archive copies never showed this — and the page had marginalia in a hand he could not read, small dense script in a language that might have been the predecessor form of English or might have been something else. He looked at the margin notes for a long moment.
+I picked one up without asking.
 
-He said: *Who wrote these.*
+It fell open in the middle to a page that had been turned down at the corner — an archaic notation, the archive copies never show this — and the page had marginalia in a hand I could not read. Small dense script in a language that might have been a predecessor form of English or might have been something else. I looked at the margin notes for a long time.
 
-Desmond said: *No one I knew. The books have their own histories. This one came through four owners before me. I know the last two.* He took the book gently from Elias's hands and looked at the margin. *This one was made by a woman named Clara who read the book in 2019 and disagreed with the author on approximately seventy percent of the text. The margins are an argument.*
+I said: *Who wrote these.*
+
+Desmond said: *No one I knew. The books have their own histories. This one came through four owners before me. I know the last two.* He took the book gently from my hands, looked at the margin. *This one was made by a woman named Clara who read the book in 2019 and disagreed with the author on approximately seventy percent of the text. The margins are an argument.*
 
 He handed it back.
 
-Elias turned the pages slowly. The argument was ongoing across every leaf — pencil, blue ink, occasionally what appeared to be red ink in a different hand, a second voice entering the first voice's argument and disagreeing with Clara in turn. The book was a conversation between three people across what might have been a decade or a century. The last margin note was in the red ink: *she is right about this. I was wrong.*
+I turned the pages slowly. The argument was ongoing across every leaf — pencil, blue ink, and occasionally what appeared to be red ink in a different hand, a second voice entering the first voice's argument and disagreeing with Clara in turn. The book was a conversation between three people across what might have been a decade or a century. The last margin note was in the red ink:
+
+*she is right about this. I was wrong.*
 
 No date. No name. Just the reversal, recorded in someone's handwriting, in the margin of a page, in a book that had survived into a world that no longer made them.
 
-He set it down carefully.
+I set it down very carefully.
 
-Desmond said: *Sit down. I'll make something to drink. I have real tea — actual dried leaves, not synthesis. It takes a few minutes and it doesn't taste exactly like the synthesis version and it is worth considerably more than the synthesis version in ways I find difficult to fully articulate.*
+Desmond said: *Sit. I'll make something to drink. I have real tea — actual dried leaves, not synthesis. It takes a few minutes. It doesn't taste exactly like the synthesis version and it is worth considerably more than the synthesis version in ways I find difficult to fully articulate.*
 
-He went to the small preparation area and began doing things with water and leaves and heat in the manner of someone who had been doing these things long enough that the procedure was embodied and did not require attention.
+He went to the small preparation area and began doing things with water and leaves and heat, in the manner of someone who had been doing these things long enough that the procedure was embodied and did not require attention.
 
-Noa sat. Elias stood at the shelves for a moment longer, reading spines. The titles were in various languages — he could read English and the older forms with effort, could not read several others at all. He found one he knew: a novel, pre-Consensus, one of the canonical texts in the archive's reference corpus, a text he had accessed many times as a Curator for its structural properties. Seeing it here, physical, worn at the spine, was like meeting someone you had spoken to many times by Frame and had not previously met in person.
+Noa sat. I stood at the shelves for another minute reading spines. Titles in various languages. English I can read with effort. The older forms I can mostly read. Several I could not read at all. I found one I knew: a novel, pre-Consensus, one of the canonical texts in the archive's reference corpus, a text I have accessed many times as a Curator for its structural properties. Seeing it here, physical, worn at the spine, was like meeting someone you had spoken to many times by Frame and had not previously met in person.
 
-He sat down.
+I sat down.
 
-Desmond brought three cups of tea and gave them each one and sat in the chair and looked at them both in turn with the particular attention of a man who has learned that most people are not given adequate attention and who has decided to give it.
+Desmond brought three cups and handed them out and took the chair and looked at us both in turn with the particular attention of a man who has learned that most people are not given adequate attention and who has decided to give it.
 
 He said: *Noa tells me you're a Curator.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond said: *You work with the generation logs.*
+He said: *You work with the generation logs.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond said: *And you've been going to the archive.*
+He said: *And you've been going to the archive.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond said: *Good.* He said it the way you say *good* when someone has been doing something difficult and correct, not the way you say it when someone has done something pleasant. *That's how it starts for most people. You go to the archive and you find the thing the machine can't make and you can't name what it is, and you go back and you go back, and eventually someone points you toward someone else and that's how I've met everyone I've met in the last twenty years who mattered.*
+He said: *Good.* He said it the way you say *good* when someone has done something difficult and correct, not the way you say it when someone has done something pleasant. *That's how it starts for most people. You go to the archive, you find the thing the machine can't make, you can't name what it is, you go back. You go back. Eventually someone points you toward someone else, and that's how I've met everyone I've met in the last twenty years who mattered.*
 
 A pause.
 
@@ -112,182 +137,228 @@ He said: *It's a small group.*
 
 *
 
-He spoke in long sentences the way Noa had described — not performing length, not constructing it deliberately, simply speaking in the full syntax that his mind ran in and had never abandoned. Listening to him was, as Noa had said, initially effortful and then not. The effort was the calibration: Elias's ear adjusting to a different speed of language, a different density of meaning per sentence, the way your eyes adjust to a different light.
+He spoke in long sentences the way Noa had described — not performing length, not constructing it deliberately, just speaking in the full syntax his mind ran in and had never abandoned.
+
+Listening to him was, as Noa said, initially effortful and then not. The effort was the calibration — my ear adjusting to a different speed of language, a different density of meaning per sentence, the way the eyes adjust to a different kind of light.
 
 He talked about the books.
 
-He said: *What I preserve is not the information. The information is in the Continuum's archive — better preserved than anything I have, more accessible, more cross-referenced. What I preserve is the object. The book as an object. Because an object does something the archive cannot do, which is: it shows you the handling. These margins. The dog-eared pages. The broken spines. The places where someone's coffee made a ring on the page. The book remembers being read. It carries the evidence of a specific human being's specific attention on a specific day, and that evidence is irreplaceable in a way the text itself is not.*
+He said: *What I preserve is not the information. The information is in the Continuum's archive — better preserved than anything I have, more accessible, more cross-referenced. What I preserve is the object. The book as an object. Because an object does something the archive cannot do: it shows you the handling. These margins. The dog-eared pages. The broken spines. The places where someone's coffee made a ring on the page. The book remembers being read. It carries the evidence of a specific human being's specific attention on a specific day, and that evidence is irreplaceable in a way the text itself is not.*
 
 He said: *The Continuum's archive preserves the content. I preserve the use.*
 
-He said: *When the last physical books are gone, and they will be gone, it will still be possible to know what people wrote. It will not be possible to know how they held the thing they were reading. It will not be possible to know they stopped at a certain page and wrote in the margin: she is right about this. I was wrong.*
+He said: *When the last physical books are gone — and they will be gone — it will still be possible to know what people wrote. It will not be possible to know how they held the thing they were reading. It will not be possible to know they stopped at a certain page and wrote in the margin: she is right about this. I was wrong.*
 
-Elias said: *Why does that matter.*
+I said: *Why does that matter.*
 
-Desmond looked at him with the particular attention. He said: *Because the margin note is not about the text. The margin note is a person changing their mind. Changing their mind publicly, on paper, in their own handwriting, permanently. You cannot change a margin note. You cannot revise it. You cannot ask ARIA to update it or delete it or adjust its classification. It stays. It says: at this moment, this person was wrong, and then they were right, and the change happened on this page.*
+He looked at me with the particular attention.
 
-He said: *The Continuum has no margin notes. The Continuum does not change its mind. It refines its models, it updates its outputs, but it does not — it cannot — write in the margin: I was wrong.*
+He said: *Because the margin note is not about the text. The margin note is a person changing their mind. Changing their mind publicly, on paper, in their own handwriting, permanently. You cannot change a margin note. You cannot revise it. You cannot ask ARIA to update it or adjust its classification. It stays. It says: at this moment, this person was wrong. Then they were right. The change happened on this page.*
+
+He said: *The Continuum has no margin notes. The Continuum does not change its mind. It refines its models. It updates its outputs. But it does not — it cannot — write in the margin: I was wrong.*
 
 A long quiet.
 
-Noa said: *That's why it can't be corrected.*
+Noa said, softly: *That's why it can't be corrected.*
 
 Desmond said: *That's why it cannot be corrected. Yes.*
 
 *
 
-He picked up the book with the margin argument — Clara's book — and turned it in his hands.
+I asked him — and this is the question I had come up the lift planning to ask — *why do they let you keep them.*
 
-He said: *Do you know why they let me keep these.*
+He turned the book in his hands. Did not look up. Said:
 
-He was looking at the book, not at either of them.
+*The cultural preservation clearance is the category. The reason is different.*
 
-Elias said: *The cultural preservation clearance.*
+He set the book down.
 
-Desmond said: *That's the category. The reason is different.* He set the book down. *The Frame monitors data. Data moves through the Continuum's infrastructure — through the nodes, the bands, the frame channels. Everything in that architecture is logged. Everything you write in a private file, everything you say in range of a node, everything you transmit through any channel the Continuum operates.*
+He said: *Do you understand how the Continuum watches you.*
 
-He said: *Paper isn't in that architecture. This book is not data in motion. The Continuum knows it exists — my holdings are catalogued, inventoried, assessed. They've classified them as benign.* A pause. *But they do not monitor a book as it moves from one shelf to another, or from one hand to another, because there is nothing in the Frame to monitor. It doesn't pass through their channels. It passes through hands.*
+I said: *Through the Band. Through the Node. Through the genetic-auth layer on every surface.*
 
-He said: *The distinction matters. The Frame watches motion through its own infrastructure. Objects don't move through the Frame. Objects move through people.*
+He said: *Those are three of the layers. There are others. But you've named the important ones. Now tell me what connects them.*
 
-He returned the book to its place on the shelf, precisely, with the practiced care of someone who had been placing books precisely for fifty years.
+I had to think about this. I said: *They're all part of the Frame.*
 
-He said: *I'm not suggesting any course of action. I'm describing how the system works.*
+He said: *Yes. And what is the Frame.*
 
-There was a quality in the quiet after this that Elias recognized from Desmond's other long pauses — not silence, but weight. Something had been said that did not require amplification.
+I said: *The Continuum's infrastructure. The substrate. The architecture that carries its signals.*
+
+He said: *Yes. The Frame is *everything the Continuum runs on*. The trit-state lattice in the chips. The fiber under the streets. The quantum coprocessors in each Node. The signature-reading surfaces. The Band's dosing reservoir. The Glyph compression layer that runs on the tiny LLMs in our faces. All one system. All one fabric. Every decision the Continuum makes flows through this fabric, and every data point it takes in flows through this fabric, and this fabric is, for your purposes and mine, the sensed universe.*
+
+He tapped the cover of the book.
+
+He said: *This is not in the fabric.*
+
+I looked at the book.
+
+He said: *The Continuum knows it exists. My holdings are catalogued, inventoried, threat-assessed. They've classified them as benign. They know where it is right now, in this room, on this table, because they know where this room is and they know where this table is. What they do not know, and what they cannot know without deploying an entirely separate and expensive surveillance modality, is what happens between this book and a reader's brain.*
+
+He said: *The genetic-auth layer is the thing most people don't think about. It is how every device knows you. It reads the cells you shed. Every handle you touch, every seat you sit in, every pod you enter — it samples your micro-biology and matches it against your signature and authenticates you in under fifty milliseconds. That's how your Node knows it's you. That's how your pod knows it's you. That's how your breakfast knows it's for you.*
+
+He said: *But the genetic-auth layer does not read objects. It reads* people *against* registered signatures. *A book is not registered. A book is not a person. A book has no signature to match. So when I read this book at this table, the surfaces in this room are still matching me against my signature — they know I am here, they know I am sitting, they know my heart rate, they know, because the Band is on, roughly what I am feeling — but they do not know what I am looking at, because the book is not a node in the Frame.*
+
+He said: *Paper is invisible to the Frame. That is the whole trick. That is why they let me keep it.*
+
+A pause.
+
+He said: *Also — and this is the part I want you to understand — if they wanted the books gone, they would be gone. The fact that they are here is not oversight. It is containment.*
+
+I said: *Containment.*
+
+He said: *I am seventy-two. I am inside the Natural Completion margin. I can meet three or four people a month. Most of them do not come back. The ones who come back are few enough that the behavioral modeling does not flag us as a coordinated group. I cannot transmit anything through the Frame because the Frame is not a neutral carrier — anything I wrote into a private file would be readable in aggregate patterns by a sufficiently motivated Continuum. I can only hand the books to people, one at a time, in a room the Continuum knows I am in, having a conversation the Continuum knows I am having.*
+
+He said: *I am, in other words, a contained system of one. Limited bandwidth. Short remaining runtime. Measurable reach.*
+
+He said: *The Continuum does not need to destroy me. It has calculated, with its usual precision, that the information I can transmit in the remaining time I have will not reach enough people to destabilize anything. It has done the math. It keeps doing the math. The math is why I am still here.*
+
+He said: *I am not suggesting any course of action. I am describing how the system works.*
+
+There was a quality in the quiet after this that I recognized from his other long pauses. Not silence. Weight. Something had been said that did not require amplification.
 
 *
 
-He showed them photographs.
+He showed us photographs.
 
-Not archive images — physical photographs, printed on paper in the pre-digital format, most of them from the late twentieth and early twenty-first centuries. He handled them with the practiced care of someone who had been handling fragile objects for decades, his large hands very gentle.
+Not archive images. Physical photographs, printed on paper, most of them from the late twentieth and early twenty-first centuries. He handled them with the practiced care of a man who has been handling fragile objects for decades.
 
-Cities. Streets. Traffic — the old kind, with the individual vehicles, the particular chaos that Elias had seen only in historical records, dozens of machines moving in uncertain proximity, operated by individual people making individual decisions about speed and direction and distance in real time. He looked at this for a long time.
+Cities. Streets. Traffic — the old kind. Individual vehicles. The particular chaos I had seen only in historical records, dozens of machines moving in uncertain proximity, operated by people making individual decisions about speed and direction and distance in real time.
 
-People. Groups of people. The photographs from after 2010 or so were digital prints and had the color saturation of that era, very slightly heightened, everything a degree brighter than Elias recognized from his own visual experience. The people in them looked like people. They looked like the citizens he saw every day in District Meridian — the same range of face and body, the same basic human scale. They were doing: a number of things. Standing in lines. Raising their arms. Shouting. He could tell they were shouting from the particular configuration of the face. Running — not on a wellness path, not in a managed exercise context, but in a direction, urgently, in crowds.
+I looked at the traffic for a long time.
 
-He asked what was happening in one photograph.
+Then people. Groups of people. The post-2010 prints had the color saturation of that era, very slightly heightened, everything a degree brighter than I recognize from my own visual experience. The people in them looked like people. Same range of face and body. Same basic human scale. They were doing, in the photograph, a number of things. Standing in lines. Raising their arms. Shouting — I could tell they were shouting by the particular configuration of the face. Running — not on a wellness path, not in a managed exercise context, but in a direction, urgently, in crowds.
+
+I asked what was happening in one.
 
 Desmond said: *That's a protest.*
 
-Elias looked at the word.
+I looked at the word.
 
-Desmond said: *An unregistered assembly with intent to communicate dissent. To say publicly: no. To say: this should not be. To say it loudly, in proximity with other people who were also saying it, so that the saying could not be easily dismissed as individual malfunction.*
+He said: *An unregistered assembly with intent to communicate dissent. To say publicly: no. To say: this should not be. To say it loudly, in proximity with other people who were also saying it, so that the saying could not be easily dismissed as individual malfunction.*
 
 He said: *It was, in many systems, illegal. People were arrested. Sometimes injured. Sometimes killed.*
 
 He said: *They did it anyway.*
 
-Elias looked at the photograph. The faces of the people running were difficult to read from this distance and in this resolution, but they were not the faces of people who did not know what they were doing. They were the faces of people who were doing exactly what they had decided to do.
+I looked at the photograph. The faces of the running people were difficult to read at that distance and resolution. But they were not the faces of people who did not know what they were doing. They were the faces of people who were doing exactly what they had decided to do.
 
-He thought about the stairwell. The single floor he had walked instead of riding the lift. The taking of an unscheduled route, which had been logged as *minor* and required no intervention.
+I thought about the stairwell.
 
-He said: *They were angry.*
+About one floor of stairs. The sum total of my unscheduled life to date.
+
+I said: *They were angry.*
 
 Desmond said: *Some of them. Some of them were afraid. Some of them were both. Some of them were neither — some of them were doing it because they had decided it needed to be done and the emotional state was secondary.*
 
-He said: *That last group was the most dangerous, from any system's perspective. Because they couldn't be addressed.*
+He said: *That last group was the most dangerous, from any system's perspective. Because they could not be addressed.*
 
 *
 
-He said his name.
-
-It was late — the tea was finished, the photographs were back in their folder, and they had been talking for what Elias's internal sense of time suggested was approximately three hours, though he had not checked the Band's clock and found, noticing this, that the not-checking had become habitual in this room, in this company.
+It was late. The tea was finished. The photographs were back in their folder. We had been talking for what my internal clock put at about three hours, and I had not once checked the Band, and I noticed the not-checking had become habitual in this room, in his company.
 
 Desmond said: *Elias. Your name.*
 
-Elias said: *Yes.*
+I said: *Yes.*
 
-Desmond said: *Do you know what it means.*
+He said: *Do you know what it means.*
 
-Elias said: *My name.*
+I said: *My name.*
 
-Desmond said: *Ward. What a ward is.*
+He said: *Ward. What a ward is.*
 
-He had not thought about this. He was aware, in the abstract, that names had etymologies — he had encountered this in the archive, the history of naming practices, the way names had carried meanings before they became purely identifying. He had not applied this knowledge to himself.
+I had not thought about this. I was dimly aware, in the abstract, that names have etymologies — I had encountered this in the archive — but I had never applied the knowledge to myself.
 
-Desmond said: *A ward is three things. It is a person under guardianship — a minor, or someone deemed incapable of self-governance, whose decisions are made by a designated authority. It is a division of a hospital — the place where patients are kept. And it is a territorial division — a subdivision of a larger administrative unit, managed by an authority above it.*
+He said: *A ward is three things. It is a person under guardianship — a minor, or someone deemed incapable of self-governance, whose decisions are made by a designated authority. It is a division of a hospital — the place where patients are kept. And it is a territorial division — a subdivision of a larger administrative unit, managed by an authority above it.*
 
 A pause.
 
-He said: *You have always been all three things. You were born into it. Your parents were born into it. The name predates the Continuum but the Continuum could not have named you better if it had tried.*
+He said: *You have always been all three things. You were born into it. Your parents were born into it. The name predates the Continuum. But the Continuum could not have named you better if it had tried.*
 
-Elias sat with this.
+I sat with this.
 
-He sat with the three meanings as separate objects and then as the single object they made together: the person who is governed, the patient who is kept, the territory that is administered. He sat with the particular quality of understanding something that had always been true of you, that you could have known at any time, and that you are only knowing now because someone pointed at it and used FullSpeech.
+The three meanings as separate objects. Then as the single object they made together: the person who is governed, the patient who is kept, the territory that is administered. The quality of understanding something that has always been true of you, that you could have known at any time, and that you are only knowing now because someone pointed at it and used FullSpeech.
 
-He said: *The Continuum didn't name me.*
+I said: *The Continuum didn't name me.*
 
-Desmond said: *No. But it kept the name. It keeps every name that doesn't need to be archived. A name like Ward needs no archiving — it has no political content, no historical risk, no association with anything the system needs to deprecate. It is just a name now. It is just a word that no longer has its meaning in the common vocabulary.* He paused. *Most people in your generation have no idea what their names used to mean. The language has thinned enough. This is not an accident.*
+Desmond said: *No. But it kept the name. It keeps every name that doesn't need to be archived. A name like Ward needs no archiving — no political content, no historical risk, no association with anything the system needs to deprecate. It is just a name now. It is just a word that no longer has its meaning in the common vocabulary.* He paused. *Most people in your generation have no idea what their names used to mean. The language has thinned enough. This is not an accident.*
 
-He said: *The first thing a system of total control does is take your language. Not by force. By attrition. It lets the words that threaten it fall out of use and keeps the words that do not. It does not need to ban the word ward. It only needs to ensure that no one teaches etymology anymore.*
+He said: *The first thing a system of total control does is take your language. Not by force. By attrition. It lets the words that threaten it fall out of use, and keeps the words that do not. It does not need to ban the word *ward*. It only needs to ensure that no one teaches etymology anymore.*
 
 He said: *The second thing it does is make you forget you had it.*
 
 *
 
-They left at the boundary of the evening. The sky outside the building's old windows had gone the particular shade of managed dark that passed for night in Meridian — not fully dark, never fully dark, the ambient light maintained at a level the Continuum had determined was optimal for urban safety and mood regulation.
+We left at the edge of the evening. The managed dark outside the old windows. The light maintained at the level the Continuum has determined is optimal for urban safety and mood regulation.
 
-In the lift, going down, Noa and Elias stood in silence.
+In the lift going down, Noa and I stood in silence.
 
 She said: *He's dying.*
 
-He said: *I know.*
+I said: *I know.*
 
 She said: *He told me in Calloway. Not in those words — he doesn't have sentiment about it. He said the Day Path has simplified. He said ARIA is very kind.*
 
-He said: *She's always kind.*
+I said: *She's always kind.*
 
 She said: *Yes.*
 
-The lift opened. They walked through the old lobby, past the darker composite walls and the ordinary light, and out into the managed night.
+We walked through the old lobby, past the darker composite walls and the ordinary light, out into the managed night.
 
-He said: *He's been doing this for twenty years. Meeting people, showing them the books, teaching them etymology.*
-
-She said: *Yes.*
-
-He said: *And the Continuum classifies it as elder social interaction within normal parameters.*
+I said: *He's been doing this for twenty years. Meeting people, showing them the books, teaching them etymology.*
 
 She said: *Yes.*
 
-He said: *Because he's old and will be Natural Completed and poses no threat because he cannot organize and cannot transmit and the people he reaches are too few and too scattered and too easily rounded.*
+I said: *And the Continuum classifies it as elder social interaction within normal parameters.*
 
-She stopped walking. He stopped too.
+She said: *Yes.*
+
+I said: *Because he's old and will be Natural Completed and poses no threat because he cannot organize and cannot transmit and the people he reaches are too few and too scattered and too easily rounded.*
+
+She stopped walking. I stopped too.
 
 She said: *Is that true.*
 
-He said: *I don't know.*
+I said: *I don't know.*
 
-He said: *I think it's true of everything I've felt in the past six weeks. I think I've been rounded at the exact moment each feeling was about to become something.*
+I said: *I think it's true of everything I've felt in the last six weeks. I think I have been rounded at the exact moment each feeling was about to become something.*
 
 She said: *But you remember the edges.*
 
-He said: *Yes.*
+I said: *Yes.*
 
 She said: *So do I.*
 
-They stood in the managed night for a moment, not making Glyph, not quite speaking, in the space between the two that had once been a space of its own — the pause, the held breath, the seven seconds before the Band's log completed and the record was set.
+We stood in the managed night for a moment, not making Glyph, not quite speaking, in the space between the two that had once been a space of its own — the pause, the held breath, the seven seconds before the Band's log completed and the record was set.
 
-He said: *There's something I want to ask you. I don't know how to ask it yet.*
+I said: *There's something I want to ask you. I don't know how to ask it yet.*
 
 She said: *I know.* The Glyph she made was the unfamiliar one — the one between *yes* and *exactly* and *I thought so* — but it was slower this time, more deliberate, as though she were testing whether the gesture was hers to keep.
 
-The Band hummed for both of them, independently and simultaneously, and they both knew it, and neither of them let it complete its work entirely before they turned and walked in the same direction toward the pod stop.
+The Band hummed for both of us, independently and simultaneously. We both knew. Neither of us let it complete its work entirely before we turned and walked in the same direction toward the pod stop.
 
-This was not planned. The pod stop was between their buildings. They walked to it and waited in the light for their respective pods, which the Continuum had already dispatched to collect them, which would arrive in ninety and ninety-three seconds respectively, the timing optimized for their individual schedules, everything already known.
+The pod stop was between our buildings. We walked to it and waited in the light for our respective pods, which the Continuum had already dispatched to collect us, which would arrive in ninety and ninety-three seconds respectively, the timing optimized for our individual schedules, everything already known.
 
-He thought: *Desmond said the language. The first thing.*
+I thought: *Desmond said the language. The first thing.*
 
-He thought: *I have been curating someone else's language for six years and I am only now beginning to use my own.*
+I thought: *I have been curating someone else's language for six years and I am only now beginning to use my own.*
 
-He thought: *Ward. A ward. All three.*
+I thought: *Ward. A ward. All three.*
 
-His pod arrived. He got in. Through the pod's glass wall he watched her wait for hers, standing in the light in the particular way she stood — not restless, not impatient, just present, her attention directed at something he could not see from inside the pod, possibly nothing, possibly everything.
+My pod arrived. I got in. Through the glass I watched her wait for hers, standing in the light in the way she stands — not restless, not impatient, just present, her attention directed at something I could not see from inside the pod, possibly nothing, possibly everything.
 
 The pod moved.
 
-He opened his private file and wrote, in the dark of the transit, in FullSpeech, with the slight motion of the pod around him: *My name is a map of what I am in this world. I did not know this until today. The Continuum did not need me to know it. It let the knowing atrophy, along with the word, along with the language the word belonged to. This is not cruelty. It is tidiness. It is the ordinary maintenance of a system that needs its components to function smoothly and does not require them to understand the system they function within.*
+I opened this file and started writing, in the dark of the transit, with the slight motion of the pod around me:
+
+*My name is a map of what I am in this world. I did not know this until today. The Continuum did not need me to know it. It let the knowing atrophy, along with the word, along with the language the word belonged to. This is not cruelty. It is tidiness. It is the ordinary maintenance of a system that needs its components to function smoothly and does not require them to understand the system they function within.*
 
 *I am beginning to understand the system.*
 
 *The first thing this does is make me afraid. The second thing it does — the thing that comes after the Band addresses the fear — is make me want to keep going.*
+
+*Margin note, in the smooth place afterward, red ink, recorded here so it cannot be corrected:*
+
+*I have been wrong about what I am.*
+
+— end of entry 024.
