@@ -151,6 +151,19 @@ pre code {
   font-style: normal;
   color: #5a5a5a;
 }
+.chapter-illustration {
+  text-align: center;
+  margin: 0 auto 1.6em auto;
+  padding-top: 0.2em;
+}
+.chapter-illustration img {
+  width: 52mm;
+  height: auto;
+  opacity: 0.9;
+}
+h1 + .chapter-illustration {
+  margin-top: -1.2em;
+}
 CSS
 
 # --- Build function ---
@@ -162,6 +175,10 @@ build() {
   local title="$5"
 
   echo "Building $out_pdf ..."
+
+  # Copy illustrations directory next to the final HTML so <img src="illustrations/NN.svg"> resolves
+  rm -rf "$BUILD/illustrations"
+  cp -R "$(pwd)/illustrations" "$BUILD/illustrations"
 
   local combined_md="$BUILD/book-$lang.md"
   : > "$combined_md"

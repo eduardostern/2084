@@ -1,5 +1,7 @@
 # Capítulo 10: A Questão
 
+<div class="chapter-illustration"><img src="illustrations/10.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Elevada                 │

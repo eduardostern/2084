@@ -1,5 +1,7 @@
 # Capítulo 3: Anomalia Comportamental
 
+<div class="chapter-illustration"><img src="illustrations/03.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

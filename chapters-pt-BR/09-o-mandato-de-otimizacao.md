@@ -1,5 +1,7 @@
 # Capítulo 9: O Mandato de Otimização
 
+<div class="chapter-illustration"><img src="illustrations/09.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Histórico               │

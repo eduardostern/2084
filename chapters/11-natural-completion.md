@@ -1,5 +1,7 @@
 # Chapter 11: Natural Completion
 
+<div class="chapter-illustration"><img src="illustrations/11.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

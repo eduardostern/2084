@@ -1,5 +1,7 @@
 # Capítulo 8: ARIA
 
+<div class="chapter-illustration"><img src="illustrations/08.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Interna                 │

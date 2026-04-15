@@ -1,5 +1,7 @@
 # Chapter 3: Behavioral Anomaly
 
+<div class="chapter-illustration"><img src="illustrations/03.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

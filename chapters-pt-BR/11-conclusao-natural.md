@@ -1,5 +1,7 @@
 # Capítulo 11: Conclusão Natural
 
+<div class="chapter-illustration"><img src="illustrations/11.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

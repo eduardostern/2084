@@ -1,5 +1,7 @@
 # Chapter 5: What the Archive Remembers
 
+<div class="chapter-illustration"><img src="illustrations/05.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

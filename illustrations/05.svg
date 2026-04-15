@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.5 What the Archive Remembers: open book with margin notes -->
+  <!-- book pages -->
+  <path d="M45 95 Q100 78 155 95 L155 35 Q100 18 45 35 Z"/>
+  <!-- spine -->
+  <line x1="100" y1="28" x2="100" y2="86"/>
+  <!-- text lines left page -->
+  <line x1="58" y1="42" x2="92" y2="42" stroke-width="0.5"/>
+  <line x1="58" y1="48" x2="92" y2="48" stroke-width="0.5"/>
+  <line x1="58" y1="54" x2="88" y2="54" stroke-width="0.5"/>
+  <line x1="58" y1="60" x2="92" y2="60" stroke-width="0.5"/>
+  <line x1="58" y1="66" x2="85" y2="66" stroke-width="0.5"/>
+  <line x1="58" y1="72" x2="92" y2="72" stroke-width="0.5"/>
+  <line x1="58" y1="78" x2="80" y2="78" stroke-width="0.5"/>
+  <!-- text lines right page -->
+  <line x1="108" y1="42" x2="142" y2="42" stroke-width="0.5"/>
+  <line x1="108" y1="48" x2="142" y2="48" stroke-width="0.5"/>
+  <line x1="108" y1="54" x2="138" y2="54" stroke-width="0.5"/>
+  <line x1="108" y1="60" x2="142" y2="60" stroke-width="0.5"/>
+  <line x1="108" y1="66" x2="142" y2="66" stroke-width="0.5"/>
+  <line x1="108" y1="72" x2="135" y2="72" stroke-width="0.5"/>
+  <!-- margin note squiggle on right page -->
+  <path d="M145 50 q2 -2 4 0 t4 0 t4 0" stroke-width="0.7"/>
+  <path d="M145 58 q2 -2 4 0 t4 0" stroke-width="0.7"/>
+  <!-- dog-eared corner -->
+  <path d="M147 35 l-8 8 l8 0 z"/>
+</svg>

@@ -1,5 +1,7 @@
 # Capítulo 2: O Curador
 
+<div class="chapter-illustration"><img src="illustrations/02.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

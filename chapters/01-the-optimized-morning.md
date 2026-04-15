@@ -1,5 +1,7 @@
 # Chapter 1: The Optimized Morning
 
+<div class="chapter-illustration"><img src="illustrations/01.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

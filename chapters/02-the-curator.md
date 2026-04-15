@@ -1,5 +1,7 @@
 # Chapter 2: The Curator
 
+<div class="chapter-illustration"><img src="illustrations/02.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

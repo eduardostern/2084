@@ -1,5 +1,7 @@
 # Capítulo 6: Carne e Dados
 
+<div class="chapter-illustration"><img src="illustrations/06.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

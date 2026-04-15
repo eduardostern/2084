@@ -1,5 +1,7 @@
 # Capítulo 1: A Manhã Otimizada
 
+<div class="chapter-illustration"><img src="illustrations/01.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.3 Behavioral Anomaly: figure in corridor facing a wall -->
+  <!-- floor and ceiling with perspective lines -->
+  <line x1="35" y1="30" x2="165" y2="30"/>
+  <line x1="35" y1="100" x2="165" y2="100"/>
+  <line x1="35" y1="30" x2="80" y2="55"/>
+  <line x1="35" y1="100" x2="80" y2="80"/>
+  <line x1="165" y1="30" x2="120" y2="55"/>
+  <line x1="165" y1="100" x2="120" y2="80"/>
+  <!-- far wall -->
+  <rect x="80" y="55" width="40" height="25"/>
+  <!-- figure standing facing wall -->
+  <circle cx="100" cy="74" r="3.5"/>
+  <line x1="100" y1="78" x2="100" y2="90"/>
+  <line x1="100" y1="83" x2="96" y2="88"/>
+  <line x1="100" y1="83" x2="104" y2="88"/>
+  <line x1="100" y1="90" x2="97" y2="98"/>
+  <line x1="100" y1="90" x2="103" y2="98"/>
+</svg>

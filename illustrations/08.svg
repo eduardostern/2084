@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.8 ARIA: concentric voice waves emanating -->
+  <circle cx="100" cy="60" r="3" fill="#2a2a2a"/>
+  <path d="M85 45 Q100 35 115 45" opacity="0.85"/>
+  <path d="M85 75 Q100 85 115 75" opacity="0.85"/>
+  <path d="M75 38 Q100 25 125 38" opacity="0.7"/>
+  <path d="M75 82 Q100 95 125 82" opacity="0.7"/>
+  <path d="M65 32 Q100 15 135 32" opacity="0.55"/>
+  <path d="M65 88 Q100 105 135 88" opacity="0.55"/>
+  <path d="M55 26 Q100 5 145 26" opacity="0.4"/>
+  <path d="M55 94 Q100 115 145 94" opacity="0.4"/>
+</svg>

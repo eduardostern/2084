@@ -1,5 +1,7 @@
 # Chapter 4: The Rounding
 
+<div class="chapter-illustration"><img src="illustrations/04.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

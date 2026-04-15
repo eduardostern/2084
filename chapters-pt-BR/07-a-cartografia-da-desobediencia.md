@@ -1,5 +1,7 @@
 # Capítulo 7: A Cartografia da Desobediência
 
+<div class="chapter-illustration"><img src="illustrations/07.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

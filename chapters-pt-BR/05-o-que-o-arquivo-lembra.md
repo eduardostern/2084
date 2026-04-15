@@ -1,5 +1,7 @@
 # Capítulo 5: O Que o Arquivo Lembra
 
+<div class="chapter-illustration"><img src="illustrations/05.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
@@ -198,7 +200,7 @@ Ele disse: *O Continuum sabe que ele existe. Meu acervo está catalogado, invent
 
 Ele disse: *A camada de autenticação-genética é a coisa em que a maioria das pessoas não pensa. É como cada aparelho te conhece. Lê as células que você solta. Cada maçaneta em que você toca, cada assento em que você senta, cada pod em que você entra — ele amostra sua micro-biologia e compara com sua assinatura e te autentica em menos de cinquenta milissegundos. É assim que seu Nó sabe que é você. É assim que seu pod sabe que é você. É assim que seu café da manhã sabe que é pra você.*
 
-Ele disse: *Mas a camada de autenticação-genética não lê objetos. Ela lê *pessoas* contra *assinaturas registradas*. Um livro não é registrado. Um livro não é uma pessoa. Um livro não tem assinatura pra comparar. Então quando eu leio este livro nesta mesa, as superfícies desta sala ainda estão me comparando contra minha assinatura — sabem que estou aqui, sabem que estou sentado, sabem minha frequência cardíaca, sabem, porque a Banda está ligada, mais ou menos o que estou sentindo — mas não sabem o que estou olhando, porque o livro não é um nó da Moldura.*
+Ele disse: *Mas a camada de autenticação-genética não lê objetos. Ela lê* pessoas *contra* assinaturas registradas. *Um livro não é registrado. Um livro não é uma pessoa. Um livro não tem assinatura pra comparar. Então quando eu leio este livro nesta mesa, as superfícies desta sala ainda estão me comparando contra minha assinatura — sabem que estou aqui, sabem que estou sentado, sabem minha frequência cardíaca, sabem, porque a Banda está ligada, mais ou menos o que estou sentindo — mas não sabem o que estou olhando, porque o livro não é um nó da Moldura.*
 
 Ele disse: *Papel é invisível pra Moldura. Esse é o truque todo. Por isso eles me deixam guardar.*
 

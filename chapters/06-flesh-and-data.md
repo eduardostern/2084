@@ -1,5 +1,7 @@
 # Chapter 6: Flesh and Data
 
+<div class="chapter-illustration"><img src="illustrations/06.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

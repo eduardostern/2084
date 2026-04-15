@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.7 The Cartography of Disobedience: descending stairs with small figure -->
+  <!-- stair steps -->
+  <path d="M40 30 L70 30 L70 45 L95 45 L95 60 L120 60 L120 75 L145 75 L145 90 L170 90"/>
+  <!-- vertical risers extended down to baseline for solidity -->
+  <line x1="40" y1="30" x2="40" y2="100"/>
+  <line x1="170" y1="90" x2="170" y2="100"/>
+  <line x1="40" y1="100" x2="170" y2="100"/>
+  <!-- small figure standing at top -->
+  <circle cx="52" cy="22" r="2.5"/>
+  <line x1="52" y1="24" x2="52" y2="30"/>
+</svg>

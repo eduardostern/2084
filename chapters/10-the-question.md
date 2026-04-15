@@ -1,5 +1,7 @@
 # Chapter 10: The Question
 
+<div class="chapter-illustration"><img src="illustrations/10.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Elevated                 │

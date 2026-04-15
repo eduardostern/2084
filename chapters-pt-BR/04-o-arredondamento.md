@@ -1,5 +1,7 @@
 # Capítulo 4: O Arredondamento
 
+<div class="chapter-illustration"><img src="illustrations/04.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

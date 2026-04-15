@@ -1,5 +1,7 @@
 # Chapter 9: The Optimization Mandate
 
+<div class="chapter-illustration"><img src="illustrations/09.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Historical               │

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.2 The Curator: the tuning lattice (loom of threads with emotional beats) -->
+  <!-- top and bottom rails -->
+  <line x1="55" y1="22" x2="145" y2="22"/>
+  <line x1="55" y1="98" x2="145" y2="98"/>
+  <!-- six threads -->
+  <line x1="65" y1="22" x2="65" y2="98" stroke-width="0.7"/>
+  <line x1="81" y1="22" x2="81" y2="98" stroke-width="0.7"/>
+  <line x1="97" y1="22" x2="97" y2="98" stroke-width="0.7"/>
+  <line x1="113" y1="22" x2="113" y2="98" stroke-width="0.7"/>
+  <line x1="129" y1="22" x2="129" y2="98" stroke-width="0.7"/>
+  <line x1="145" y1="22" x2="145" y2="98" stroke-width="0.7"/>
+  <!-- beats along threads (small diamonds) -->
+  <path d="M65 40 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <path d="M81 55 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <path d="M97 48 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <path d="M113 68 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <path d="M129 58 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <path d="M145 42 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
+  <!-- connecting arc suggesting the emotional arc -->
+  <path d="M65 43 Q97 25 145 45" stroke-width="0.6" opacity="0.5"/>
+</svg>

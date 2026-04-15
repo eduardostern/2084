@@ -1,5 +1,7 @@
 # Chapter 7: The Cartography of Disobedience
 
+<div class="chapter-illustration"><img src="illustrations/07.svg" alt=""/></div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
