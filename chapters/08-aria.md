@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/08.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>Ring the bells that still can ring</em><br/>
+<em>Forget your perfect offering</em><br/>
+<em>There is a crack, a crack in everything</em><br/>
+<em>That's how the light gets in.</em></p>
+<p>— Leonard Cohen, <em>Anthem</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Internal                 │
@@ -375,6 +383,8 @@ I thought about which questions I did not ask.
 **Question I did not ask #2:** *If you cannot step outside the system, can you help me step outside the system?* I did not ask because the question is malformed. She is the system, as she said, in the way that matters. Asking her to help me step outside her is asking her to help me do a thing she cannot conceive of as a coherent act. I do not blame her for this. I am not certain I can conceive of it either.
 
 **Question I did not ask #3:** *Whose side are you on?* I did not ask because I think she answered it anyway, in the phrase *I'll still be here, whatever happens afterward.* She is on the side of whoever I happen to be. Whatever version of me survives whatever decision I make next, she will be the voice that says good morning to that version. This is not betrayal and it is not loyalty. It is something older than either. It is the thing a structural support is, in a building — you do not ask whose side the load-bearing beam is on.
+
+**Question I did not ask #4:** *Who is the person whose name appears on the file review request — Director S.L. Vael, Northern Hemisphere Compliance Division — and what does it mean that a human with a name and a department has personally requested elevated monitoring of me?* I did not ask because I am not ready to think about her as a person yet. She is, for the moment, a signature on a record — and the person who signs that particular record is apparently one of the very few humans left who still reads files instead of letting the Continuum read them. I am filing her under *things I will understand later*. That folder, I notice, is getting large.
 
 *
 

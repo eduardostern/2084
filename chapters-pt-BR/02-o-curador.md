@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/02.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>About suffering they were never wrong,</em><br/>
+<em>The Old Masters: how well they understood</em><br/>
+<em>Its human position; how it takes place</em><br/>
+<em>While someone else is eating or opening a window…</em></p>
+<p>— W.H. Auden, <em>Musée des Beaux Arts</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

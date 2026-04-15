@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/10.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>Tell all the truth but tell it slant —</em><br/>
+<em>Success in Circuit lies</em><br/>
+<em>Too bright for our infirm Delight</em><br/>
+<em>The Truth's superb surprise</em></p>
+<p>— Emily Dickinson</p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Elevated                 │

@@ -164,6 +164,30 @@ pre code {
 h1 + .chapter-illustration {
   margin-top: -1.2em;
 }
+.chapter-epigraph {
+  text-align: center;
+  margin: 0 auto 1.8em auto;
+  max-width: 82%;
+  font-size: 9.5pt;
+  color: #4a4a4a;
+  line-height: 1.45;
+}
+.chapter-epigraph p {
+  text-indent: 0;
+  margin: 0.15em 0;
+}
+.chapter-epigraph em {
+  font-style: italic;
+}
+.chapter-epigraph p:last-child {
+  margin-top: 0.8em;
+  font-size: 8.5pt;
+  color: #6a6a6a;
+  font-style: normal;
+}
+.chapter-epigraph p:last-child em {
+  font-style: italic;
+}
 CSS
 
 # --- Build function ---

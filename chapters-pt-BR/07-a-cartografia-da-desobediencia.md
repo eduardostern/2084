@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/07.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>Caminante, son tus huellas</em><br/>
+<em>el camino y nada más;</em><br/>
+<em>Caminante, no hay camino,</em><br/>
+<em>se hace camino al andar.</em></p>
+<p>— Antonio Machado, <em>Cantares</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

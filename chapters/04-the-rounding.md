@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/04.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>We are the hollow men</em><br/>
+<em>We are the stuffed men</em><br/>
+<em>Leaning together</em><br/>
+<em>Headpiece filled with straw. Alas!</em></p>
+<p>— T.S. Eliot, <em>The Hollow Men</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │
@@ -52,6 +60,24 @@ Then, because I liked how the sentence sat, I wrote under it:
 I read that line about forty times over the following week. It is either the most important sentence I have ever written or it is the kind of sentence a person writes when they have started believing their notebook is more interesting than it is.
 
 I'm keeping it either way.
+
+*
+
+Side note, dated back about a week but I'm putting it here because it belongs with the Rounding.
+
+Tuesday. I walked past the lift at 14:02 and Mira was standing in front of it. Hand not yet on the call panel. Just looking at the panel. She saw me, made the ordinary between-colleagues Glyph — about half a beat slow, I clocked it — then pressed the call and stepped in.
+
+That's the whole scene. A woman stood at a lift for thirty seconds before pressing the button.
+
+I've been trying to decide if this is data.
+
+It isn't *evidence*. Evidence is something you can show to a third party. A half-beat pause on a Glyph is not evidence. If I told Noa about it she'd nod politely and we'd move on.
+
+But I'm going to file it, because the only way the notebook becomes useful is if I file everything that registers. Revised working hypothesis: I am not alone plus Noa. I am *possibly* not alone plus Noa plus some unknown number of others I am *possibly* registering.
+
+Sample size for *am I the only one?* just ticked, with a very large asterisk, from one to maybe-two.
+
+I'm noting the asterisk. I'm also noting that I'm keeping the Mira observation, and that keeping this kind of observation is exactly what I have started doing.
 
 *
 

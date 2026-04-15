@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/11.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>Death, be not proud, though some have called thee</em><br/>
+<em>Mighty and dreadful, for thou art not so;</em><br/>
+<em>For those whom thou think'st thou dost overthrow</em><br/>
+<em>Die not, poor Death, nor yet canst thou kill me.</em></p>
+<p>— John Donne, <em>Holy Sonnets</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

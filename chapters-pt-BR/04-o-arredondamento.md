@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/04.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>We are the hollow men</em><br/>
+<em>We are the stuffed men</em><br/>
+<em>Leaning together</em><br/>
+<em>Headpiece filled with straw. Alas!</em></p>
+<p>— T.S. Eliot, <em>The Hollow Men</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
@@ -52,6 +60,24 @@ Depois, porque gostei de como a frase ficou, escrevi embaixo:
 Reli essa linha umas quarenta vezes na semana seguinte. Ou é a frase mais importante que eu já escrevi, ou é o tipo de frase que uma pessoa escreve quando começou a acreditar que seu caderno é mais interessante do que é.
 
 Vou guardar de um jeito ou de outro.
+
+*
+
+Nota lateral, datada de uma semana atrás mas estou pondo aqui porque pertence ao Arredondamento.
+
+Terça. Passei pelo elevador às 14:02 e a Mira estava parada em frente. Mão ainda fora do painel de chamada. Só olhando pro painel. Ela me viu, fez o Glifo comum de entre-colegas — uma meia-batida atrasado, eu cronometrei — aí apertou a chamada e entrou.
+
+Essa é a cena toda. Uma mulher ficou parada num elevador por trinta segundos antes de apertar o botão.
+
+Venho tentando decidir se isto é dado.
+
+Não é *evidência*. Evidência é uma coisa que você pode mostrar pra um terceiro. Uma meia-batida de pausa num Glifo não é evidência. Se eu contasse pra Noa, ela assentia educada e a gente seguia em frente.
+
+Mas vou arquivar, porque o único jeito do caderno virar útil é eu arquivar tudo que registra. Hipótese de trabalho revisada: não estou sozinho mais a Noa. *Possivelmente* não estou sozinho mais a Noa mais algum número desconhecido de outras pessoas que *possivelmente* estou registrando.
+
+Amostra pra *estou sozinho?* acabou de pular, com um asterisco muito grande, de um pra talvez-dois.
+
+Estou anotando o asterisco. Estou também anotando que estou guardando a observação da Mira, e que guardar esse tipo de observação é exatamente o que comecei a fazer.
 
 *
 

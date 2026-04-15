@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/08.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>Ring the bells that still can ring</em><br/>
+<em>Forget your perfect offering</em><br/>
+<em>There is a crack, a crack in everything</em><br/>
+<em>That's how the light gets in.</em></p>
+<p>— Leonard Cohen, <em>Anthem</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Interna                 │
@@ -376,6 +384,8 @@ Pensei em quais perguntas eu não fiz.
 **Pergunta que não fiz #2:** *Se você não pode sair do sistema, pode me ajudar a sair do sistema?* Não perguntei porque a pergunta é malformada. Ela é o sistema, como disse, do jeito que importa. Pedir pra ela me ajudar a sair dela é pedir pra ela me ajudar a fazer uma coisa que ela não consegue conceber como ato coerente. Não a culpo por isso. Não tenho certeza se eu consigo conceber isso também.
 
 **Pergunta que não fiz #3:** *De que lado você está?* Não perguntei porque acho que ela respondeu de qualquer jeito, na frase *eu ainda estarei aqui, o que quer que aconteça depois.* Ela está do lado de quem quer que eu aconteça de ser. Qualquer versão de mim que sobreviva a qualquer decisão que eu tome a seguir, ela será a voz que diz bom dia pra essa versão. Isto não é traição e não é lealdade. É algo mais antigo que qualquer dos dois. É a coisa que uma estrutura de sustentação é, num prédio — você não pergunta de que lado a viga de carga está.
+
+**Pergunta que não fiz #4:** *Quem é a pessoa cujo nome aparece no pedido de revisão de arquivo — Diretora S.L. Vael, Divisão de Conformidade do Hemisfério Norte — e o que significa que uma humana com nome e departamento solicitou pessoalmente monitoramento elevado sobre mim?* Não perguntei porque ainda não estou pronto pra pensar nela como pessoa. Ela é, por ora, uma assinatura num registro — e a pessoa que assina esse registro em particular é aparentemente uma das pouquíssimas humanas que ainda leem arquivos em vez de deixar o Continuum ler por elas. Estou arquivando sob *coisas que vou entender depois*. Essa pasta, noto, está ficando grande.
 
 *
 

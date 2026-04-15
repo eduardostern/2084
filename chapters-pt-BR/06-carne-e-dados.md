@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/06.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>When there was peace, he was for peace; when there was war, he went.</em><br/>
+<em>He was married and added five children to the population,</em><br/>
+<em>Which our Eugenist says was the right number for a parent of his generation.</em><br/>
+<em>And our teachers report that he never interfered with their education.</em></p>
+<p>— W.H. Auden, <em>The Unknown Citizen</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/05.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>There is no Frigate like a Book</em><br/>
+<em>To take us Lands away</em><br/>
+<em>Nor any Coursers like a Page</em><br/>
+<em>Of prancing Poetry —</em></p>
+<p>— Emily Dickinson</p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CONTINUUM RECORD  //  Classification: Routine                  │

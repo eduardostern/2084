@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/03.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>I'm Nobody! Who are you?</em><br/>
+<em>Are you — Nobody — too?</em><br/>
+<em>Then there's a pair of us!</em><br/>
+<em>Don't tell! they'd advertise — you know!</em></p>
+<p>— Emily Dickinson</p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │

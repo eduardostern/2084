@@ -2,6 +2,14 @@
 
 <div class="chapter-illustration"><img src="illustrations/01.svg" alt=""/></div>
 
+<div class="chapter-epigraph">
+<p><em>April is the cruellest month, breeding</em><br/>
+<em>Lilacs out of the dead land, mixing</em><br/>
+<em>Memory and desire, stirring</em><br/>
+<em>Dull roots with spring rain.</em></p>
+<p>— T.S. Eliot, <em>The Waste Land</em></p>
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
