@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid meet">
+  <!--
+    2084 — cover illustration.
+    A figure at a window in District Meridian. Night.
+    Above: the Day Path in Glyph. At the wrist: the Band.
+    Below: "this was here."
+  -->
+
+  <defs>
+    <!-- Interior of the dwelling -->
+    <linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0d1a"/>
+      <stop offset="0.5" stop-color="#0f1324"/>
+      <stop offset="1" stop-color="#0b0e1c"/>
+    </linearGradient>
+
+    <!-- Managed night sky beyond the window -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1f3d"/>
+      <stop offset="0.35" stop-color="#252949"/>
+      <stop offset="0.7" stop-color="#3a3358"/>
+      <stop offset="1" stop-color="#4e3d55"/>
+    </linearGradient>
+
+    <!-- Distant haze low in the sky, over the city -->
+    <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d4a962" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d4a962" stop-opacity="0.10"/>
+    </linearGradient>
+
+    <!-- The canal -->
+    <linearGradient id="canal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2540" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#1a1729"/>
+      <stop offset="1" stop-color="#0d0b18"/>
+    </linearGradient>
+
+    <!-- Moon glow -->
+    <radialGradient id="moon">
+      <stop offset="0" stop-color="#ecdcb8" stop-opacity="0.85"/>
+      <stop offset="0.35" stop-color="#ecdcb8" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#ecdcb8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- The Band: a warm pulse at the wrist -->
+    <radialGradient id="bandGlow">
+      <stop offset="0" stop-color="#f6cf86" stop-opacity="1"/>
+      <stop offset="0.4" stop-color="#f4c97a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f4c97a" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="0.5" cy="0.55" r="0.8">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+
+    <!-- A single Glyph shape, reused along the ceiling -->
+    <symbol id="glyph-dot" viewBox="-6 -6 12 12">
+      <circle cx="0" cy="0" r="3" fill="#d4a962"/>
+    </symbol>
+  </defs>
+
+  <!-- Room -->
+  <rect width="800" height="1200" fill="url(#room)"/>
+
+  <!-- Ceiling: Day Path in Glyph -->
+  <g opacity="0.55">
+    <!-- soft suggestion of a ceiling plane -->
+    <rect x="0" y="0" width="800" height="120" fill="#d4a962" opacity="0.015"/>
+
+    <!-- Wake -->
+    <circle cx="115" cy="62" r="4.5" fill="#d4a962"/>
+    <!-- Hydrate -->
+    <path d="M165 56 Q175 48 185 56 Q180 68 175 70 Q170 68 165 56 Z" fill="none" stroke="#d4a962" stroke-width="1.4"/>
+    <!-- Breakfast -->
+    <path d="M220 66 Q230 54 240 66" stroke="#d4a962" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <circle cx="230" cy="62" r="1.5" fill="#d4a962"/>
+    <!-- Pod / movement -->
+    <path d="M275 62 L295 62 M288 57 L295 62 L288 67" stroke="#d4a962" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <!-- Work -->
+    <rect x="330" y="54" width="14" height="14" fill="none" stroke="#d4a962" stroke-width="1.4"/>
+    <line x1="333" y1="58" x2="341" y2="58" stroke="#d4a962" stroke-width="1"/>
+    <line x1="333" y1="62" x2="341" y2="62" stroke="#d4a962" stroke-width="1"/>
+    <!-- Archive reference (the return) -->
+    <path d="M385 55 A 8 8 0 1 0 385 69" stroke="#d4a962" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <circle cx="385" cy="62" r="1.5" fill="#d4a962"/>
+    <!-- Break / terrace -->
+    <line x1="430" y1="62" x2="448" y2="62" stroke="#d4a962" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="439" cy="57" r="1.5" fill="#d4a962"/>
+    <!-- Work (afternoon) -->
+    <rect x="485" y="54" width="14" height="14" fill="none" stroke="#d4a962" stroke-width="1.4"/>
+    <circle cx="492" cy="61" r="1.8" fill="#d4a962"/>
+    <!-- Social window -->
+    <circle cx="535" cy="62" r="4" fill="none" stroke="#d4a962" stroke-width="1.4"/>
+    <circle cx="544" cy="62" r="4" fill="none" stroke="#d4a962" stroke-width="1.4"/>
+    <!-- Dinner -->
+    <path d="M585 57 Q595 54 605 57 Q600 67 595 69 Q590 67 585 57 Z" fill="#d4a962" opacity="0.6"/>
+    <!-- Sleep window (crescent) -->
+    <path d="M655 56 A 8 8 0 1 0 655 68 A 6 6 0 1 1 655 56 Z" fill="#d4a962"/>
+    <!-- Next -->
+    <circle cx="700" cy="62" r="2" fill="#d4a962" opacity="0.7"/>
+    <circle cx="712" cy="62" r="1.5" fill="#d4a962" opacity="0.5"/>
+    <circle cx="722" cy="62" r="1" fill="#d4a962" opacity="0.35"/>
+  </g>
+
+  <!-- Thin suggestion of the wall's edge where ceiling meets wall -->
+  <line x1="0" y1="120" x2="800" y2="120" stroke="#1c1f30" stroke-width="1" opacity="0.6"/>
+
+  <!-- WINDOW -->
+  <g>
+    <!-- Sky inside the frame -->
+    <rect x="140" y="170" width="520" height="700" fill="url(#sky)"/>
+
+    <!-- Moon (faint) -->
+    <circle cx="555" cy="285" r="90" fill="url(#moon)"/>
+    <circle cx="555" cy="285" r="28" fill="#ecdcb8" opacity="0.55"/>
+
+    <!-- Distant haze over the city -->
+    <rect x="140" y="620" width="520" height="250" fill="url(#haze)"/>
+
+    <!-- City: far terrace (smallest, softest) -->
+    <g opacity="0.7">
+      <path d="M 140 655 Q 280 648 400 652 Q 520 648 660 655"
+            stroke="#3a3149" stroke-width="1" fill="none"/>
+      <g fill="#f4c97a" opacity="0.55">
+        <circle cx="175" cy="653" r="0.9"/>
+        <circle cx="210" cy="651" r="0.9"/>
+        <circle cx="248" cy="650" r="0.9"/>
+        <circle cx="285" cy="649" r="0.9"/>
+        <circle cx="322" cy="650" r="0.9"/>
+        <circle cx="360" cy="651" r="0.9"/>
+        <circle cx="398" cy="652" r="0.9"/>
+        <circle cx="436" cy="651" r="0.9"/>
+        <circle cx="472" cy="650" r="0.9"/>
+        <circle cx="510" cy="649" r="0.9"/>
+        <circle cx="548" cy="650" r="0.9"/>
+        <circle cx="585" cy="651" r="0.9"/>
+        <circle cx="622" cy="653" r="0.9"/>
+      </g>
+    </g>
+
+    <!-- Terrace 2 -->
+    <g opacity="0.8">
+      <path d="M 140 692 Q 270 684 400 689 Q 530 684 660 692"
+            stroke="#463a58" stroke-width="1.1" fill="none"/>
+      <g fill="#f4c97a" opacity="0.7">
+        <circle cx="168" cy="690" r="1.1"/>
+        <circle cx="206" cy="687" r="1.1"/>
+        <circle cx="245" cy="686" r="1.1"/>
+        <circle cx="288" cy="685" r="1.1"/>
+        <circle cx="330" cy="686" r="1.1"/>
+        <circle cx="372" cy="688" r="1.1"/>
+        <circle cx="412" cy="689" r="1.1"/>
+        <circle cx="454" cy="687" r="1.1"/>
+        <circle cx="496" cy="685" r="1.1"/>
+        <circle cx="538" cy="686" r="1.1"/>
+        <circle cx="580" cy="688" r="1.1"/>
+        <circle cx="620" cy="690" r="1.1"/>
+      </g>
+    </g>
+
+    <!-- Terrace 3 -->
+    <g>
+      <path d="M 140 735 Q 260 726 400 732 Q 540 726 660 735"
+            stroke="#534564" stroke-width="1.3" fill="none" opacity="0.85"/>
+      <g fill="#f4c97a" opacity="0.82">
+        <circle cx="162" cy="733" r="1.4"/>
+        <circle cx="200" cy="729" r="1.4"/>
+        <circle cx="240" cy="727" r="1.4"/>
+        <circle cx="284" cy="728" r="1.4"/>
+        <circle cx="326" cy="729" r="1.4"/>
+        <circle cx="368" cy="731" r="1.4"/>
+        <circle cx="420" cy="732" r="1.4"/>
+        <circle cx="462" cy="729" r="1.4"/>
+        <circle cx="504" cy="727" r="1.4"/>
+        <circle cx="548" cy="728" r="1.4"/>
+        <circle cx="590" cy="731" r="1.4"/>
+        <circle cx="630" cy="734" r="1.4"/>
+      </g>
+      <!-- A pod streak (warm amber, moving right) -->
+      <line x1="345" y1="731" x2="378" y2="731"
+            stroke="#f6cf86" stroke-width="1.4" stroke-linecap="round" opacity="0.75"/>
+    </g>
+
+    <!-- Terrace 4 (closest, strongest) -->
+    <g>
+      <path d="M 140 782 Q 250 770 400 778 Q 550 770 660 782"
+            stroke="#5e4f70" stroke-width="1.5" fill="none"/>
+      <g fill="#f4c97a">
+        <circle cx="158" cy="780" r="1.7"/>
+        <circle cx="196" cy="775" r="1.7"/>
+        <circle cx="236" cy="773" r="1.7"/>
+        <circle cx="280" cy="774" r="1.7"/>
+        <circle cx="324" cy="776" r="1.7"/>
+        <circle cx="366" cy="777" r="1.7"/>
+        <circle cx="428" cy="778" r="1.7"/>
+        <circle cx="470" cy="775" r="1.7"/>
+        <circle cx="512" cy="773" r="1.7"/>
+        <circle cx="554" cy="774" r="1.7"/>
+        <circle cx="596" cy="777" r="1.7"/>
+        <circle cx="636" cy="780" r="1.7"/>
+      </g>
+      <!-- A second pod streak -->
+      <line x1="480" y1="775" x2="515" y2="775"
+            stroke="#f6cf86" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+      <!-- Maintenance drone on the walkway (very small) -->
+      <rect x="247" y="787" width="3.2" height="2.2" fill="#b89560" opacity="0.9"/>
+    </g>
+
+    <!-- Canal -->
+    <rect x="140" y="800" width="520" height="70" fill="url(#canal)"/>
+
+    <!-- Canal reflections -->
+    <g fill="#f4c97a" opacity="0.32">
+      <ellipse cx="190" cy="820" rx="5" ry="1"/>
+      <ellipse cx="260" cy="835" rx="5" ry="1"/>
+      <ellipse cx="340" cy="825" rx="5" ry="1"/>
+      <ellipse cx="420" cy="840" rx="5" ry="1"/>
+      <ellipse cx="500" cy="828" rx="5" ry="1"/>
+      <ellipse cx="570" cy="845" rx="5" ry="1"/>
+      <ellipse cx="620" cy="832" rx="5" ry="1"/>
+    </g>
+
+    <!-- A thin, darker reflection streak where pod-light hits water -->
+    <line x1="360" y1="850" x2="365" y2="862"
+          stroke="#f4c97a" stroke-width="0.6" opacity="0.45"/>
+
+    <!-- Window frame -->
+    <rect x="140" y="170" width="520" height="700" fill="none"
+          stroke="#2a2c40" stroke-width="3"/>
+    <!-- Mullions: one horizontal, one vertical (architectural) -->
+    <line x1="140" y1="520" x2="660" y2="520" stroke="#2a2c40" stroke-width="2"/>
+    <line x1="400" y1="170" x2="400" y2="870" stroke="#2a2c40" stroke-width="2"/>
+
+    <!-- Very faint interior reflection on glass (room ghosting in) -->
+    <rect x="140" y="170" width="520" height="700" fill="#0a0d1a" opacity="0.15"/>
+  </g>
+
+  <!-- FIGURE: Elias, from behind, silhouetted against the window -->
+  <g>
+    <!-- Bottom hem of figure extends below window line, grounding him in the room -->
+    <!-- Torso (shoulders-to-hips), slightly asymmetric, standing still -->
+    <path d="M 338 980
+             Q 338 900 350 820
+             Q 360 760 370 720
+             L 430 720
+             Q 440 760 450 820
+             Q 462 900 462 980
+             Z"
+          fill="#05070f"/>
+    <!-- Subtle shoulder highlight (from city light) -->
+    <path d="M 370 720 Q 400 710 430 720 Q 430 730 400 725 Q 370 730 370 720 Z"
+          fill="#1c2140" opacity="0.5"/>
+
+    <!-- Neck -->
+    <path d="M 385 720 L 385 690 L 415 690 L 415 720 Z" fill="#05070f"/>
+
+    <!-- Head (from behind) -->
+    <ellipse cx="400" cy="648" rx="34" ry="42" fill="#05070f"/>
+    <!-- Faint rim of light on the head -->
+    <path d="M 370 635 Q 400 614 430 635"
+          stroke="#2a2f4a" stroke-width="1.2" fill="none" opacity="0.7"/>
+
+    <!-- Left arm down at side -->
+    <path d="M 342 820
+             Q 332 870 322 930
+             Q 320 960 328 980
+             L 350 980
+             Q 352 960 354 930
+             Q 358 870 362 820 Z"
+          fill="#05070f"/>
+
+    <!-- Right arm down at side -->
+    <path d="M 458 820
+             Q 468 870 478 930
+             Q 480 960 472 980
+             L 450 980
+             Q 448 960 446 930
+             Q 442 870 438 820 Z"
+          fill="#05070f"/>
+  </g>
+
+  <!-- THE BAND: warm point of light at the left wrist -->
+  <g>
+    <!-- Outer glow -->
+    <circle cx="335" cy="948" r="26" fill="url(#bandGlow)"/>
+    <!-- The ring of the Band itself -->
+    <ellipse cx="335" cy="948" rx="10" ry="5.5" fill="none"
+             stroke="#f6cf86" stroke-width="1.2" opacity="0.95"/>
+    <ellipse cx="335" cy="948" rx="8" ry="4" fill="none"
+             stroke="#f6cf86" stroke-width="0.6" opacity="0.55"/>
+    <!-- Tiny inner bead suggesting the reservoir -->
+    <circle cx="335" cy="948" r="1.1" fill="#f6cf86"/>
+  </g>
+
+  <!-- Vignette over everything except text -->
+  <rect width="800" height="1200" fill="url(#vignette)" pointer-events="none"/>
+
+  <!-- TYPOGRAPHY -->
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <!-- Title -->
+    <text x="400" y="1060" text-anchor="middle"
+          fill="#ecdcb8" font-size="92" letter-spacing="22" font-weight="300">2084</text>
+    <!-- Thin rule under title -->
+    <line x1="330" y1="1078" x2="470" y2="1078" stroke="#6a5e48" stroke-width="0.8" opacity="0.7"/>
+    <!-- Subtitle -->
+    <text x="400" y="1105" text-anchor="middle"
+          fill="#a69a84" font-size="14" letter-spacing="8" opacity="0.85">AFTER ORWELL</text>
+  </g>
+
+  <!-- Handwritten margin note — the book's last line -->
+  <g font-family="'Segoe Script','Bradley Hand','Brush Script MT',cursive">
+    <text x="400" y="1153" text-anchor="middle"
+          fill="#c7b89e" font-size="22" font-style="italic" opacity="0.7">this was here</text>
+  </g>
+
+  <!-- Author -->
+  <g font-family="Georgia, serif">
+    <text x="400" y="1188" text-anchor="middle"
+          fill="#7a6e5a" font-size="12" letter-spacing="4" opacity="0.75">EDUARDO H. STERN</text>
+  </g>
+</svg>
