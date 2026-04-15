@@ -5,7 +5,7 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Chalk, Desmond L. — ID: MDN-7-118803                  │
 │  CST: 2084.05.02 / Revisão Padrão de Bem-Estar                  │
-│                                                                  │
+│                                                                 │
 │  Classe de Função: V (Cidadão Assistido)                        │
 │  Reclassificado: CST 2082.11.14                                 │
 │  Acesso ao arquivo: Ativo (clearance legado de                  │
@@ -15,11 +15,11 @@
 │    provisão de continuidade cultural).                          │
 │  Avaliação de ameaça: Mínima.                                   │
 │  Sinal. de anomalia comportamental: Nenhum ativo.               │
-│                                                                  │
+│                                                                 │
 │  Nota: Sujeito mantém contato social irregular com              │
 │    cidadãos em classes de função ativas. Classificação:         │
 │    dentro de parâmetros normais de interação de idoso.          │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

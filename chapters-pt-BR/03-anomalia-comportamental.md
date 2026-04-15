@@ -5,16 +5,16 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Ren, Noa K. — ID: MDN-7-209033                        │
 │  CST: 2084.04.01 / Aviso de Realocação                          │
-│                                                                  │
+│                                                                 │
 │  Ação: Realocação do Distrito Calloway, Setor 12                │
-│        para o Distrito Meridian, Setor 7                         │
-│  Vigência: CST 2084.04.03                                        │
-│  Função: Comportamentalista de Sistemas, Classe III              │
+│        para o Distrito Meridian, Setor 7                        │
+│  Vigência: CST 2084.04.03                                       │
+│  Função: Comportamentalista de Sistemas, Classe III             │
 │  Justificativa: [Otimização — ver parâmetros anexos]            │
-│                                                                  │
-│  Obs.: Parâmetros anexos são internos a este registro.           │
-│  Nenhuma divulgação ao cidadão é requerida.                      │
-│                                                                  │
+│                                                                 │
+│  Obs.: Parâmetros anexos são internos a este registro.          │
+│  Nenhuma divulgação ao cidadão é requerida.                     │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

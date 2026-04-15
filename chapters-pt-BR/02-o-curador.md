@@ -5,20 +5,20 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
 │  CST: 2084.03.28 / Revisão Trimestral de Classe de Função       │
-│                                                                  │
+│                                                                 │
 │  Métricas de Desempenho (T1, 2084):                             │
 │    Throughput de fitas       — 112% da linha-base de classe     │
 │    Precisão de ressonância   — percentil 94,7, Classe II        │
 │    Taxa de ajuste da treliça — nominal                          │
 │    Escore de coesão de pares — 0,91 (ótimo)                     │
-│                                                                  │
+│                                                                 │
 │  Notas:                                                         │
 │    Volume de consultas ao arquivo: elevado (+34% da linha-base).│
 │    Classificação: desenvolvimento profissional.                 │
 │    Nenhuma ação requerida.                                      │
-│                                                                  │
+│                                                                 │
 │  Disposição Geral: Exemplar. Manter a designação atual.         │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

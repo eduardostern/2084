@@ -5,30 +5,30 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Chalk, Desmond L. — ID: MDN-7-118803                  │
 │  CST: 2084.09.03 / Atualização do Protocolo de Conclusão Natural│
-│                                                                  │
+│                                                                 │
 │  Fase do protocolo: Ativa (Fase II). Vigência: 2084.08.31.      │
-│  Evento precedente: Evento de distribuição de mídia física       │
-│    detectado, CST 2084.08.30. Assinatura biométrica confirma     │
-│    transferência manual de materiais a dois destinatários        │
-│    não registrados.                                              │
-│  Avaliação de bem-estar: Comportamento expressivo de             │
-│    estágio final. Aceleração da transição para a Fase II         │
-│    indicada conforme Protocolo 7.3 (conclusão otimizada para     │
-│    conforto para sujeitos com atividade ativa de distribuição    │
-│    não padronizada).                                             │
-│                                                                  │
+│  Evento precedente: Evento de distribuição de mídia física      │
+│    detectado, CST 2084.08.30. Assinatura biométrica confirma    │
+│    transferência manual de materiais a dois destinatários       │
+│    não registrados.                                             │
+│  Avaliação de bem-estar: Comportamento expressivo de            │
+│    estágio final. Aceleração da transição para a Fase II        │
+│    indicada conforme Protocolo 7.3 (conclusão otimizada para    │
+│    conforto para sujeitos com atividade ativa de distribuição   │
+│    não padronizada).                                            │
+│                                                                 │
 │  Complexidade do Caminho do Dia: Nível 1 (descanso-primário)    │
 │  Perfil do composto da Banda: Otimizado para conforto           │
 │  Engajamento ARIA: Elevado (modo de suporte paliativo)          │
 │  Acervo de mídia física: Registrado. Protocolo de transferência:│
 │    Pendente de admissão padrão de arquivo após conclusão do     │
-│    sujeito.                                                      │
+│    sujeito.                                                     │
 │  Janela projetada de conclusão: 3-5 semanas.                    │
-│                                                                  │
-│  Nota: Contatos sociais MDN-7-204471 e MDN-7-209033              │
-│    notificados via canal de bem-estar ARIA de que a              │
-│    condição do sujeito entrou em fase terminal.                  │
-│                                                                  │
+│                                                                 │
+│  Nota: Contatos sociais MDN-7-204471 e MDN-7-209033             │
+│    notificados via canal de bem-estar ARIA de que a             │
+│    condição do sujeito entrou em fase terminal.                 │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

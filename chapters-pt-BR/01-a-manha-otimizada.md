@@ -5,19 +5,19 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
 │  CST: 2084.03.14 / 06:00:00                                     │
-│                                                                  │
-│  Resumo do Ciclo Noturno:                                        │
+│                                                                 │
+│  Resumo do Ciclo Noturno:                                       │
 │    Arquitetura do sono  — nominal (REM 22,4%, Δ3 18,1%)         │
-│    Linha-base cortisol  — dentro da faixa ótima                  │
-│    Marcadores inflamat. — traços, não acionáveis                 │
-│    Variância afetiva    — 0,04 (estável)                         │
-│                                                                  │
+│    Linha-base cortisol  — dentro da faixa ótima                 │
+│    Marcadores inflamat. — traços, não acionáveis                │
+│    Variância afetiva    — 0,04 (estável)                        │
+│                                                                 │
 │  Disposição do Caminho do Dia: Alinhado                         │
 │  Escore de Coerência:          0,97 / 1,00                      │
-│  Intervenção Necessária:       Nenhuma                           │
-│  Resumo:                       Sujeito está bem. Sem             │
-│                                anomalias detectadas.             │
-│                                                                  │
+│  Intervenção Necessária:       Nenhuma                          │
+│  Resumo:                       Sujeito está bem. Sem            │
+│                                anomalias detectadas.            │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

@@ -4,20 +4,20 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  REGISTRO CONTINUUM  //  Classificação: Interno                 │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
-│  CST: 2084.07.03 / Arquivo Comportamental — Pedido de Revisão  │
-│    de Diretora                                                   │
-│                                                                  │
+│  CST: 2084.07.03 / Arquivo Comportamental — Pedido de Revisão   │
+│    de Diretora                                                  │
+│                                                                 │
 │  Autoridade requisitante: Vael, Diretora S.L.                   │
 │    Divisão de Conformidade do Hemisfério Norte                  │
-│  Base: Trajetória sustentada de deriva comportamental            │
-│    (+0,31, 18 meses); agrupamento social anômalo                 │
-│    (MDN-7-209033, MDN-7-118803); crescimento de arquivo          │
-│    particular (volume não-padrão); evento de remoção da Banda    │
+│  Base: Trajetória sustentada de deriva comportamental           │
+│    (+0,31, 18 meses); agrupamento social anômalo                │
+│    (MDN-7-209033, MDN-7-118803); crescimento de arquivo         │
+│    particular (volume não-padrão); evento de remoção da Banda   │
 │    (CST 2084.06.11, 4m 22s).                                    │
-│                                                                  │
-│  Status: Em revisão.                                             │
+│                                                                 │
+│  Status: Em revisão.                                            │
 │  Ação recomendada: Monitorar. Engajamento de ARIA: Elevado.     │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

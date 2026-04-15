@@ -5,18 +5,18 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
 │  CST: 2084.04.14 / Resumo de Dados da Banda                     │
-│                                                                  │
+│                                                                 │
 │  Variância dopaminérgica correlacionada à proximidade:          │
 │    Cidadão MDN-7-209033 (Ren, Noa K.): +0,31 acima da linha-base│
-│    Duração: 18 dias                                              │
-│    Tendência: Estável                                            │
+│    Duração: 18 dias                                             │
+│    Tendência: Estável                                           │
 │    Classificação: Dentro da faixa aceitável de vínculo social   │
-│                                                                  │
+│                                                                 │
 │  Nota comportamental: Sujeito tomou variações de rota não       │
 │    agendadas em 4 ocasiões (escadaria, corredor alternativo,    │
 │    terraço fora da janela de pausa). Classificação: menor.      │
-│    Nenhuma intervenção indicada no momento.                      │
-│                                                                  │
+│    Nenhuma intervenção indicada no momento.                     │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

@@ -5,20 +5,20 @@
 │  REGISTRO CONTINUUM  //  Classificação: Elevado                 │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
 │  CST: 2084.08.15 / Revisão de Arquivo — Diretora Vael           │
-│                                                                  │
+│                                                                 │
 │  Arquivo revisado por: Vael, Diretora S.L.                      │
 │  Resumo da preocupação: Deriva sustentada; cluster social;      │
 │    padrão de arquivo; evento de remoção da Banda; volume        │
 │    de arquivo particular e estrutura narrativa aparente         │
 │    (não lido — clearance de arquivo particular mantida          │
-│    conforme protocolo).                                          │
-│                                                                  │
+│    conforme protocolo).                                         │
+│                                                                 │
 │  Nota da Diretora: Sujeito apresenta características            │
 │    consistentes com deriva pré-intervenção. Recomenda-se:       │
 │    monitoramento continuado, engajamento aumentado com          │
 │    ARIA, alcance voluntário de bem-estar. Recalibração          │
 │    ainda não indicada. Reavaliação em 30 dias.                  │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

@@ -5,15 +5,15 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Distrito Meridian — Resumo do Registro do Berço       │
 │  CST: 2084.05 / Relatório Mensal de Alocação                    │
-│                                                                  │
+│                                                                 │
 │  Alocações de nascimento (T2 2084): 51                          │
 │  Concepções programadas: 49 (concluídas conforme protocolo)     │
 │  Eventos biológicos não programados: 2                          │
 │    Evento 1: MDN-4-198822 — Acompanhamento: Em curso            │
 │    Evento 2: MDN-7-201106 — Acompanhamento: Em curso            │
-│  Variância em relação ao ótimo: 0,04%                            │
+│  Variância em relação ao ótimo: 0,04%                           │
 │  Avaliação: Nominal. Nenhuma ação em nível distrital exigida.   │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

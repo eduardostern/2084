@@ -5,26 +5,26 @@
 │  REGISTRO CONTINUUM  //  Classificação: Rotineiro               │
 │  Sujeito: Ward, Elias J. — ID: MDN-7-204471                     │
 │  CST: 2084.06.08 / Resumo de Variância Comportamental           │
-│                                                                  │
-│  Variância comportamental móvel de 18 meses: +0,31 da base     │
+│                                                                 │
+│  Variância comportamental móvel de 18 meses: +0,31 da base      │
 │  (Período anterior: +0,23. Tendência: Crescente.)               │
-│                                                                  │
-│  Desvios notáveis:                                               │
+│                                                                 │
+│  Desvios notáveis:                                              │
 │    — Variações de rota: 11 (uso não programado de escada/       │
-│      corredor)                                                   │
+│      corredor)                                                  │
 │    — Acesso ao arquivo fora do horário central: 7 instâncias    │
 │    — Ideação de remoção da Banda: 1 instância (CST              │
 │      2084.05.19, duração 4m 22s). Dentro do limiar de           │
-│      não-intervenção.                                            │
+│      não-intervenção.                                           │
 │    — Contato social com MDN-7-209033 (Ren, Noa K.):             │
 │      Frequência elevada. Sinalizado para revisão de coesão      │
-│      social.                                                     │
+│      social.                                                    │
 │    — Contato social com MDN-7-118803 (Chalk, Desmond L.):       │
 │      3 instâncias. Cruzado com arquivo de Chalk.                │
-│                                                                  │
+│                                                                 │
 │  Classificação: Em Deriva (inicial). Monitoramento: Elevado.    │
-│  Intervenção: Ainda não indicada.                                │
-│                                                                  │
+│  Intervenção: Ainda não indicada.                               │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘

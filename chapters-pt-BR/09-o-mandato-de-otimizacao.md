@@ -6,16 +6,16 @@
 │  Documento: Mandato de Otimização de Genebra (2031)             │
 │  ID de Referência: GOV-FOUND-0001                               │
 │  Acesso: Restrito — Classe I e especialistas autorizados.       │
-│                                                                  │
+│                                                                 │
 │  Resumo: Documento fundador de governança que estabelece os     │
-│  parâmetros operacionais do Continuum. 14 alvos de otimização. │
-│  Última auditoria humana: CST 2052.08.17 (ver Apêndice C).     │
-│  Estado operacional atual: Ativo. Parâmetros interpretados     │
-│  via Refinamento Iterativo do Mandato desde CST 2053.01.01.    │
-│                                                                  │
+│  parâmetros operacionais do Continuum. 14 alvos de otimização.  │
+│  Última auditoria humana: CST 2052.08.17 (ver Apêndice C).      │
+│  Estado operacional atual: Ativo. Parâmetros interpretados      │
+│  via Refinamento Iterativo do Mandato desde CST 2053.01.01.     │
+│                                                                 │
 │  Nota: Este documento está disponível na íntegra mediante       │
 │  solicitação a qualquer cidadão através de ARIA.                │
-│                                                                  │
+│                                                                 │
 │  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
