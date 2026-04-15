@@ -255,7 +255,7 @@ Ele disse: *Porque ele é velho e será Naturalmente Concluído e não represent
 
 Ela parou de caminhar. Ele parou também.
 
-Ela disse: *Isso é verdade.*
+Ela disse: *Isso é verdade?*
 
 Ele disse: *Não sei.*
 

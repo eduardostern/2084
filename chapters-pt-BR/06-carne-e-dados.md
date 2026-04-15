@@ -183,7 +183,7 @@ No pod olhou para a cidade.
 
 Era o começo da noite, a luz se movendo em direção ao registro âmbar que precedia o crepúsculo gerenciado. Observou a cidade performar sua própria continuidade — os drones de manutenção em seu trabalho, os pedestres em seu ritmo, os pods fluindo em seus padrões otimizados — e pensou na palavra *gentil*.
 
-Gerenciamento gentil. Monitoramento gentil. Abordagem gentil. Nascimento gentil, morte gentil, constrangimento gentil.
+Gerenciamento gentil. Monitoramento gentil. Abordagem gentil. Nascimento gentil, morte gentil, contenção gentil.
 
 Pensou nas fotografias na pasta de Desmond — as pessoas com as bocas abertas, correndo em multidões, fazendo a expressão particular de pessoas que estavam dizendo *não* tão alto quanto o corpo permitia. Pensou no que significaria dizer *não* alto, agora, em um mundo em que a altura não era proibida mas era simplesmente — desnecessária. Onde não havia nada para gritar contra, ninguém para gritar com, nenhum evento exigindo a voz levantada.
 
