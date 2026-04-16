@@ -2,14 +2,22 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+WEASYPRINT="/tmp/weasy-venv/bin/weasyprint"
 BUILD=/tmp/2084-build
 mkdir -p "$BUILD"
 
-# --- Shared CSS ---
-cat > "$BUILD/book.css" <<'CSS'
+# --- Shared CSS (WeasyPrint — full @page support) ---
+cat > "$BUILD/book.css" <<CSSEOF
+/* --- Page setup with margin boxes --- */
 @page {
   size: 148mm 210mm;
-  margin: 20mm 18mm 25mm 18mm;
+  margin: 20mm 18mm 22mm 18mm;
+  background-color: #f8f4ec;
+  background-image: url("illustrations/page-frame.svg");
+  background-size: 148mm 210mm;
+  background-position: center;
+  background-repeat: no-repeat;
+
   @bottom-center {
     content: counter(page);
     font-family: Georgia, serif;
@@ -17,10 +25,16 @@ cat > "$BUILD/book.css" <<'CSS'
     color: #8a7a6a;
   }
 }
+
+/* Cover page: no ornaments, no page number, no paper background */
 @page :first {
   margin: 0;
+  background-color: transparent;
+  background-image: none;
   @bottom-center { content: none; }
 }
+
+/* --- Global styles --- */
 html, body {
   margin: 0;
   padding: 0;
@@ -32,13 +46,11 @@ body {
   color: #1a1a1a;
   text-align: justify;
   hyphens: auto;
-  -webkit-hyphens: auto;
   widows: 2;
   orphans: 2;
-  background-color: #f8f4ec;
-  -webkit-print-color-adjust: exact;
-  print-color-adjust: exact;
 }
+
+/* --- Cover --- */
 .cover {
   page-break-after: always;
   margin: 0;
@@ -46,8 +58,6 @@ body {
   width: 148mm;
   height: 210mm;
   background: #0a0d1a;
-  position: relative;
-  z-index: 2000;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -58,6 +68,8 @@ body {
   height: 100%;
   display: block;
 }
+
+/* --- Chapter headings --- */
 h1 {
   page-break-before: always;
   font-weight: 300;
@@ -71,6 +83,8 @@ h1 {
 h1:first-of-type {
   page-break-before: avoid;
 }
+
+/* --- Paragraphs --- */
 p {
   margin: 0.45em 0;
   text-indent: 1.5em;
@@ -82,6 +96,8 @@ pre + p,
 blockquote + p {
   text-indent: 0;
 }
+
+/* --- Section breaks --- */
 .section-break {
   text-align: center;
   margin: 1.4em 0;
@@ -90,21 +106,23 @@ blockquote + p {
   color: #7a7a7a;
   font-size: 10pt;
 }
+
 em {
   font-style: italic;
 }
+
+/* --- Continuum Record code blocks --- */
 pre {
   font-family: "Courier New", "Courier", monospace;
   font-size: 6.8pt;
   line-height: 1.18;
   white-space: pre;
-  background: #f6f4ef;
+  background: #f0ece2;
   border-left: 2px solid #c7b89e;
   padding: 7pt 9pt;
   margin: 1em 0 1.6em 0;
   text-align: left;
   hyphens: none;
-  -webkit-hyphens: none;
   overflow: hidden;
   text-indent: 0;
   page-break-inside: avoid;
@@ -117,6 +135,8 @@ pre code {
   background: transparent;
   padding: 0;
 }
+
+/* --- Dedication --- */
 .dedication,
 .colophon {
   page-break-before: always;
@@ -144,6 +164,8 @@ pre code {
 .dedication em {
   font-style: normal;
 }
+
+/* --- Book epigraph (Wall-E) --- */
 .epigraph {
   page-break-before: always;
   page-break-after: always;
@@ -163,6 +185,8 @@ pre code {
   font-style: normal;
   color: #5a5a5a;
 }
+
+/* --- Chapter illustrations --- */
 .chapter-illustration {
   text-align: center;
   margin: 0 auto 1.6em auto;
@@ -176,6 +200,8 @@ pre code {
 h1 + .chapter-illustration {
   margin-top: -1.2em;
 }
+
+/* --- Chapter epigraphs (literary quotes) --- */
 .chapter-epigraph {
   text-align: center;
   margin: 0 auto 1.8em auto;
@@ -200,42 +226,12 @@ h1 + .chapter-illustration {
 .chapter-epigraph p:last-child em {
   font-style: italic;
 }
-.page-frame {
-  position: fixed;
-  top: 8mm; left: 8mm; right: 8mm; bottom: 10mm;
-  pointer-events: none;
-  z-index: 1000;
-}
-.page-frame .corner {
-  position: absolute;
-  width: 12mm;
-  height: 12mm;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath d='M1 29 L1 8 Q1 1 8 1 L29 1' fill='none' stroke='%23c7b89e' stroke-width='0.7'/%3E%3Cpath d='M4 22 Q8 15 14 10' fill='none' stroke='%23c7b89e' stroke-width='0.4' opacity='0.5'/%3E%3Ccircle cx='6' cy='5' r='1.2' fill='%23c7b89e' opacity='0.35'/%3E%3C/svg%3E");
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-.page-frame .tl { top: 0; left: 0; }
-.page-frame .tr { top: 0; right: 0; transform: scaleX(-1); }
-.page-frame .bl { bottom: 0; left: 0; transform: scaleY(-1); }
-.page-frame .br { bottom: 0; right: 0; transform: scale(-1,-1); }
-.page-frame .page-number {
-  position: absolute;
-  bottom: -2mm;
-  left: 0;
-  right: 0;
-  text-align: center;
-  font-family: Georgia, serif;
-  font-size: 8pt;
-  color: #a09080;
-  counter-increment: page;
-}
 .chapter-epigraph .epigraph-translation {
   margin-top: 0.45em;
   font-size: 8.8pt;
   color: #5a5a5a;
 }
-CSS
+CSSEOF
 
 # --- Build function ---
 build() {
@@ -247,7 +243,7 @@ build() {
 
   echo "Building $out_pdf ..."
 
-  # Copy illustrations directory next to the final HTML so <img src="illustrations/NN.svg"> resolves
+  # Copy illustrations next to HTML so <img src="illustrations/NN.svg"> resolves
   rm -rf "$BUILD/illustrations"
   cp -R "$(pwd)/illustrations" "$BUILD/illustrations"
 
@@ -256,8 +252,6 @@ build() {
 
   # Concatenate chapters, replacing stand-alone * section breaks
   for ch in "$chapters_dir"/*.md; do
-    # Convert a line that is exactly "*" into a section-break div.
-    # Also convert a line that is exactly "---" into the same, defensively.
     awk '
       /^\*$/ { print "<div class=\"section-break\">✦</div>"; next }
       { print }
@@ -285,28 +279,14 @@ build() {
     echo '<div class="cover">'
     cat "$cover_svg"
     echo '</div>'
-    # Page frame with corner ornaments
-    echo '<div class="page-frame">'
-    echo '  <div class="corner tl"></div>'
-    echo '  <div class="corner tr"></div>'
-    echo '  <div class="corner bl"></div>'
-    echo '  <div class="corner br"></div>'
-    echo '</div>'
     # Extract pandoc's body content
     sed -n '/<body>/,/<\/body>/p' "$BUILD/$lang-body.html" \
       | sed '1d;$d'
     echo '</body></html>'
   } > "$final_html"
 
-  # Render with Chrome headless
-  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
-    --headless=new \
-    --disable-gpu \
-    --no-pdf-header-footer \
-    --print-to-pdf-no-header \
-    --print-to-pdf="$out_pdf" \
-    --virtual-time-budget=10000 \
-    "file://$final_html" 2>/dev/null
+  # Render with WeasyPrint
+  "$WEASYPRINT" "$final_html" "$out_pdf"
 
   echo "  → $out_pdf ($(du -h "$out_pdf" | cut -f1))"
 }
