@@ -29,7 +29,7 @@
 │  Nota: Parâmetros anexos são internos a este registro.          │
 │  Nenhuma divulgação ao cidadão necessária.                      │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

@@ -28,7 +28,7 @@
 │  Variância do ótimo: 0,04%                                      │
 │  Avaliação: Nominal. Nenhuma ação distrital necessária.         │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

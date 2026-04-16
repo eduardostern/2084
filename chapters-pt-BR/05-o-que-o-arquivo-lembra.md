@@ -34,7 +34,7 @@
 │    em classes de função ativas. Classificação: dentro dos       │
 │    parâmetros normais de interação com idosos.                  │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

@@ -31,7 +31,7 @@
 │    terraço fora da janela de pausa). Classificação: menor.      │
 │    Nenhuma intervenção indicada neste momento.                  │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

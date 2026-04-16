@@ -43,7 +43,7 @@
 │    notificados via canal de bem-estar da ARIA de que a          │
 │    condição do sujeito entrou em fase terminal.                 │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

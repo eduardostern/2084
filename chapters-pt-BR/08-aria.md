@@ -31,7 +31,7 @@
 │  Status: Em revisão.                                            │
 │  Ação recomendada: Monitorar. Engajamento da ARIA: Elevado.     │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

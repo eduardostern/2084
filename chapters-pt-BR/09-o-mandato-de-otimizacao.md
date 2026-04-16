@@ -27,7 +27,7 @@
 │  Nota: Este documento está disponível por completo mediante     │
 │  solicitação a qualquer cidadão através da ARIA.                │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```

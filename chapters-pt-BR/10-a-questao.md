@@ -33,7 +33,7 @@
 │    de bem-estar. Recalibração ainda não indicada.               │
 │    Revisão em 30 dias.                                          │
 │                                                                 │
-│  ∎ Gerado pela Arquitetura Adaptativa de Raciocínio e           │
+│  * Gerado pela Arquitetura Adaptativa de Raciocínio e           │
 │    Integração do Continuum. Não é de autoria humana.            │
 └─────────────────────────────────────────────────────────────────┘
 ```
