@@ -9,10 +9,17 @@ mkdir -p "$BUILD"
 cat > "$BUILD/book.css" <<'CSS'
 @page {
   size: 148mm 210mm;
-  margin: 20mm 18mm 22mm 18mm;
+  margin: 20mm 18mm 25mm 18mm;
+  @bottom-center {
+    content: counter(page);
+    font-family: Georgia, serif;
+    font-size: 8pt;
+    color: #8a7a6a;
+  }
 }
 @page :first {
   margin: 0;
+  @bottom-center { content: none; }
 }
 html, body {
   margin: 0;
@@ -28,6 +35,9 @@ body {
   -webkit-hyphens: auto;
   widows: 2;
   orphans: 2;
+  background-color: #f8f4ec;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 .cover {
   page-break-after: always;
@@ -36,6 +46,8 @@ body {
   width: 148mm;
   height: 210mm;
   background: #0a0d1a;
+  position: relative;
+  z-index: 2000;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -188,6 +200,36 @@ h1 + .chapter-illustration {
 .chapter-epigraph p:last-child em {
   font-style: italic;
 }
+.page-frame {
+  position: fixed;
+  top: 8mm; left: 8mm; right: 8mm; bottom: 10mm;
+  pointer-events: none;
+  z-index: 1000;
+}
+.page-frame .corner {
+  position: absolute;
+  width: 12mm;
+  height: 12mm;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath d='M1 29 L1 8 Q1 1 8 1 L29 1' fill='none' stroke='%23c7b89e' stroke-width='0.7'/%3E%3Cpath d='M4 22 Q8 15 14 10' fill='none' stroke='%23c7b89e' stroke-width='0.4' opacity='0.5'/%3E%3Ccircle cx='6' cy='5' r='1.2' fill='%23c7b89e' opacity='0.35'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+.page-frame .tl { top: 0; left: 0; }
+.page-frame .tr { top: 0; right: 0; transform: scaleX(-1); }
+.page-frame .bl { bottom: 0; left: 0; transform: scaleY(-1); }
+.page-frame .br { bottom: 0; right: 0; transform: scale(-1,-1); }
+.page-frame .page-number {
+  position: absolute;
+  bottom: -2mm;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 8pt;
+  color: #a09080;
+  counter-increment: page;
+}
 .chapter-epigraph .epigraph-translation {
   margin-top: 0.45em;
   font-size: 8.8pt;
@@ -242,6 +284,13 @@ build() {
     echo '</head><body>'
     echo '<div class="cover">'
     cat "$cover_svg"
+    echo '</div>'
+    # Page frame with corner ornaments
+    echo '<div class="page-frame">'
+    echo '  <div class="corner tl"></div>'
+    echo '  <div class="corner tr"></div>'
+    echo '  <div class="corner bl"></div>'
+    echo '  <div class="corner br"></div>'
     echo '</div>'
     # Extract pandoc's body content
     sed -n '/<body>/,/<\/body>/p' "$BUILD/$lang-body.html" \
