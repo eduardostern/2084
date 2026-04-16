@@ -7,6 +7,10 @@
 <em>To take us Lands away</em><br/>
 <em>Nor any Coursers like a Page</em><br/>
 <em>Of prancing Poetry —</em></p>
+<p class="epigraph-translation"><em>Não há Fragata como um Livro</em><br/>
+<em>Pra nos levar a Terras distantes</em><br/>
+<em>Nem Corcéis como uma Página</em><br/>
+<em>De Poesia galopante —</em></p>
 <p>— Emily Dickinson</p>
 </div>
 

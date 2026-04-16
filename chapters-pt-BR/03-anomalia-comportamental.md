@@ -7,6 +7,10 @@
 <em>Are you — Nobody — too?</em><br/>
 <em>Then there's a pair of us!</em><br/>
 <em>Don't tell! they'd advertise — you know!</em></p>
+<p class="epigraph-translation"><em>Eu sou Ninguém! Quem é você?</em><br/>
+<em>Você — é Ninguém — também?</em><br/>
+<em>Então somos um par!</em><br/>
+<em>Não conte! fariam propaganda — sabe!</em></p>
 <p>— Emily Dickinson</p>
 </div>
 

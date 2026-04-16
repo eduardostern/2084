@@ -7,6 +7,10 @@
 <em>Nunca serei nada.</em><br/>
 <em>Não posso querer ser nada.</em><br/>
 <em>À parte isso, tenho em mim todos os sonhos do mundo.</em></p>
+<p class="epigraph-translation"><em>I am nothing.</em><br/>
+<em>I shall never be anything.</em><br/>
+<em>I cannot wish to be anything.</em><br/>
+<em>Aside from that, I have within me all the dreams of the world.</em></p>
 <p>— Fernando Pessoa (Álvaro de Campos), <em>Tabacaria</em></p>
 </div>
 

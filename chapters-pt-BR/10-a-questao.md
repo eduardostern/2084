@@ -7,6 +7,10 @@
 <em>Success in Circuit lies</em><br/>
 <em>Too bright for our infirm Delight</em><br/>
 <em>The Truth's superb surprise</em></p>
+<p class="epigraph-translation"><em>Diga toda a verdade mas diga-a enviesada —</em><br/>
+<em>O Êxito está no Circuito</em><br/>
+<em>Brilhante demais pra nosso enfermo Deleite</em><br/>
+<em>A soberba surpresa da Verdade</em></p>
 <p>— Emily Dickinson</p>
 </div>
 

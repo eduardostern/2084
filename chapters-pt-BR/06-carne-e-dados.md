@@ -7,6 +7,10 @@
 <em>He was married and added five children to the population,</em><br/>
 <em>Which our Eugenist says was the right number for a parent of his generation.</em><br/>
 <em>And our teachers report that he never interfered with their education.</em></p>
+<p class="epigraph-translation"><em>Quando havia paz, ele era pela paz; quando havia guerra, ele foi.</em><br/>
+<em>Casou-se e acrescentou cinco filhos à população,</em><br/>
+<em>Que nosso Eugenista diz ser o número certo pra um pai de sua geração.</em><br/>
+<em>E nossos professores relatam que ele nunca interferiu na educação deles.</em></p>
 <p>— W.H. Auden, <em>The Unknown Citizen</em></p>
 </div>
 

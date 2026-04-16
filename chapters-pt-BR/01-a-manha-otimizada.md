@@ -7,6 +7,10 @@
 <em>Lilacs out of the dead land, mixing</em><br/>
 <em>Memory and desire, stirring</em><br/>
 <em>Dull roots with spring rain.</em></p>
+<p class="epigraph-translation"><em>Abril é o mês mais cruel, germinando</em><br/>
+<em>Lilases da terra morta, misturando</em><br/>
+<em>Memória e desejo, revolvendo</em><br/>
+<em>Raízes entorpecidas com chuva de primavera.</em></p>
 <p>— T.S. Eliot, <em>The Waste Land</em></p>
 </div>
 

@@ -7,6 +7,10 @@
 <em>Mighty and dreadful, for thou art not so;</em><br/>
 <em>For those whom thou think'st thou dost overthrow</em><br/>
 <em>Die not, poor Death, nor yet canst thou kill me.</em></p>
+<p class="epigraph-translation"><em>Morte, não sejas orgulhosa, embora alguns te chamem</em><br/>
+<em>Poderosa e terrível, pois não o és;</em><br/>
+<em>Pois aqueles que pensas derrubar</em><br/>
+<em>Não morrem, pobre Morte, nem podes tu me matar.</em></p>
 <p>— John Donne, <em>Holy Sonnets</em></p>
 </div>
 

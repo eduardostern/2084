@@ -7,6 +7,10 @@
 <em>el camino y nada más;</em><br/>
 <em>Caminante, no hay camino,</em><br/>
 <em>se hace camino al andar.</em></p>
+<p class="epigraph-translation"><em>Wanderer, your footsteps are</em><br/>
+<em>the road, and nothing more;</em><br/>
+<em>Wanderer, there is no road,</em><br/>
+<em>the road is made by walking.</em></p>
 <p>— Antonio Machado, <em>Cantares</em></p>
 </div>
 

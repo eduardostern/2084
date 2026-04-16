@@ -7,6 +7,10 @@
 <em>el camino y nada más;</em><br/>
 <em>Caminante, no hay camino,</em><br/>
 <em>se hace camino al andar.</em></p>
+<p class="epigraph-translation"><em>Caminhante, são tuas pegadas</em><br/>
+<em>o caminho e nada mais;</em><br/>
+<em>Caminhante, não há caminho,</em><br/>
+<em>o caminho se faz ao andar.</em></p>
 <p>— Antonio Machado, <em>Cantares</em></p>
 </div>
 

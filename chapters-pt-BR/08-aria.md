@@ -7,6 +7,10 @@
 <em>Forget your perfect offering</em><br/>
 <em>There is a crack, a crack in everything</em><br/>
 <em>That's how the light gets in.</em></p>
+<p class="epigraph-translation"><em>Toque os sinos que ainda tocam</em><br/>
+<em>Esqueça sua oferenda perfeita</em><br/>
+<em>Há uma fenda, uma fenda em tudo</em><br/>
+<em>É assim que a luz entra.</em></p>
 <p>— Leonard Cohen, <em>Anthem</em></p>
 </div>
 

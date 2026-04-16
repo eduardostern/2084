@@ -7,6 +7,10 @@
 <em>The Old Masters: how well they understood</em><br/>
 <em>Its human position; how it takes place</em><br/>
 <em>While someone else is eating or opening a window…</em></p>
+<p class="epigraph-translation"><em>Sobre o sofrimento eles nunca erraram,</em><br/>
+<em>Os Velhos Mestres: como entendiam bem</em><br/>
+<em>Sua posição humana; como acontece</em><br/>
+<em>Enquanto outra pessoa come ou abre uma janela…</em></p>
 <p>— W.H. Auden, <em>Musée des Beaux Arts</em></p>
 </div>
 

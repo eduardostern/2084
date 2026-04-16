@@ -188,6 +188,11 @@ h1 + .chapter-illustration {
 .chapter-epigraph p:last-child em {
   font-style: italic;
 }
+.chapter-epigraph .epigraph-translation {
+  margin-top: 0.45em;
+  font-size: 8.8pt;
+  color: #5a5a5a;
+}
 CSS
 
 # --- Build function ---

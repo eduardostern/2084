@@ -7,6 +7,10 @@
 <em>We are the stuffed men</em><br/>
 <em>Leaning together</em><br/>
 <em>Headpiece filled with straw. Alas!</em></p>
+<p class="epigraph-translation"><em>Somos os homens ocos</em><br/>
+<em>Somos os homens empalhados</em><br/>
+<em>Apoiados uns nos outros</em><br/>
+<em>Cabeça cheia de palha. Ai de nós!</em></p>
 <p>— T.S. Eliot, <em>The Hollow Men</em></p>
 </div>
 
