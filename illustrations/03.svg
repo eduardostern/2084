@@ -1,19 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.3 Behavioral Anomaly: figure in corridor facing a wall -->
-  <!-- floor and ceiling with perspective lines -->
-  <line x1="35" y1="30" x2="165" y2="30"/>
-  <line x1="35" y1="100" x2="165" y2="100"/>
-  <line x1="35" y1="30" x2="80" y2="55"/>
-  <line x1="35" y1="100" x2="80" y2="80"/>
-  <line x1="165" y1="30" x2="120" y2="55"/>
-  <line x1="165" y1="100" x2="120" y2="80"/>
-  <!-- far wall -->
-  <rect x="80" y="55" width="40" height="25"/>
-  <!-- figure standing facing wall -->
-  <circle cx="100" cy="74" r="3.5"/>
-  <line x1="100" y1="78" x2="100" y2="90"/>
-  <line x1="100" y1="83" x2="96" y2="88"/>
-  <line x1="100" y1="83" x2="104" y2="88"/>
-  <line x1="100" y1="90" x2="97" y2="98"/>
-  <line x1="100" y1="90" x2="103" y2="98"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.3 Behavioral Anomaly: figure in a corridor facing a wall — hand-drawn style -->
+  <!-- perspective ceiling lines -->
+  <path d="M25 25 C45 30, 65 38, 78 48" stroke-width="0.9"/>
+  <path d="M175 25 C155 30, 135 38, 122 48" stroke-width="0.9"/>
+  <!-- perspective floor lines -->
+  <path d="M25 105 C45 100, 65 92, 78 82" stroke-width="0.9"/>
+  <path d="M175 105 C155 100, 135 92, 122 82" stroke-width="0.9"/>
+  <!-- far wall with hand-drawn rectangle -->
+  <path d="M78 48 L122 48 L122 82 L78 82 Z" stroke-width="1.0"/>
+  <!-- wall texture hatching -->
+  <path d="M82 52 L86 56" stroke-width="0.35" opacity="0.25"/>
+  <path d="M90 50 L94 54" stroke-width="0.35" opacity="0.25"/>
+  <path d="M98 52 L102 56" stroke-width="0.35" opacity="0.25"/>
+  <path d="M108 50 L112 54" stroke-width="0.35" opacity="0.25"/>
+  <path d="M116 52 L118 54" stroke-width="0.35" opacity="0.25"/>
+  <!-- floor tiles in perspective -->
+  <path d="M40 105 L85 78" stroke-width="0.3" opacity="0.2"/>
+  <path d="M70 105 L92 82" stroke-width="0.3" opacity="0.2"/>
+  <path d="M100 105 L100 82" stroke-width="0.3" opacity="0.2"/>
+  <path d="M130 105 L108 82" stroke-width="0.3" opacity="0.2"/>
+  <path d="M160 105 L115 78" stroke-width="0.3" opacity="0.2"/>
+  <!-- figure standing facing the wall — loose sketch style -->
+  <!-- head -->
+  <path d="M100 69 C97 67, 97 63, 100 61.5 C103 63, 103 67, 100 69" stroke-width="0.9"/>
+  <!-- hair suggestion -->
+  <path d="M97.5 63 C98 61, 100 60, 102 61" stroke-width="0.5" opacity="0.6"/>
+  <!-- neck -->
+  <path d="M99 69 L99 71" stroke-width="0.7"/>
+  <path d="M101 69 L101 71" stroke-width="0.7"/>
+  <!-- torso -->
+  <path d="M94 72 C95 71, 99 70.5, 100 71 C101 70.5, 105 71, 106 72 L105 86 L95 86 Z" stroke-width="0.8"/>
+  <!-- arms hanging at sides -->
+  <path d="M94 73 C92 76, 91 80, 92 85" stroke-width="0.7"/>
+  <path d="M106 73 C108 76, 109 80, 108 85" stroke-width="0.7"/>
+  <!-- legs -->
+  <path d="M97 86 C97 90, 96.5 95, 97 100" stroke-width="0.7"/>
+  <path d="M103 86 C103 90, 103.5 95, 103 100" stroke-width="0.7"/>
+  <!-- shadow on floor -->
+  <path d="M95 100 C90 102, 85 104, 82 105" stroke-width="0.5" opacity="0.3"/>
+  <path d="M105 100 C110 102, 115 104, 118 105" stroke-width="0.5" opacity="0.3"/>
 </svg>

@@ -1,23 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.11 Natural Completion: empty chair with an open book on the floor -->
-  <!-- floor line -->
-  <line x1="20" y1="100" x2="180" y2="100" stroke-width="0.7"/>
-  <!-- chair (simple silhouette) -->
-  <line x1="80" y1="100" x2="80" y2="40"/>
-  <line x1="80" y1="40" x2="115" y2="40"/>
-  <line x1="80" y1="65" x2="115" y2="65"/>
-  <line x1="115" y1="65" x2="115" y2="100"/>
-  <line x1="80" y1="65" x2="80" y2="65"/>
-  <!-- seat depth -->
-  <line x1="80" y1="65" x2="95" y2="72"/>
-  <line x1="115" y1="65" x2="130" y2="72"/>
-  <line x1="130" y1="72" x2="130" y2="100"/>
-  <line x1="95" y1="72" x2="130" y2="72"/>
-  <!-- back leg -->
-  <line x1="95" y1="72" x2="95" y2="100"/>
-  <!-- open book on floor -->
-  <path d="M135 100 Q148 92 160 100 Z"/>
-  <line x1="148" y1="93" x2="148" y2="100" stroke-width="0.6"/>
-  <line x1="140" y1="96" x2="146" y2="96" stroke-width="0.4"/>
-  <line x1="150" y1="96" x2="156" y2="96" stroke-width="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.11 Natural Completion: empty chair with a book on the floor — hand-drawn style -->
+  <!-- floor line with natural wobble -->
+  <path d="M15 102 C40 101.5, 70 102.5, 100 102 C130 101.5, 160 102.5, 185 102" stroke-width="0.7"/>
+  <!-- chair back posts -->
+  <path d="M78 102 C78.5 90, 77.5 70, 78 50 C78.5 42, 78 38, 78 34" stroke-width="1.1"/>
+  <path d="M108 102 C107.5 90, 108.5 80, 108 66" stroke-width="1.1"/>
+  <!-- chair back horizontal rail -->
+  <path d="M78 38 C85 37, 95 38, 108 37.5" stroke-width="0.9"/>
+  <path d="M78 46 C86 45.5, 96 46, 108 45.5" stroke-width="0.7" opacity="0.6"/>
+  <!-- seat -->
+  <path d="M78 66 C85 65.5, 95 66, 108 66" stroke-width="0.9"/>
+  <!-- seat depth (3D) -->
+  <path d="M78 66 C82 70, 88 72.5, 93 73" stroke-width="0.8"/>
+  <path d="M108 66 C112 70, 120 72.5, 126 73" stroke-width="0.8"/>
+  <path d="M93 73 C100 73.5, 110 73, 126 73" stroke-width="0.8"/>
+  <!-- back legs -->
+  <path d="M93 73 C93.5 80, 92.5 90, 93 102" stroke-width="0.9"/>
+  <path d="M126 73 C126.5 80, 125.5 90, 126 102" stroke-width="0.9"/>
+  <!-- seat shadow/hatching -->
+  <path d="M82 68 L90 72" stroke-width="0.3" opacity="0.2"/>
+  <path d="M88 67 L96 71" stroke-width="0.3" opacity="0.2"/>
+  <path d="M95 67 L102 70" stroke-width="0.3" opacity="0.2"/>
+  <path d="M102 67 L108 69" stroke-width="0.3" opacity="0.2"/>
+  <!-- open book on floor beside chair -->
+  <path d="M138 102 C142 98, 148 94, 152 93 C156 94, 162 98, 166 102" stroke-width="0.8"/>
+  <!-- book spine -->
+  <path d="M152 93 L152 102" stroke-width="0.5"/>
+  <!-- tiny text lines in book -->
+  <path d="M142 97 L150 96" stroke-width="0.3" opacity="0.4"/>
+  <path d="M142 99 L149 98" stroke-width="0.3" opacity="0.4"/>
+  <path d="M154 96 L162 97" stroke-width="0.3" opacity="0.4"/>
+  <path d="M154 98 L161 99" stroke-width="0.3" opacity="0.4"/>
+  <!-- dust motes / atmosphere -->
+  <circle cx="95" cy="55" r="0.6" fill="#2a2a2a" opacity="0.15"/>
+  <circle cx="115" cy="45" r="0.5" fill="#2a2a2a" opacity="0.12"/>
+  <circle cx="85" cy="60" r="0.4" fill="#2a2a2a" opacity="0.1"/>
+  <circle cx="130" cy="50" r="0.5" fill="#2a2a2a" opacity="0.1"/>
 </svg>

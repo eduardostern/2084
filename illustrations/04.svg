@@ -1,9 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.4 The Rounding: concentric ripples around a dropped stone -->
-  <circle cx="100" cy="60" r="2" fill="#2a2a2a"/>
-  <circle cx="100" cy="60" r="10" stroke-width="0.9" opacity="0.85"/>
-  <circle cx="100" cy="60" r="20" stroke-width="0.8" opacity="0.7"/>
-  <circle cx="100" cy="60" r="30" stroke-width="0.7" opacity="0.55"/>
-  <circle cx="100" cy="60" r="40" stroke-width="0.6" opacity="0.4"/>
-  <circle cx="100" cy="60" r="50" stroke-width="0.5" opacity="0.25"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.4 The Rounding: stone dropped in water, concentric ripples — hand-drawn style -->
+  <!-- impact point -->
+  <circle cx="100" cy="58" r="1.5" fill="#2a2a2a"/>
+  <!-- splash marks -->
+  <path d="M98 55 L96 50" stroke-width="0.6" opacity="0.7"/>
+  <path d="M102 55 L104 49" stroke-width="0.6" opacity="0.7"/>
+  <path d="M100 54 L100 48" stroke-width="0.5" opacity="0.5"/>
+  <!-- ripple 1 — tight, hand-wobbled ellipse -->
+  <path d="M90 58 C90 54, 95 51, 100 51 C105 51, 110 54, 110 58 C110 62, 105 65, 100 65 C95 65, 90 62, 90 58" stroke-width="0.9" opacity="0.9"/>
+  <!-- ripple 2 -->
+  <path d="M80 58 C80 52, 87 46, 100 46 C113 46, 120 52, 120 58 C120 64, 113 70, 100 70 C87 70, 80 64, 80 58" stroke-width="0.8" opacity="0.75"/>
+  <!-- ripple 3 -->
+  <path d="M70 58 C70 49, 80 41, 100 41 C120 41, 130 49, 130 58 C130 67, 120 75, 100 75 C80 75, 70 67, 70 58" stroke-width="0.7" opacity="0.6"/>
+  <!-- ripple 4 -->
+  <path d="M60 58 C60 46, 73 36, 100 36 C127 36, 140 46, 140 58 C140 70, 127 80, 100 80 C73 80, 60 70, 60 58" stroke-width="0.6" opacity="0.45"/>
+  <!-- ripple 5 -->
+  <path d="M50 58 C50 43, 66 31, 100 31 C134 31, 150 43, 150 58 C150 73, 134 85, 100 85 C66 85, 50 73, 50 58" stroke-width="0.5" opacity="0.3"/>
+  <!-- ripple 6 — fading -->
+  <path d="M40 58 C40 40, 60 26, 100 26 C140 26, 160 40, 160 58 C160 76, 140 90, 100 90 C60 90, 40 76, 40 58" stroke-width="0.4" opacity="0.18"/>
+  <!-- water surface texture -->
+  <path d="M35 95 C50 93, 65 96, 80 94 C95 92, 110 95, 125 93 C140 91, 155 94, 170 92" stroke-width="0.35" opacity="0.15"/>
+  <path d="M30 100 C50 98, 70 101, 90 99 C110 97, 130 100, 150 98 C160 97, 170 99, 175 98" stroke-width="0.3" opacity="0.12"/>
 </svg>

@@ -1,22 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.2 The Curator: the tuning lattice (loom of threads with emotional beats) -->
-  <!-- top and bottom rails -->
-  <line x1="55" y1="22" x2="145" y2="22"/>
-  <line x1="55" y1="98" x2="145" y2="98"/>
-  <!-- six threads -->
-  <line x1="65" y1="22" x2="65" y2="98" stroke-width="0.7"/>
-  <line x1="81" y1="22" x2="81" y2="98" stroke-width="0.7"/>
-  <line x1="97" y1="22" x2="97" y2="98" stroke-width="0.7"/>
-  <line x1="113" y1="22" x2="113" y2="98" stroke-width="0.7"/>
-  <line x1="129" y1="22" x2="129" y2="98" stroke-width="0.7"/>
-  <line x1="145" y1="22" x2="145" y2="98" stroke-width="0.7"/>
-  <!-- beats along threads (small diamonds) -->
-  <path d="M65 40 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <path d="M81 55 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <path d="M97 48 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <path d="M113 68 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <path d="M129 58 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <path d="M145 42 l3 3 l-3 3 l-3 -3 z" fill="#2a2a2a"/>
-  <!-- connecting arc suggesting the emotional arc -->
-  <path d="M65 43 Q97 25 145 45" stroke-width="0.6" opacity="0.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.2 The Curator: the tuning lattice (loom) — hand-drawn style -->
+  <!-- top rail with slight wobble -->
+  <path d="M48 20 C70 19.5, 100 20.5, 130 19.8 C145 20.2, 150 20, 152 20.5" stroke-width="1.2"/>
+  <!-- bottom rail -->
+  <path d="M48 100 C70 100.5, 100 99.5, 130 100.2 C145 99.8, 150 100, 152 99.5" stroke-width="1.2"/>
+  <!-- threads with gentle wobble -->
+  <path d="M58 20.2 C58.5 35, 57.5 55, 58 70 C58.5 82, 57.8 92, 58 100" stroke-width="0.6" opacity="0.7"/>
+  <path d="M74 20 C74.5 38, 73.5 52, 74.2 68 C73.8 80, 74.5 90, 74 100" stroke-width="0.6" opacity="0.7"/>
+  <path d="M90 20.3 C89.5 36, 90.5 54, 90 70 C89.5 84, 90.3 93, 90 100" stroke-width="0.6" opacity="0.7"/>
+  <path d="M106 19.8 C106.5 37, 105.5 53, 106 69 C106.5 83, 105.8 92, 106 99.8" stroke-width="0.6" opacity="0.7"/>
+  <path d="M122 20.2 C121.5 35, 122.5 55, 122 72 C121.5 85, 122.3 94, 122 100" stroke-width="0.6" opacity="0.7"/>
+  <path d="M138 20 C138.5 38, 137.5 56, 138 73 C138.5 86, 137.8 95, 138 100.2" stroke-width="0.6" opacity="0.7"/>
+  <!-- emotional beats as hand-drawn diamonds with slight irregularity -->
+  <path d="M58 42 L61 45.5 L58 49 L55 45.5 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <path d="M74 56 L77 59 L74 62.5 L71 59 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <path d="M90 48 L93.5 51 L90 54.5 L86.5 51 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <path d="M106 70 L109 73 L106 76.5 L103 73 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <path d="M122 60 L125 63 L122 66.5 L119 63 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <path d="M138 44 L141 47 L138 50.5 L135 47 Z" stroke-width="0.8" fill="#2a2a2a" opacity="0.85"/>
+  <!-- emotional arc curve hand-drawn -->
+  <path d="M58 44 C68 32, 82 28, 90 50 C98 65, 108 72, 122 62 C132 55, 136 46, 138 46" stroke-width="0.7" opacity="0.4" stroke-dasharray="3 2"/>
+  <!-- small shimmering marks near threads -->
+  <path d="M55 38 L53 36" stroke-width="0.4" opacity="0.3"/>
+  <path d="M77 52 L79 50" stroke-width="0.4" opacity="0.3"/>
+  <path d="M93 44 L95 42" stroke-width="0.4" opacity="0.3"/>
+  <path d="M141 40 L143 38" stroke-width="0.4" opacity="0.3"/>
 </svg>

@@ -1,27 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.5 What the Archive Remembers: open book with margin notes -->
-  <!-- book pages -->
-  <path d="M45 95 Q100 78 155 95 L155 35 Q100 18 45 35 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.5 What the Archive Remembers: open book with margin notes — hand-drawn style -->
+  <!-- book pages — organic curves -->
+  <path d="M42 97 C55 90, 75 84, 98 82 C75 80, 55 74, 42 68" stroke-width="1.1"/>
+  <path d="M158 97 C145 90, 125 84, 102 82 C125 80, 145 74, 158 68" stroke-width="1.1"/>
   <!-- spine -->
-  <line x1="100" y1="28" x2="100" y2="86"/>
-  <!-- text lines left page -->
-  <line x1="58" y1="42" x2="92" y2="42" stroke-width="0.5"/>
-  <line x1="58" y1="48" x2="92" y2="48" stroke-width="0.5"/>
-  <line x1="58" y1="54" x2="88" y2="54" stroke-width="0.5"/>
-  <line x1="58" y1="60" x2="92" y2="60" stroke-width="0.5"/>
-  <line x1="58" y1="66" x2="85" y2="66" stroke-width="0.5"/>
-  <line x1="58" y1="72" x2="92" y2="72" stroke-width="0.5"/>
-  <line x1="58" y1="78" x2="80" y2="78" stroke-width="0.5"/>
-  <!-- text lines right page -->
-  <line x1="108" y1="42" x2="142" y2="42" stroke-width="0.5"/>
-  <line x1="108" y1="48" x2="142" y2="48" stroke-width="0.5"/>
-  <line x1="108" y1="54" x2="138" y2="54" stroke-width="0.5"/>
-  <line x1="108" y1="60" x2="142" y2="60" stroke-width="0.5"/>
-  <line x1="108" y1="66" x2="142" y2="66" stroke-width="0.5"/>
-  <line x1="108" y1="72" x2="135" y2="72" stroke-width="0.5"/>
-  <!-- margin note squiggle on right page -->
-  <path d="M145 50 q2 -2 4 0 t4 0 t4 0" stroke-width="0.7"/>
-  <path d="M145 58 q2 -2 4 0 t4 0" stroke-width="0.7"/>
-  <!-- dog-eared corner -->
-  <path d="M147 35 l-8 8 l8 0 z"/>
+  <path d="M100 28 C99 40, 100.5 55, 100 68 C99.5 73, 100.5 78, 100 82" stroke-width="0.9"/>
+  <!-- top edges -->
+  <path d="M42 68 C55 58, 75 48, 98 44 C75 42, 55 36, 42 30" stroke-width="0.8" opacity="0.5"/>
+  <path d="M158 68 C145 58, 125 48, 102 44 C125 42, 145 36, 158 30" stroke-width="0.8" opacity="0.5"/>
+  <path d="M42 30 L42 97" stroke-width="0.7" opacity="0.4"/>
+  <path d="M158 30 L158 97" stroke-width="0.7" opacity="0.4"/>
+  <!-- text lines — left page, hand-drawn -->
+  <path d="M52 52 C60 51.5, 68 52.5, 76 52 C82 51.5, 88 52, 94 52" stroke-width="0.4" opacity="0.55"/>
+  <path d="M52 57 C62 56.5, 72 57.5, 82 57 C88 56.5, 92 57, 94 57" stroke-width="0.4" opacity="0.55"/>
+  <path d="M52 62 C60 61.5, 70 62.5, 78 62 C84 61.5, 89 62, 92 62" stroke-width="0.4" opacity="0.55"/>
+  <path d="M52 67 C64 66.5, 76 67.5, 85 67 C89 66.5, 92 67, 94 67" stroke-width="0.4" opacity="0.55"/>
+  <path d="M50 73 C60 72.5, 70 73.5, 80 73 C86 72.5, 90 73, 94 73" stroke-width="0.4" opacity="0.55"/>
+  <path d="M48 79 C58 78.5, 68 79.5, 78 79 C84 78.5, 89 79, 93 79" stroke-width="0.4" opacity="0.55"/>
+  <path d="M46 85 C56 84.5, 66 85.5, 76 85 C80 84.5, 84 85, 88 85" stroke-width="0.4" opacity="0.55"/>
+  <!-- text lines — right page -->
+  <path d="M106 52 C114 51.5, 122 52.5, 130 52 C136 51.5, 142 52, 148 52" stroke-width="0.4" opacity="0.55"/>
+  <path d="M106 57 C116 56.5, 126 57.5, 136 57 C142 56.5, 146 57, 148 57" stroke-width="0.4" opacity="0.55"/>
+  <path d="M106 62 C114 61.5, 124 62.5, 132 62 C138 61.5, 143 62, 148 62" stroke-width="0.4" opacity="0.55"/>
+  <path d="M106 67 C118 66.5, 130 67.5, 139 67 C143 66.5, 146 67, 148 67" stroke-width="0.4" opacity="0.55"/>
+  <path d="M108 73 C118 72.5, 128 73.5, 138 73 C143 72.5, 147 73, 150 73" stroke-width="0.4" opacity="0.55"/>
+  <path d="M110 79 C120 78.5, 130 79.5, 140 79 C145 78.5, 149 79, 152 79" stroke-width="0.4" opacity="0.55"/>
+  <!-- margin notes — scratchy handwriting suggestion -->
+  <path d="M150 50 C152 49, 154 50, 156 49 C158 50, 160 49, 161 50" stroke-width="0.55" opacity="0.7"/>
+  <path d="M150 53 C153 52, 156 53, 158 52" stroke-width="0.55" opacity="0.7"/>
+  <path d="M149 58 C151 57, 153 58, 155 57 C157 58, 159 57, 162 58" stroke-width="0.55" opacity="0.65"/>
+  <path d="M149 61 C152 60, 155 61, 157 60 C159 61, 161 60" stroke-width="0.55" opacity="0.65"/>
+  <!-- dog-eared corner — right page -->
+  <path d="M152 68 L144 68 L152 76" stroke-width="0.7"/>
+  <path d="M148 68 L152 72" stroke-width="0.4" opacity="0.35"/>
+  <!-- coffee ring stain on left page -->
+  <circle cx="68" cy="88" r="8" stroke-width="0.4" opacity="0.2"/>
+  <path d="M62 85 C64 83, 68 82, 72 83" stroke-width="0.3" opacity="0.15"/>
 </svg>

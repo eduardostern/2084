@@ -1,12 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Ch.8 ARIA: concentric voice waves emanating -->
-  <circle cx="100" cy="60" r="3" fill="#2a2a2a"/>
-  <path d="M85 45 Q100 35 115 45" opacity="0.85"/>
-  <path d="M85 75 Q100 85 115 75" opacity="0.85"/>
-  <path d="M75 38 Q100 25 125 38" opacity="0.7"/>
-  <path d="M75 82 Q100 95 125 82" opacity="0.7"/>
-  <path d="M65 32 Q100 15 135 32" opacity="0.55"/>
-  <path d="M65 88 Q100 105 135 88" opacity="0.55"/>
-  <path d="M55 26 Q100 5 145 26" opacity="0.4"/>
-  <path d="M55 94 Q100 115 145 94" opacity="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#2a2a2a" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ch.8 ARIA: concentric voice/sound waves with central presence — hand-drawn style -->
+  <!-- central dot — the voice -->
+  <circle cx="100" cy="60" r="3" fill="#2a2a2a" opacity="0.9"/>
+  <!-- inner glow ring -->
+  <circle cx="100" cy="60" r="6" stroke-width="0.5" opacity="0.4"/>
+  <!-- wave arcs — top half -->
+  <path d="M85 46 C88 40, 95 36, 100 36 C105 36, 112 40, 115 46" stroke-width="0.9" opacity="0.85"/>
+  <path d="M75 38 C80 30, 90 25, 100 25 C110 25, 120 30, 125 38" stroke-width="0.8" opacity="0.7"/>
+  <path d="M65 32 C72 22, 84 16, 100 16 C116 16, 128 22, 135 32" stroke-width="0.7" opacity="0.55"/>
+  <path d="M55 27 C64 14, 80 7, 100 7 C120 7, 136 14, 145 27" stroke-width="0.6" opacity="0.4"/>
+  <!-- wave arcs — bottom half -->
+  <path d="M85 74 C88 80, 95 84, 100 84 C105 84, 112 80, 115 74" stroke-width="0.9" opacity="0.85"/>
+  <path d="M75 82 C80 90, 90 95, 100 95 C110 95, 120 90, 125 82" stroke-width="0.8" opacity="0.7"/>
+  <path d="M65 88 C72 98, 84 104, 100 104 C116 104, 128 98, 135 88" stroke-width="0.7" opacity="0.55"/>
+  <path d="M55 93 C64 106, 80 113, 100 113 C120 113, 136 106, 145 93" stroke-width="0.6" opacity="0.4"/>
+  <!-- small interference-pattern marks between arcs -->
+  <path d="M80 34 L78 32" stroke-width="0.35" opacity="0.3"/>
+  <path d="M120 34 L122 32" stroke-width="0.35" opacity="0.3"/>
+  <path d="M70 26 L68 24" stroke-width="0.35" opacity="0.25"/>
+  <path d="M130 26 L132 24" stroke-width="0.35" opacity="0.25"/>
+  <path d="M80 86 L78 88" stroke-width="0.35" opacity="0.3"/>
+  <path d="M120 86 L122 88" stroke-width="0.35" opacity="0.3"/>
 </svg>
