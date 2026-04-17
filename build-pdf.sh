@@ -34,6 +34,25 @@ cat > "$BUILD/book.css" <<CSSEOF
   @bottom-center { content: none; }
 }
 
+/* Named page for front matter: no page number, keep background & ornaments */
+@page frontmatter {
+  @bottom-center { content: none; }
+}
+@page backmatter {
+  @bottom-center { content: none; }
+}
+.half-title,
+.title-page,
+.copyright-page,
+.toc-page,
+.dedication,
+.epigraph {
+  page: frontmatter;
+}
+.colophon {
+  page: backmatter;
+}
+
 /* --- Global styles --- */
 html, body {
   margin: 0;
@@ -134,6 +153,128 @@ pre code {
   font-size: inherit;
   background: transparent;
   padding: 0;
+}
+
+/* --- Half-title page --- */
+.half-title {
+  page-break-before: always;
+  page-break-after: always;
+  text-align: center;
+  padding-top: 42%;
+}
+.half-title h1 {
+  page-break-before: avoid;
+  font-size: 36pt;
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  margin: 0;
+  color: #2a2a2a;
+}
+
+/* --- Title page --- */
+.title-page {
+  page-break-before: always;
+  page-break-after: always;
+  text-align: center;
+  padding-top: 25%;
+}
+.title-page h1 {
+  page-break-before: avoid;
+  font-size: 42pt;
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  margin: 0 0 0.3em 0;
+  color: #2a2a2a;
+}
+.title-page h2 {
+  font-size: 13pt;
+  font-weight: 300;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #6a6a6a;
+  margin: 0.5em 0 4em 0;
+}
+.title-page h3 {
+  font-size: 14pt;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #3a3a3a;
+  margin: 0 0 1em 0;
+}
+.title-page p {
+  text-indent: 0;
+  font-size: 9.5pt;
+  color: #6a6a6a;
+  font-style: italic;
+  margin: 0;
+}
+
+/* --- Copyright page --- */
+.copyright-page {
+  page-break-before: always;
+  page-break-after: always;
+  padding-top: 25%;
+  font-size: 8.5pt;
+  line-height: 1.5;
+  color: #3a3a3a;
+  text-align: left;
+}
+.copyright-page p {
+  text-indent: 0;
+  margin: 0.6em 0;
+}
+.copyright-page p:first-child {
+  font-style: italic;
+  font-size: 10pt;
+  color: #5a5a5a;
+  margin-bottom: 1.5em;
+}
+
+/* --- Table of contents --- */
+.toc-page {
+  page-break-before: always;
+  page-break-after: always;
+  padding-top: 12%;
+}
+.toc-page h2 {
+  font-size: 18pt;
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  text-align: center;
+  margin: 0 0 3em 0;
+  color: #2a2a2a;
+  text-transform: uppercase;
+}
+.toc-page table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+.toc-page th {
+  display: none;
+}
+.toc-page td {
+  padding: 0.45em 0;
+  font-size: 11pt;
+  color: #3a3a3a;
+}
+.toc-page td:first-child {
+  width: 15%;
+  text-align: right;
+  padding-right: 1.2em;
+  color: #8a7a6a;
+  font-style: italic;
+}
+.toc-page td:last-child {
+  text-align: left;
+}
+.toc-page p {
+  text-align: center;
+  text-indent: 0;
+  font-size: 10pt;
+  color: #6a6a6a;
+  font-style: italic;
+  margin: 1.6em 0 0.3em 0;
 }
 
 /* --- Dedication --- */
