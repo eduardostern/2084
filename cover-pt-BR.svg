@@ -55,6 +55,13 @@
       <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
     </radialGradient>
 
+    <!-- Fade to the cover background at the bottom, so HTML typography sits on clean space -->
+    <linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0d1a" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#0a0d1a" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#0a0d1a" stop-opacity="1"/>
+    </linearGradient>
+
     <!-- A single Glyph shape, reused along the ceiling -->
     <symbol id="glyph-dot" viewBox="-6 -6 12 12">
       <circle cx="0" cy="0" r="3" fill="#d4a962"/>
@@ -294,30 +301,14 @@
     <circle cx="335" cy="948" r="1.1" fill="#f6cf86"/>
   </g>
 
-  <!-- Vignette over everything except text -->
+  <!-- Vignette over the illustration (text is now HTML overlay, not SVG) -->
   <rect width="800" height="1200" fill="url(#vignette)" pointer-events="none"/>
 
-  <!-- TYPOGRAPHY -->
-  <g font-family="Georgia, 'Times New Roman', serif">
-    <!-- Title -->
-    <text x="400" y="1060" text-anchor="middle"
-          fill="#ecdcb8" font-size="92" letter-spacing="22" font-weight="300">2084</text>
-    <!-- Thin rule under title -->
-    <line x1="330" y1="1078" x2="470" y2="1078" stroke="#6a5e48" stroke-width="0.8" opacity="0.7"/>
-    <!-- Subtitle -->
-    <text x="400" y="1105" text-anchor="middle"
-          fill="#a69a84" font-size="14" letter-spacing="8" opacity="0.85">DEPOIS DE ORWELL</text>
-  </g>
-
-  <!-- Handwritten margin note — the book's last line -->
-  <g font-family="'Segoe Script','Bradley Hand','Brush Script MT',cursive">
-    <text x="400" y="1153" text-anchor="middle"
-          fill="#c7b89e" font-size="22" font-style="italic" opacity="0.7">isto esteve aqui</text>
-  </g>
-
-  <!-- Author -->
-  <g font-family="Georgia, serif">
-    <text x="400" y="1188" text-anchor="middle"
-          fill="#7a6e5a" font-size="12" letter-spacing="4" opacity="0.75">EDUARDO H. STERN</text>
-  </g>
+  <!-- Bottom fade — stepped opacity so HTML typography sits on clean dark space -->
+  <rect x="0" y="870" width="800" height="20"  fill="#0a0d1a" opacity="0.15" pointer-events="none"/>
+  <rect x="0" y="890" width="800" height="20"  fill="#0a0d1a" opacity="0.35" pointer-events="none"/>
+  <rect x="0" y="910" width="800" height="20"  fill="#0a0d1a" opacity="0.55" pointer-events="none"/>
+  <rect x="0" y="930" width="800" height="20"  fill="#0a0d1a" opacity="0.75" pointer-events="none"/>
+  <rect x="0" y="950" width="800" height="20"  fill="#0a0d1a" opacity="0.90" pointer-events="none"/>
+  <rect x="0" y="970" width="800" height="230" fill="#0a0d1a" pointer-events="none"/>
 </svg>

@@ -77,15 +77,65 @@ body {
   width: 148mm;
   height: 210mm;
   background: #0a0d1a;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: relative;
   overflow: hidden;
 }
 .cover svg {
   width: 100%;
   height: 100%;
   display: block;
+}
+.cover .cover-typography {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.cover .cover-title {
+  font-size: 34pt;
+  font-weight: 300;
+  letter-spacing: 0.22em;
+  color: #ecdcb8;
+  padding-left: 0.22em;
+  margin: 0 0 0.1em 0;
+  line-height: 1;
+}
+.cover .cover-rule {
+  width: 22mm;
+  height: 0.5pt;
+  background: #6a5e48;
+  opacity: 0.7;
+  margin: 0 auto 0.5em auto;
+}
+.cover .cover-subtitle {
+  font-size: 8pt;
+  letter-spacing: 0.5em;
+  color: #a69a84;
+  padding-left: 0.5em;
+  text-transform: uppercase;
+  opacity: 0.85;
+  margin: 0 0 1.4em 0;
+  line-height: 1;
+}
+.cover .cover-note {
+  font-size: 12pt;
+  font-style: italic;
+  color: #c7b89e;
+  opacity: 0.75;
+  font-family: "Segoe Script", "Bradley Hand", "Brush Script MT", cursive, Georgia, serif;
+  margin: 0 0 0.9em 0;
+  line-height: 1;
+}
+.cover .cover-author {
+  font-size: 7.5pt;
+  letter-spacing: 0.32em;
+  padding-left: 0.32em;
+  color: #a89a82;
+  opacity: 0.85;
+  margin: 0 0 8mm 0;
+  line-height: 1;
 }
 
 /* --- Chapter headings --- */
@@ -400,11 +450,19 @@ build() {
     printf "\n\n" >> "$combined_md"
   done
 
-  # Pandoc markdown -> HTML body
+  # Pandoc markdown -> HTML fragment (NO --standalone: avoids duplicate title header)
   pandoc "$combined_md" -f markdown -t html5 \
-    --standalone \
-    --metadata title="$title" \
     -o "$BUILD/$lang-body.html"
+
+  # Cover typography strings (per language)
+  local cover_subtitle cover_note
+  if [ "$lang" = "pt-BR" ]; then
+    cover_subtitle="DEPOIS DE ORWELL"
+    cover_note="isto esteve aqui"
+  else
+    cover_subtitle="AFTER ORWELL"
+    cover_note="this was here"
+  fi
 
   # Compose final HTML: cover + body
   local final_html="$BUILD/$lang.html"
@@ -419,10 +477,15 @@ build() {
     echo '</head><body>'
     echo '<div class="cover">'
     cat "$cover_svg"
+    echo '  <div class="cover-typography">'
+    echo '    <div class="cover-title">2084</div>'
+    echo '    <div class="cover-rule"></div>'
+    echo "    <div class=\"cover-subtitle\">$cover_subtitle</div>"
+    echo "    <div class=\"cover-note\">$cover_note</div>"
+    echo '    <div class="cover-author">EDUARDO H. STERN</div>'
+    echo '  </div>'
     echo '</div>'
-    # Extract pandoc's body content
-    sed -n '/<body>/,/<\/body>/p' "$BUILD/$lang-body.html" \
-      | sed '1d;$d'
+    cat "$BUILD/$lang-body.html"
     echo '</body></html>'
   } > "$final_html"
 
