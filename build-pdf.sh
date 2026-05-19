@@ -2,457 +2,169 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-WEASYPRINT="/tmp/weasy-venv/bin/weasyprint"
+# ── WeasyPrint bootstrap ──────────────────────────────────────────────
+WEASYPRINT_VENV="${XDG_CACHE_HOME:-$HOME/.cache}/2084/weasy-venv"
+WEASYPRINT="$WEASYPRINT_VENV/bin/weasyprint"
+
+bootstrap_weasyprint() {
+  if [ -x "$WEASYPRINT" ]; then return; fi
+  # Check for a system-installed weasyprint as fallback
+  if command -v weasyprint &>/dev/null; then
+    WEASYPRINT="$(command -v weasyprint)"
+    return
+  fi
+  echo "→ WeasyPrint not found. Bootstrapping venv at $WEASYPRINT_VENV ..."
+  python3 -m venv "$WEASYPRINT_VENV"
+  "$WEASYPRINT_VENV/bin/pip" install --quiet weasyprint
+  echo "  WeasyPrint $( "$WEASYPRINT" --version 2>&1 ) installed."
+}
+bootstrap_weasyprint
+
+# ── Prerequisites ─────────────────────────────────────────────────────
+command -v pandoc &>/dev/null || {
+  echo "ERROR: pandoc is required. Install with: brew install pandoc" >&2
+  exit 1
+}
+[ -x "$WEASYPRINT" ] || {
+  echo "ERROR: WeasyPrint not found. Tried: $WEASYPRINT" >&2
+  exit 1
+}
+
 BUILD=/tmp/2084-build
+rm -rf "$BUILD"
 mkdir -p "$BUILD"
+LF=$'\n'
 
-# --- Shared CSS (WeasyPrint — full @page support) ---
-cat > "$BUILD/book.css" <<CSSEOF
-/* --- Page setup with margin boxes --- */
-@page {
-  size: 148mm 210mm;
-  margin: 20mm 18mm 22mm 18mm;
-  background-color: #f8f4ec;
-  background-image: url("illustrations/page-frame.svg");
-  background-size: 148mm 210mm;
-  background-position: center;
-  background-repeat: no-repeat;
+# ── CSS ───────────────────────────────────────────────────────────────
+cp book.css "$BUILD/book.css"
 
-  @bottom-center {
-    content: counter(page);
-    font-family: Georgia, serif;
-    font-size: 8pt;
-    color: #8a7a6a;
-  }
-}
-
-/* Cover page: no ornaments, no page number, no paper background */
-@page :first {
-  margin: 0;
-  background-color: transparent;
-  background-image: none;
-  @bottom-center { content: none; }
+# ── Helpers ───────────────────────────────────────────────────────────
+to_roman() {
+  local n=$1 r=""
+  while (( n >= 100 )); do r+="C"; (( n -= 100 )); done
+  if   (( n >= 90 ));  then r+="XC"; (( n -= 90 )); fi
+  while (( n >= 50 ));  do r+="L";  (( n -= 50 ));  done
+  if   (( n >= 40 ));  then r+="XL"; (( n -= 40 )); fi
+  while (( n >= 10 ));  do r+="X";  (( n -= 10 ));  done
+  if   (( n >= 9 ));   then r+="IX"; (( n -= 9 ));   fi
+  while (( n >= 5 ));   do r+="V";  (( n -= 5 ));   done
+  if   (( n >= 4 ));   then r+="IV"; (( n -= 4 ));   fi
+  while (( n >= 1 ));   do r+="I";  (( n -= 1 ));   done
+  echo "$r"
 }
 
-/* Named page for front matter: no page number, keep background & ornaments */
-@page frontmatter {
-  @bottom-center { content: none; }
-}
-@page backmatter {
-  @bottom-center { content: none; }
-}
-.half-title,
-.title-page,
-.copyright-page,
-.toc-page,
-.dedication,
-.epigraph {
-  page: frontmatter;
-}
-.colophon {
-  page: backmatter;
+# Extract "N|Title" from a chapter file (Chapter N: Title or Capítulo N: Title)
+extract_chapter_info() {
+  local file="$1"
+  local h
+  h=$(grep -m1 '^# \(Chapter\|Capítulo\) [0-9]\+:' "$file" 2>/dev/null || true)
+  if [ -n "$h" ]; then
+    local num title
+    num=$(echo "$h" | sed -E 's/^# (Chapter|Capítulo) ([0-9]+):.*/\2/')
+    title=$(echo "$h" | sed -E 's/^# (Chapter|Capítulo) [0-9]+: (.*)/\2/')
+    echo "${num}|${title}"
+  fi
 }
 
-/* --- Global styles --- */
-html, body {
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 10.5pt;
-  line-height: 1.55;
-  color: #1a1a1a;
-  text-align: justify;
-  hyphens: auto;
-  widows: 2;
-  orphans: 2;
+# Extract first h1 from a file (for backmatter entries)
+first_heading() {
+  grep -m1 '^# ' "$1" 2>/dev/null | sed 's/^# //' || true
 }
 
-/* --- Cover --- */
-.cover {
-  page-break-after: always;
-  margin: 0;
-  padding: 0;
-  width: 148mm;
-  height: 210mm;
-  background: #0a0d1a;
-  position: relative;
-  overflow: hidden;
-}
-.cover svg {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-.cover .cover-typography {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  font-family: Georgia, "Times New Roman", serif;
-}
-.cover .cover-title {
-  font-size: 34pt;
-  font-weight: 300;
-  letter-spacing: 0.22em;
-  color: #ecdcb8;
-  padding-left: 0.22em;
-  margin: 0 0 0.1em 0;
-  line-height: 1;
-}
-.cover .cover-rule {
-  width: 22mm;
-  height: 0.5pt;
-  background: #6a5e48;
-  opacity: 0.7;
-  margin: 0 auto 0.5em auto;
-}
-.cover .cover-subtitle {
-  font-size: 8pt;
-  letter-spacing: 0.5em;
-  color: #a69a84;
-  padding-left: 0.5em;
-  text-transform: uppercase;
-  opacity: 0.85;
-  margin: 0 0 1.4em 0;
-  line-height: 1;
-}
-.cover .cover-note {
-  font-size: 12pt;
-  font-style: italic;
-  color: #c7b89e;
-  opacity: 0.75;
-  font-family: "Segoe Script", "Bradley Hand", "Brush Script MT", cursive, Georgia, serif;
-  margin: 0 0 0.9em 0;
-  line-height: 1;
-}
-.cover .cover-author {
-  font-size: 7.5pt;
-  letter-spacing: 0.32em;
-  padding-left: 0.32em;
-  color: #a89a82;
-  opacity: 0.85;
-  margin: 0 0 8mm 0;
-  line-height: 1;
+# Generate TOC HTML
+generate_toc() {
+  local chapters_dir="$1" title="$2"
+  local toc_html=""
+
+  toc_html+='<div class="toc-page">'"$LF"
+  toc_html+="<h2>$title</h2>$LF"
+  toc_html+='<table>'"$LF"
+
+  local file num chap_title
+  for file in "$chapters_dir"/*.md; do
+    local info
+    info=$(extract_chapter_info "$file")
+    if [ -n "$info" ]; then
+      num="${info%%|*}"
+      chap_title="${info#*|}"
+      toc_html+="<tr><td>$(to_roman "$num").</td><td>$chap_title</td></tr>$LF"
+    fi
+  done
+
+  toc_html+='</table>'"$LF"
+
+  # Backmatter entries (afterword, about-author) — look for afterword first
+  local afterword_file about_file
+  afterword_file=$(echo "$chapters_dir"/98-a-*.md)
+  about_file=$(echo "$chapters_dir"/98-b-*.md)
+  if [ -f "$afterword_file" ]; then
+    toc_html+="<p>$(first_heading "$afterword_file")</p>$LF"
+  fi
+  if [ -f "$about_file" ]; then
+    toc_html+="<p>$(first_heading "$about_file")</p>$LF"
+  fi
+
+  toc_html+='</div>'
+  echo "$toc_html"
 }
 
-/* --- Chapter headings --- */
-h1 {
-  page-break-before: always;
-  font-weight: 300;
-  font-size: 20pt;
-  letter-spacing: 0.08em;
-  text-align: center;
-  margin-top: 4.5em;
-  margin-bottom: 2.5em;
-  color: #2a2a2a;
-}
-h1:first-of-type {
-  page-break-before: avoid;
-}
-
-/* --- Paragraphs --- */
-p {
-  margin: 0.45em 0;
-  text-indent: 1.5em;
-}
-p:first-of-type,
-h1 + p,
-pre + p,
-.section-break + p,
-blockquote + p {
-  text-indent: 0;
-}
-
-/* --- Section breaks --- */
-.section-break {
-  text-align: center;
-  margin: 1.4em 0;
-  text-indent: 0;
-  letter-spacing: 0.6em;
-  color: #7a7a7a;
-  font-size: 10pt;
-}
-
-em {
-  font-style: italic;
-}
-
-/* --- Continuum Record code blocks --- */
-pre {
-  font-family: "Courier New", "Courier", monospace;
-  font-size: 6.8pt;
-  line-height: 1.18;
-  white-space: pre;
-  background: #f0ece2;
-  border-left: 2px solid #c7b89e;
-  padding: 7pt 9pt;
-  margin: 1em 0 1.6em 0;
-  text-align: left;
-  hyphens: none;
-  overflow: hidden;
-  text-indent: 0;
-  page-break-inside: avoid;
-}
-code {
-  font-family: "Courier New", monospace;
-}
-pre code {
-  font-size: inherit;
-  background: transparent;
-  padding: 0;
-}
-
-/* --- Half-title page --- */
-.half-title {
-  page-break-before: always;
-  page-break-after: always;
-  text-align: center;
-  padding-top: 42%;
-}
-.half-title h1 {
-  page-break-before: avoid;
-  font-size: 36pt;
-  font-weight: 300;
-  letter-spacing: 0.15em;
-  margin: 0;
-  color: #2a2a2a;
-}
-
-/* --- Title page --- */
-.title-page {
-  page-break-before: always;
-  page-break-after: always;
-  text-align: center;
-  padding-top: 25%;
-}
-.title-page h1 {
-  page-break-before: avoid;
-  font-size: 42pt;
-  font-weight: 300;
-  letter-spacing: 0.15em;
-  margin: 0 0 0.3em 0;
-  color: #2a2a2a;
-}
-.title-page h2 {
-  font-size: 13pt;
-  font-weight: 300;
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
-  color: #6a6a6a;
-  margin: 0.5em 0 4em 0;
-}
-.title-page h3 {
-  font-size: 14pt;
-  font-weight: 400;
-  letter-spacing: 0.05em;
-  color: #3a3a3a;
-  margin: 0 0 1em 0;
-}
-.title-page p {
-  text-indent: 0;
-  font-size: 9.5pt;
-  color: #6a6a6a;
-  font-style: italic;
-  margin: 0;
-}
-
-/* --- Copyright page --- */
-.copyright-page {
-  page-break-before: always;
-  page-break-after: always;
-  padding-top: 25%;
-  font-size: 8.5pt;
-  line-height: 1.5;
-  color: #3a3a3a;
-  text-align: left;
-}
-.copyright-page p {
-  text-indent: 0;
-  margin: 0.6em 0;
-}
-.copyright-page p:first-child {
-  font-style: italic;
-  font-size: 10pt;
-  color: #5a5a5a;
-  margin-bottom: 1.5em;
-}
-
-/* --- Table of contents --- */
-.toc-page {
-  page-break-before: always;
-  page-break-after: always;
-  padding-top: 12%;
-}
-.toc-page h2 {
-  font-size: 18pt;
-  font-weight: 300;
-  letter-spacing: 0.15em;
-  text-align: center;
-  margin: 0 0 3em 0;
-  color: #2a2a2a;
-  text-transform: uppercase;
-}
-.toc-page table {
-  width: 80%;
-  margin: 0 auto;
-  border-collapse: collapse;
-}
-.toc-page th {
-  display: none;
-}
-.toc-page td {
-  padding: 0.45em 0;
-  font-size: 11pt;
-  color: #3a3a3a;
-}
-.toc-page td:first-child {
-  width: 15%;
-  text-align: right;
-  padding-right: 1.2em;
-  color: #8a7a6a;
-  font-style: italic;
-}
-.toc-page td:last-child {
-  text-align: left;
-}
-.toc-page p {
-  text-align: center;
-  text-indent: 0;
-  font-size: 10pt;
-  color: #6a6a6a;
-  font-style: italic;
-  margin: 1.6em 0 0.3em 0;
-}
-
-/* --- Dedication --- */
-.dedication,
-.colophon {
-  page-break-before: always;
-  page-break-after: always;
-  text-align: center;
-  font-style: italic;
-  color: #3a3a3a;
-  line-height: 1.8;
-}
-.dedication {
-  padding-top: 38%;
-  font-size: 11.5pt;
-}
-.colophon {
-  padding-top: 28%;
-  font-size: 10pt;
-  font-style: normal;
-  page-break-after: avoid;
-}
-.dedication p,
-.colophon p {
-  text-indent: 0;
-  margin: 0.7em 0;
-}
-.dedication em {
-  font-style: normal;
-}
-
-/* --- Book epigraph (Wall-E) --- */
-.epigraph {
-  page-break-before: always;
-  page-break-after: always;
-  text-align: center;
-  padding-top: 40%;
-  font-size: 11pt;
-  color: #3a3a3a;
-  line-height: 1.8;
-}
-.epigraph p {
-  text-indent: 0;
-  margin: 1em 0;
-}
-.epigraph p:last-child {
-  margin-top: 2.4em;
-  font-size: 9.5pt;
-  font-style: normal;
-  color: #5a5a5a;
-}
-
-/* --- Chapter illustrations --- */
-.chapter-illustration {
-  text-align: center;
-  margin: 0 auto 1.6em auto;
-  padding-top: 0.2em;
-}
-.chapter-illustration img {
-  width: 52mm;
-  height: auto;
-  opacity: 0.9;
-}
-h1 + .chapter-illustration {
-  margin-top: -1.2em;
-}
-
-/* --- Chapter epigraphs (literary quotes) --- */
-.chapter-epigraph {
-  text-align: center;
-  margin: 0 auto 1.8em auto;
-  max-width: 82%;
-  font-size: 9.5pt;
-  color: #4a4a4a;
-  line-height: 1.45;
-}
-.chapter-epigraph p {
-  text-indent: 0;
-  margin: 0.15em 0;
-}
-.chapter-epigraph em {
-  font-style: italic;
-}
-.chapter-epigraph p:last-child {
-  margin-top: 0.8em;
-  font-size: 8.5pt;
-  color: #6a6a6a;
-  font-style: normal;
-}
-.chapter-epigraph p:last-child em {
-  font-style: italic;
-}
-.chapter-epigraph .epigraph-translation {
-  margin-top: 0.45em;
-  font-size: 8.8pt;
-  color: #5a5a5a;
-}
-CSSEOF
-
-# --- Build function ---
-build() {
-  local lang="$1"
-  local chapters_dir="$2"
-  local cover_svg="$3"
-  local out_pdf="$4"
-  local title="$5"
-
-  echo "Building $out_pdf ..."
-
-  # Copy illustrations next to HTML so <img src="illustrations/NN.svg"> resolves
-  rm -rf "$BUILD/illustrations"
-  cp -R "$(pwd)/illustrations" "$BUILD/illustrations"
-
-  local combined_md="$BUILD/book-$lang.md"
-  : > "$combined_md"
-
-  # Concatenate chapters, replacing stand-alone * section breaks
-  for ch in "$chapters_dir"/*.md; do
+# Convert markdown files to HTML via pandoc
+pandoc_md_to_html() {
+  local out="$1"; shift
+  local combined="$BUILD/pandoc-in.md"
+  : > "$combined"
+  local f
+  for f in "$@"; do
     awk '
       /^\*$/ { print "<div class=\"section-break\">✦</div>"; next }
       { print }
-    ' "$ch" >> "$combined_md"
-    printf "\n\n" >> "$combined_md"
+    ' "$f" >> "$combined"
+    printf "\n\n" >> "$combined"
+  done
+  pandoc "$combined" -f markdown -t html5 -o "$out"
+}
+
+# ── Build function ────────────────────────────────────────────────────
+build() {
+  local lang="$1" chapters_dir="$2" cover_svg="$3" out_pdf="$4" title="$5" toc_title="$6"
+
+  echo "Building $out_pdf ..."
+
+  # Collect chapter files sorted, excluding the static TOC file
+  local all_files frontmatter_files chapter_files
+  all_files=()
+  local f
+  while IFS= read -r -d '' f; do
+    all_files+=("$f")
+  done < <(find "$chapters_dir" -maxdepth 1 -name '*.md' -print0 | sort -z)
+
+  frontmatter_files=()
+  chapter_files=()
+  for f in "${all_files[@]}"; do
+    local bn
+    bn=$(basename "$f")
+    # Skip the old static TOC file — we generate it dynamically
+    [[ "$bn" == 00-f-toc.md ]] && continue
+    if [[ "$bn" == 00-* ]]; then
+      frontmatter_files+=("$f")
+    else
+      chapter_files+=("$f")
+    fi
   done
 
-  # Pandoc markdown -> HTML fragment (NO --standalone: avoids duplicate title header)
-  pandoc "$combined_md" -f markdown -t html5 \
-    -o "$BUILD/$lang-body.html"
+  # Generate TOC HTML from chapter headings
+  local toc_html
+  toc_html=$(generate_toc "$chapters_dir" "$toc_title")
+
+  # Pandoc pass 1: frontmatter
+  pandoc_md_to_html "$BUILD/${lang}-frontmatter.html" "${frontmatter_files[@]}"
+
+  # Pandoc pass 2: chapters + backmatter
+  pandoc_md_to_html "$BUILD/${lang}-body.html" "${chapter_files[@]}"
+
+  # Copy illustrations next to HTML so <img src="illustrations/NN.svg"> resolves
+  rm -rf "$BUILD/illustrations"
+  cp -R "illustrations" "$BUILD/illustrations"
 
   # Cover typography strings (per language)
   local cover_subtitle cover_note
@@ -464,17 +176,18 @@ build() {
     cover_note="this was here"
   fi
 
-  # Compose final HTML: cover + body
+  # Compose final HTML
   local final_html="$BUILD/$lang.html"
   {
     echo '<!DOCTYPE html>'
-    echo '<html lang="'"$lang"'">'
+    echo "<html lang=\"$lang\">"
     echo '<head><meta charset="utf-8"/>'
     echo "<title>$title</title>"
     echo '<style>'
     cat "$BUILD/book.css"
     echo '</style>'
     echo '</head><body>'
+    # Cover
     echo '<div class="cover">'
     cat "$cover_svg"
     echo '  <div class="cover-typography">'
@@ -485,7 +198,12 @@ build() {
     echo '    <div class="cover-author">EDUARDO H. STERN</div>'
     echo '  </div>'
     echo '</div>'
-    cat "$BUILD/$lang-body.html"
+    # Frontmatter (half-title, title page, copyright, dedication, epigraph)
+    cat "$BUILD/${lang}-frontmatter.html"
+    # Generated TOC
+    echo "$toc_html"
+    # Chapters + backmatter
+    cat "$BUILD/${lang}-body.html"
     echo '</body></html>'
   } > "$final_html"
 
@@ -495,8 +213,9 @@ build() {
   echo "  → $out_pdf ($(du -h "$out_pdf" | cut -f1))"
 }
 
-build "en"    "chapters"        "cover.svg"       "$(pwd)/2084.pdf"       "2084"
-build "pt-BR" "chapters-pt-BR"  "cover-pt-BR.svg" "$(pwd)/2084-pt-BR.pdf" "2084"
+# ── Run ───────────────────────────────────────────────────────────────
+build "en"    "chapters"        "cover.svg"       "2084.pdf"       "2084"             "Contents"
+build "pt-BR" "chapters-pt-BR"  "cover-pt-BR.svg" "2084-pt-BR.pdf" "2084"             "Sumário"
 
 echo ""
 echo "Done."

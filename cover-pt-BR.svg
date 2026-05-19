@@ -304,11 +304,6 @@
   <!-- Vignette over the illustration (text is now HTML overlay, not SVG) -->
   <rect width="800" height="1200" fill="url(#vignette)" pointer-events="none"/>
 
-  <!-- Bottom fade — stepped opacity so HTML typography sits on clean dark space -->
-  <rect x="0" y="870" width="800" height="20"  fill="#0a0d1a" opacity="0.15" pointer-events="none"/>
-  <rect x="0" y="890" width="800" height="20"  fill="#0a0d1a" opacity="0.35" pointer-events="none"/>
-  <rect x="0" y="910" width="800" height="20"  fill="#0a0d1a" opacity="0.55" pointer-events="none"/>
-  <rect x="0" y="930" width="800" height="20"  fill="#0a0d1a" opacity="0.75" pointer-events="none"/>
-  <rect x="0" y="950" width="800" height="20"  fill="#0a0d1a" opacity="0.90" pointer-events="none"/>
-  <rect x="0" y="970" width="800" height="230" fill="#0a0d1a" pointer-events="none"/>
+  <!-- Bottom fade is now handled by CSS .cover::after gradient.
+       This SVG delivers only the artwork; the overlay is in book.css. -->
 </svg>
