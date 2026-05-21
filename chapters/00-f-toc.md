@@ -16,9 +16,7 @@
 | X. | The Question |
 | XI. | Natural Completion |
 | XII. | 2085 |
-
-Afterword — A Note on Psychography
-
-About the Author
+|  | Afterword — A Note on Psychography |
+|  | About the Author |
 
 </div>

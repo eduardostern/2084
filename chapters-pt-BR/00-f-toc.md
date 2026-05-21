@@ -16,9 +16,7 @@
 | X. | A Questão |
 | XI. | Conclusão Natural |
 | XII. | 2085 |
-
-Posfácio — Uma Nota sobre a Psicografia
-
-Sobre o Autor
+|  | Posfácio — Uma Nota sobre a Psicografia |
+|  | Sobre o Autor |
 
 </div>
