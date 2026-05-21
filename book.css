@@ -305,15 +305,15 @@ pre code {
 /* --- Table of contents --- */
 .toc-page {
   page-break-before: always;
-  page-break-after: always;
-  padding-top: 12%;
+  page-break-after: avoid;
+  padding-top: 8%;
 }
 .toc-page h2 {
   font-size: 18pt;
   font-weight: 300;
   letter-spacing: 0.15em;
   text-align: center;
-  margin: 0 0 3em 0;
+  margin: 0 0 1.5em 0;
   color: #2a2a2a;
   text-transform: uppercase;
 }
@@ -326,7 +326,7 @@ pre code {
   display: none;
 }
 .toc-page td {
-  padding: 0.45em 0;
+  padding: 0.22em 0;
   font-size: 11pt;
   color: #3a3a3a;
 }
@@ -346,7 +346,7 @@ pre code {
   font-size: 10pt;
   color: #6a6a6a;
   font-style: italic;
-  margin: 1.6em 0 0.3em 0;
+  margin: 0.8em 0 0.2em 0;
 }
 
 /* --- Dedication --- */
