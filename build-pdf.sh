@@ -91,20 +91,18 @@ generate_toc() {
     fi
   done
 
-  toc_html+='</table>'"$LF"
-
-  # Backmatter entries (afterword, about-author) — look for afterword first
+  # Backmatter entries inside the same table (keeps TOC on one page)
   local afterword_file about_file
   afterword_file=$(echo "$chapters_dir"/98-a-*.md)
   about_file=$(echo "$chapters_dir"/98-b-*.md)
   if [ -f "$afterword_file" ]; then
-    toc_html+="<p>$(first_heading "$afterword_file")</p>$LF"
+    toc_html+="<tr><td></td><td>$(first_heading "$afterword_file")</td></tr>$LF"
   fi
   if [ -f "$about_file" ]; then
-    toc_html+="<p>$(first_heading "$about_file")</p>$LF"
+    toc_html+="<tr><td></td><td>$(first_heading "$about_file")</td></tr>$LF"
   fi
 
-  toc_html+='</div>'
+  toc_html+='</table></div>'
   echo "$toc_html"
 }
 
